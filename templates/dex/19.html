@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}19 - Rattata{% endblock %}
+{% block content %}
+<div class="content-block">
+    <h1> 19 - Rattata </h1>
+    <table>
+        <tr>
+          <th>Classification</th>
+          <th>Height</th>
+          <th>Weight</th>
+          <th>Capture Rate</th>
+          <th>Egg Steps</th>
+        </tr>
+        <tr>
+            <td>Mouse Pok&eacute;mon</td>
+            <td>1'00"</td>
+            <td>7.7 lbs</td>
+            <td>255</td>
+            <td>3,840</td>
+        </tr>
+    </table>
+    
+    <div class="image-container">
+        <img src="{{ url_for('static', filename='img/sprites/front/19.png') }}" alt="rattata front">
+        <img src="{{ url_for('static', filename='img/sprites/female/19.png') }}" alt="rattata female front">
+        <img src="{{ url_for('static', filename='img/sprites/back/19.png') }}" alt="rattata back">
+        <img src="{{ url_for('static', filename='img/sprites/shiny/19.png') }}" alt="rattata front">
+    </div>
+    
+    <p><img src="{{ url_for('static', filename='img/hg.png') }}"/> "It eats anything. Wherever food is available, it will settle down and produce offspring continuously." </p>
+    <p><img src="{{ url_for('static', filename='img/ss.png') }}"/> "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day." </p>
+
+</div>
+{% endblock %}

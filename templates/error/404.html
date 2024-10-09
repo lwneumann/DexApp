@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Page Not Found{% endblock %}
+{% block content %}
+    <center>
+        <img src="{{url_for('static', filename='img/404img.png')}}" style="max-width: 100%;" />
+    </center>
+    <center>
+        <h1>Page Not Found</h1>
+        <p>What you were looking for is not there. <br />
+        <a href="{{ url_for('index') }}"> <i class="arrow right"></i> Go somewhere nice <i class="arrow left"></i> </a></p>
+    </center>
+{% endblock %}

@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Events{% endblock %}
+{% block content %}
+<div class="content-block">
+    <!-- Daily Table -->
+    <h1>{{date}} Events</h1>
+    <table>
+        <tr>
+            <th> Time </th>    
+            <th> Event </th>
+            <th> Description </th>
+        </tr>
+        {% for item in today_events %}
+            <tr>
+                <td> {{item[0]}} </td>
+                <td> {{item[1]}} </td>
+                <td> {{item[2]}} </td>
+            </tr>
+        {% endfor %}
+    </table>
+    <!-- Rematch Table -->
+
+    <!-- Fixed table -->
+    <table>
+        <tr>
+            <th>Day</th>
+            <th>Event</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+    <h1>All Weekly Events</h1>
+</div>
+{% endblock %}

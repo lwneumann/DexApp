@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ mon }} - {{ entry["name"] }}{% endblock %}
+{% block content %}
+<div class="content-block">
+    <h1>{{ mon }} - {{ entry["name"] }} </h1>
+    <img src="{{ url_for('static', filename=img_path) }}" style="max-width: 100%;" />
+    <ul id="navigation">
+        <li><p> <img src="{{ url_for('static', filename='img/hg.png') }}"/> {{entry["flavor_text"][0]}} </p></li>
+        <li><p> <img src="{{ url_for('static', filename='img/ss.png') }}"/> {{entry["flavor_text"][1]}} </p></li>
+    </ul>
+</div>
+{% endblock %}
