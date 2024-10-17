@@ -60,12 +60,33 @@
         });
     </script>
 
+    <!-- ------ Buttons ------ -->
     <!-- Home Button -->
     <a href="{{ url_for('index') }}">
-        <img src="{{ url_for('static', filename='img/home.png') }}"
+        <img src="{{ url_for('static', filename='img/buttons/home.png') }}"
         alt="Home"
-        style="position:absolute; top: 70px; left: 10px;
-        width: 5%; height: auto; border-radius: 15px; 
+        style="position:absolute; top: 65px; left: 10px;
+        width: auto; height: 10vh; border-radius: 15px; 
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
+        border: 2px solid black;
+        cursor: pointer;">
+    </a>
+    <!-- Events Button -->
+    <a href="{{ url_for('events') }}">
+        <img src="{{ url_for('static', filename='img/buttons/events.png') }}"
+        alt="Home"
+        style="position:absolute; top: calc(75px + 10vh); left: 10px;
+        width: auto; height: 10vh; border-radius: 15px; 
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
+        border: 2px solid black;
+        cursor: pointer;">
+    </a>
+    <!-- Book Button -->
+    <a href="{{ url_for('view_book') }}">
+        <img src="{{ url_for('static', filename='img/buttons/book.png') }}"
+        alt="Home"
+        style="position:absolute; top: calc(85px + 20vh); left: 10px;
+        width: auto; height: 10vh; border-radius: 15px; 
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
         border: 2px solid black;
         cursor: pointer;">

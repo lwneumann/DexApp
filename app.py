@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect
-import rotom
+import calendar, rotom
 
 
 # Setup
@@ -30,7 +30,7 @@ def view_book():
 
 @app.route('/events/')
 def events():
-    return "events"
+    return render_template('events.html')
 
 @app.route('/dex/', methods=['GET', 'POST'])
 def dex_home():
@@ -65,9 +65,9 @@ def utility_processor():
     def get_navigation():
         nav = [
             (url_for('dex_home'), "Pokedex Home"),
-            (url_for('view_book'), "View Book"),
-            (url_for('events'), 'Daily Events')
+            (url_for('events'), 'Daily Events'),
+            (url_for('view_book'), "View Book")
         ]
         return nav
 
-    return dict(get_navigation=get_navigation)
+    return dict(get_navigation=get_navigation, get_today=calendar.get_today)
