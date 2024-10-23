@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect
-import calendar, rotom
+import calendar, rotomJr
 
 
 # Setup
@@ -19,9 +19,6 @@ def handle_form_submission():
 @app.route('/')
 def index():
     return render_template('index.html')
-    nav = get_navigation()
-    return render_template('index.html', navigation=nav)
-    #return render_template('base.html')
 
 @app.route('/viewbook/')
 def view_book():
@@ -42,7 +39,7 @@ def mon_page(mon):
     if str(mon).isdigit() and 0 < int(mon) < 494:
         if mon == 19:
             return render_template('dex/19.html')
-        entry = rotom.get_mon(mon)
+        entry = rotomJr.get_mon(mon)
         img_path = f'img/sprites/front/{mon}.png'
         return render_template('dexpage.html', img_path=img_path, mon=mon, entry=entry)
     else:
