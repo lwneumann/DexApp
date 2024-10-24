@@ -19,6 +19,18 @@ body {
     padding: 20px;
 }
 
+/* Dex Blocks */
+.dexblock {
+    width: 48%;
+    border: 1px solid black;
+    /*
+    padding: 5px;
+    margin: 2.5 auto;
+    overflow-wrap: break-word; 
+    word-break: break-all;
+    */
+}
+
 /* Arrows */
 .arrow {
     border: solid black;
@@ -80,6 +92,13 @@ a {
     */
 }
 
+/* Search */
+/*
+.search_bar{
+}
+*/
+
+/* Circle */
 .circle-container {
     display: flex;
     flex-direction: column;

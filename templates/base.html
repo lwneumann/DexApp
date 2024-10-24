@@ -9,94 +9,73 @@
 </head>
 <body>
     <!-- ------ Buttons ------ -->
-    <!-- Home Button -->
-    <a href="{{ url_for('index') }}">
-        <img src="{{ url_for('static', filename='img/buttons/home.png') }}"
-        alt="Home"
-        style="position:absolute; top: 10px; left: 10px;
-        width: auto; height: 10vh; border-radius: 15px; 
-        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
-        border: 2px solid black;
-        cursor: pointer;">
-    </a>
-    <!-- Events Button -->
-    <a href="{{ url_for('events') }}">
-        <img src="{{ url_for('static', filename='img/buttons/events.png') }}"
-        alt="Home"
-        style="position:absolute; top: calc(20px + 10vh); left: 10px;
-        width: auto; height: 10vh; border-radius: 15px; 
-        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
-        border: 2px solid black;
-        cursor: pointer;">
-    </a>
-    <!-- Book Button -->
-    <a href="{{ url_for('view_book') }}">
-        <img src="{{ url_for('static', filename='img/buttons/book.png') }}"
-        alt="Home"
-        style="position:absolute; top: calc(30px + 20vh); left: 10px;
-        width: auto; height: 10vh; border-radius: 15px; 
-        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
-        border: 2px solid black;
-        cursor: pointer;">
-    </a>
-
-
-    <!-- Search Bar -->
-    <form method="POST" style="position: absolute; top: 10px; right: calc(15% + 10px);"> 
-        <input type="number" id="dexInput" name="dexInput" style="width:40px; height:15px; background-color:#c2ffd1; resize:none; border:none; outline:none; padding:5px;" />
-        <input type="submit" value="Search"> 
-    </form>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; position: absolute; top: 10px; left: 10px;">
+        <!-- Home Button -->
+        <a href="{{ url_for('index') }}">
+            <img src="{{ url_for('static', filename='img/buttons/home.png') }}"
+                 alt="Home"
+                 style="width: 6vw; border-radius: 15px; 
+                 box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
+                 border: 2px solid black;
+                 cursor: pointer;">
+        </a>
+        <!-- Events Button -->
+        <a href="{{ url_for('events') }}">
+            <img src="{{ url_for('static', filename='img/buttons/events.png') }}"
+                 alt="Events"
+                 style="width: 6vw; border-radius: 15px; 
+                 box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
+                 border: 2px solid black;
+                 cursor: pointer;">
+        </a>
+        <!-- Book Button -->
+        <a href="{{ url_for('view_book') }}">
+            <img src="{{ url_for('static', filename='img/buttons/book.png') }}"
+                 alt="Book"
+                 style="width: 6vw; border-radius: 15px; 
+                 box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); 
+                 border: 2px solid black;
+                 cursor: pointer;">
+        </a>
+    </div>
     
-    <style>
-        /* Hide the spinner buttons */
-        input[type="number"]::-webkit-outer-spin-button,
-        input[type="number"]::-webkit-inner-spin-button {
-            -webkit-appearance: none;
-            margin: 0;
-        }
-
-        /* For Firefox */
-        input[type="number"] {
-            -moz-appearance: textfield;
-            appearance: textfield;
-        }
-    </style>
-
-    <script>
-        // Disable number input scroll and spinners
-        document.getElementById('numInput').addEventListener('keydown', function(e) {
-            if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
-                e.preventDefault();
+    <!-- Search Bar -->
+     <div class="search_bar">
+         <form method="POST" style="position: absolute; top: 10px; right: calc(10px);"> 
+             <input type="number" id="dexInput" name="dexInput" style="width:40px; height:15px; background-color:#c2ffd1; resize:none; border:none; outline:none; padding:5px;" />
+             <input type="submit" value="Search"> 
+            </form>
+            
+        <style>
+            /* Hide the spinner buttons */
+            input[type="number"]::-webkit-outer-spin-button,
+            input[type="number"]::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
             }
-        });
+            
+            /* For Firefox */
+            input[type="number"] {
+                -moz-appearance: textfield;
+                appearance: textfield;
+            }
+        </style>
 
-        // Hide spinner buttons
-        document.getElementById('numInput').addEventListener('mousewheel', function(e) {
-            e.preventDefault();
-        });
-    </script>
+        <script>
+            // Disable number input scroll and spinners
+            document.getElementById('numInput').addEventListener('keydown', function(e) {
+                if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+                    e.preventDefault();
+                }
+            });
 
-    <!-- Left Side Bar
-    - Home Button
-    - Navigation 
-    <div class="sidebar" style="position: relative;">
-        <div style="position: absolute; left: 10px; top: calc(60px + 5vw); 
-                    background-color: hsla(122, 15%, 60%, 0.908);
-                    padding: 10px;
-                    border-radius: 10px;
-                    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-                    width: 11.5vw;
-                    z-index: 1;">
-                    <h2>Pages</h2>
-                    <ul id="navigation">
-                        {% set navigation = get_navigation() %}
-                        {% for item in navigation %}
-                        <li><a href="{{ item[0] }}">{{ item[1] }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-    -->
+            // Hide spinner buttons
+            document.getElementById('numInput').addEventListener('mousewheel', function(e) {
+                e.preventDefault();
+            });
+        </script>
+    </div>
+
     <div class="sidebar"></div>
 
     <div class="content">

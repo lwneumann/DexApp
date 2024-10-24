@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="content-block">
+    
+    <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+    <!-- Left Block -->
+        <div class="dexblock">
+            <h1> {% block name %}{% endblock %} </h1>
+            
+            {% block images %}
+                <div class="image-container">
+                    <img src="{{ url_for('static', filename='img/sprites/front/' + number + '.png') }}" alt="pokemon front">
+                    <img src="{{ url_for('static', filename='img/sprites/shiny/' + number + '.png') }}" alt="pokemon shiny front">
+                    <img src="{{ url_for('static', filename='img/sprites/back/' + number + '.png') }}" alt="pokemon back">
+                    <img src="{{ url_for('static', filename='img/sprites/back/shiny/' + number + '.png') }}" alt="pokemon shiny back">
+                </div>
+
+                {% if has_female_sprites %}
+                <div class="image-container">
+                    <img src="{{ url_for('static', filename='img/sprites/female/' + number + '.png') }}" alt="pokemon female front">
+                    <img src="{{ url_for('static', filename='img/sprites/shiny/female/' + number + '.png') }}" alt="pokemon shiny female front">
+                    <img src="{{ url_for('static', filename='img/sprites/back/female/' + number + '.png') }}" alt="pokemon female back">
+                    <img src="{{ url_for('static', filename='img/sprites/back/shiny/female/' + number + '.png') }}" alt="pokemon shiny female back">
+                </div>
+                {% endif %}
+            {% endblock %}    
+
+        <p><img src="{{ url_for('static', filename='img/hg.png') }}"/> {% block flavor_1 %}{% endblock %} </p>
+        <p><img src="{{ url_for('static', filename='img/ss.png') }}"/> {% block flavor_2 %}{% endblock %} </p>
+        </div>
+
+        <!-- Right Block -->
+        <div class="dexblock" style="right: calc(15% + 20px);">
+            <table>
+                <tr>
+                    <th>Classification</th>
+                    <td>{% block p_classification %}{% endblock %} Pok&eacute;mon</td>
+                </tr>
+                <tr>
+                    <th>Height</th>
+                    <td>{% block p_height %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Weight</th>
+                    <td>{% block p_weight %}{% endblock %} lbs</td>
+                </tr>
+                <tr>
+                    <th>Capture Rate</th>
+                    <td>{% block p_capture_rate %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Egg Steps</th>
+                    <td>{% block p_egg_steps %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Egg Groups</th>
+                    <td>{% block p_egg_groups %}{% endblock %}</td>
+                </tr>
+            </table>
+            <p></p>
+            <table>
+                <tr>
+                    <th>Held Item</th>
+                    <th>Chance</th>
+                </tr>
+                {% block held_item %}
+                {% for item in held_items %}
+                    <tr>
+                        <td> {{item[0]}} </td>
+                        <td> {{item[1]}}% </td>
+                    </tr>
+                {% endfor %}
+                {% endblock %}
+            </table>
+
+        </div>
+    </div>
+
+    <!-- Below Split -->
+    <div>
+        <p>This is example text placed below the two divs.</p>
+    </div>
+</div>
+{% endblock %}
