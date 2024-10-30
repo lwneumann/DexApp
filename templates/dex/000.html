@@ -9,14 +9,18 @@
             
             {% block images %}
                 <div class="image-container">
+                    {% if has_female_sprites %}
+                    <h4>Male Sprites</h4>
+                    {% endif %}
                     <img src="{{ url_for('static', filename='img/sprites/front/' + number + '.png') }}" alt="pokemon front">
                     <img src="{{ url_for('static', filename='img/sprites/shiny/' + number + '.png') }}" alt="pokemon shiny front">
                     <img src="{{ url_for('static', filename='img/sprites/back/' + number + '.png') }}" alt="pokemon back">
                     <img src="{{ url_for('static', filename='img/sprites/back/shiny/' + number + '.png') }}" alt="pokemon shiny back">
                 </div>
-
+                
                 {% if has_female_sprites %}
                 <div class="image-container">
+                    <h4>Female Sprites</h4>
                     <img src="{{ url_for('static', filename='img/sprites/female/' + number + '.png') }}" alt="pokemon female front">
                     <img src="{{ url_for('static', filename='img/sprites/shiny/female/' + number + '.png') }}" alt="pokemon shiny female front">
                     <img src="{{ url_for('static', filename='img/sprites/back/female/' + number + '.png') }}" alt="pokemon female back">
@@ -78,7 +82,34 @@
 
     <!-- Below Split -->
     <div>
-        <p>This is example text placed below the two divs.</p>
+        <table class="damageTable">
+            <tr>
+                <th><img src="{{ url_for('static', filename='img/types/normal.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/fire.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/water.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/electric.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/grass.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/ice.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/fighting.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/poison.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/ground.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/flying.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/psychic.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/bug.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/rock.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/ghost.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/dragon.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/dark.png') }}"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/steel.png') }}"/></th>
+            </tr>
+            {% block damages %}
+            <tr>
+            {% for item in damage %}
+                    <td> {{item}} </td>
+            {% endfor %}
+            </tr>
+            {% endblock %}
+        </table>
     </div>
 </div>
 {% endblock %}

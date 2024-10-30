@@ -22,13 +22,6 @@ body {
 /* Dex Blocks */
 .dexblock {
     width: 48%;
-    border: 1px solid black;
-    /*
-    padding: 5px;
-    margin: 2.5 auto;
-    overflow-wrap: break-word; 
-    word-break: break-all;
-    */
 }
 
 /* Arrows */
@@ -66,6 +59,17 @@ th {
 tr:nth-child(odd) {
     background-color: #789b83;
 }
+.damageTable {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.damageTable th, .damageTable td {
+    border: none;
+    background-color: #7e9a7e;
+    text-align: center;
+}
+
 
 /* Text */
 h1 {
@@ -92,16 +96,11 @@ a {
     */
 }
 
-/* Search */
-/*
-.search_bar{
-}
-*/
-
-/* Circle */
+/* Circle
 .circle-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
 }
+*/
