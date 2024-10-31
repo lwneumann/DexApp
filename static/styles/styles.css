@@ -59,16 +59,47 @@ th {
 tr:nth-child(odd) {
     background-color: #789b83;
 }
-.damageTable {
+.plainTable {
+    border-collapse:separate;
     border: none;
-    border-radius: 10px;
-    overflow: hidden;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
-.damageTable th, .damageTable td {
-    border: none;
-    background-color: #7e9a7e;
+.plainTable th, .plainTable td {
     text-align: center;
 }
+/* Stats Table */
+.stats-table {
+    background-color: #7e9a7e;
+}
+.stats-table .stat-header{
+    text-align: center;
+    width: 7%
+}
+.stats-table .stat-name {
+    text-align: right;
+}
+.stats-table .stat-range {
+    width: 20%;
+    text-align: center;
+}
+.stat-bar-container {
+    /* Leaving space in <td> for stat */
+    width: 100%;
+    border-radius: 2px;
+}
+.stat-bar {
+    height: 20px;
+    border: solid black 1px;
+    border-radius: 3px;
+}
+.stat-bar.hp { background-color: #4caf50; }
+.stat-bar.att { background-color: #c82a2a; }
+.stat-bar.def { background-color: #fbb730; }
+.stat-bar.spatt { background-color: #e436f4; }
+.stat-bar.spdef { background-color: #5bc6ff; }
+.stat-bar.spd { background-color: #f8ff3a; }
 
 
 /* Text */

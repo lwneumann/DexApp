@@ -62,7 +62,15 @@
                 </tr>
                 <tr>
                     <th>Experience Growth</th>
-                    <td> {% block exp_growth %}{% endblock %} </td>
+                    <td>{% block exp_growth %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Safari Zone Flee Rate</th>
+                    <td>{% block safarizone %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Color</th>
+                    <td>{% block color %}{% endblock %}</td>
                 </tr>
             </table>
             <p></p>
@@ -87,7 +95,7 @@
     <!-- Below Split -->
     <div>
         <!-- Damage -->
-        <table class="damageTable">
+        <table class="plainTable">
             <tr>
                 <th><img src="{{ url_for('static', filename='img/types/normal.png') }}"/></th>
                 <th><img src="{{ url_for('static', filename='img/types/fire.png') }}"/></th>
@@ -111,6 +119,69 @@
             <tr>
             {% for item in damage %}
                     <td> {{item}} </td>
+            {% endfor %}
+            </tr>
+            {% endblock %}
+        </table>
+
+        <!-- Stats
+        30, 56, 35, 25, 35, 72
+        --> 
+        <table class="stats-table">
+            <tr>
+                <th class="stat-header" rowspan="2">Stat</th>
+                <th rowspan="2">Base</th>
+                <th class="stat-range" colspan="2">Range</th>
+            </tr>
+            <tr>
+                <th>At Lv. 50</th>
+                <th>At Lv. 100</th>
+            </tr>
+            <tr>
+                <td class="stat-name">HP:</td>
+                <td>
+                    <div class="stat-bar-container">
+                        <div class="stat-bar hp" style="width: 12%;">
+                        &nbsp; 30
+                        </div>
+                    </div>
+                </td>
+                <td>90 - 137</td>
+                <td>170 - 264</td>
+            </tr>
+            <tr>
+                <td class="stat-name">Attack:</td>
+                <td>
+                    <div class="stat-bar-container">
+                        <div class="stat-bar att" style="width: 22%;">
+                        &nbsp; 56
+                        </div>
+                    </div>
+                </td>
+                <td>54 - 97</td>
+                <td>105 - 189</td>
+            </tr>
+            <tr>
+                <td>Total:</td>
+                <td>253</td>
+                <td colspan="2"></td>
+            </tr>
+        </table>
+
+        <!-- EVs -->
+        <table class="plainTable">
+            <tr>
+                <th>HP</th>
+                <th>Att.</th>
+                <th>Def.</th>
+                <th>Sp.Att.</th>
+                <th>Sp.Def.</th>
+                <th>Speed</th>
+            </tr>
+            {% block ev %}
+            <tr>
+            {% for item in ev_spread %}
+                <td> {{item[0]}} </td>
             {% endfor %}
             </tr>
             {% endblock %}

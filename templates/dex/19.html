@@ -4,7 +4,7 @@
 {% set number = "19" %}
 {% set name = "Rattata" %}
 {% block title %}{{number}} - {{name}}{% endblock %}
-{% block name %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (コラッタ) {% endblock %}
 
 <!-- Images -->
 {% set has_female_sprites = True %}
@@ -42,7 +42,12 @@ Ground
 {% block exp_growth %}
 1,000,000 - Medium Fast
 {% endblock %}
-
+{% block safarizone %}
+120
+{% endblock %}
+{% block color %}
+Purple
+{% endblock %}
 
 <!-- Held Item -->
 {% set held_items = [["Chilan Berry", 5]] %}
@@ -53,5 +58,11 @@ Ground
 <!-- Damage -->
 {% set damage = ["1","1","1","1","1","1","2","1","1","1","1","1","1","0","1","1","1"] %}
 {% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ["0","0","0","0","0","1"] %}
+{% block ev %}
     {{ super() }}
 {% endblock %}
