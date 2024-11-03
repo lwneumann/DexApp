@@ -1,4 +1,7 @@
 /* Main Body */
+html {
+    overscroll-behavior: none;
+}
 body {
     display: flex;
     margin: 0;
