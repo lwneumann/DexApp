@@ -125,7 +125,7 @@
         </table>
 
         <!-- Stats
-        30, 56, 35, 25, 35, 72
+        Not sure why the bars throw errors but the code works anyway soo....
         --> 
         <table class="stats-table">
             <tr>
@@ -139,27 +139,87 @@
             </tr>
             <tr>
                 <td class="stat-name">HP:</td>
+                {% block stat_hp %}
                 <td>
                     <div class="stat-bar-container">
-                        <div class="stat-bar hp" style="width: 12%;">
-                        &nbsp; 30
+                        <div class="stat-bar hp" style="width: {{hp_width}}%;">
+                        &nbsp; {{hp}}
                         </div>
                     </div>
                 </td>
-                <td>90 - 137</td>
-                <td>170 - 264</td>
+                <td>{{hprange50}}</td>
+                <td>{{hprange100}}</td>
+                {% endblock %}
             </tr>
             <tr>
                 <td class="stat-name">Attack:</td>
+                {% block stat_att %}
                 <td>
                     <div class="stat-bar-container">
-                        <div class="stat-bar att" style="width: 22%;">
-                        &nbsp; 56
+                        <div class="stat-bar att" style="width: {{att_width}}%;">
+                        &nbsp; {{att}}
                         </div>
                     </div>
                 </td>
-                <td>54 - 97</td>
-                <td>105 - 189</td>
+                <td>{{attrange50}}</td>
+                <td>{{attrange100}}</td>
+                {% endblock %}
+            </tr>
+            <tr>
+                <td class="stat-name">Defense:</td>
+                {% block stat_def %}
+                <td>
+                    <div class="stat-bar-container">
+                        <div class="stat-bar def" style="width: {{def_width}}%;">
+                        &nbsp; {{def}}
+                        </div>
+                    </div>
+                </td>
+                <td>{{defrange50}}</td>
+                <td>{{defrange100}}</td>
+                {% endblock %}
+            </tr>
+            <tr>
+                <td class="stat-name">Special Attack:</td>
+                {% block stat_spatt %}
+                <td>
+                    <div class="stat-bar-container">
+                        <div class="stat-bar spatt" style="width: {{spatt_width}}%;">
+                        &nbsp; {{spatt}}
+                        </div>
+                    </div>
+                </td>
+                <td>{{spattrange50}}</td>
+                <td>{{spattrange100}}</td>
+                {% endblock %}
+            </tr>
+            <tr>
+                <td class="stat-name">Special Defense:</td>
+                {% block stat_spdef %}
+                <td>
+                    <div class="stat-bar-container">
+                        <div class="stat-bar spdef" style="width: {{spdef_width}}%;">
+                        &nbsp; {{spdef}}
+                        </div>
+                    </div>
+                </td>
+                <td>{{spdefrange50}}</td>
+                <td>{{spdefrange100}}</td>
+                {% endblock %}
+            </tr>
+            <tr>
+                <td class="stat-name">Speed:</td>
+                {% block stat_spd %}
+                <td>
+                    <div class="stat-bar-container">
+                        <div class="stat-bar spd" style="width: {{spd_width}}%;">
+                        &nbsp; {{spd}}
+                        </div>
+                    </div>
+                </td>
+                <td>{{spdrange50}}</td>
+                <td>{{spdrange100}}</td>
+                {% endblock %}
             </tr>
             <tr>
                 <td>Total:</td>

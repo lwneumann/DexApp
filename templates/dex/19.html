@@ -61,6 +61,56 @@ Purple
     {{ super() }}
 {% endblock %}
 
+<!-- Stats -->
+{% set hp = 30 %}
+{% set hp_width = 12 %}
+{% set hprange50 = "90 - 137" %}
+{% set hprange100 = "170 - 264" %}
+{% block stat_hp %}
+{{ super() }}
+{% endblock %}
+
+{% set att = 56 %}
+{% set att_width = 22 %}
+{% set attrange50 = "54 - 97" %}
+{% set attrange100 = "105 - 189" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 35 %}
+{% set def_width = 14 %}
+{% set defrange50 = "xx-xx" %}
+{% set defrange100 = "yy-yy" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 25 %}
+{% set spatt_width = 10 %}
+{% set spattrange50 = "xx-xx" %}
+{% set spattrange100 = "yy-yy" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 35 %}
+{% set spdef_width = 14 %}
+{% set spdefrange50 = "xx-xx" %}
+{% set spdefrange100 = "yy-yy" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 72 %}
+{% set spd_width = 28 %}
+{% set spdrange50 = "xx-xx" %}
+{% set spdrange100 = "yy-yy" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+
 <!-- EV -->
 {% set ev_spread = ["0","0","0","0","0","1"] %}
 {% block ev %}
