@@ -2,6 +2,22 @@
 {% block title %}Events{% endblock %}
 {% block content %}
 <div class="content-block">
+    <!-- Time of Day -->
+    <table style="position: fixed; top: 10px; right: 10px; width: 30vw;">
+        <tr>
+            <th> Morning </th>    
+            <td> 4:00 AM - 9:59 AM </td>
+        </tr>
+        <tr>
+            <th> Day </th>    
+            <td> 10:00 AM - 7:59 PM </td>
+        </tr>
+        <tr>
+            <th> Night </th>    
+            <td> 8:00 PM - 3:59 AM </td>
+        </tr>
+    </table>
+
     <!-- Daily Table -->
     <h1>{{get_today()[0]}}</h1>
     <table>
@@ -18,7 +34,7 @@
             </tr>
         {% endfor %}
     </table>
-    
+
     <h2>Every Day</h2>
     <table>
         <tr>
