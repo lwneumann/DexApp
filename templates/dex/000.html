@@ -12,7 +12,7 @@
             <h1> {% block name %}{% endblock %} </h1>
             
             {% block images %}
-                <div class="image-container">
+                <div>
                     {% if has_female_sprites %}
                     <h4>Male Sprites</h4>
                     {% endif %}
@@ -23,7 +23,7 @@
                 </div>
                 
                 {% if has_female_sprites %}
-                <div class="image-container">
+                <div>
                     <h4>Female Sprites</h4>
                     <img src="{{ url_for('static', filename='img/sprites/female/' + number + '.png') }}" alt="pokemon female front">
                     <img src="{{ url_for('static', filename='img/sprites/shiny/female/' + number + '.png') }}" alt="pokemon shiny female front">
@@ -33,8 +33,8 @@
                 {% endif %}
             {% endblock %}    
 
-        <p><img src="{{ url_for('static', filename='img/hg.png') }}"/> {% block flavor_1 %}{% endblock %} </p>
-        <p><img src="{{ url_for('static', filename='img/ss.png') }}"/> {% block flavor_2 %}{% endblock %} </p>
+        <p><img src="{{ url_for('static', filename='img/hg.png') }}"/, alt="hg" > {% block flavor_1 %}{% endblock %} </p>
+        <p><img src="{{ url_for('static', filename='img/ss.png') }}"/, alt="ss" > {% block flavor_2 %}{% endblock %} </p>
         </div>
 
         <!-- Right Block -->
@@ -104,28 +104,30 @@
         </div>
     </div>
 
-    <!-- Below Split -->
-    <div>
-        <!-- Damage -->
+    <!-- Damage -->
+    <div style="display: flex; margin-top: 10px; margin-bottom: 10px; justify-content: center;">
         <table class="plainTable">
             <tr>
-                <th><img src="{{ url_for('static', filename='img/types/normal.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/fire.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/water.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/electric.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/grass.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/ice.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/fighting.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/poison.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/ground.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/flying.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/psychic.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/bug.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/rock.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/ghost.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/dragon.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/dark.png') }}"/></th>
-                <th><img src="{{ url_for('static', filename='img/types/steel.png') }}"/></th>
+                <th colspan="17">Damage Taken</th>
+            </tr>
+            <tr>
+                <th><img src="{{ url_for('static', filename='img/types/normal.png') }}" alt="normal"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/fire.png') }}" alt="fire"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/water.png') }}" alt="water"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/electric.png') }}" alt="electric"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/grass.png') }}" alt="grass"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/ice.png') }}" alt="ice"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/fighting.png') }}" alt="fighting"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/poison.png') }}" alt="poison"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/ground.png') }}" alt="ground"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/flying.png') }}" alt="flying"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/psychic.png') }}" alt="psychic"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/bug.png') }}" alt="bug"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/rock.png') }}" alt="rock"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/ghost.png') }}" alt="ghost"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/dragon.png') }}" alt="dragon"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/dark.png') }}" alt="dark"/></th>
+                <th><img src="{{ url_for('static', filename='img/types/steel.png') }}" alt="steel"/></th>
             </tr>
             {% block damages %}
             <tr>
@@ -135,6 +137,58 @@
             </tr>
             {% endblock %}
         </table>
+    </div>
+
+    <!-- Below Split -->
+    <div>
+        <!-- Location and Pokewalker -->
+        <div style="margin: 10px 0; display: flex; flex-wrap: wrap;">
+        {% block location %}
+        <!-- Location -->
+        <div style="flex: {% if has_pokewalker %}1{% else %}1 1 100%{% endif %};">
+            <h2>Locations</h2>
+            <p><img src="{{ url_for('static', filename='img/hg.png') }}" alt="hg" /> {{location[0]}} </p>
+            <p><img src="{{ url_for('static', filename='img/ss.png') }}" alt="ss" /> {{location[1]}} </p>
+        </div>
+
+        {% if has_pokewalker %}
+        <!-- Pokewalker -->
+        <div style="flex: 1; display: flex; justify-content: space-around;">
+            <div style="margin-right: 10px;">
+                <img src="{{ url_for('static', filename='img/pokewalker.png') }}" style="width: 5vw;" alt="pokewalker" />
+            </div>
+            <div style="display: flex;">
+                <!-- Courses Table -->
+                <table class="plainTable" style="margin-right: 10px;">
+                    <tr>
+                        <th>Courses</th>
+                    </tr>
+                    {% for course in pokewalker[0] %}
+                    <tr>
+                        <td>{{course}}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+
+                {% if has_items %}
+                <!-- Items Table (if present) -->
+                <table class="plainTable">
+                    <tr>
+                        <th>Items</th>
+                    </tr>
+                    {% for item in pokewalker[1] %}
+                    <tr>
+                        <td>{{item}}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+        {% endblock %}
+        </div>
+
 
         <!-- Stats
         Not sure why the bars throw errors but the code works anyway soo....
@@ -243,6 +297,9 @@
         <!-- EVs -->
         <table class="plainTable">
             <tr>
+                <th colspan="6">EVs Gained</th>
+            </tr>
+            <tr>
                 <th>HP</th>
                 <th>Att.</th>
                 <th>Def.</th>
@@ -260,6 +317,9 @@
         </table>
 
         <!-- Abilities -->
+
+
+    <!--Below Split -->
     </div>
 </div>
 {% endblock %}
