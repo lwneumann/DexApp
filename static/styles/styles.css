@@ -7,7 +7,12 @@ body {
     font-size: 1rem;
     margin: 0;
     min-height: 100vh;
-    background-image: url('/static/img/tree.jpg');
+    background-image: url('/static/img/nature/tree.jpg');
+}
+img:not(.no-pixelate) {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
 }
 .sidebar {
     width: 15%;
@@ -136,6 +141,19 @@ a {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+.navButtonContainer {
+    position: fixed;
+    bottom: 10%;
+    background-image: url('/static/img/nature/bush.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    padding: 10px;
+    margin: -10px;
 }
 
 /* Phone */
