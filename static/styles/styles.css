@@ -109,8 +109,10 @@ tr:nth-child(odd) {
 h1 {
     color: rgb(94, 35, 99);
 }
-
 h2 {
+    color: rgb(94, 35, 99);
+}
+h3 {
     color: rgb(94, 35, 99);
 }
 
@@ -128,4 +130,12 @@ a {
     /*
     color: rgb(156, 57, 163);
     */
+}
+
+
+/* Nav Buttons */
+.navButton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }

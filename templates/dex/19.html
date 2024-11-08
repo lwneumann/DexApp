@@ -1,6 +1,8 @@
 {% extends "dex/000.html" %}
 
 <!-- Name -->
+{% set prior = "18" %}
+{% set next = "20" %}
 {% set number = "19" %}
 {% set name = "Rattata" %}
 {% block title %}{{number}} - {{name}}{% endblock %}
@@ -56,6 +58,7 @@ Purple
 {% endblock %}
 
 <!-- Held Item -->
+{% set has_held_item = True %}
 {% set held_items = [["Chilan Berry", 5]] %}
 {% block held_item %}
     {{ super() }}
@@ -69,16 +72,9 @@ Purple
 
 <!-- Locations -->
 {% set location = ["Route 1, Route 3, Route 4, Route 7, Route 9, Route 11, Route 22, Route 29, Route 32, Route 33, Route 38, Route 39, Route 46, Sprout Tower, Union Cave, Mt. Mortar, Bell Tower, Burnt Tower, Tohjo Falls, Safari Zone", "Route 1, Route 3, Route 4, Route 7, Route 9, Route 11, Route 22, Route 29, Route 30, Route 31, Route 32, Route 33, Route 46, Sprout Tower, Union Cave, Mt. Mortar, Bell Tower, Burnt Tower, Tohjo Falls, Safari Zone"] %}
-{% set has_pokewalker = False %}
-{% set pokewalker = [["Suburban Area", "Town Outskirts"], [
-"Shuca Berry",
-"Lum Berry",
-"Sitrus Berry",
-"Leppa Berry",
-"TinyMushroom",
-"Oran Berry"
-]] %}
-{% set has_items = True %}
+{% set has_pokewalker = True %}
+{% set has_items = False %}
+{% set pokewalker = [["Suburban Area", "Town Outskirts"]] %}
 {% block location %}
     {{ super() }}
 {% endblock %}

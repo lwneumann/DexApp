@@ -1,10 +1,15 @@
 {% extends "base.html" %}
+
 {% block content %}
 <div class="content-block">
     <!-- Other Entry Buttons -->
-    <!--
-    Left right to next dex entries.
-    -->
+    
+    <div style="position: fixed; left: 90%; bottom: 10%;">
+        <a href="{{url_for('mon_page', mon=next )}}" class="navButton">
+            <img src="{{ url_for('static', filename='img/sprites/animated/' + next + '.gif') }}">
+            <i class="arrow right"></i>
+        </a>
+    </div>
 
     <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
         <!-- Left Block -->
@@ -85,21 +90,23 @@
                     <td>{% block gender_ratio %}{% endblock %}</td>
                 </tr>
             </table>
+            {% block held_item %}
+            {% if has_held_item %}
             <p></p>
             <table>
                 <tr>
                     <th>Held Item</th>
                     <th>Chance</th>
                 </tr>
-                {% block held_item %}
                 {% for item in held_items %}
                     <tr>
                         <td> {{item[0]}} </td>
                         <td> {{item[1]}}% </td>
                     </tr>
                 {% endfor %}
-                {% endblock %}
             </table>
+            {% endif %}
+            {% endblock %}
 
         </div>
     </div>
@@ -140,186 +147,189 @@
     </div>
 
     <!-- Below Split -->
-    <div>
-        <!-- Location and Pokewalker -->
-        <div style="margin: 10px 0; display: flex; flex-wrap: wrap;">
+    <!-- Location and Pokewalker -->
+    <div style="display: flex;">
         {% block location %}
         <!-- Location -->
-        <div style="flex: {% if has_pokewalker %}1{% else %}1 1 100%{% endif %};">
-            <h2>Locations</h2>
-            <p><img src="{{ url_for('static', filename='img/hg.png') }}" alt="hg" /> {{location[0]}} </p>
-            <p><img src="{{ url_for('static', filename='img/ss.png') }}" alt="ss" /> {{location[1]}} </p>
+            <div>
+                <h2>Locations</h2>
+                <p><img src="{{ url_for('static', filename='img/hg.png') }}" alt="hg" /> {{location[0]}} </p>
+                <p><img src="{{ url_for('static', filename='img/ss.png') }}" alt="ss" /> {{location[1]}} </p>
         </div>
 
         {% if has_pokewalker %}
+        <div style="margin-left: 10px;">
         <!-- Pokewalker -->
-        <div style="flex: 1; display: flex; justify-content: space-around;">
-            <div style="margin-right: 10px;">
-                <img src="{{ url_for('static', filename='img/pokewalker.png') }}" style="width: 5vw;" alt="pokewalker" />
-            </div>
-            <div style="display: flex;">
-                <!-- Courses Table -->
-                <table class="plainTable" style="margin-right: 10px;">
-                    <tr>
-                        <th>Courses</th>
-                    </tr>
-                    {% for course in pokewalker[0] %}
-                    <tr>
-                        <td>{{course}}</td>
-                    </tr>
-                    {% endfor %}
-                </table>
+        <div style="display: flex; justify-items: center;">
+            <img src="{{ url_for('static', filename='img/pokewalker.png') }}" style="width: 5vw; margin-bottom: 15px; margin-right: 10px;" alt="pokewalker" />
+            <h2>Pok&eacute;walker</h2>
+        </div>
+        <!-- Courses Table -->
+        <div style="display: flex;">
 
-                {% if has_items %}
-                <!-- Items Table (if present) -->
-                <table class="plainTable">
-                    <tr>
-                        <th>Items</th>
-                    </tr>
-                    {% for item in pokewalker[1] %}
-                    <tr>
-                        <td>{{item}}</td>
-                    </tr>
-                    {% endfor %}
-                </table>
-                {% endif %}
-            </div>
+        <div>
+        <table style="width: auto;">
+            <tr>
+                <th>Courses</th>
+            </tr>
+            {% for course in pokewalker[0] %}
+            <tr>
+                <td>{{course}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        </div>
+
+        {% if has_items %}
+        <div>
+        <!-- Items Table (if present) -->
+        <table style="width: auto; margin-left: 10px;">
+            <tr>
+                <th>Items</th>
+            </tr>
+            {% for item in pokewalker[1] %}
+            <tr>
+                <td>{{item}}</td>
+            </tr>
+            {% endfor %}
+        </table>
         </div>
         {% endif %}
-        {% endblock %}
         </div>
-
-
-        <!-- Stats
-        Not sure why the bars throw errors but the code works anyway soo....
-        --> 
-        <table class="stats-table">
-            <tr>
-                <th class="stat-header" rowspan="2">Stat</th>
-                <th rowspan="2">Base</th>
-                <th class="stat-range" colspan="2">Range</th>
-            </tr>
-            <tr>
-                <th>At Lv. 50</th>
-                <th>At Lv. 100</th>
-            </tr>
-            <tr>
-                <td class="stat-name">HP:</td>
-                {% block stat_hp %}
-                <td>
-                    <div class="stat-bar-container">
-                        <div class="stat-bar hp" style="width: {{hp_width}}%;">
-                        &nbsp; {{hp}}
-                        </div>
-                    </div>
-                </td>
-                <td>{{hprange50}}</td>
-                <td>{{hprange100}}</td>
-                {% endblock %}
-            </tr>
-            <tr>
-                <td class="stat-name">Attack:</td>
-                {% block stat_att %}
-                <td>
-                    <div class="stat-bar-container">
-                        <div class="stat-bar att" style="width: {{att_width}}%;">
-                        &nbsp; {{att}}
-                        </div>
-                    </div>
-                </td>
-                <td>{{attrange50}}</td>
-                <td>{{attrange100}}</td>
-                {% endblock %}
-            </tr>
-            <tr>
-                <td class="stat-name">Defense:</td>
-                {% block stat_def %}
-                <td>
-                    <div class="stat-bar-container">
-                        <div class="stat-bar def" style="width: {{def_width}}%;">
-                        &nbsp; {{def}}
-                        </div>
-                    </div>
-                </td>
-                <td>{{defrange50}}</td>
-                <td>{{defrange100}}</td>
-                {% endblock %}
-            </tr>
-            <tr>
-                <td class="stat-name">Special Attack:</td>
-                {% block stat_spatt %}
-                <td>
-                    <div class="stat-bar-container">
-                        <div class="stat-bar spatt" style="width: {{spatt_width}}%;">
-                        &nbsp; {{spatt}}
-                        </div>
-                    </div>
-                </td>
-                <td>{{spattrange50}}</td>
-                <td>{{spattrange100}}</td>
-                {% endblock %}
-            </tr>
-            <tr>
-                <td class="stat-name">Special Defense:</td>
-                {% block stat_spdef %}
-                <td>
-                    <div class="stat-bar-container">
-                        <div class="stat-bar spdef" style="width: {{spdef_width}}%;">
-                        &nbsp; {{spdef}}
-                        </div>
-                    </div>
-                </td>
-                <td>{{spdefrange50}}</td>
-                <td>{{spdefrange100}}</td>
-                {% endblock %}
-            </tr>
-            <tr>
-                <td class="stat-name">Speed:</td>
-                {% block stat_spd %}
-                <td>
-                    <div class="stat-bar-container">
-                        <div class="stat-bar spd" style="width: {{spd_width}}%;">
-                        &nbsp; {{spd}}
-                        </div>
-                    </div>
-                </td>
-                <td>{{spdrange50}}</td>
-                <td>{{spdrange100}}</td>
-                {% endblock %}
-            </tr>
-            <tr>
-                <td>Total:</td>
-                <td>253</td>
-                <td colspan="2"></td>
-            </tr>
-        </table>
-
-        <!-- EVs -->
-        <table class="plainTable">
-            <tr>
-                <th colspan="6">EVs Gained</th>
-            </tr>
-            <tr>
-                <th>HP</th>
-                <th>Att.</th>
-                <th>Def.</th>
-                <th>Sp.Att.</th>
-                <th>Sp.Def.</th>
-                <th>Speed</th>
-            </tr>
-            {% block ev %}
-            <tr>
-            {% for item in ev_spread %}
-                <td> {{item[0]}} </td>
-            {% endfor %}
-            </tr>
-            {% endblock %}
-        </table>
-
-        <!-- Abilities -->
-
-
-    <!--Below Split -->
+        {% endif %}
+        </div>
+        {% endblock %}
     </div>
+
+    <!-- Stats
+    Not sure why the bars throw errors but the code works anyway soo....
+    --> 
+    <div style="margin-top: 15px;">
+    <table class="stats-table">
+        <tr>
+            <th class="stat-header" rowspan="2">Stat</th>
+            <th rowspan="2">Base</th>
+            <th class="stat-range" colspan="2">Range</th>
+        </tr>
+        <tr>
+            <th>At Lv. 50</th>
+            <th>At Lv. 100</th>
+        </tr>
+        <tr>
+            <td class="stat-name">HP:</td>
+            {% block stat_hp %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar hp" style="width: {{hp_width}}%;">
+                    &nbsp; {{hp}}
+                    </div>
+                </div>
+            </td>
+            <td>{{hprange50}}</td>
+            <td>{{hprange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Attack:</td>
+            {% block stat_att %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar att" style="width: {{att_width}}%;">
+                    &nbsp; {{att}}
+                    </div>
+                </div>
+            </td>
+            <td>{{attrange50}}</td>
+            <td>{{attrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Defense:</td>
+            {% block stat_def %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar def" style="width: {{def_width}}%;">
+                    &nbsp; {{def}}
+                    </div>
+                </div>
+            </td>
+            <td>{{defrange50}}</td>
+            <td>{{defrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Special Attack:</td>
+            {% block stat_spatt %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar spatt" style="width: {{spatt_width}}%;">
+                    &nbsp; {{spatt}}
+                    </div>
+                </div>
+            </td>
+            <td>{{spattrange50}}</td>
+            <td>{{spattrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Special Defense:</td>
+            {% block stat_spdef %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar spdef" style="width: {{spdef_width}}%;">
+                    &nbsp; {{spdef}}
+                    </div>
+                </div>
+            </td>
+            <td>{{spdefrange50}}</td>
+            <td>{{spdefrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Speed:</td>
+            {% block stat_spd %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar spd" style="width: {{spd_width}}%;">
+                    &nbsp; {{spd}}
+                    </div>
+                </div>
+            </td>
+            <td>{{spdrange50}}</td>
+            <td>{{spdrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td>Total:</td>
+            <td>253</td>
+            <td colspan="2"></td>
+        </tr>
+    </table>
+    </div>
+
+    <!-- EVs -->
+    <table class="plainTable">
+        <tr>
+            <th colspan="6">EVs Gained</th>
+        </tr>
+        <tr>
+            <th>HP</th>
+            <th>Att.</th>
+            <th>Def.</th>
+            <th>Sp.Att.</th>
+            <th>Sp.Def.</th>
+            <th>Speed</th>
+        </tr>
+        {% block ev %}
+        <tr>
+        {% for item in ev_spread %}
+            <td> {{item[0]}} </td>
+        {% endfor %}
+        </tr>
+        {% endblock %}
+    </table>
+
+    <!-- Abilities -->
+
 </div>
 {% endblock %}
