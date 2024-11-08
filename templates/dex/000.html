@@ -4,12 +4,24 @@
 <div class="content-block">
     <!-- Other Entry Buttons -->
     
-    <div style="position: fixed; left: 90%; bottom: 10%;">
+    {% if prior != 0 %}
+    <!-- Left -->
+    <div style="position: fixed; left: 10%; bottom: 10%;">
+        <a href="{{url_for('mon_page', mon=next )}}" class="navButton">
+            <i class="arrow left"></i>
+            <img src="{{ url_for('static', filename='img/sprites/animated/' + prior + '.gif') }}">
+        </a>
+    </div>
+    {% endif %}
+    {% if next != 494 %}
+    <!-- Right -->
+    <div style="position: fixed; right: 10%; bottom: 10%;">
         <a href="{{url_for('mon_page', mon=next )}}" class="navButton">
             <img src="{{ url_for('static', filename='img/sprites/animated/' + next + '.gif') }}">
             <i class="arrow right"></i>
         </a>
     </div>
+    {% endif %}
 
     <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
         <!-- Left Block -->
@@ -113,7 +125,7 @@
 
     <!-- Damage -->
     <div style="display: flex; margin-top: 10px; margin-bottom: 10px; justify-content: center;">
-        <table class="plainTable">
+        <table class="plainTable" style="max-width: 100%; table-layout: fixed;">
             <tr>
                 <th colspan="17">Damage Taken</th>
             </tr>
@@ -151,17 +163,17 @@
     <div style="display: flex;">
         {% block location %}
         <!-- Location -->
-            <div>
-                <h2>Locations</h2>
-                <p><img src="{{ url_for('static', filename='img/hg.png') }}" alt="hg" /> {{location[0]}} </p>
-                <p><img src="{{ url_for('static', filename='img/ss.png') }}" alt="ss" /> {{location[1]}} </p>
+        <div>
+            <h2>Locations</h2>
+            <p><img src="{{ url_for('static', filename='img/hg.png') }}" alt="hg" /> {{location[0]}} </p>
+            <p><img src="{{ url_for('static', filename='img/ss.png') }}" alt="ss" /> {{location[1]}} </p>
         </div>
 
         {% if has_pokewalker %}
         <div style="margin-left: 10px;">
         <!-- Pokewalker -->
         <div style="display: flex; justify-items: center;">
-            <img src="{{ url_for('static', filename='img/pokewalker.png') }}" style="width: 5vw; margin-bottom: 15px; margin-right: 10px;" alt="pokewalker" />
+            <img src="{{ url_for('static', filename='img/pokewalker.png') }}" style="width: 8vh; height: 8vh; margin-bottom: 15px; margin-right: 10px; aspect-ratio: 1 / 1;" alt="pokewalker" />
             <h2>Pok&eacute;walker</h2>
         </div>
         <!-- Courses Table -->
@@ -300,15 +312,21 @@
             {% endblock %}
         </tr>
         <tr>
-            <td>Total:</td>
-            <td>253</td>
+            <td class="stat-name">Total:</td>
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar sum" style="width: 35%;">
+                    &nbsp; 253
+                    </div>
+                </div>
+            </td>
             <td colspan="2"></td>
         </tr>
     </table>
     </div>
 
     <!-- EVs -->
-    <table class="plainTable">
+    <table class="plainTable" style="max-width: 100%; table-layout: fixed;">
         <tr>
             <th colspan="6">EVs Gained</th>
         </tr>
@@ -330,6 +348,17 @@
     </table>
 
     <!-- Abilities -->
+    <div>
+        <h2>Abilities</h2>
+        <ul>
+            {% block abilities %}
+            {% for a in abilities %}
+                <li>{{a[0]}}</li>
+                <p>{{a[1]}}</p>
+            {% endfor %}
+            {% endblock %}
+        </ul>
+    </div>
 
 </div>
 {% endblock %}

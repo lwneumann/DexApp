@@ -4,6 +4,7 @@ html {
 }
 body {
     display: flex;
+    font-size: 1rem;
     margin: 0;
     min-height: 100vh;
     background-image: url('/static/img/tree.jpg');
@@ -88,7 +89,6 @@ tr:nth-child(odd) {
     text-align: center;
 }
 .stat-bar-container {
-    /* Leaving space in <td> for stat */
     width: 100%;
     border-radius: 2px;
 }
@@ -103,6 +103,7 @@ tr:nth-child(odd) {
 .stat-bar.spatt { background-color: #e436f4; }
 .stat-bar.spdef { background-color: #5bc6ff; }
 .stat-bar.spd { background-color: #f8ff3a; }
+.stat-bar.sum { background-color: #dfdfdf; }
 
 
 /* Text */
@@ -127,9 +128,6 @@ p img{
 
 a {
     color: rgb(94, 35, 99);
-    /*
-    color: rgb(156, 57, 163);
-    */
 }
 
 
@@ -138,4 +136,18 @@ a {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+/* Phone */
+@media (max-width: 1080px) {
+    .plainTable {
+        width: 100%;
+        font-size: 16px;
+    }
+    img {
+        width: 60px;
+    }
+    .container {
+        padding: 20px;
+    }
 }

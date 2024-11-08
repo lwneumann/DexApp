@@ -85,7 +85,7 @@ Purple
 {% set hprange50 = "90 - 137" %}
 {% set hprange100 = "170 - 264" %}
 {% block stat_hp %}
-{{ super() }}
+    {{ super() }}
 {% endblock %}
 
 {% set att = 56 %}
@@ -128,9 +128,14 @@ Purple
     {{ super() }}
 {% endblock %}
 
-
 <!-- EV -->
 {% set ev_spread = ["0","0","0","0","0","1"] %}
 {% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [["Run Away", "Unless this Pokemon is under the effects of a trapping move or ability, such as Mean Look or Shadow Tag, it will escape from wild Pokemon battles without fail."], ["Guts", "When this Pokemon is poisoned (including Toxic), burned, paralyzed or asleep (including self-induced Rest), its Attack stat receives a 50% boost; the burn status' Attack drop is also ignored."]] %}
+{% block abilities %}
     {{ super() }}
 {% endblock %}
