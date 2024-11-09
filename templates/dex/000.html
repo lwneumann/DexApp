@@ -362,12 +362,18 @@
         <ul>
             {% block abilities %}
             {% for a in abilities %}
-                <li>{{a[0]}}</li>
+                <li>
+                    <a href="{{url_for('ability_page')}}" class="navButton">
+                        {{a[0]}}
+                    </a>
+                </li>
                 <p>{{a[1]}}</p>
             {% endfor %}
             {% endblock %}
         </ul>
     </div>
 
+    <!-- Learned Moves -->
+     
 </div>
 {% endblock %}

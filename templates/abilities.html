@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Abilities{% endblock %}
+{% block content %}
+<div class="content-block">
+    <h1>Abilities</h1>
+    <ul>
+        {% for a in ability_list %}
+        <li> {{a}}
+            <ul>
+                <li>{{ability_list[a][0]}}</li>
+                <ul>
+                    {% for p in ability_list[a][1] %}
+                        <li>
+                            <a href="{{url_for('mon_page', mon=p[1] )}}" class="navButton">
+                                {{p[0]}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

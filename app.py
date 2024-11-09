@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect
-import calendar, rotom
+import calendar, rotom, abilities
 
 
 # Setup
@@ -15,7 +15,7 @@ def handle_form_submission():
             return redirect(f'/dex/{num}/')
 
 
-# Pages
+# --- Pages ---
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -45,6 +45,10 @@ def mon_page(mon):
     else:
         return render_template('error/404.html'), 404
 
+@app.route('/ability/')
+def ability_page():
+    print('poo')
+    return render_template('abilities.html', ability_list=abilities.ability_list)
 
 # Errors --
 @app.errorhandler(404)
