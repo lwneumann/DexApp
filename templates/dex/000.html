@@ -127,7 +127,7 @@
 
     <!-- Damage -->
     <div style="display: flex; margin-top: 10px; margin-bottom: 10px; justify-content: center;">
-        <table class="plainTable" style="max-width: 100%; table-layout: fixed;">
+        <table class="plainTable">
             <tr>
                 <th colspan="17">Damage Taken</th>
             </tr>
@@ -374,6 +374,53 @@
     </div>
 
     <!-- Learned Moves -->
+    <div>
+        <h2>Level Up Moves</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 6%;">Level Learned</th>
+                <th>Move</th>
+                <th style="width: 5%;">Type</th>
+                <th style="width: 4%;">Cat.</th>
+                <th style="width: 5%;">Power</th>
+                <th style="width: 5%;">Acc.</th>
+                <th style="width: 4%;">PP</th>
+            </tr>
+            {% block learned %}
+            {% for move in learned_moves %}
+                <tr>
+                    <td rowspan="2">{{move[0]}}</td>
+                    <td>{{move[1]}}</td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[3] + '.png') }}"/></td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                    <td>{{move[6]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="6">{{move[7]}}</td>
+                </tr>
+            {% endfor %}
+            {% endblock %}
+        </table>
+        
+    </div>
+    
+    <!-- HMTM Moves -->
+    <div>
+        <h2>Learnable TMs and HMs</h2>
+    </div>
+    
+    <!-- Tutors Moves -->
+    <div>
+        <h2>Tutor Moves</h2>
+    </div>
+    
+    <!-- Egg Moves -->
+    <div>
+        <h2>Egg Moves</h2>
+    </div>
+     
      
 </div>
 {% endblock %}

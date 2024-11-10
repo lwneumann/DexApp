@@ -74,6 +74,7 @@ tr:nth-child(odd) {
     border-radius: 6px;
     padding-top: 10px;
     padding-bottom: 10px;
+    max-width: 100%; table-layout: fixed;
 }
 .plainTable th, .plainTable td {
     text-align: center;
