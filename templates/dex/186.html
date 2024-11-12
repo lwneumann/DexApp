@@ -128,6 +128,12 @@ Green
     {{ super() }}
 {% endblock %}
 
+{% set statsum = 500 %}
+{% set statsumwidth = 69 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
 <!-- EV -->
 {% set ev_spread = ['0', '0', '3', '0', '0', '0'] %}
 {% block ev %}

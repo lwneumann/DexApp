@@ -128,6 +128,12 @@ Pink
     {{ super() }}
 {% endblock %}
 
+{% set statsum = 380 %}
+{% set statsumwidth = 53 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
 <!-- EV -->
 {% set ev_spread = ['0', '0', '2', '0', '0', '0'] %}
 {% block ev %}

@@ -128,6 +128,12 @@ Brown
     {{ super() }}
 {% endblock %}
 
+{% set statsum = 251 %}
+{% set statsumwidth = 35 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
 <!-- EV -->
 {% set ev_spread = ['0', '0', '0', '0', '0', '1'] %}
 {% block ev %}

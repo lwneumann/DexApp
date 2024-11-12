@@ -103,6 +103,7 @@ tr:nth-child(odd) {
     height: 20px;
     border: solid black 1px;
     border-radius: 3px;
+    padding-left: 3px;
 }
 .stat-bar.hp { background-color: #4caf50; }
 .stat-bar.att { background-color: #c82a2a; }

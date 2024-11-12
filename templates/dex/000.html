@@ -219,8 +219,8 @@
         </div>
         {% endif %}
         </div>
-        {% endif %}
         </div>
+        {% endif %}
         {% endblock %}
     </div>
 
@@ -244,7 +244,7 @@
             <td>
                 <div class="stat-bar-container">
                     <div class="stat-bar hp" style="width: {{hp_width}}%;">
-                    &nbsp; {{hp}}
+                    {{hp}}
                     </div>
                 </div>
             </td>
@@ -258,7 +258,7 @@
             <td>
                 <div class="stat-bar-container">
                     <div class="stat-bar att" style="width: {{att_width}}%;">
-                    &nbsp; {{att}}
+                    {{att}}
                     </div>
                 </div>
             </td>
@@ -272,7 +272,7 @@
             <td>
                 <div class="stat-bar-container">
                     <div class="stat-bar def" style="width: {{def_width}}%;">
-                    &nbsp; {{def}}
+                    {{def}}
                     </div>
                 </div>
             </td>
@@ -286,7 +286,7 @@
             <td>
                 <div class="stat-bar-container">
                     <div class="stat-bar spatt" style="width: {{spatt_width}}%;">
-                    &nbsp; {{spatt}}
+                    {{spatt}}
                     </div>
                 </div>
             </td>
@@ -300,7 +300,7 @@
             <td>
                 <div class="stat-bar-container">
                     <div class="stat-bar spdef" style="width: {{spdef_width}}%;">
-                    &nbsp; {{spdef}}
+                    {{spdef}}
                     </div>
                 </div>
             </td>
@@ -314,7 +314,7 @@
             <td>
                 <div class="stat-bar-container">
                     <div class="stat-bar spd" style="width: {{spd_width}}%;">
-                    &nbsp; {{spd}}
+                    {{spd}}
                     </div>
                 </div>
             </td>
@@ -325,11 +325,13 @@
         <tr>
             <td class="stat-name">Total:</td>
             <td>
+                {% block stat_sum %}
                 <div class="stat-bar-container">
-                    <div class="stat-bar sum" style="width: 35%;">
-                    &nbsp; 253
+                    <div class="stat-bar sum" style="width: {{statsumwidth}}%;">
+                    {{statsum}}
                     </div>
                 </div>
+                {% endblock %}
             </td>
             <td colspan="2"></td>
         </tr>
