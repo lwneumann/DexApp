@@ -3,7 +3,7 @@
 {% block extra_things %}
 <!-- Other Entry Buttons -->
     
-{% if prior != 0 %}
+{% if prior != "0" %}
 <!-- Left -->
 <div class="navButtonContainer" style="left: 4vw;">
     <a href="{{url_for('mon_page', mon=prior )}}" class="navButton">
@@ -11,7 +11,7 @@
     </a>
 </div>
 {% endif %}
-{% if next != 494 %}
+{% if next != "494" %}
 <!-- Right -->
 <div class="navButtonContainer" style="right: 4vw;">
     <a href="{{url_for('mon_page', mon=next )}}" class="navButton">

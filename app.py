@@ -13,6 +13,8 @@ def handle_form_submission():
         num = request.form.get('dexInput')
         if num:
             return redirect(f'/dex/{num}/')
+        else:
+            return redirect('/dex')
 
 
 # --- Pages ---
