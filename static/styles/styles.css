@@ -15,11 +15,11 @@ img:not(.no-pixelate) {
     image-rendering: crisp-edges;
 }
 .sidebar {
-    width: 15%;
+    width: 10%;
     display: flex;
 }
 .content {
-    width: 70%;
+    width: 80%;
     flex-grow: 1;
     background-color: hsla(122, 15%, 60%, 0.908);
     box-shadow: 0 0 30px 15px rgba(0, 0, 0, 0.5);
@@ -79,6 +79,7 @@ tr:nth-child(odd) {
 .plainTable th, .plainTable td {
     text-align: center;
 }
+
 /* Stats Table */
 .stats-table {
     background-color: #7e9a7e;
@@ -150,11 +151,13 @@ a {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    background-color: #44e885;
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
     image-rendering: crisp-edges;
     padding: 10px;
     margin: -10px;
+    box-shadow: 0 0 8px 10px #44e885;
 }
 
 /* Phone */

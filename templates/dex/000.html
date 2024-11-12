@@ -1,26 +1,28 @@
 {% extends "base.html" %}
 
+{% block extra_things %}
+<!-- Other Entry Buttons -->
+    
+{% if prior != 0 %}
+<!-- Left -->
+<div class="navButtonContainer" style="left: 4vw;">
+    <a href="{{url_for('mon_page', mon=prior )}}" class="navButton">
+        <img src="{{ url_for('static', filename='img/sprites/animated/' + prior + '.gif') }}">
+    </a>
+</div>
+{% endif %}
+{% if next != 494 %}
+<!-- Right -->
+<div class="navButtonContainer" style="right: 4vw;">
+    <a href="{{url_for('mon_page', mon=next )}}" class="navButton">
+        <img src="{{ url_for('static', filename='img/sprites/animated/' + next + '.gif') }}">
+    </a>
+</div>
+{% endif %}
+{% endblock %}
+
 {% block content %}
 <div class="content-block">
-    <!-- Other Entry Buttons -->
-    
-    {% if prior != 0 %}
-    <!-- Left -->
-    <div class="navButtonContainer" style="left: 10%;">
-        <a href="{{url_for('mon_page', mon=prior )}}" class="navButton">
-            <img src="{{ url_for('static', filename='img/sprites/animated/' + prior + '.gif') }}">
-        </a>
-    </div>
-    {% endif %}
-    {% if next != 494 %}
-    <!-- Right -->
-    <div class="navButtonContainer" style="right: 10%;">
-        <a href="{{url_for('mon_page', mon=next )}}" class="navButton">
-            <img src="{{ url_for('static', filename='img/sprites/animated/' + next + '.gif') }}">
-        </a>
-    </div>
-    {% endif %}
-
     <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
         <!-- Left Block -->
         <div class="dexblock">
@@ -441,11 +443,61 @@
     <!-- Tutors Moves -->
     <div>
         <h2>Tutor Moves</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 10%;">Move</th>
+                <th>Type</th>
+                <th>Cat.</th>
+                <th>Power</th>
+                <th>Acc.</th>
+                <th>PP</th>
+            </tr>
+            {% block tutor %}
+            {% for move in tutor_list %}
+                <tr>
+                    <td rowspan="2">{{move[0]}}</td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[1] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td>{{move[3]}}</td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="5">{{move[6]}}</td>
+                </tr>
+            {% endfor %}
+            {% endblock %}
+        </table>
     </div>
     
     <!-- Egg Moves -->
     <div>
         <h2>Egg Moves</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 10%;">Move</th>
+                <th>Type</th>
+                <th>Cat.</th>
+                <th>Power</th>
+                <th>Acc.</th>
+                <th>PP</th>
+            </tr>
+            {% block egg_moves %}
+            {% for move in egg_move_list %}
+                <tr>
+                    <td rowspan="2">{{move[0]}}</td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[1] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td>{{move[3]}}</td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="5">{{move[6]}}</td>
+                </tr>
+            {% endfor %}
+            {% endblock %}
+        </table>
     </div>
 
      
