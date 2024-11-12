@@ -441,6 +441,8 @@
 
 
     <!-- Tutors Moves -->
+    {% block tutor %}
+    {% if has_tutor_moves %}
     <div>
         <h2>Tutor Moves</h2>
         <table class="plainTable">
@@ -452,7 +454,6 @@
                 <th>Acc.</th>
                 <th>PP</th>
             </tr>
-            {% block tutor %}
             {% for move in tutor_list %}
                 <tr>
                     <td rowspan="2">{{move[0]}}</td>
@@ -466,11 +467,14 @@
                     <td colspan="5">{{move[6]}}</td>
                 </tr>
             {% endfor %}
-            {% endblock %}
         </table>
     </div>
+    {% endif %}
+    {% endblock %}
     
     <!-- Egg Moves -->
+    {% block egg_moves %}
+    {% if has_egg_moves %}
     <div>
         <h2>Egg Moves</h2>
         <table class="plainTable">
@@ -482,7 +486,6 @@
                 <th>Acc.</th>
                 <th>PP</th>
             </tr>
-            {% block egg_moves %}
             {% for move in egg_move_list %}
                 <tr>
                     <td rowspan="2">{{move[0]}}</td>
@@ -496,9 +499,10 @@
                     <td colspan="5">{{move[6]}}</td>
                 </tr>
             {% endfor %}
-            {% endblock %}
         </table>
     </div>
+    {% endif %}
+    {% endblock %}
 
      
 </div>
