@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "261" %}
+{% set next = "263" %}
+{% set number = "262" %}
+{% set name = "Mightyena" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (グラエナ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork."
+{% endblock %}
+{% block flavor_2 %}
+"It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Bite
+{% endblock %}
+{% block p_height %}
+3'03"
+{% endblock %}
+{% block p_weight %}
+81.6
+{% endblock %}
+{% block p_capture_rate %}
+127
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Ground
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Gray
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Pecha Berry', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '2', '1', '1', '1', '0', '2', '1', '0.5', '1', '0.5', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Trade from DPt', 'Trade from DPt'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 70 %}
+{% set hp_width = 27 %}
+{% set hprange50 = "130 - 177" %}
+{% set hprange100 = "250 - 344" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 90 %}
+{% set att_width = 35 %}
+{% set attrange50 = "85 - 156" %}
+{% set attrange100 = "166 - 306" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 70 %}
+{% set def_width = 27 %}
+{% set defrange50 = "67 - 134" %}
+{% set defrange100 = "130 - 262" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 60 %}
+{% set spatt_width = 24 %}
+{% set spattrange50 = "58 - 123" %}
+{% set spattrange100 = "112 - 240" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 60 %}
+{% set spdef_width = 24 %}
+{% set spdefrange50 = "58 - 123" %}
+{% set spdefrange100 = "112 - 240" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 70 %}
+{% set spd_width = 27 %}
+{% set spdrange50 = "67 - 134" %}
+{% set spdrange100 = "130 - 262" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '2', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Intimidate', 'When this Pokemon enters the field, the Attack stat of each of its opponents lowers by one stage.'], ['Quick Feet', "When this Pokemon is poisoned (including Toxic), burned, paralyzed, asleep (including self-induced Rest) or frozen, its Speed stat receives a 50% boost; the paralysis status' Speed drop is also ignored."]] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['0', 'Howl', 'Normal', 'Status', '-', '-', '40', 'The user howls loudly to raise its spirit, boosting its Attack stat.'], ['0', 'Sand-Attack', 'Ground', 'Status', '-', '100%', '15', "Sand is hurled in the foe's face, reducing its accuracy."], ['0', 'Bite', 'Dark', 'Physical', '60', '100%', '25', 'The foe is bitten with viciously sharp fangs. It may make the target flinch.'], ['17', 'Odor Sleuth', 'Normal', 'Status', '-', '100%', '40', 'Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.'], ['22', 'Roar', 'Normal', 'Status', '-', '100%', '20', 'The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.'], ['27', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['32', 'Assurance', 'Dark', 'Physical', '50', '100%', '10', "If the foe has already taken some damage in the same turn, this attack's power is doubled."], ['37', 'Scary Face', 'Normal', 'Status', '-', '90%', '10', 'The user frightens the foe with a scary face to sharply reduce its Speed stat.'], ['42', 'Taunt', 'Dark', 'Status', '-', '100%', '20', 'The foe is taunted into a rage that allows it to use only attack moves for two to four turns.'], ['47', 'Embargo', 'Dark', 'Status', '-', '100%', '15', 'It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.'], ['52', 'Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['57', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['62', 'Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM05', 'Roar', 'Normal', 'Status', '-', '100%', '20', 'The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM12', 'Taunt', 'Dark', 'Status', '-', '100%', '20', 'The foe is taunted into a rage that allows it to use only attack moves for two to four turns.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM30', 'Shadow Ball', 'Ghost', 'Special', '80', '100%', '15', "The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM41', 'Torment', 'Dark', 'Status', '-', '100%', '15', 'The user torments and enrages the foe, making it incapable of using the same move twice in a row.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM49', 'Snatch', 'Dark', 'Status', '-', '100%', '10', 'The user steals the effects of any healing or stat- changing move the foe attempts to use.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM63', 'Embargo', 'Dark', 'Status', '-', '100%', '15', 'It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.'], ['TM66', 'Payback', 'Dark', 'Physical', '50', '100%', '10', 'If the user can use this attack after the foe attacks, its power is doubled.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM79', 'Dark Pulse', 'Dark', 'Special', '80', '100%', '15', 'The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Spite', 'Ghost', 'Status', '-', '100%', '10', 'The user looses its grudge on the move last used by the foe by cutting 4 PP from it.'], ['Uproar', 'Normal', 'Special', '50', '100%', '10', 'The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Super Fang', 'Normal', 'Physical', 'Varies', '90%', '10', "The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half."], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Astonish', 'Ghost', 'Physical', '30', '100%', '15', 'The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.'], ['Poison Fang', 'Poison', 'Physical', '50', '100%', '15', 'The user bites the foe with toxic fangs. It may also leave the foe badly poisoned.'], ['Covet', 'Normal', 'Physical', '40', '100%', '40', 'The user endearingly approaches the foe, then steals the item the foe is holding.'], ['Leer', 'Normal', 'Status', '-', '100%', '30', "The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced."], ['Yawn', 'Normal', 'Status', '-', '100%', '10', 'The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.'], ['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Ice Fang', 'Ice', 'Physical', '65', '95%', '15', 'The user bites with cold-infused fangs. It may also make the foe flinch or freeze.'], ['Fire Fang', 'Fire', 'Physical', '65', '95%', '15', 'The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.'], ['Thunder Fang', 'Electric', 'Physical', '65', '95%', '15', 'The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.'], ['Me First', 'Normal', 'Status', '-', '-', '20', "The user tries to cut ahead of the foe to steal and use the foe's intended move with greater power."]] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

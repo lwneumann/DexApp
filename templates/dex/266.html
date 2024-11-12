@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "265" %}
+{% set next = "267" %}
+{% set number = "266" %}
+{% set name = "Silcoon" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (カラサリス) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"Having wrapped silk around the branches of a tree, it quiescently awaits evolution."
+{% endblock %}
+{% block flavor_2 %}
+"Having wrapped silk around the branches of a tree, it quiescently awaits evolution."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Cocoon
+{% endblock %}
+{% block p_height %}
+2'00"
+{% endblock %}
+{% block p_weight %}
+22.0
+{% endblock %}
+{% block p_capture_rate %}
+120
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+White
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '1', '0.5', '1', '0.5', '1', '0.5', '2', '1', '1', '2', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Bug Catching Contest', 'Bug Catching Contest'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 50 %}
+{% set hp_width = 20 %}
+{% set hprange50 = "110 - 157" %}
+{% set hprange100 = "210 - 304" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 35 %}
+{% set att_width = 14 %}
+{% set attrange50 = "36 - 95" %}
+{% set attrange100 = "67 - 185" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 55 %}
+{% set def_width = 22 %}
+{% set defrange50 = "54 - 117" %}
+{% set defrange100 = "103 - 229" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 25 %}
+{% set spatt_width = 10 %}
+{% set spattrange50 = "27 - 84" %}
+{% set spattrange100 = "49 - 163" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 25 %}
+{% set spdef_width = 10 %}
+{% set spdefrange50 = "27 - 84" %}
+{% set spdefrange100 = "49 - 163" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 15 %}
+{% set spd_width = 6 %}
+{% set spdrange50 = "18 - 73" %}
+{% set spdrange100 = "31 - 141" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '2', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Shed Skin', 'After each turn, this Pokemon has a 30% chance to heal itself from poison (including Toxic), paralysis, burn, freeze or sleep (including self-induced Rest).']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Harden', 'Normal', 'Status', '-', '-', '30', 'The user stiffens all the muscles in its body to raise its Defense stat.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

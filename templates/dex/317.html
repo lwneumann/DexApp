@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "316" %}
+{% set next = "318" %}
+{% set number = "317" %}
+{% set name = "Swalot" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (マルノーム) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = True %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It gulps anything that fits in its mouth. Its special enzymes can dissolve anything."
+{% endblock %}
+{% block flavor_2 %}
+"It gulps anything that fits in its mouth. Its special enzymes can dissolve anything."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Poison
+{% endblock %}
+{% block p_height %}
+5'07"
+{% endblock %}
+{% block p_weight %}
+176.4
+{% endblock %}
+{% block p_capture_rate %}
+75
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Indeterminate
+{% endblock %}
+{% block exp_growth %}
+1,640,000 - Fluctuating
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Purple
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Big Pearl', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '0.5', '1', '0.5', '0.5', '2', '1', '2', '0.5', '1', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Trade from DPt, SS', 'Evolve Gulpin'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 100 %}
+{% set hp_width = 39 %}
+{% set hprange50 = "160 - 207" %}
+{% set hprange100 = "310 - 404" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 73 %}
+{% set att_width = 29 %}
+{% set attrange50 = "70 - 137" %}
+{% set attrange100 = "135 - 269" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 83 %}
+{% set def_width = 33 %}
+{% set defrange50 = "79 - 148" %}
+{% set defrange100 = "153 - 291" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 73 %}
+{% set spatt_width = 29 %}
+{% set spattrange50 = "70 - 137" %}
+{% set spattrange100 = "135 - 269" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 83 %}
+{% set spdef_width = 33 %}
+{% set spdefrange50 = "79 - 148" %}
+{% set spdefrange100 = "153 - 291" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 55 %}
+{% set spd_width = 22 %}
+{% set spdrange50 = "54 - 117" %}
+{% set spdrange100 = "103 - 229" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['2', '0', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Liquid Ooze', 'When another Pokemon uses Absorb, Drain Punch, Giga Drain, Leech Life, Leech Seed or Mega Drain against this Pokemon, the attacking Pokemon loses the amount of health that it would have gained.'], ['Sticky Hold', 'Opponents cannot remove items from this Pokemon.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Pound', 'Normal', 'Physical', '40', '100%', '35', 'The foe is physically pounded with a long tail or a foreleg, etc.'], ['0', 'Yawn', 'Normal', 'Status', '-', '100%', '10', 'The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.'], ['0', 'Poison Gas', 'Poison', 'Status', '-', '55%', '40', "A cloud of poison gas is sprayed in the foe's face. It may poison the target."], ['0', 'Sludge', 'Poison', 'Special', '65', '100%', '20', 'Unsanitary sludge is hurled at the foe. It may also poison the target.'], ['17', 'Amnesia', 'Psychic', 'Status', '-', '-', '20', "The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat."], ['23', 'Encore', 'Normal', 'Status', '-', '100%', '5', 'The user compels the foe to keep using only the move it last used for three to seven turns.'], ['26', 'Body Slam', 'Normal', 'Physical', '85', '100%', '15', 'The user drops onto the foe with its full body weight. It may leave the foe paralyzed.'], ['30', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['38', 'Stockpile', 'Normal', 'Status', '-', '-', '20', 'The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.'], ['38', 'Swallow', 'Normal', 'Status', '-', '-', '10', 'The power stored using the move Stockpile is absorbed by the user to heal its HP.'], ['45', 'Sludge Bomb', 'Poison', 'Special', '90', '100%', '10', 'The user attacks by hurling filthy sludge at the foe. It may also poison the target.'], ['52', 'Gastro Acid', 'Poison', 'Status', '-', '100%', '10', "The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability."], ['66', 'Gunk Shot', 'Poison', 'Physical', '120', '70%', '5', 'The user shoots filthy garbage at the foe to attack. It may also poison the target.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM09', 'Bullet Seed', 'Grass', 'Physical', '10', '100%', '30', 'The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM30', 'Shadow Ball', 'Ghost', 'Special', '80', '100%', '15', "The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM34', 'Shock Wave', 'Electric', 'Special', '60', '-', '20', 'The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.'], ['TM36', 'Sludge Bomb', 'Poison', 'Special', '90', '100%', '10', 'The user attacks by hurling filthy sludge at the foe. It may also poison the target.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM49', 'Snatch', 'Dark', 'Status', '-', '100%', '10', 'The user steals the effects of any healing or stat- changing move the foe attempts to use.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM64', 'Explosion', 'Normal', 'Physical', '250', '100%', '5', 'The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM85', 'Dream Eater', 'Psychic', 'Special', '100', '100%', '15', "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP."], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Fire Punch', 'Fire', 'Physical', '75', '100%', '15', 'The foe is punched with a fiery fist. It may leave the target with a burn.'], ['Ice Punch', 'Ice', 'Physical', '75', '100%', '15', 'The foe is punched with an icy fist. It may leave the target frozen.'], ['Thunder Punch', 'Electric', 'Physical', '75', '100%', '15', 'The foe is punched with an electrified fist. It may leave the target with paralysis.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Gastro Acid', 'Poison', 'Status', '-', '100%', '10', "The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability."], ['Gunk Shot', 'Poison', 'Physical', '120', '70%', '5', 'The user shoots filthy garbage at the foe to attack. It may also poison the target.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Seed Bomb', 'Grass', 'Physical', '80', '100%', '15', 'The user slams a barrage of hard- shelled seeds down on the foe from above.'], ['Pain Split', 'Normal', 'Status', '-', '100%', '20', "The user adds its HP to the foe's HP, then equally shares the combined HP with the foe."], ['Block', 'Normal', 'Status', '-', '100%', '5', "The user blocks the foe's way with arms spread wide to prevent escape."], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Dream Eater', 'Psychic', 'Special', '100', '100%', '15', "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP."], ['Acid Armor', 'Poison', 'Status', '-', '-', '40', 'The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.'], ['Smog', 'Poison', 'Special', '20', '70%', '20', 'The foe is attacked with a discharge of filthy gases. It may also poison the target.'], ['Pain Split', 'Normal', 'Status', '-', '100%', '20', "The user adds its HP to the foe's HP, then equally shares the combined HP with the foe."], ['Curse', 'Unknown', 'Status', '-', '-', '10', 'A move that works differently for the Ghost type than for all the other types.'], ['Destiny Bond', 'Ghost', 'Status', '-', '-', '5', 'When this move is used, if the user faints, the foe that landed the knockout hit also faints.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

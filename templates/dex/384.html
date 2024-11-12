@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "383" %}
+{% set next = "385" %}
+{% set number = "384" %}
+{% set name = "Rayquaza" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (レックウザ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+{% endblock %}
+{% block flavor_2 %}
+"It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Sky
+{% endblock %}
+{% block p_height %}
+23'00"
+{% endblock %}
+{% block p_weight %}
+455.2
+{% endblock %}
+{% block p_capture_rate %}
+3
+{% endblock %}
+{% block p_egg_steps %}
+30,720
+{% endblock %}
+{% block p_egg_groups %}
+Rayquaza cannot breed
+{% endblock %}
+{% block exp_growth %}
+1,250,000 - Slow
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Green
+{% endblock %}
+{% block base_happiness %}
+0
+{% endblock %}
+{% block gender_ratio %}
+♂: G% &emsp; ♀: e%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '0.5', '0.5', '1', '0.25', '4', '0.5', '1', '0', '1', '1', '0.5', '2', '1', '2', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Hidden Tower', 'Hidden Tower'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 105 %}
+{% set hp_width = 41 %}
+{% set hprange50 = "165 - 212" %}
+{% set hprange100 = "320 - 414" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 150 %}
+{% set att_width = 59 %}
+{% set attrange50 = "139 - 222" %}
+{% set attrange100 = "274 - 438" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 90 %}
+{% set def_width = 35 %}
+{% set defrange50 = "85 - 156" %}
+{% set defrange100 = "166 - 306" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 150 %}
+{% set spatt_width = 59 %}
+{% set spattrange50 = "139 - 222" %}
+{% set spattrange100 = "274 - 438" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 90 %}
+{% set spdef_width = 35 %}
+{% set spdefrange50 = "85 - 156" %}
+{% set spdefrange100 = "166 - 306" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 95 %}
+{% set spd_width = 37 %}
+{% set spdrange50 = "90 - 161" %}
+{% set spdrange100 = "175 - 317" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '3', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Air Lock', 'While this Pokemon is active, all weather conditions and their effects are disabled.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Twister', 'Dragon', 'Special', '40', '100%', '20', 'The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.'], ['5', 'Scary Face', 'Normal', 'Status', '-', '90%', '10', 'The user frightens the foe with a scary face to sharply reduce its Speed stat.'], ['15', 'Crunch', 'Dark', 'Physical', '80', '100%', '15', "The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat."], ['20', 'Hyper Voice', 'Normal', 'Special', '90', '100%', '10', 'The user lets loose a horribly echoing shout with the power to inflict damage.'], ['30', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['35', 'Air Slash', 'Flying', 'Special', '75', '95%', '20', 'The user attacks with a blade of air that slices even the sky. It may also make the target flinch.'], ['45', 'Ancientpower', 'Rock', 'Special', '60', '100%', '5', "The user attacks with a prehistoric power. It may also raise all the user's stats at once."], ['50', 'Outrage', 'Dragon', 'Physical', '90', '100%', '15', 'The user rampages and attacks for two to three turns. However, it then becomes confused.'], ['60', 'Dragon Dance', 'Dragon', 'Status', '-', '-', '20', 'The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.'], ['65', 'Fly', 'Flying', 'Physical', '70', '95%', '15', 'The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.'], ['75', 'Extremespeed', 'Normal', 'Physical', '80', '100%', '5', 'The user charges the foe at blinding speed. This attack always goes before any other move.'], ['80', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['90', 'Dragon Pulse', 'Dragon', 'Special', '90', '100%', '10', "The foe is attacked with a shock wave generated by the user's gaping mouth."]] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM02', 'Dragon Claw', 'Dragon', 'Physical', '80', '100%', '15', 'The user slashes the foe with huge, sharp claws.'], ['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM05', 'Roar', 'Normal', 'Status', '-', '100%', '20', 'The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM08', 'Bulk Up', 'Fighting', 'Status', '-', '-', '20', 'The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM24', 'Thunderbolt', 'Electric', 'Special', '95', '100%', '15', 'A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.'], ['TM25', 'Thunder', 'Electric', 'Special', '120', '70%', '10', 'A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM31', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM34', 'Shock Wave', 'Electric', 'Special', '60', '-', '20', 'The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.'], ['TM35', 'Flamethrower', 'Fire', 'Special', '95', '100%', '15', 'The foe is scorched with an intense blast of fire. The target may also be left with a burn.'], ['TM37', 'Sandstorm', 'Rock', 'Status', '-', '-', '10', 'A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.'], ['TM38', 'Fire Blast', 'Fire', 'Special', '120', '85%', '5', 'The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM40', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM50', 'Overheat', 'Fire', 'Special', '140', '90%', '5', "The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat."], ['TM52', 'Focus Blast', 'Fighting', 'Special', '120', '70%', '5', "The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def."], ['TM53', 'Energy Ball', 'Grass', 'Special', '80', '100%', '10', "The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def."], ['TM56', 'Fling', 'Dark', 'Physical', 'Varies', '100%', '10', 'The user flings its held item at the foe to attack. Its power and effects depend on the item.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM59', 'Dragon Pulse', 'Dragon', 'Special', '90', '100%', '10', "The foe is attacked with a shock wave generated by the user's gaping mouth."], ['TM65', 'Shadow Claw', 'Ghost', 'Physical', '70', '100%', '15', 'The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM71', 'Stone Edge', 'Rock', 'Physical', '100', '80%', '5', 'The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.'], ['TM72', 'Avalanche', 'Ice', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['TM73', 'Thunder Wave', 'Electric', 'Status', '-', '100%', '20', 'A weak electric charge is launched at the foe. It causes paralysis if it hits.'], ['TM74', 'Gyro Ball', 'Steel', 'Physical', 'Varies', '100%', '5', 'The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.'], ['TM75', 'Swords Dance', 'Normal', 'Status', '-', '-', '30', "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."], ['TM77', 'Psych Up', 'Normal', 'Status', '-', '-', '10', 'The user hypnotizes itself into copying any stat change made by the foe.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM02', 'Fly', 'Flying', 'Physical', '70', '95%', '15', 'The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.'], ['HM03', 'Surf', 'Water', 'Special', '95', '100%', '15', 'It swamps the entire battlefield with a giant wave. It can also be used for crossing water.'], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."], ['HM07', 'Waterfall', 'Water', 'Physical', '80', '100%', '15', 'The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Dive', 'Water', 'Physical', '60', '100%', '10', 'A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.'], ['Fury Cutter', 'Bug', 'Physical', '10', '95%', '20', 'The foe is slashed with scythes or claws. Its power increases if it hits in succession.'], ['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Uproar', 'Normal', 'Special', '50', '100%', '10', 'The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.'], ['Ancientpower', 'Rock', 'Special', '60', '100%', '5', "The user attacks with a prehistoric power. It may also raise all the user's stats at once."], ['Aqua Tail', 'Water', 'Physical', '90', '90%', '10', 'The user attacks by swinging its tail as if it were a vicious wave in a raging storm.'], ['Earth Power', 'Ground', 'Special', '90', '100%', '10', "The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def."], ['Iron Head', 'Steel', 'Physical', '80', '100%', '15', 'The foe slams the target with its steel-hard head. It may also make the target flinch.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Outrage', 'Dragon', 'Physical', '90', '100%', '15', 'The user rampages and attacks for two to three turns. However, it then becomes confused.'], ['Twister', 'Dragon', 'Special', '40', '100%', '20', 'The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.'], ['Tailwind', 'Flying', 'Status', '-', '-', '30', 'The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

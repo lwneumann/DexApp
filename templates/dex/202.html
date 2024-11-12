@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "201" %}
+{% set next = "203" %}
+{% set number = "202" %}
+{% set name = "Wobbuffet" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ソーナンス) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = True %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It hates light and shock. If attacked, it inflates its body to build up its counterstrike."
+{% endblock %}
+{% block flavor_2 %}
+"To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Patient
+{% endblock %}
+{% block p_height %}
+4'03"
+{% endblock %}
+{% block p_weight %}
+63.0
+{% endblock %}
+{% block p_capture_rate %}
+45
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Indeterminate
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+60
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '0.5', '1', '1', '1', '0.5', '2', '1', '2', '1', '2', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Dark Cave, Cerulean Cave, Safari Zone', 'Dark Cave, Cerulean Cave, Safari Zone'] %}
+{% set has_pokewalker = True %}
+{% set has_items = False %}
+{% set pokewalker = [['Noisy Forest']] %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 190 %}
+{% set hp_width = 75 %}
+{% set hprange50 = "250 - 297" %}
+{% set hprange100 = "490 - 584" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 33 %}
+{% set att_width = 13 %}
+{% set attrange50 = "34 - 93" %}
+{% set attrange100 = "63 - 181" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 58 %}
+{% set def_width = 23 %}
+{% set defrange50 = "56 - 121" %}
+{% set defrange100 = "108 - 236" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 33 %}
+{% set spatt_width = 13 %}
+{% set spattrange50 = "34 - 93" %}
+{% set spattrange100 = "63 - 181" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 58 %}
+{% set spdef_width = 23 %}
+{% set spdefrange50 = "56 - 121" %}
+{% set spdefrange100 = "108 - 236" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 33 %}
+{% set spd_width = 13 %}
+{% set spdrange50 = "34 - 93" %}
+{% set spdrange100 = "63 - 181" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['2', '0', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Shadow Tag', 'When this Pokemon enters the field, its opponents cannot switch or flee the battle unless they have the same ability, are holding Shed Shell, or they use the moves Baton Pass or U-Turn.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['0', 'Destiny Bond', 'Ghost', 'Status', '-', '-', '5', 'When this move is used, if the user faints, the foe that landed the knockout hit also faints.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = None %}
+{% set has_TMHM = False %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = None %}
+{% set has_tutor_moves = False %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

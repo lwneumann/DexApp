@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "77" %}
+{% set next = "79" %}
+{% set number = "78" %}
+{% set name = "Rapidash" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ギャロップ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"At full gallop, its four hooves barely touch the ground because it moves so incredibly fast."
+{% endblock %}
+{% block flavor_2 %}
+"With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Fire
+{% endblock %}
+{% block p_height %}
+5'07"
+{% endblock %}
+{% block p_weight %}
+209.0
+{% endblock %}
+{% block p_capture_rate %}
+60
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Ground
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Yellow
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Shuca Berry', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '0.5', '2', '1', '0.5', '0.5', '1', '1', '2', '1', '1', '0.5', '2', '1', '1', '1', '0.5'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Route 22, Route 28, Mt. Silver', 'Route 22, Route 28, Mt. Silver'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 65 %}
+{% set hp_width = 25 %}
+{% set hprange50 = "125 - 172" %}
+{% set hprange100 = "240 - 334" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 100 %}
+{% set att_width = 39 %}
+{% set attrange50 = "94 - 167" %}
+{% set attrange100 = "184 - 328" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 70 %}
+{% set def_width = 27 %}
+{% set defrange50 = "67 - 134" %}
+{% set defrange100 = "130 - 262" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 80 %}
+{% set spatt_width = 31 %}
+{% set spattrange50 = "76 - 145" %}
+{% set spattrange100 = "148 - 284" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 80 %}
+{% set spdef_width = 31 %}
+{% set spdefrange50 = "76 - 145" %}
+{% set spdefrange100 = "148 - 284" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 105 %}
+{% set spd_width = 41 %}
+{% set spdrange50 = "99 - 172" %}
+{% set spdrange100 = "193 - 339" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '0', '0', '0', '2'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Run Away', 'Unless this Pokemon is under the effects of a trapping move or ability, such as Mean Look or Shadow Tag, it will escape from wild Pokemon battles without fail.'], ['Flash Fire', 'This Pokemon is immune to all Fire-type attacks; additionally, its own Fire-type attacks receive a 50% boost if a Fire-type move hits this Pokemon. Multiple boosts do not occur if this Pokemon is hit with multiple Fire-type attacks.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.'], ['0', 'Megahorn', 'Bug', 'Physical', '120', '85%', '10', 'Using its tough and impressive horn, the user rams into the foe with no letup.'], ['0', 'Growl', 'Normal', 'Status', '-', '100%', '40', "The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered."], ['0', 'Quick Attack', 'Normal', 'Physical', '40', '100%', '30', 'The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.'], ['0', 'Tail Whip', 'Normal', 'Status', '-', '100%', '30', "The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered."], ['0', 'Ember', 'Fire', 'Special', '40', '100%', '25', 'The foe is attacked with small flames. The target may also be left with a burn.'], ['15', 'Flame Wheel', 'Fire', 'Physical', '60', '100%', '25', 'The user cloaks itself in fire and charges at the foe. It may also leave the target with a burn.'], ['19', 'Stomp', 'Normal', 'Physical', '65', '100%', '20', 'The foe is stomped with a big foot. It may also make the target flinch.'], ['24', 'Fire Spin', 'Fire', 'Special', '15', '70%', '15', 'The foe becomes trapped within a fierce vortex of fire that rages for two to five turns.'], ['28', 'Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['33', 'Agility', 'Psychic', 'Status', '-', '-', '30', 'The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.'], ['37', 'Fire Blast', 'Fire', 'Special', '120', '85%', '5', 'The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.'], ['40', 'Fury Attack', 'Normal', 'Physical', '15', '85%', '20', 'The foe is jabbed repeatedly with a horn or beak two to five times in a row.'], ['47', 'Bounce', 'Flying', 'Physical', '85', '85%', '5', 'The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.'], ['56', 'Flare Blitz', 'Fire', 'Physical', '120', '100%', '15', 'The user cloaks itself in fire and charges at the foe. The user sustains serious damage, too.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM35', 'Flamethrower', 'Fire', 'Special', '95', '100%', '15', 'The foe is scorched with an intense blast of fire. The target may also be left with a burn.'], ['TM38', 'Fire Blast', 'Fire', 'Special', '120', '85%', '5', 'The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM50', 'Overheat', 'Fire', 'Special', '140', '90%', '5', "The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM61', 'Will-O-Wisp', 'Fire', 'Status', '-', '75%', '15', 'The user shoots a sinister, bluish white flame at the foe to inflict a burn.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM84', 'Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Bounce', 'Flying', 'Physical', '85', '85%', '5', 'The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.'], ['Heat Wave', 'Fire', 'Special', '100', '90%', '10', 'The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Flame Wheel', 'Fire', 'Physical', '60', '100%', '25', 'The user cloaks itself in fire and charges at the foe. It may also leave the target with a burn.'], ['Thrash', 'Normal', 'Physical', '90', '100%', '20', 'The user rampages and attacks for two to three turns. It then becomes confused, however.'], ['Double Kick', 'Fighting', 'Physical', '30', '100%', '30', 'The foe is quickly kicked twice in succession using both feet.'], ['Hypnosis', 'Psychic', 'Status', '-', '60%', '20', 'The user employs hypnotic suggestion to make the target fall into a deep sleep.'], ['Charm', 'Normal', 'Status', '-', '100%', '20', "The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered."], ['Double-Edge', 'Normal', 'Physical', '120', '100%', '15', 'A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.'], ['Horn Drill', 'Normal', 'Physical', '1HKO', '30%', '5', 'The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits.'], ['Morning Sun', 'Normal', 'Status', '-', '-', '5', 'The user restores its own HP. The amount of HP regained varies with the weather.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "485" %}
+{% set next = "487" %}
+{% set number = "486" %}
+{% set name = "Regigigas" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (レジギガス) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma."
+{% endblock %}
+{% block flavor_2 %}
+"It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Colossal
+{% endblock %}
+{% block p_height %}
+12'02"
+{% endblock %}
+{% block p_weight %}
+925.9
+{% endblock %}
+{% block p_capture_rate %}
+3
+{% endblock %}
+{% block p_egg_steps %}
+30,720
+{% endblock %}
+{% block p_egg_groups %}
+Regigigas cannot breed
+{% endblock %}
+{% block exp_growth %}
+1,250,000 - Slow
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+White
+{% endblock %}
+{% block base_happiness %}
+0
+{% endblock %}
+{% block gender_ratio %}
+♂: G% &emsp; ♀: e%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '2', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Trade from DPt', 'Trade from DPt'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 110 %}
+{% set hp_width = 43 %}
+{% set hprange50 = "170 - 217" %}
+{% set hprange100 = "330 - 424" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 160 %}
+{% set att_width = 63 %}
+{% set attrange50 = "148 - 233" %}
+{% set attrange100 = "292 - 460" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 110 %}
+{% set def_width = 43 %}
+{% set defrange50 = "103 - 178" %}
+{% set defrange100 = "202 - 350" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 80 %}
+{% set spatt_width = 31 %}
+{% set spattrange50 = "76 - 145" %}
+{% set spattrange100 = "148 - 284" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 110 %}
+{% set spdef_width = 43 %}
+{% set spdefrange50 = "103 - 178" %}
+{% set spdefrange100 = "202 - 350" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 100 %}
+{% set spd_width = 39 %}
+{% set spdrange50 = "94 - 167" %}
+{% set spdrange100 = "184 - 328" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '3', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Slow Start', 'Each time this Pokemon switches into the battle, its Attack and Speed stats are halved for five turns; for example, if this Pokemon has an Attack stat of 400, it will effectively have an Attack stat of 200 until the effects of Slow Start wear off.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Fire Punch', 'Fire', 'Physical', '75', '100%', '15', 'The foe is punched with a fiery fist. It may leave the target with a burn.'], ['0', 'Ice Punch', 'Ice', 'Physical', '75', '100%', '15', 'The foe is punched with an icy fist. It may leave the target frozen.'], ['0', 'Thunder Punch', 'Electric', 'Physical', '75', '100%', '15', 'The foe is punched with an electrified fist. It may leave the target with paralysis.'], ['0', 'Dizzy Punch', 'Normal', 'Physical', '70', '100%', '10', 'The foe is hit with rhythmically launched punches that may also leave it confused.'], ['0', 'Knock Off', 'Dark', 'Physical', '20', '100%', '20', "The user slaps down the foe's held item, preventing the item from being used during the battle."], ['0', 'Confuse Ray', 'Ghost', 'Status', '-', '100%', '10', 'The foe is exposed to a sinister ray that triggers confusion.'], ['0', 'Foresight', 'Normal', 'Status', '-', '100%', '40', 'Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.'], ['25', 'Revenge', 'Fighting', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['50', 'Zen Headbutt', 'Psychic', 'Physical', '80', '90%', '15', 'The user focuses its willpower to its head and rams the foe. It may also make the target flinch.'], ['100', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM01', 'Focus Punch', 'Fighting', 'Physical', '150', '100%', '20', 'The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM20', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM24', 'Thunderbolt', 'Electric', 'Special', '95', '100%', '15', 'A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.'], ['TM25', 'Thunder', 'Electric', 'Special', '120', '70%', '10', 'A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM31', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM34', 'Shock Wave', 'Electric', 'Special', '60', '-', '20', 'The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM40', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM52', 'Focus Blast', 'Fighting', 'Special', '120', '70%', '5', "The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def."], ['TM56', 'Fling', 'Dark', 'Physical', 'Varies', '100%', '10', 'The user flings its held item at the foe to attack. Its power and effects depend on the item.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM60', 'Drain Punch', 'Fighting', 'Physical', '60', '100%', '5', "An energy-draining punch. The user's HP is restored by half the damage taken by the target."], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM69', 'Rock Polish', 'Rock', 'Status', '-', '-', '20', 'The user polishes its body to reduce drag. It can sharply raise the Speed stat.'], ['TM71', 'Stone Edge', 'Rock', 'Physical', '100', '80%', '5', 'The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.'], ['TM72', 'Avalanche', 'Ice', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['TM73', 'Thunder Wave', 'Electric', 'Status', '-', '100%', '20', 'A weak electric charge is launched at the foe. It causes paralysis if it hits.'], ['TM77', 'Psych Up', 'Normal', 'Status', '-', '-', '10', 'The user hypnotizes itself into copying any stat change made by the foe.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."], ['HM08', 'Rock Climb', 'Normal', 'Physical', '90', '85%', '20', 'A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Fire Punch', 'Fire', 'Physical', '75', '100%', '15', 'The foe is punched with a fiery fist. It may leave the target with a burn.'], ['Ice Punch', 'Ice', 'Physical', '75', '100%', '15', 'The foe is punched with an icy fist. It may leave the target frozen.'], ['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Thunder Punch', 'Electric', 'Physical', '75', '100%', '15', 'The foe is punched with an electrified fist. It may leave the target with paralysis.'], ['Zen Headbutt', 'Psychic', 'Physical', '80', '90%', '15', 'The user focuses its willpower to its head and rams the foe. It may also make the target flinch.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Ancientpower', 'Rock', 'Special', '60', '100%', '5', "The user attacks with a prehistoric power. It may also raise all the user's stats at once."], ['Earth Power', 'Ground', 'Special', '90', '100%', '10', "The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def."], ['Iron Head', 'Steel', 'Physical', '80', '100%', '15', 'The foe slams the target with its steel-hard head. It may also make the target flinch.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Superpower', 'Fighting', 'Physical', '120', '100%', '5', "The user attacks the foe with great power. However, it also lowers the user's Attack and Defense."], ['Gravity', 'Psychic', 'Status', '-', '-', '5', 'Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.'], ['Block', 'Normal', 'Status', '-', '100%', '5', "The user blocks the foe's way with arms spread wide to prevent escape."], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

@@ -408,6 +408,8 @@
     </div>
     
     <!-- TMHM Moves -->
+    {% block TMHM %}
+    {% if has_egg_moves %}
     <div>
         <h2>Learnable TMs and HMs</h2>
         <table class="plainTable">
@@ -420,7 +422,6 @@
                 <th style="width: 5%;">Acc.</th>
                 <th style="width: 4%;">PP</th>
             </tr>
-            {% block TMHM %}
             {% for move in tmhm_list %}
                 <tr>
                     <td rowspan="2">{{move[0]}}</td>
@@ -435,9 +436,10 @@
                     <td colspan="6">{{move[7]}}</td>
                 </tr>
             {% endfor %}
-            {% endblock %}
         </table>
     </div>
+    {% endif %}
+    {% endblock %}
 
 
     <!-- Tutors Moves -->

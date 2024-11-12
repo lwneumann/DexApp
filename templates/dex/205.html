@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "204" %}
+{% set next = "206" %}
+{% set number = "205" %}
+{% set name = "Forretress" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (フォレトス) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery."
+{% endblock %}
+{% block flavor_2 %}
+"It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Bagworm
+{% endblock %}
+{% block p_height %}
+3'11"
+{% endblock %}
+{% block p_weight %}
+277.3
+{% endblock %}
+{% block p_capture_rate %}
+75
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Purple
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['0.5', '4', '1', '1', '0.25', '0.5', '1', '0', '1', '1', '0.5', '0.5', '1', '0.5', '0.5', '0.5', '0.5'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Evolve Pineco', 'Evolve Pineco'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 75 %}
+{% set hp_width = 29 %}
+{% set hprange50 = "135 - 182" %}
+{% set hprange100 = "260 - 354" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 90 %}
+{% set att_width = 35 %}
+{% set attrange50 = "85 - 156" %}
+{% set attrange100 = "166 - 306" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 140 %}
+{% set def_width = 55 %}
+{% set defrange50 = "130 - 211" %}
+{% set defrange100 = "256 - 416" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 60 %}
+{% set spatt_width = 24 %}
+{% set spattrange50 = "58 - 123" %}
+{% set spattrange100 = "112 - 240" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 60 %}
+{% set spdef_width = 24 %}
+{% set spdefrange50 = "58 - 123" %}
+{% set spdefrange100 = "112 - 240" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 40 %}
+{% set spd_width = 16 %}
+{% set spdrange50 = "40 - 101" %}
+{% set spdrange100 = "76 - 196" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '2', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Sturdy', 'The one-hit KO moves Fissure, Guillotine, Horn Drill and Sheer Cold do not affect this Pokemon.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Toxic Spikes', 'Poison', 'Status', '-', '-', '20', "The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle."], ['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['0', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['0', 'Selfdestruct', 'Normal', 'Physical', '200', '100%', '5', 'The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['0', 'Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.'], ['12', 'Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['17', 'Rapid Spin', 'Normal', 'Physical', '20', '100%', '40', 'A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.'], ['28', 'Spikes', 'Ground', 'Status', '-', '-', '20', "The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle."], ['31', 'Mirror Shot', 'Steel', 'Special', '65', '85%', '10', "The user looses a flash of energy from its polished body. It may also lower the target's accuracy."], ['33', 'Payback', 'Dark', 'Physical', '50', '100%', '10', 'If the user can use this attack after the foe attacks, its power is doubled.'], ['38', 'Explosion', 'Normal', 'Physical', '250', '100%', '5', 'The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['45', 'Iron Defense', 'Steel', 'Status', '-', '-', '15', "The user hardens its body's surface like iron, sharply raising its Defense stat."], ['55', 'Double-Edge', 'Normal', 'Physical', '120', '100%', '15', 'A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.'], ['62', 'Magnet Rise', 'Electric', 'Status', '-', '-', '10', 'The user levitates using electrically generated magnetism for five turns.'], ['67', 'Zap Cannon', 'Electric', 'Special', '100', '50%', '5', 'The user fires an electric blast like a cannon to inflict damage and cause paralysis.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM16', 'Light Screen', 'Psychic', 'Status', '-', '-', '30', 'A wondrous wall of light is put up to suppress damage from special attacks for five turns.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM33', 'Reflect', 'Psychic', 'Status', '-', '-', '20', 'A wondrous wall of light is put up to suppress damage from physical attacks for five turns.'], ['TM37', 'Sandstorm', 'Rock', 'Status', '-', '-', '10', 'A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM64', 'Explosion', 'Normal', 'Physical', '250', '100%', '5', 'The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['TM66', 'Payback', 'Dark', 'Physical', '50', '100%', '10', 'If the user can use this attack after the foe attacks, its power is doubled.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM69', 'Rock Polish', 'Rock', 'Status', '-', '-', '20', 'The user polishes its body to reduce drag. It can sharply raise the Speed stat.'], ['TM74', 'Gyro Ball', 'Steel', 'Physical', 'Varies', '100%', '5', 'The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.'], ['TM76', 'Stealth Rock', 'Rock', 'Status', '-', '-', '20', 'The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['TM91', 'Flash Cannon', 'Steel', 'Special', '80', '100%', '10', "The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Magnet Rise', 'Electric', 'Status', '-', '-', '10', 'The user levitates using electrically generated magnetism for five turns.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Iron Defense', 'Steel', 'Status', '-', '-', '15', "The user hardens its body's surface like iron, sharply raising its Defense stat."], ['Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['Pain Split', 'Normal', 'Status', '-', '100%', '20', "The user adds its HP to the foe's HP, then equally shares the combined HP with the foe."], ['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Gravity', 'Psychic', 'Status', '-', '-', '5', 'Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.'], ['Block', 'Normal', 'Status', '-', '100%', '5', "The user blocks the foe's way with arms spread wide to prevent escape."], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Reflect', 'Psychic', 'Status', '-', '-', '20', 'A wondrous wall of light is put up to suppress damage from physical attacks for five turns.'], ['Pin Missile', 'Bug', 'Physical', '14', '85%', '20', 'Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.'], ['Flail', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Counter', 'Fighting', 'Physical', 'Varies', '100%', '20', 'A retaliation move that counters any physical attack, inflicting double the damage taken.'], ['Sand Tomb', 'Ground', 'Physical', '15', '70%', '15', 'The user traps the foe inside a harshly raging sandstorm for two to five turns.'], ['Revenge', 'Fighting', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['Double-Edge', 'Normal', 'Physical', '120', '100%', '15', 'A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.'], ['Toxic Spikes', 'Poison', 'Status', '-', '-', '20', "The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle."], ['Power Trick', 'Psychic', 'Status', '-', '-', '10', 'The user employs its psychic power to switch its Attack with its Defense stat.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "283" %}
+{% set next = "285" %}
+{% set number = "284" %}
+{% set name = "Masquerain" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (アメモース) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It flaps its four wings to hover and fly freely in any direction-- to and fro and sideways."
+{% endblock %}
+{% block flavor_2 %}
+"It flaps its four wings to hover and fly freely in any direction-- to and fro and sideways."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Eyeball
+{% endblock %}
+{% block p_height %}
+2'07"
+{% endblock %}
+{% block p_weight %}
+7.9
+{% endblock %}
+{% block p_capture_rate %}
+75
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Water 1, Bug
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Silver Powder', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '2', '0.25', '2', '0.25', '1', '0', '2', '1', '0.5', '4', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Safari Zone (Special Items)', 'Safari Zone (Special Items)'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 70 %}
+{% set hp_width = 27 %}
+{% set hprange50 = "130 - 177" %}
+{% set hprange100 = "250 - 344" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 60 %}
+{% set att_width = 24 %}
+{% set attrange50 = "58 - 123" %}
+{% set attrange100 = "112 - 240" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 62 %}
+{% set def_width = 24 %}
+{% set defrange50 = "60 - 125" %}
+{% set defrange100 = "116 - 245" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 80 %}
+{% set spatt_width = 31 %}
+{% set spattrange50 = "76 - 145" %}
+{% set spattrange100 = "148 - 284" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 82 %}
+{% set spdef_width = 32 %}
+{% set spdefrange50 = "78 - 147" %}
+{% set spdefrange100 = "152 - 289" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 60 %}
+{% set spd_width = 24 %}
+{% set spdrange50 = "58 - 123" %}
+{% set spdrange100 = "112 - 240" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '1', '1', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Intimidate', 'When this Pokemon enters the field, the Attack stat of each of its opponents lowers by one stage.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Ominous Wind', 'Ghost', 'Special', '60', '100%', '5', "The user creates a gust of repulsive wind. It may also raise all the user's stats at once."], ['0', 'Bubble', 'Water', 'Special', '20', '100%', '30', "A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat."], ['0', 'Quick Attack', 'Normal', 'Physical', '40', '100%', '30', 'The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.'], ['0', 'Sweet Scent', 'Normal', 'Status', '-', '100%', '20', "A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc."], ['0', 'Water Sport', 'Water', 'Status', '-', '100%', '15', 'The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.'], ['22', 'Gust', 'Flying', 'Special', '40', '100%', '35', 'A gust of wind is whipped up by wings and launched at the foe to inflict damage.'], ['26', 'Scary Face', 'Normal', 'Status', '-', '90%', '10', 'The user frightens the foe with a scary face to sharply reduce its Speed stat.'], ['33', 'Stun Spore', 'Grass', 'Status', '-', '75%', '30', 'The user scatters a cloud of paralyzing powder. It may paralyze the target.'], ['40', 'Silver Wind', 'Bug', 'Special', '60', '100%', '5', "The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats."], ['47', 'Air Slash', 'Flying', 'Special', '75', '95%', '20', 'The user attacks with a blade of air that slices even the sky. It may also make the target flinch.'], ['54', 'Whirlwind', 'Normal', 'Status', '-', '100%', '20', 'The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.'], ['61', 'Bug Buzz', 'Bug', 'Special', '90', '100%', '10', "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat."]] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM30', 'Shadow Ball', 'Ghost', 'Special', '80', '100%', '15', "The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM40', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM51', 'Roost', 'Flying', 'Status', '-', '-', '10', "The user lands and rests its body. It restores the user's HP by up to half of its max HP."], ['TM53', 'Energy Ball', 'Grass', 'Special', '80', '100%', '10', "The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM62', 'Silver Wind', 'Bug', 'Special', '60', '100%', '5', "The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats."], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM70', 'Flash', 'Normal', 'Status', '-', '70%', '20', "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves."], ['TM77', 'Psych Up', 'Normal', 'Status', '-', '-', '10', 'The user hypnotizes itself into copying any stat change made by the foe.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM89', 'U-turn', 'Bug', 'Physical', '70', '100%', '20', 'After making its attack, the user rushes back to switch places with a party Pokémon in waiting.'], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Air Cutter', 'Flying', 'Special', '55', '95%', '25', 'The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.'], ['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Ominous Wind', 'Ghost', 'Special', '60', '100%', '5', "The user creates a gust of repulsive wind. It may also raise all the user's stats at once."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['Twister', 'Dragon', 'Special', '40', '100%', '20', 'The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.'], ['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Tailwind', 'Flying', 'Status', '-', '-', '30', 'The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Foresight', 'Normal', 'Status', '-', '100%', '40', 'Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.'], ['Mud Shot', 'Ground', 'Special', '55', '95%', '15', "The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed."], ['Psybeam', 'Psychic', 'Special', '65', '100%', '20', 'The foe is attacked with a peculiar ray. It may also leave the target confused.'], ['Hydro Pump', 'Water', 'Special', '120', '80%', '5', 'The foe is blasted by a huge volume of water launched under great pressure.'], ['Mind Reader', 'Normal', 'Status', '-', '100%', '5', "The user senses the foe's movements with its mind to ensure its next attack does not miss."], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

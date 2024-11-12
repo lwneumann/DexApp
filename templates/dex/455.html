@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "454" %}
+{% set next = "456" %}
+{% set number = "455" %}
+{% set name = "Carnivine" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (マスキッパ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey."
+{% endblock %}
+{% block flavor_2 %}
+"It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Bug
+{% endblock %}
+{% block p_height %}
+4'07"
+{% endblock %}
+{% block p_weight %}
+59.5
+{% endblock %}
+{% block p_capture_rate %}
+200
+{% endblock %}
+{% block p_egg_steps %}
+6,400
+{% endblock %}
+{% block p_egg_groups %}
+Plant
+{% endblock %}
+{% block exp_growth %}
+1,250,000 - Slow
+{% endblock %}
+{% block safarizone %}
+60
+{% endblock %}
+{% block color %}
+Green
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '0.5', '0.5', '0.5', '2', '1', '2', '0.5', '2', '1', '2', '1', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Ilex Forest, Viridian Forest, Safari Zone (With Blocks After Levelled Up)', 'Ilex Forest, Viridian Forest, Safari Zone (With Blocks After Levelled Up)'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 74 %}
+{% set hp_width = 29 %}
+{% set hprange50 = "134 - 181" %}
+{% set hprange100 = "258 - 352" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 100 %}
+{% set att_width = 39 %}
+{% set attrange50 = "94 - 167" %}
+{% set attrange100 = "184 - 328" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 72 %}
+{% set def_width = 28 %}
+{% set defrange50 = "69 - 136" %}
+{% set defrange100 = "134 - 267" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 90 %}
+{% set spatt_width = 35 %}
+{% set spattrange50 = "85 - 156" %}
+{% set spattrange100 = "166 - 306" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 72 %}
+{% set spdef_width = 28 %}
+{% set spdefrange50 = "69 - 136" %}
+{% set spdefrange100 = "134 - 267" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 46 %}
+{% set spd_width = 18 %}
+{% set spdrange50 = "45 - 107" %}
+{% set spdrange100 = "87 - 210" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '2', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Levitate', 'This Pokemon is immune to Ground-type attacks, Spikes, Toxic Spikes and the Arena Trap ability; it loses these immunities while holding Iron Ball, after using Ingrain or if Gravity is in effect.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Bind', 'Normal', 'Physical', '15', '75%', '20', 'A long body or tentacles are used to bind and squeeze the foe for two to five turns.'], ['0', 'Growth', 'Normal', 'Status', '-', '-', '40', "The user's body is forced to grow all at once. It raises the Sp. Atk stat."], ['7', 'Bite', 'Dark', 'Physical', '60', '100%', '25', 'The foe is bitten with viciously sharp fangs. It may make the target flinch.'], ['11', 'Vine Whip', 'Grass', 'Physical', '035', '100%', '15', 'The foe is struck with slender, whiplike vines to inflict damage.'], ['17', 'Sweet Scent', 'Normal', 'Status', '-', '100%', '20', "A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc."], ['21', 'Ingrain', 'Grass', 'Status', '-', '100%', '20', "The user lays roots that restore HP on every turn. Because it is rooted, it can't switch out."], ['27', 'Faint Attack', 'Dark', 'Physical', '60', '-', '20', 'The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.'], ['31', 'Stockpile', 'Normal', 'Status', '-', '-', '20', 'The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.'], ['31', 'Swallow', 'Normal', 'Status', '-', '-', '10', 'The power stored using the move Stockpile is absorbed by the user to heal its HP.'], ['37', 'Crunch', 'Dark', 'Physical', '80', '100%', '15', "The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat."], ['47', 'Power Whip', 'Grass', 'Physical', '120', '85%', '10', 'The user violently whirls its vines or tentacles to harshly lash the foe.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM09', 'Bullet Seed', 'Grass', 'Physical', '10', '100%', '30', 'The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM36', 'Sludge Bomb', 'Poison', 'Special', '90', '100%', '10', 'The user attacks by hurling filthy sludge at the foe. It may also poison the target.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM53', 'Energy Ball', 'Grass', 'Special', '80', '100%', '10', "The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def."], ['TM56', 'Fling', 'Dark', 'Physical', 'Varies', '100%', '10', 'The user flings its held item at the foe to attack. Its power and effects depend on the item.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM66', 'Payback', 'Dark', 'Physical', '50', '100%', '10', 'If the user can use this attack after the foe attacks, its power is doubled.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM70', 'Flash', 'Normal', 'Status', '-', '70%', '20', "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves."], ['TM75', 'Swords Dance', 'Normal', 'Status', '-', '-', '30', "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM86', 'Grass Knot', 'Grass', 'Special', 'Varies', '100%', '20', 'The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM01', 'Cut', 'Normal', 'Physical', '50', '95%', '30', 'The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Fury Cutter', 'Bug', 'Physical', '10', '95%', '20', 'The foe is slashed with scythes or claws. Its power increases if it hits in succession.'], ['Knock Off', 'Dark', 'Physical', '20', '100%', '20', "The user slaps down the foe's held item, preventing the item from being used during the battle."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Synthesis', 'Grass', 'Status', '-', '-', '5', 'The user restores its own HP. The amount of HP regained varies with the weather.'], ['Gastro Acid', 'Poison', 'Status', '-', '100%', '10', "The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability."], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Seed Bomb', 'Grass', 'Physical', '80', '100%', '15', 'The user slams a barrage of hard- shelled seeds down on the foe from above.'], ['Worry Seed', 'Grass', 'Status', '-', '100%', '10', 'A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Sleep Powder', 'Grass', 'Status', '-', '75%', '15', 'The user scatters a big cloud of sleep- inducing dust around the foe.'], ['Stun Spore', 'Grass', 'Status', '-', '75%', '30', 'The user scatters a cloud of paralyzing powder. It may paralyze the target.'], ['Razor Leaf', 'Grass', 'Physical', '55', '95%', '25', 'Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.'], ['Slam', 'Normal', 'Physical', '80', '75%', '20', 'The foe is slammed with a long tail, vines, etc., to inflict damage.'], ['Synthesis', 'Grass', 'Status', '-', '-', '5', 'The user restores its own HP. The amount of HP regained varies with the weather.'], ['Magical Leaf', 'Grass', 'Special', '60', '-', '20', 'The user scatters curious leaves that chase the foe. This attack will not miss.'], ['Leech Seed', 'Grass', 'Status', '-', '90%', '10', 'A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.'], ['Worry Seed', 'Grass', 'Status', '-', '100%', '10', 'A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

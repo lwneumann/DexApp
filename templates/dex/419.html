@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "418" %}
+{% set next = "420" %}
+{% set number = "419" %}
+{% set name = "Floatzel" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (フローゼル) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives."
+{% endblock %}
+{% block flavor_2 %}
+"With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Sea
+{% endblock %}
+{% block p_height %}
+3'07"
+{% endblock %}
+{% block p_weight %}
+73.9
+{% endblock %}
+{% block p_capture_rate %}
+75
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Water 1, Ground
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Brown
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Wacan Berry', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '0.5', '0.5', '2', '2', '0.5', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0.5'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Safari Zone (Special Items)', 'Safari Zone (Special Items)'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 85 %}
+{% set hp_width = 33 %}
+{% set hprange50 = "145 - 192" %}
+{% set hprange100 = "280 - 374" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 105 %}
+{% set att_width = 41 %}
+{% set attrange50 = "99 - 172" %}
+{% set attrange100 = "193 - 339" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 55 %}
+{% set def_width = 22 %}
+{% set defrange50 = "54 - 117" %}
+{% set defrange100 = "103 - 229" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 85 %}
+{% set spatt_width = 33 %}
+{% set spattrange50 = "81 - 150" %}
+{% set spattrange100 = "157 - 295" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 50 %}
+{% set spdef_width = 20 %}
+{% set spdefrange50 = "49 - 112" %}
+{% set spdefrange100 = "94 - 218" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 115 %}
+{% set spd_width = 45 %}
+{% set spdrange50 = "108 - 183" %}
+{% set spdrange100 = "211 - 361" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '0', '0', '0', '2'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Swift Swim', 'If this Pokemon is active while Rain Dance is in effect, its speed is temporarily doubled.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Ice Fang', 'Ice', 'Physical', '65', '95%', '15', 'The user bites with cold-infused fangs. It may also make the foe flinch or freeze.'], ['0', 'Growl', 'Normal', 'Status', '-', '100%', '40', "The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered."], ['0', 'Water Sport', 'Water', 'Status', '-', '100%', '15', 'The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.'], ['0', 'Quick Attack', 'Normal', 'Physical', '40', '100%', '30', 'The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.'], ['20', 'SonicBoom', 'Normal', 'Special', 'Fixed', '90%', '20', 'The foe is hit with a destructive shock wave that always inflicts 20 HP damage.'], ['6', 'Water Gun', 'Water', 'Special', '40', '100%', '25', 'The foe is blasted with a forceful shot of water.'], ['10', 'Pursuit', 'Dark', 'Physical', '40', '100%', '20', 'An attack move that inflicts double damage if used on a foe that is switching out of battle.'], ['15', 'Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['21', 'Aqua Jet', 'Water', 'Physical', '40', '100%', '20', 'The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.'], ['26', 'Crunch', 'Dark', 'Physical', '80', '100%', '15', "The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat."], ['29', 'Agility', 'Psychic', 'Status', '-', '-', '30', 'The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.'], ['39', 'Whirlpool', 'Water', 'Special', '15', '70%', '15', 'Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.'], ['50', 'Razor Wind', 'Normal', 'Special', '80', '100%', '10', 'A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM01', 'Focus Punch', 'Fighting', 'Physical', '150', '100%', '20', 'The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.'], ['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM05', 'Roar', 'Normal', 'Status', '-', '100%', '20', 'The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM07', 'Hail', 'Ice', 'Status', '-', '-', '10', 'The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.'], ['TM08', 'Bulk Up', 'Fighting', 'Status', '-', '-', '20', 'The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM12', 'Taunt', 'Dark', 'Status', '-', '100%', '20', 'The foe is taunted into a rage that allows it to use only attack moves for two to four turns.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM31', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM41', 'Torment', 'Dark', 'Status', '-', '100%', '15', 'The user torments and enrages the foe, making it incapable of using the same move twice in a row.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM52', 'Focus Blast', 'Fighting', 'Special', '120', '70%', '5', "The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def."], ['TM55', 'Brine', 'Water', 'Special', '65', '100%', '10', "If the foe's HP is down to about half, this attack will hit with double the power."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM66', 'Payback', 'Dark', 'Physical', '50', '100%', '10', 'If the user can use this attack after the foe attacks, its power is doubled.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM03', 'Surf', 'Water', 'Special', '95', '100%', '15', 'It swamps the entire battlefield with a giant wave. It can also be used for crossing water.'], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."], ['HM07', 'Waterfall', 'Water', 'Physical', '80', '100%', '15', 'The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Dive', 'Water', 'Physical', '60', '100%', '10', 'A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.'], ['Ice Punch', 'Ice', 'Physical', '75', '100%', '15', 'The foe is punched with an icy fist. It may leave the target frozen.'], ['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Aqua Tail', 'Water', 'Physical', '90', '90%', '10', 'The user attacks by swinging its tail as if it were a vicious wave in a raging storm.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Low Kick', 'Fighting', 'Physical', 'Varies', '100%', '20', 'A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.'], ['Fury Swipes', 'Normal', 'Physical', '18', '80%', '15', 'The foe is raked with sharp claws or scythes for two to five times in quick succession.'], ['Slash', 'Normal', 'Physical', '70', '100%', '20', 'The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.'], ['Odor Sleuth', 'Normal', 'Status', '-', '100%', '40', 'Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.'], ['Double Slap', 'Normal', 'Physical', '15', '85%', '10', 'The foe is slapped repeatedly, back and forth, two to five times in a row.'], ['Fury Cutter', 'Bug', 'Physical', '10', '95%', '20', 'The foe is slashed with scythes or claws. Its power increases if it hits in succession.'], ['Baton Pass', 'Normal', 'Status', '-', '-', '40', 'The user switches places with a party Pokémon in waiting, passing along any stat changes.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

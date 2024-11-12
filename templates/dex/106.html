@@ -1,0 +1,168 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "105" %}
+{% set next = "107" %}
+{% set number = "106" %}
+{% set name = "Hitmonlee" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (サワムラー) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position."
+{% endblock %}
+{% block flavor_2 %}
+"If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Kicking
+{% endblock %}
+{% block p_height %}
+4'11"
+{% endblock %}
+{% block p_weight %}
+109.8
+{% endblock %}
+{% block p_capture_rate %}
+45
+{% endblock %}
+{% block p_egg_steps %}
+6,400
+{% endblock %}
+{% block p_egg_groups %}
+HumanShape
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Brown
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 100% &emsp; ♀: 0%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '1', '1', '1', '2', '2', '0.5', '0.5', '1', '1', '0.5', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Evolve Tyrogue', 'Evolve Tyrogue'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 50 %}
+{% set hp_width = 20 %}
+{% set hprange50 = "110 - 157" %}
+{% set hprange100 = "210 - 304" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 120 %}
+{% set att_width = 47 %}
+{% set attrange50 = "112 - 189" %}
+{% set attrange100 = "220 - 372" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 53 %}
+{% set def_width = 21 %}
+{% set defrange50 = "52 - 115" %}
+{% set defrange100 = "99 - 225" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 35 %}
+{% set spatt_width = 14 %}
+{% set spattrange50 = "36 - 95" %}
+{% set spattrange100 = "67 - 185" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 110 %}
+{% set spdef_width = 43 %}
+{% set spdefrange50 = "103 - 178" %}
+{% set spdefrange100 = "202 - 350" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 87 %}
+{% set spd_width = 34 %}
+{% set spdrange50 = "82 - 152" %}
+{% set spdrange100 = "161 - 300" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '2', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Limber', 'This Pokemon cannot become paralyzed.'], ['Reckless', "When this Pokemon uses an attack that causes recoil damage, or an attack that has a chance to cause recoil damage such as Jump Kick and Hi Jump Kick, the attacks's power receives a 20% boost."]] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Revenge', 'Fighting', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['0', 'Double Kick', 'Fighting', 'Physical', '30', '100%', '30', 'The foe is quickly kicked twice in succession using both feet.'], ['5', 'Meditate', 'Psychic', 'Status', '-', '-', '40', 'The user meditates to awaken the power deep within its body and raise its Attack stat.'], ['9', 'Rolling Kick', 'Fighting', 'Physical', '60', '85%', '15', 'The user lashes out with a quick, spinning kick. It may also make the target flinch.'], ['13', 'Jump Kick', 'Fighting', 'Physical', '70', '95%', '25', 'The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.'], ['17', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['21', 'Focus Energy', 'Normal', 'Status', '-', '-', '30', 'The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.'], ['25', 'Feint', 'Normal', 'Physical', '50', '100%', '10', 'An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.'], ['29', 'Hi Jump Kick', 'Fighting', 'Physical', '85', '90%', '20', 'The foe is attacked with a knee kick from a jump. If it misses, the user is hurt instead.'], ['33', 'Mind Reader', 'Normal', 'Status', '-', '100%', '5', "The user senses the foe's movements with its mind to ensure its next attack does not miss."], ['37', 'Foresight', 'Normal', 'Status', '-', '100%', '40', 'Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.'], ['41', 'Blaze Kick', 'Fire', 'Physical', '85', '90%', '10', 'The user launches a kick with a high critical-hit ratio. It may also leave the target with a burn.'], ['45', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['49', 'Mega Kick', 'Normal', 'Physical', '120', '75%', '5', 'The foe is attacked by a kick launched with muscle-packed power.'], ['53', 'Close Combat', 'Fighting', 'Physical', '120', '100%', '5', "The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def."]] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM01', 'Focus Punch', 'Fighting', 'Physical', '150', '100%', '20', 'The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM08', 'Bulk Up', 'Fighting', 'Status', '-', '-', '20', 'The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM31', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM52', 'Focus Blast', 'Fighting', 'Special', '120', '70%', '5', "The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def."], ['TM56', 'Fling', 'Dark', 'Physical', 'Varies', '100%', '10', 'The user flings its held item at the foe to attack. Its power and effects depend on the item.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM71', 'Stone Edge', 'Rock', 'Physical', '100', '80%', '5', 'The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM84', 'Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."], ['HM08', 'Rock Climb', 'Normal', 'Physical', '90', '85%', '20', 'A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Knock Off', 'Dark', 'Physical', '20', '100%', '20', "The user slaps down the foe's held item, preventing the item from being used during the battle."], ['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Vacuum Wave', 'Fighting', 'Special', '40', '100%', '30', 'The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.'], ['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Bounce', 'Flying', 'Physical', '85', '85%', '5', 'The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Superpower', 'Fighting', 'Physical', '120', '100%', '5', "The user attacks the foe with great power. However, it also lowers the user's Attack and Defense."], ['Role Play', 'Psychic', 'Status', '-', '100%', '10', "The user mimics the foe completely, copying the foe's natural ability."], ['Low Kick', 'Fighting', 'Physical', 'Varies', '100%', '20', 'A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Rapid Spin', 'Normal', 'Physical', '20', '100%', '40', 'A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.'], ['Hi Jump Kick', 'Fighting', 'Physical', '85', '90%', '20', 'The foe is attacked with a knee kick from a jump. If it misses, the user is hurt instead.'], ['Mach Punch', 'Fighting', 'Physical', '40', '100%', '30', 'The user throws a punch at blinding speed. It is certain to strike first.'], ['Mind Reader', 'Normal', 'Status', '-', '100%', '5', "The user senses the foe's movements with its mind to ensure its next attack does not miss."], ['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Counter', 'Fighting', 'Physical', 'Varies', '100%', '20', 'A retaliation move that counters any physical attack, inflicting double the damage taken.'], ['Vacuum Wave', 'Fighting', 'Special', '40', '100%', '30', 'The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.'], ['Bullet Punch', 'Steel', 'Physical', '40', '100%', '30', 'The user strikes with a tough punch as fast as a bullet. This move always goes first.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}
