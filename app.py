@@ -47,7 +47,6 @@ def mon_page(mon):
 
 @app.route('/ability/')
 def ability_page():
-    print('poo')
     return render_template('abilities.html', ability_list=abilities.ability_list)
 
 # Errors --

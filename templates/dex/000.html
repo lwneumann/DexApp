@@ -403,14 +403,41 @@
             {% endfor %}
             {% endblock %}
         </table>
-        
     </div>
     
-    <!-- HMTM Moves -->
+    <!-- TMHM Moves -->
     <div>
         <h2>Learnable TMs and HMs</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 6%;">TMHM</th>
+                <th>Move</th>
+                <th style="width: 5%;">Type</th>
+                <th style="width: 4%;">Cat.</th>
+                <th style="width: 5%;">Power</th>
+                <th style="width: 5%;">Acc.</th>
+                <th style="width: 4%;">PP</th>
+            </tr>
+            {% block TMHM %}
+            {% for move in tmhm_list %}
+                <tr>
+                    <td rowspan="2">{{move[0]}}</td>
+                    <td>{{move[1]}}</td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[3] + '.png') }}"/></td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                    <td>{{move[6]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="6">{{move[7]}}</td>
+                </tr>
+            {% endfor %}
+            {% endblock %}
+        </table>
     </div>
-    
+
+
     <!-- Tutors Moves -->
     <div>
         <h2>Tutor Moves</h2>
@@ -420,7 +447,7 @@
     <div>
         <h2>Egg Moves</h2>
     </div>
-     
+
      
 </div>
 {% endblock %}
