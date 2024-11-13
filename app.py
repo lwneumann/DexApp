@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect
-import calendar, abilities
+import rotom, calendar, abilities, moves
 
 
 # Setup
@@ -14,7 +14,7 @@ def handle_form_submission():
         if num:
             return redirect(f'/dex/{num}/')
         else:
-            return redirect('/dex')
+            return redirect(f'/search/{num}')
 
 
 # --- Pages ---
@@ -47,6 +47,16 @@ def mon_page(mon):
 def ability_page():
     return render_template('abilities.html', ability_list=abilities.ability_list)
 
+
+@app.route('/moves/')
+def move_page():
+    return render_template('moves.html', move_list=moves.move_list)
+
+
+@app.route('/search/<string:search>')
+def search_page(search):
+    return render_template("search.html", search=search)
+
 # Errors --
 @app.errorhandler(404)
 def page_not_found(e):
@@ -63,6 +73,8 @@ def utility_processor():
     def get_navigation():
         nav = [
             (url_for('dex_home'), "Pokedex Home"),
+            (url_for('move_page'), "Move List"),
+            (url_for('ability_page'), "Ability List"),
             (url_for('events'), 'Daily Events'),
             (url_for('view_book'), "View Book")
         ]
