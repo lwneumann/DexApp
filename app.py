@@ -1,4 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect
+from random import randint
 import rotom, calendar, abilities, moves
 
 
@@ -49,7 +50,8 @@ def events():
 
 @app.route('/dex/', methods=['GET', 'POST'])
 def dex_home():
-    return render_template('dex_home.html')
+    random_mon = randint(1, 493)
+    return render_template('dex_home.html', random_mon=random_mon)
 
 @app.route('/dex/<int:mon>/')
 @app.route('/dex/<string:mon>/')
@@ -89,12 +91,13 @@ def internal_error(e):
 def utility_processor():
     def get_navigation():
         nav = [
-            (url_for('dex_home'), "Pokedex Home"),
+            (url_for('dex_home'), 'Pokédex'),
             (url_for('move_page'), "Move List"),
             (url_for('ability_page'), "Ability List"),
             (url_for('events'), 'Daily Events'),
-            (url_for('view_book'), "View Book")
+            (url_for('view_book'), 'View Pokébook')
         ]
         return nav
 
-    return dict(get_navigation=get_navigation, get_today=calendar.get_today)
+    return dict(get_navigation=get_navigation,
+                get_today=calendar.get_today)
