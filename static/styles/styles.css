@@ -174,3 +174,19 @@ a {
         padding: 20px;
     }
 }
+
+/* Search Results */
+.searchPage {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+}
+.searchBox {
+    justify-items: left;
+    background-color: #6ea2757d;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    border: 1px solid #288933a8;
+}

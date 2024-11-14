@@ -10,11 +10,27 @@ app = Flask(__name__)
 @app.before_request
 def handle_form_submission():
     if request.method == 'POST':  
-        num = request.form.get('dexInput')
-        if num:
-            return redirect(f'/dex/{num}/')
+        query = request.form.get('dexInput')
+        
+        # Just a number
+        if str(query).isdigit() and 0 < int(query) < 494:
+            return redirect(url_for('mon_page', mon=query))
+
+        # Otherwise actually look into the search        
+        result, single = rotom.search(query)
+
+        if single:
+            area = list(result.keys())[0]
+            if area == "dex":
+                return redirect(url_for('mon_page', mon=result['dex'][0][0]))
+            elif area == "moves":
+                # f'/moves/#{result['moves'][0]}'
+                return redirect(url_for('move_page', _anchor=result['moves'][0]))
+            elif area == "ability":
+                # f'/ability/#{result['ability'][0]}'
+                return redirect(url_for('ability_page', _anchor=result['ability'][0]))
         else:
-            return redirect(f'/search/{num}')
+            return redirect(url_for('search_page', searched=str(query), result=result))
 
 
 # --- Pages ---
@@ -47,15 +63,16 @@ def mon_page(mon):
 def ability_page():
     return render_template('abilities.html', ability_list=abilities.ability_list)
 
-
 @app.route('/moves/')
 def move_page():
     return render_template('moves.html', move_list=moves.move_list)
 
+@app.route('/search/')
+def search_page():
+    searched = request.args['searched']
+    result = rotom.pretty_search(eval(request.args['result']))
+    return render_template("search.html", searched=searched, result=result)
 
-@app.route('/search/<string:search>')
-def search_page(search):
-    return render_template("search.html", search=search)
 
 # Errors --
 @app.errorhandler(404)

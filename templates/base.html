@@ -41,39 +41,11 @@
     
     <!-- Search Bar -->
      <div class="search_bar">
-         <form method="POST" style="position: fixed; top: 10px; right: calc(10px);"> 
-             <input type="number" id="dexInput" name="dexInput" style="width:40px; height:15px; background-color:#c2ffd1; resize:none; border:none; outline:none; padding:5px;" />
-             <input type="submit" value="Search"> 
+        <form method="POST" style="position: fixed; top: 10px; right: calc(10px);"> 
+            <input type="text" id="dexInput" name="dexInput" 
+                   style="width:40px; height:15px; background-color:#c2ffd1; resize:none; border:none; outline:none; padding:5px;" />
+            <input type="submit" value="Search"> 
         </form>
-            
-        <style>
-            /* Hide the spinner buttons */
-            input[type="number"]::-webkit-outer-spin-button,
-            input[type="number"]::-webkit-inner-spin-button {
-                -webkit-appearance: none;
-                margin: 0;
-            }
-            
-            /* For Firefox */
-            input[type="number"] {
-                -moz-appearance: textfield;
-                appearance: textfield;
-            }
-        </style>
-
-        <script>
-            // Disable number input scroll and spinners
-            document.getElementById('numInput').addEventListener('keydown', function(e) {
-                if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
-                    e.preventDefault();
-                }
-            });
-
-            // Hide spinner buttons
-            document.getElementById('numInput').addEventListener('mousewheel', function(e) {
-                e.preventDefault();
-            });
-        </script>
     </div>
 
     <div class="sidebar"></div>

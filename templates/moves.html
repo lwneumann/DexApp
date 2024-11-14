@@ -15,10 +15,9 @@
             <th style="width: 4%;">PP</th>
             <th style="width: 4%;">Gen.</th>
         </tr>
-        {% block learned %}
         {% for move in move_list %}
-<!-- ['number', 'type', 'category', 'power', 'accuracy', 'generation', 'PP', 'Effect', 'TMHM'] -->
-            <tr>
+        <!-- ['number', 'type', 'category', 'power', 'accuracy', 'generation', 'PP', 'Effect', 'TMHM'] -->
+            <tr id="{{move}}">
                 <td rowspan="2">{{move_list[move]["number"]}}</td>
                 <td rowspan="2">{{move_list[move]["TMHM"]}}</td>
                 <td>{{move}}</td>
@@ -33,7 +32,6 @@
                 <td colspan="7">{{move_list[move]["Effect"]}}</td>
             </tr>
         {% endfor %}
-        {% endblock %}
     </table>
 </div>
 {% endblock %}
