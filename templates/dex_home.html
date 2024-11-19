@@ -34,7 +34,7 @@
             </form>
         </div>
         <!-- Random -->
-        <a href="{{ url_for('mon_page', mon=random_mon) }}"
+        <a href="{{ url_for('random_mon') }}"
             style="border-radius: 15px; 
                 box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
                 border: 2px solid black;
@@ -44,7 +44,7 @@
                 flex-direction: row;
                 margin: 10px;
                 padding: 10px;
-                background-color: #47add1;
+                background-color: #47d1a1;
                 margin-top: 20px;">
             <img src="{{ url_for('static', filename='img/buttons/random.png') }}" style="width: 2vw; height: 2vw;">
             Random Pokémon

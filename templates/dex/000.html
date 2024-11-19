@@ -33,19 +33,19 @@
                     {% if has_female_sprites %}
                     <h4>Male Sprites</h4>
                     {% endif %}
-                    <img src="{{ url_for('static', filename='img/sprites/front/' + number + '.png') }}" alt="pokemon front">
-                    <img src="{{ url_for('static', filename='img/sprites/shiny/' + number + '.png') }}" alt="pokemon shiny front">
-                    <img src="{{ url_for('static', filename='img/sprites/back/' + number + '.png') }}" alt="pokemon back">
-                    <img src="{{ url_for('static', filename='img/sprites/back/shiny/' + number + '.png') }}" alt="pokemon shiny back">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/front/' + number + '.png') }}" alt="pokemon front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/shiny/' + number + '.png') }}" alt="pokemon shiny front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/' + number + '.png') }}" alt="pokemon back">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/shiny/' + number + '.png') }}" alt="pokemon shiny back">
                 </div>
                 
                 {% if has_female_sprites %}
                 <div>
                     <h4>Female Sprites</h4>
-                    <img src="{{ url_for('static', filename='img/sprites/female/' + number + '.png') }}" alt="pokemon female front">
-                    <img src="{{ url_for('static', filename='img/sprites/shiny/female/' + number + '.png') }}" alt="pokemon shiny female front">
-                    <img src="{{ url_for('static', filename='img/sprites/back/female/' + number + '.png') }}" alt="pokemon female back">
-                    <img src="{{ url_for('static', filename='img/sprites/back/shiny/female/' + number + '.png') }}" alt="pokemon shiny female back">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/female/' + number + '.png') }}" alt="pokemon female front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/shiny/female/' + number + '.png') }}" alt="pokemon shiny female front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/female/' + number + '.png') }}" alt="pokemon female back">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/shiny/female/' + number + '.png') }}" alt="pokemon shiny female back">
                 </div>
                 {% endif %}
             {% endblock %}    
@@ -134,23 +134,23 @@
                 <th colspan="17">Damage Taken</th>
             </tr>
             <tr>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/normal.png') }}" alt="normal"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/fire.png') }}" alt="fire"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/water.png') }}" alt="water"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/electric.png') }}" alt="electric"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/grass.png') }}" alt="grass"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/ice.png') }}" alt="ice"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/fighting.png') }}" alt="fighting"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/poison.png') }}" alt="poison"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/ground.png') }}" alt="ground"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/flying.png') }}" alt="flying"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/psychic.png') }}" alt="psychic"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/bug.png') }}" alt="bug"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/rock.png') }}" alt="rock"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/ghost.png') }}" alt="ghost"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/dragon.png') }}" alt="dragon"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/dark.png') }}" alt="dark"/></th>
-                <th><img class="no-pixelate" src="{{ url_for('static', filename='img/types/steel.png') }}" alt="steel"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/normal.png') }}" alt="normal"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/fire.png') }}" alt="fire"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/water.png') }}" alt="water"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/electric.png') }}" alt="electric"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/grass.png') }}" alt="grass"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/ice.png') }}" alt="ice"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/fighting.png') }}" alt="fighting"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/poison.png') }}" alt="poison"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/ground.png') }}" alt="ground"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/flying.png') }}" alt="flying"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/psychic.png') }}" alt="psychic"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/bug.png') }}" alt="bug"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/rock.png') }}" alt="rock"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/ghost.png') }}" alt="ghost"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/dragon.png') }}" alt="dragon"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/dark.png') }}" alt="dark"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/steel.png') }}" alt="steel"/></th>
             </tr>
             {% block damages %}
             <tr>
@@ -367,7 +367,7 @@
             {% block abilities %}
             {% for a in abilities %}
                 <li>
-                    <a href="{{url_for('ability_page')}}" class="navButton">
+                    <a href="{{url_for('ability_page', _anchor=a[0])}}" class="navButton">
                         {{a[0]}}
                     </a>
                 </li>
@@ -394,7 +394,7 @@
             {% for move in learned_moves %}
                 <tr>
                     <td rowspan="2">{{move[0]}}</td>
-                    <td>{{move[1]}}</td>
+                    <td><a href="{{url_for('move_page', _anchor=move[1])}}">{{move[1]}}</a></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[3] + '.png') }}"/></td>
                     <td>{{move[4]}}</td>
@@ -427,7 +427,7 @@
             {% for move in tmhm_list %}
                 <tr>
                     <td rowspan="2">{{move[0]}}</td>
-                    <td>{{move[1]}}</td>
+                    <td><a href="{{url_for('move_page', _anchor=move[1])}}">{{move[1]}}</a></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[3] + '.png') }}"/></td>
                     <td>{{move[4]}}</td>
@@ -460,7 +460,7 @@
             </tr>
             {% for move in tutor_list %}
                 <tr>
-                    <td rowspan="2">{{move[0]}}</td>
+                    <td rowspan="2"><a href="{{url_for('move_page', _anchor=move[0])}}">{{move[0]}}</a></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[1] + '.png') }}"/></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
                     <td>{{move[3]}}</td>
@@ -492,7 +492,7 @@
             </tr>
             {% for move in egg_move_list %}
                 <tr>
-                    <td rowspan="2">{{move[0]}}</td>
+                    <td rowspan="2"><a href="{{url_for('move_page', _anchor=move[0])}}">{{move[0]}}</a></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[1] + '.png') }}"/></td>
                     <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
                     <td>{{move[3]}}</td>

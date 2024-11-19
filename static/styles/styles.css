@@ -28,10 +28,20 @@ img:not(.no-pixelate) {
 .content-block {
     padding: 20px;
 }
+.typeImg {
+    max-width: 2vw;
+}
 
 /* Dex Blocks */
 .dexblock {
     width: 48%;
+}
+
+/* Pokemon images */
+.monImage {
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: hsl(122, 15%, 60%);
 }
 
 /* Arrows */

@@ -4,6 +4,8 @@
 <div class="content-block">
     <h1>{{get_today()[0]}}</h1>
 
+    <p>There are many events that happen from day to day, some multiple times a week, some only a certain time of the day once a week. The times of days are:</p>
+
     <!-- Time of Day -->
     <table style="margin-bottom: 15px;">
         <tr>
@@ -17,6 +19,8 @@
             <td> 8:00 PM - 3:59 AM </td>
         </tr>
     </table>
+
+    <p>The things happening today are here. All the other tables just have every other event not just for today.</p>
 
     <!-- Daily Table -->
     <table>
@@ -35,6 +39,7 @@
     </table>
 
     <h2>Every Day</h2>
+    <p>These happen every day. Which means also today.</p>
     <table>
         <tr>
             <th>Time</th>
@@ -71,6 +76,7 @@
     <h1>All Events</h1>
     <!-- Rematch Table -->
     <h2>Gym Rematches</h2>
+    <p>In order to get a gym leader to rematch you, you need their phone number first then you are able to call them at these times to get a rematch. How and where to get phone numbers can be found <a href="{{url_for('view_book')}}">here</a> under Scheduled Events > Daily Events > Gym Rematches.</p>
     <table>
         <tr>
             <th>Day</th>
@@ -161,6 +167,7 @@
 
     <!-- Fixed table -->
      <h2>Other Events</h2>
+     <p>Here are all the other things that happen throughout the week. Todays events are in the table at the top of the page.</p>
      <table>
         <tr>
             <th>Day</th>
@@ -321,6 +328,7 @@
 
     <!-- Ribbon Siblings -->
      <h2>Weekly Siblings</h2>
+     <p>Everyday a unique sibling for the day of the week is somewhere across the world. Speaking to them will award your lead Pokémon their corresponding medal.</p>
      <table>
         <tr>
             <th>Day</th>

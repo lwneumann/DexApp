@@ -19,8 +19,8 @@
                  border: 2px solid black;
                  cursor: pointer;">
         </a>
-        <!-- 
-        !-- Events Button --
+        
+        <!-- Events Button -->
         <a href="{{ url_for('events') }}">
             <img src="{{ url_for('static', filename='img/buttons/events.png') }}"
                  alt="Events"
@@ -29,7 +29,8 @@
                  border: 2px solid black;
                  cursor: pointer;">
         </a>
-        !-- Book Button --
+        
+        <!-- Book Button -->
         <a href="{{ url_for('view_book') }}">
             <img src="{{ url_for('static', filename='img/buttons/book.png') }}"
                  alt="Book"
@@ -38,7 +39,6 @@
                  border: 2px solid black;
                  cursor: pointer;">
         </a>
-        -->
     </div>
     
     <!-- Search Bar -->
@@ -49,6 +49,23 @@
             <input type="submit" value="Search"> 
         </form>
     </div>
+
+    <!-- Random -->
+    <a href="{{ url_for('random_mon') }}"
+        style="border-radius: 15px; 
+            position: fixed;
+            top: 25px; right: 5px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+            border: 2px solid black;
+            cursor: pointer;
+            justify-content: center;
+            display: flex;
+            flex-direction: row;
+            padding: 0.5%;
+            background-color: #47d1a1;
+            margin-top: 20px;">
+        <img src="{{ url_for('static', filename='img/buttons/random.png') }}" style="width: 2vw; height: 2vw;">
+    </a>
 
     <div class="sidebar"></div>
 

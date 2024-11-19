@@ -15,23 +15,9 @@ def handle_form_submission():
         
         # Just a number
         if str(query).isdigit() and 0 < int(query) < 494:
-            return redirect(url_for('mon_page', mon=query))
-
-        # Otherwise actually look into the search        
-        result, single = rotom.search(query)
-
-        if single:
-            area = list(result.keys())[0]
-            if area == "dex":
-                return redirect(url_for('mon_page', mon=result['dex'][0][0]))
-            elif area == "moves":
-                # f'/moves/#{result['moves'][0]}'
-                return redirect(url_for('move_page', _anchor=result['moves'][0]))
-            elif area == "ability":
-                # f'/ability/#{result['ability'][0]}'
-                return redirect(url_for('ability_page', _anchor=result['ability'][0]))
+            return redirect(url_for('mon_page', mon=query, _anchor='-'))
         else:
-            return redirect(url_for('search_page', searched=str(query), result=result))
+            return redirect(url_for('search_page', searched=str(query)))
 
 
 # --- Pages ---
@@ -50,8 +36,7 @@ def events():
 
 @app.route('/dex/', methods=['GET', 'POST'])
 def dex_home():
-    random_mon = randint(1, 493)
-    return render_template('dex_home.html', random_mon=random_mon)
+    return render_template('dex_home.html')
 
 @app.route('/dex/<int:mon>/')
 @app.route('/dex/<string:mon>/')
@@ -72,8 +57,27 @@ def move_page():
 @app.route('/search/')
 def search_page():
     searched = request.args['searched']
-    result = rotom.pretty_search(eval(request.args['result']))
-    return render_template("search.html", searched=searched, result=result)
+    # Otherwise actually look into the search        
+    result, single, count = rotom.search(searched)
+
+    if single:
+        area = list(result.keys())[0]
+        if area == "dex":
+            return redirect(url_for('mon_page', mon=result['dex'][0][0], _anchor=' '))
+        elif area == "moves":
+            # f'/moves/#{result['moves'][0]}'
+            return redirect(url_for('move_page', _anchor=result['moves'][0]))
+        elif area == "ability":
+            # f'/ability/#{result['ability'][0]}'
+            return redirect(url_for('ability_page', _anchor=result['ability'][0]))
+    
+    result = rotom.pretty_search(result)
+    return render_template("search.html", searched=searched, result=result, count=count)
+
+@app.route('/random/')
+def random_mon():
+    mon_id = randint(1, 493)
+    return redirect(url_for('mon_page', mon=mon_id))
 
 
 # Errors --
