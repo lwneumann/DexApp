@@ -1,6 +1,6 @@
 from flask import Flask, render_template, url_for, request, redirect
 from random import randint
-import rotom, calendar, abilities, moves
+import rotom, event_info, abilities, moves
 
 
 # Setup
@@ -104,4 +104,4 @@ def utility_processor():
         return nav
 
     return dict(get_navigation=get_navigation,
-                get_today=calendar.get_today)
+                get_today=event_info.get_today_events)

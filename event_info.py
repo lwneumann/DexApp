@@ -6,7 +6,7 @@
 import datetime
 
 
-def get_today():
+def get_today_events():
     today = datetime.datetime.now()    
     day= today.weekday()
     date = f"{today.strftime('%A')}s Events ({today.strftime('%m/%d')})"
@@ -122,8 +122,3 @@ def get_rematches():
 
     return rematches
 
-
-if __name__ == "__main__":
-    t = get_today()
-    for e in t:
-        print(e)
