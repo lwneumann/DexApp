@@ -1,0 +1,3049 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Bellossom
+Kireihanaキレイハナ
+ National: #182Johto: #086 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Chlorophyll 
+
+
+
+Chlorophyll: When sunny, the Pokémon’s Speed doubles. However, Speed will not double on the turn weather becomes Clear Skies. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Flower Pokémon
+1'04"
+13.0lbs
+45
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+70
+3 Sp. Defense Point(s)
+Green
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*0.5
+*0.5
+*0.5
+*2
+*1
+*2
+*0.5
+*2
+*1
+*2
+*1
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+PlantBulbasaurIvysaurVenusaurOddishGloomVileplumeParasParasectBellsproutWeepinbellVictreebelExeggcuteExeggutorTangelaChikoritaBayleefMeganiumBellossomHoppipSkiploomJumpluffSunkernSunfloraLotadLombreLudicoloSeedotNuzleafShiftryShroomishBreloomRoseliaCacneaCacturneTropiusTurtwigGrotleTorterraRoseradeCherubiCherrimCarnivineSnoverAbomasnowTangrowthDittoPlant
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		BELLOSSOM gather at times and seem to dance. They say that the dance is a ritual to summon the sun.
+		
+
+
+SoulSilver
+
+		Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.
+		
+ 
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Evolve Gloom
+		
+
+
+Sapphire
+		
+
+		Evolve Gloom
+		
+
+
+Emerald
+		
+
+		Evolve Gloom
+		
+
+
+FireRed
+		
+
+		Evolve Gloom
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed
+		
+
+
+Diamond
+		
+
+		Evolve from Gloom
+		
+
+
+Pearl
+		
+
+		Evolve from Gloom
+		
+
+Platinum
+		
+
+		Evolve Gloom
+		
+
+
+HeartGold
+		
+
+		Evolve Gloom
+		
+
+
+SoulSilver
+		
+
+		Evolve Gloom
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leaf Blade9010015--The foe is slashed with a sharp leaf. It has a high critical-hit ratio. —Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Evolve Gloom
+		
+
+
+Sapphire
+		
+
+		Evolve Gloom
+		
+
+
+Emerald
+		
+
+		Evolve Gloom
+		
+
+
+FireRed
+		
+
+		Evolve Gloom
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed
+		
+
+
+Diamond
+		
+
+		Evolve from Gloom
+		
+
+
+Pearl
+		
+
+		Evolve from Gloom
+		
+
+Platinum
+		
+
+		Evolve Gloom
+		
+
+
+HeartGold
+		
+
+		Evolve Gloom
+		
+
+
+SoulSilver
+		
+
+		Evolve Gloom
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leaf Blade9010015--The foe is slashed with a sharp leaf. It has a high critical-hit ratio. —Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leaf Blade9010015--The foe is slashed with a sharp leaf. It has a high critical-hit ratio. —Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leaf Blade9010015--The foe is slashed with a sharp leaf. It has a high critical-hit ratio. —Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.—Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.—Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.—Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 23Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.53Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Swords Dance----30--DetailsA frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Ingrain----20--DetailsThe user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Teeter Dance - HGSS Only--10020--DetailsThe user performs a wobbly dance that confuses all the Pokémon in battle. Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--  Lv. 1A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Acid401003010  Lv. 1The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Acid401003010  Lv. 9The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.Poisonpowder--7535--  Lv. 13A cloud of poisonous dust is scattered on the foe. It may poison the target.Sleep Powder--7515--  Lv. 17The user scatters a big cloud of sleep- inducing dust around the foe. Lucky Chant----30--  Lv. 29The user chants an incantation toward the sky, preventing the foe from landing critical hits.Moonlight----5--  Lv. 41The user restores its own HP. The amount of HP regained varies with the weather.Petal Dance9010020--  Lv. 53The user attacks by scattering petals for two to three turns. The user then becomes confused.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansAbsorb2010025--RSEFRLGLv1 Lv1 A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Petal Dance9010020--RSEFRLGLv44 Lv44 The user attacks by scattering petals for two to three turns. The user then becomes confused.Solarbeam12010010--RSEFRLGLv55 Lv55 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+80
+85
+90
+100
+50
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+76 - 118
+81 - 123
+85 - 127
+94 - 136
+49 - 91
+Lv. 100
+260 - 354
+148 - 233
+157 - 242
+166 - 251
+184 - 269
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+85 - 132
+90 - 137
+95 - 142
+105 - 152
+55 - 102
+Lv. 100
+260 - 354
+165 - 259
+175 - 269
+185 - 279
+205 - 299
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+93 - 145
+99 - 150
+104 - 156
+115 - 167
+60 - 112
+Lv. 100
+260 - 354
+181 - 284
+192 - 295
+203 - 306
+225 - 328
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#181Ampharos
+		
+
+
+
+
+
+
+
+#183Marill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

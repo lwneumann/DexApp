@@ -1,0 +1,264 @@
+{
+    "name": "Persian",
+    "jp_name": "Persian\u30da\u30eb\u30b7\u30a2\u30f3",
+    "number": " National: #053Johto: #139 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Limber",
+        "Technician"
+    ],
+    "classification": "Classy Cat Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "70.5lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Quick Claw",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+        "Its lithe muscles allow it to walk without making a sound. It attacks in an instant."
+    ],
+    "location": [
+        "Trade from DPt, SS",
+        "Route 7, Cerulean Cave"
+    ],
+    "learnset": {
+        "0": [
+            "Switcheroo",
+            "Scratch",
+            "Growl",
+            "Bite",
+            "Fake Out"
+        ],
+        "6": [
+            "Bite"
+        ],
+        "9": [
+            "Fake Out"
+        ],
+        "14": [
+            "Fury Swipes"
+        ],
+        "17": [
+            "Screech"
+        ],
+        "22": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "25": [
+            "Taunt"
+        ],
+        "32": [
+            "Power Gem"
+        ],
+        "37": [
+            "Slash"
+        ],
+        "44": [
+            "Nasty Plot"
+        ],
+        "49": [
+            "Assurance"
+        ],
+        "56": [
+            "Captivate"
+        ],
+        "61": [
+            "Night Slash"
+        ],
+        "68": [
+            "Feint"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM58",
+        "TM63",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Knock Off",
+        "Last Resort",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Gunk Shot",
+        "Mud-slap",
+        "Seed Bomb",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Spite",
+        "Charm",
+        "Hypnosis",
+        "Amnesia",
+        "Psych Up",
+        "Assist",
+        "Odor Sleuth",
+        "Flail",
+        "Last Resort",
+        "Punishment",
+        "Tail Whip"
+    ],
+    "stats": [
+        "65",
+        "70",
+        "60",
+        "65",
+        "65",
+        "115"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ]
+        ]
+    }
+}

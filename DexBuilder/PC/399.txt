@@ -1,0 +1,233 @@
+{
+    "name": "Bidoof",
+    "jp_name": "Bippa\u30d3\u30c3\u30d1",
+    "number": " National: #399Sinnoh: #013 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Simple",
+        "Unaware"
+    ],
+    "classification": "Plump Mouse Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "44.0lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It lives in groups by the water.  It chews up boulders and trees around its nest with its incisors."
+    ],
+    "location": [
+        "Route 6, Route 9, Route 10, Route 13, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 42, Route 43, Route 44, Route 45, Route 47, Ruins of Alph, Mt. Silver, Safari Zone (Special Items)",
+        "Route 6, Route 9, Route 10, Route 13, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 42, Route 43, Route 44, Route 45, Route 47, Ruins of Alph, Mt. Silver, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Growl"
+        ],
+        "9": [
+            "Defense Curl"
+        ],
+        "13": [
+            "Rollout"
+        ],
+        "17": [
+            "Headbutt"
+        ],
+        "21": [
+            "Hyper Fang"
+        ],
+        "25": [
+            "Yawn"
+        ],
+        "29": [
+            "Amnesia"
+        ],
+        "33": [
+            "Take Down"
+        ],
+        "41": [
+            "Superpower"
+        ],
+        "45": [
+            "Curse"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM73",
+        "TM76",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM01",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Icy Wind",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Quick Attack",
+        "Water Sport",
+        "Double-edge",
+        "Fury Swipes",
+        "Defense Curl",
+        "Rollout",
+        "Odor Sleuth",
+        "Aqua Tail"
+    ],
+    "stats": [
+        "59",
+        "45",
+        "40",
+        "35",
+        "40",
+        "31"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "119 - 166",
+                "119 - 166",
+                "119 - 166"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "32 - 74",
+                "36 - 83",
+                "39 - 91"
+            ]
+        ],
+        "100": [
+            [
+                "228 - 322",
+                "228 - 322",
+                "228 - 322"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "60 - 144",
+                "67 - 161",
+                "73 - 177"
+            ]
+        ]
+    }
+}

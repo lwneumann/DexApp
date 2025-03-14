@@ -1,0 +1,1383 @@
+
+
+Images
+
+
+ 
+D/P
+ 
+Plant Cloak
+Sandy Cloak
+Trash Cloak
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+ 
+Pt/HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Burmy
+Minomucchiミノムッチ
+ National: #412Sinnoh: #045 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shed Skin 
+
+
+
+Shed Skin: Every turn, it has a 1 in 3 chance of healing from a status condition (BURN, PARALYZE, SLEEP, POISON, FREEZE). 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Bagworm Pokémon
+0'08"
+7.5lbs
+120
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Sp. Defense Point(s)
+Gray
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.5
+*1
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+Alternate Forms
+
+
+ 
+Plant CloakSandy CloakTrash CloakGrassCaves & SandBuildings
+Burmy's form changes after each battle, depending on the environment it just battled in.
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.
+		
+
+
+Pearl
+		
+
+		If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.
+		
+ 
+Platinum
+		
+
+		Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.
+		
+ 
+HeartGold 
+		It covers itself with a cloak to shelter from the cold. When it's hot, its cloak is thinner.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Sweet Honey Trees
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Sweet Honey Trees
+		
+
+Details
+
+
+Platinum
+		
+
+		Sweet Honey Trees
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 38 (Headbutt - Special Tree)
+		
+
+
+SoulSilver
+		
+
+		Route 38 (Headbutt - Special Tree)
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Sweet Honey Trees
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Sweet Honey Trees
+		
+
+Details
+
+
+Platinum
+		
+
+		Sweet Honey Trees
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 38 (Headbutt - Special Tree)
+		
+
+
+SoulSilver
+		
+
+		Route 38 (Headbutt - Special Tree)
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+29
+45
+29
+45
+36
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+30 - 72
+45 - 87
+30 - 72
+45 - 87
+36 - 79
+Lv. 100
+190 - 284
+56 - 141
+85 - 170
+56 - 141
+85 - 170
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+34 - 81
+50 - 97
+34 - 81
+50 - 97
+41 - 88
+Lv. 100
+190 - 284
+63 - 157
+95 - 189
+63 - 157
+95 - 189
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+37 - 89
+55 - 106
+37 - 89
+55 - 106
+45 - 96
+Lv. 100
+190 - 284
+69 - 172
+104 - 207
+69 - 172
+104 - 207
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#411Bastiodon
+		
+
+
+
+
+
+
+
+#413Wormadam
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

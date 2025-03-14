@@ -1,0 +1,236 @@
+{
+    "name": "Groudon",
+    "jp_name": "Groudon\u30b0\u30e9\u30fc\u30c9\u30f3",
+    "number": " National: #383",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Drought"
+    ],
+    "classification": "Continent Pok\u00e9mon",
+    "height": "11'06\"",
+    "weight": "2,094.4lbs",
+    "capture_rate": "5",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Hidden Tower"
+    ],
+    "learnset": {
+        "0": [
+            "Mud Shot"
+        ],
+        "5": [
+            "Scary Face"
+        ],
+        "15": [
+            "Lava Plume"
+        ],
+        "20": [
+            "Hammer Arm"
+        ],
+        "30": [
+            "Rest"
+        ],
+        "35": [
+            "Earthquake"
+        ],
+        "45": [
+            "Ancientpower"
+        ],
+        "50": [
+            "Eruption"
+        ],
+        "60": [
+            "Bulk Up"
+        ],
+        "65": [
+            "Earth Power"
+        ],
+        "80": [
+            "Solarbeam"
+        ],
+        "90": [
+            "Fire Blast"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM73",
+        "TM75",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Block",
+        "Headbutt"
+    ],
+    "stats": [
+        "100",
+        "150",
+        "140",
+        "100",
+        "90",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "130 - 172",
+                "145 - 192",
+                "159 - 211"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "256 - 341",
+                "285 - 379",
+                "313 - 416"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

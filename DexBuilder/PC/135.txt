@@ -1,0 +1,235 @@
+{
+    "name": "Jolteon",
+    "jp_name": "Thunders\u30b5\u30f3\u30c0\u30fc\u30b9",
+    "number": " National: #135Sinnoh: #165 Johto: #186 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Volt Absorb"
+    ],
+    "classification": "Lightning Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "54.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "8,960",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+        "Every hair on its body starts to stand sharply on end if it becomes charged with electricity."
+    ],
+    "location": [
+        "Evolve Eevee",
+        "Evolve Eevee"
+    ],
+    "learnset": {
+        "0": [
+            "Tail Whip",
+            "Tackle",
+            "Helping Hand"
+        ],
+        "8": [
+            "Sand-attack"
+        ],
+        "15": [
+            "Thundershock"
+        ],
+        "22": [
+            "Quick Attack"
+        ],
+        "29": [
+            "Double Kick"
+        ],
+        "36": [
+            "Pin Missile"
+        ],
+        "43": [
+            "Thunder Fang"
+        ],
+        "50": [
+            "Last Resort"
+        ],
+        "57": [
+            "Thunder Wave"
+        ],
+        "64": [
+            "Agility"
+        ],
+        "71": [
+            "Thunder"
+        ],
+        "78": [
+            "Discharge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Last Resort",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Charm",
+        "Flail",
+        "Endure",
+        "Curse",
+        "Tickle",
+        "Wish",
+        "Yawn",
+        "Fake Tears",
+        "Covet",
+        "Detect"
+    ],
+    "stats": [
+        "65",
+        "65",
+        "60",
+        "110",
+        "95",
+        "130"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ]
+        ]
+    }
+}

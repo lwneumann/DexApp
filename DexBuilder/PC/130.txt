@@ -1,0 +1,229 @@
+{
+    "name": "Gyarados",
+    "jp_name": "Gyarados\u30ae\u30e3\u30e9\u30c9\u30b9",
+    "number": " National: #130Sinnoh: #024 Johto: #077 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Intimidate"
+    ],
+    "classification": "Atrocious Pok\u00e9mon",
+    "height": "21'04\"",
+    "weight": "518.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "1,280",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 2",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "They say that during past strife, GYARADOS would appear and leave blazing ruins in its wake.",
+        "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it."
+    ],
+    "location": [
+        "Mt. Silver, Lake of Rage, Fuchsia City, Cerulean Cave, Seafoam Islands",
+        "Mt. Silver, Lake of Rage, Fuchsia City, Cerulean Cave, Seafoam Islands"
+    ],
+    "learnset": {
+        "0": [
+            "Thrash"
+        ],
+        "20": [
+            "Bite"
+        ],
+        "26": [
+            "Leer"
+        ],
+        "29": [
+            "Twister"
+        ],
+        "32": [
+            "Ice Fang"
+        ],
+        "35": [
+            "Aqua Tail"
+        ],
+        "38": [
+            "Rain Dance"
+        ],
+        "41": [
+            "Hydro Pump"
+        ],
+        "44": [
+            "Dragon Dance"
+        ],
+        "47": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM59",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM72",
+        "TM73",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Aqua Tail",
+        "Bounce",
+        "Iron Head",
+        "Outrage",
+        "Twister",
+        "Headbutt"
+    ],
+    "stats": [
+        "95",
+        "125",
+        "79",
+        "60",
+        "100",
+        "81"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "75 - 117",
+                "84 - 131",
+                "92 - 144"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "77 - 119",
+                "86 - 133",
+                "94 - 146"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "146 - 231",
+                "163 - 257",
+                "179 - 282"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "150 - 234",
+                "167 - 261",
+                "183 - 287"
+            ]
+        ]
+    }
+}

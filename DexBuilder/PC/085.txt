@@ -1,0 +1,229 @@
+{
+    "name": "Dodrio",
+    "jp_name": "Dodorio\u30c9\u30fc\u30c9\u30ea\u30aa",
+    "number": " National: #085Johto: #205 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Run Away",
+        "Early Bird"
+    ],
+    "classification": "Triple Bird Pok\u00e9mon",
+    "height": "5'11\"",
+    "weight": "188.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Sharp Beak",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility.",
+        "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling."
+    ],
+    "location": [
+        "Route 26, Route 28, Mt. Silver, Safari Zone (Special Items)",
+        "Route 27, Route 28, Mt. Silver, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Pluck",
+            "Peck",
+            "Growl",
+            "Quick Attack",
+            "Rage"
+        ],
+        "5": [
+            "Quick Attack"
+        ],
+        "10": [
+            "Rage"
+        ],
+        "14": [
+            "Fury Attack"
+        ],
+        "19": [
+            "Pursuit"
+        ],
+        "23": [
+            "Uproar"
+        ],
+        "28": [
+            "Acupressure"
+        ],
+        "34": [
+            "Tri Attack"
+        ],
+        "41": [
+            "Agility"
+        ],
+        "47": [
+            "Drill Peck"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM02"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Knock Off",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Endeavor",
+        "Mud-slap",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Quick Attack",
+        "Supersonic",
+        "Haze",
+        "Faint Attack",
+        "Flail",
+        "Endeavor",
+        "Mirror Move",
+        "Brave Bird"
+    ],
+    "stats": [
+        "60",
+        "110",
+        "70",
+        "60",
+        "60",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

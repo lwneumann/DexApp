@@ -1,0 +1,247 @@
+{
+    "name": "Mankey",
+    "jp_name": "Mankey\u30de\u30f3\u30ad\u30fc",
+    "number": " National: #056Johto: #136 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Vital Spirit",
+        "Anger Point"
+    ],
+    "classification": "Pig Monkey Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "61.7lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Payapa Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
+        "It's unsafe to approach if it gets violently enraged for no reason and can't distinguish friends from foes."
+    ],
+    "location": [
+        "Route 9, Route 42",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Covet",
+            "Scratch",
+            "Leer",
+            "Focus Energy"
+        ],
+        "9": [
+            "Fury Swipes"
+        ],
+        "13": [
+            "Karate Chop"
+        ],
+        "21": [
+            "Screech"
+        ],
+        "25": [
+            "Assurance"
+        ],
+        "33": [
+            "Swagger"
+        ],
+        "37": [
+            "Cross Chop"
+        ],
+        "41": [
+            "Thrash"
+        ],
+        "49": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Endeavor",
+        "Gunk Shot",
+        "Mud-slap",
+        "Outrage",
+        "Seed Bomb",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rock Slide",
+        "Foresight",
+        "Meditate",
+        "Counter",
+        "Reversal",
+        "Beat Up",
+        "Revenge",
+        "Smellingsalt",
+        "Close Combat",
+        "Encore"
+    ],
+    "stats": [
+        "40",
+        "80",
+        "35",
+        "35",
+        "45",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

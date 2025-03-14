@@ -1,0 +1,226 @@
+{
+    "name": "Ariados",
+    "jp_name": "Ariados\u30a2\u30ea\u30a2\u30c9\u30b9",
+    "number": " National: #168Johto: #033 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm",
+        "Insomnia"
+    ],
+    "classification": "Long Leg Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "73.9lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It spins string not only from its rear but also from its mouth. It's hard to tell which end is which.",
+        "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest."
+    ],
+    "location": [
+        "Route 2, Viridian Forest (Headbutt)",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Bug Bite",
+            "Poison Sting",
+            "String Shot",
+            "Scary Face",
+            "Constrict"
+        ],
+        "5": [
+            "Scary Face"
+        ],
+        "8": [
+            "Constrict"
+        ],
+        "12": [
+            "Leech Life"
+        ],
+        "19": [
+            "Shadow Sneak"
+        ],
+        "23": [
+            "Fury Swipes"
+        ],
+        "28": [
+            "Sucker Punch"
+        ],
+        "32": [
+            "Spider Web"
+        ],
+        "37": [
+            "Agility"
+        ],
+        "41": [
+            "Pin Missile"
+        ],
+        "46": [
+            "Psychic"
+        ],
+        "50": [
+            "Poison Jab"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Bounce",
+        "Signal Beam",
+        "String Shot",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Psybeam",
+        "Disable",
+        "Sonicboom",
+        "Baton Pass",
+        "Pursuit",
+        "Signal Beam",
+        "Toxic Spikes",
+        "Poison Jab"
+    ],
+    "stats": [
+        "70",
+        "90",
+        "70",
+        "60",
+        "60",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

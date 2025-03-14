@@ -1,0 +1,227 @@
+{
+    "name": "Hitmontop",
+    "jp_name": "Kaporea\u30ab\u30dd\u30a8\u30e9\u30fc",
+    "number": " National: #237Johto: #148 ",
+    "gender_ratio": [
+        "100",
+        "0"
+    ],
+    "ability": [
+        "Intimidate",
+        "Technician"
+    ],
+    "classification": "Handstand Pok\u0165mon",
+    "height": "4'07\"",
+    "weight": "105.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "If you are enchanted by its smooth, dance-like kicks, you may get a closer experience with one than you'd like.",
+        "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground."
+    ],
+    "location": [
+        "Evolve Tyrogue",
+        "Evolve Tyrogue"
+    ],
+    "learnset": {
+        "0": [
+            "Revenge",
+            "Rolling Kick"
+        ],
+        "6": [
+            "Focus Energy"
+        ],
+        "10": [
+            "Pursuit"
+        ],
+        "15": [
+            "Quick Attack"
+        ],
+        "19": [
+            "Triple Kick"
+        ],
+        "24": [
+            "Rapid Spin"
+        ],
+        "33": [
+            "Feint"
+        ],
+        "37": [
+            "Agility"
+        ],
+        "46": [
+            "Detect"
+        ],
+        "51": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM71",
+        "TM74",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Twister",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rapid Spin",
+        "Hi Jump Kick",
+        "Mach Punch",
+        "Mind Reader",
+        "Helping Hand",
+        "Counter",
+        "Vacuum Wave",
+        "Bullet Punch"
+    ],
+    "stats": [
+        "50",
+        "95",
+        "95",
+        "35",
+        "110",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "name": "Combee",
+    "jp_name": "Mitsuhoney\u30df\u30c4\u30cf\u30cb\u30fc",
+    "number": " National: #415Sinnoh: #053 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Honey Gather"
+    ],
+    "classification": "Tiny Bee Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "12.1lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Honey",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump."
+    ],
+    "location": [
+        "Routes 5, 6, 7, 8, 11, 16 & 25, Cerulean City, Vermillion City, Celadon City (Headbutt), Bug Catching Contest",
+        "Routes 5, 6, 7, 8, 11, 16 & 25, Cerulean City, Vermillion City, Celadon City (Headbutt), Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Sweet Scent",
+            "Gust"
+        ],
+        "13": [
+            "Bug Bite"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        "",
+        "10",
+        "15",
+        "--",
+        "??",
+        ""
+    ],
+    "tutor_moves": [
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "stats": [
+        "30",
+        "30",
+        "42",
+        "30",
+        "42",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

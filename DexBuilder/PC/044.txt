@@ -1,0 +1,221 @@
+{
+    "name": "Gloom",
+    "jp_name": "Kusaihana\u30af\u30b5\u30a4\u30cf\u30ca",
+    "number": " National: #044Johto: #084 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Weed Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "12.0lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+        "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close."
+    ],
+    "location": [
+        "Route 5, Route 6, Route 47, Route 48, Safari Zone",
+        "Route 5, Route 47, Route 48, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb",
+            "Sweet Scent",
+            "Acid"
+        ],
+        "5": [
+            "Sweet Scent"
+        ],
+        "9": [
+            "Acid"
+        ],
+        "13": [
+            "Poisonpowder"
+        ],
+        "15": [
+            "Stun Spore"
+        ],
+        "17": [
+            "Sleep Powder"
+        ],
+        "23": [
+            "Mega Drain"
+        ],
+        "29": [
+            "Lucky Chant"
+        ],
+        "41": [
+            "Moonlight"
+        ],
+        "47": [
+            "Giga Drain"
+        ],
+        "53": [
+            "Petal Dance"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Gastro Acid",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Swords Dance",
+        "Razor Leaf",
+        "Flail",
+        "Synthesis",
+        "Charm",
+        "Ingrain",
+        "Tickle",
+        "Teeter Dance"
+    ],
+    "stats": [
+        "60",
+        "65",
+        "70",
+        "85",
+        "75",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

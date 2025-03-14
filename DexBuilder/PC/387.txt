@@ -1,0 +1,235 @@
+{
+    "name": "Turtwig",
+    "jp_name": "Naetoru\u30ca\u30a8\u30c8\u30eb",
+    "number": " National: #387Sinnoh: #001 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Tiny Leaf Pok\u00e9mon",
+    "height": "1'03\"",
+    "weight": "22.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Withdraw"
+        ],
+        "9": [
+            "Absorb"
+        ],
+        "13": [
+            "Razor Leaf"
+        ],
+        "17": [
+            "Curse"
+        ],
+        "21": [
+            "Bite"
+        ],
+        "25": [
+            "Mega Drain"
+        ],
+        "29": [
+            "Leech Seed"
+        ],
+        "33": [
+            "Synthesis"
+        ],
+        "37": [
+            "Crunch"
+        ],
+        "41": [
+            "Giga Drain"
+        ],
+        "45": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Earth Power",
+        "Mud-slap",
+        "Seed Bomb",
+        "Superpower",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Worry Seed",
+        "Growth",
+        "Tickle",
+        "Body Slam",
+        "Double-edge",
+        "Sand Tomb",
+        "Seed Bomb",
+        "Thrash",
+        "Amnesia",
+        "Superpower",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "55",
+        "68",
+        "64",
+        "45",
+        "55",
+        "31"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "65 - 108",
+                "73 - 120",
+                "80 - 132"
+            ],
+            [
+                "62 - 104",
+                "69 - 116",
+                "75 - 127"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "32 - 74",
+                "36 - 83",
+                "39 - 91"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "126 - 211",
+                "141 - 235",
+                "155 - 258"
+            ],
+            [
+                "119 - 204",
+                "133 - 227",
+                "146 - 249"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "60 - 144",
+                "67 - 161",
+                "73 - 177"
+            ]
+        ]
+    }
+}

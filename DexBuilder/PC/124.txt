@@ -1,0 +1,257 @@
+{
+    "name": "Jynx",
+    "jp_name": "Rougela\u30eb\u30fc\u30b8\u30e5\u30e9",
+    "number": " National: #124Johto: #155 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Oblivious",
+        "Forewarn"
+    ],
+    "classification": "Humanshape Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "71.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "2",
+        "1",
+        "2",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Aspear Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+        "It speaks a language similar to that of humans. However, it seems to use dancing to communicate."
+    ],
+    "location": [
+        "Ice Path, Seafoam Islands",
+        "Ice Path, Seafoam Islands"
+    ],
+    "learnset": {
+        "0": [
+            "Pound",
+            "Lick",
+            "Lovely Kiss",
+            "Powder Snow"
+        ],
+        "5": [
+            "Lick"
+        ],
+        "8": [
+            "Lovely Kiss"
+        ],
+        "11": [
+            "Powder Snow"
+        ],
+        "15": [
+            "Doubleslap"
+        ],
+        "18": [
+            "Ice Punch"
+        ],
+        "21": [
+            "Mean Look"
+        ],
+        "25": [
+            "Fake Tears"
+        ],
+        "28": [
+            "Wake-up Slap"
+        ],
+        "33": [
+            "Avalanche"
+        ],
+        "39": [
+            "Body Slam"
+        ],
+        "49": [
+            "Perish Song"
+        ],
+        "55": [
+            "Blizzard"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM66",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM72",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Mud-slap",
+        "Signal Beam",
+        "Role Play",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Meditate",
+        "Psych Up",
+        "Fake Out",
+        "Wish",
+        "Ice Punch",
+        "Miracle Eye",
+        "Nasty Plot"
+    ],
+    "stats": [
+        "65",
+        "50",
+        "35",
+        "115",
+        "95",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

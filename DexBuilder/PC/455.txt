@@ -1,0 +1,224 @@
+{
+    "name": "Carnivine",
+    "jp_name": "Masukippa\u30de\u30b9\u30ad\u30c3\u30d1",
+    "number": " National: #455Sinnoh: #131 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Bug Catcher Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "59.5lbs",
+    "capture_rate": "200",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey."
+    ],
+    "location": [
+        "Ilex Forest, Viridian Forest, Safari Zone (With Blocks After Levelled Up)",
+        "Ilex Forest, Viridian Forest, Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Bind",
+            "Growth"
+        ],
+        "7": [
+            "Bite"
+        ],
+        "11": [
+            "Vine Whip"
+        ],
+        "17": [
+            "Sweet Scent"
+        ],
+        "21": [
+            "Ingrain"
+        ],
+        "27": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "31": [
+            "Stockpile",
+            "Swallow"
+        ],
+        "37": [
+            "Crunch"
+        ],
+        "47": [
+            "Power Whip"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Synthesis",
+        "Gastro Acid",
+        "Mud-slap",
+        "Seed Bomb",
+        "Worry Seed",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Sleep Powder",
+        "Stun Spore",
+        "Razor Leaf",
+        "Slam",
+        "Synthesis",
+        "Magical Leaf",
+        "Leech Seed",
+        "Worry Seed"
+    ],
+    "stats": [
+        "74",
+        "100",
+        "72",
+        "90",
+        "72",
+        "46"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "134 - 181",
+                "134 - 181",
+                "134 - 181"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "45 - 88",
+                "51 - 98",
+                "56 - 107"
+            ]
+        ],
+        "100": [
+            [
+                "258 - 352",
+                "258 - 352",
+                "258 - 352"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "87 - 171",
+                "97 - 191",
+                "106 - 210"
+            ]
+        ]
+    }
+}

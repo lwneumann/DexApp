@@ -1,0 +1,243 @@
+{
+    "name": "Skuntank",
+    "jp_name": "Sukatanku\u30b9\u30ab\u30bf\u30f3\u30af",
+    "number": " National: #435Sinnoh: #085 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Stench",
+        "Aftermath"
+    ],
+    "classification": "Skunk Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "83.8lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Pecha Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Focus Energy",
+            "Poison Gas"
+        ],
+        "4": [
+            "Poison Gas"
+        ],
+        "7": [
+            "Screech"
+        ],
+        "10": [
+            "Fury Swipes"
+        ],
+        "14": [
+            "Smokescreen"
+        ],
+        "18": [
+            "Feint"
+        ],
+        "22": [
+            "Slash"
+        ],
+        "27": [
+            "Toxic"
+        ],
+        "32": [
+            "Night Slash"
+        ],
+        "34": [
+            "Flamethrower"
+        ],
+        "42": [
+            "Memento"
+        ],
+        "52": [
+            "Explosion"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM58",
+        "TM64",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Sucker Punch",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Leer",
+        "Smog",
+        "Double-edge",
+        "Crunch",
+        "Scary Face",
+        "Astonish",
+        "Punishment",
+        "Haze"
+    ],
+    "stats": [
+        "103",
+        "93",
+        "67",
+        "71",
+        "61",
+        "84"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "163 - 210",
+                "163 - 210",
+                "163 - 210"
+            ],
+            [
+                "88 - 130",
+                "98 - 145",
+                "107 - 159"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ],
+            [
+                "68 - 110",
+                "76 - 123",
+                "83 - 135"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ],
+            [
+                "80 - 122",
+                "89 - 136",
+                "97 - 149"
+            ]
+        ],
+        "100": [
+            [
+                "316 - 410",
+                "316 - 410",
+                "316 - 410"
+            ],
+            [
+                "171 - 256",
+                "191 - 285",
+                "210 - 313"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ],
+            [
+                "132 - 216",
+                "147 - 241",
+                "161 - 265"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ],
+            [
+                "155 - 240",
+                "173 - 267",
+                "190 - 293"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "name": "Kricketot",
+    "jp_name": "Korobooshi\u30b3\u30ed\u30dc\u30fc\u30b7",
+    "number": " National: #401Sinnoh: #015 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shed Skin"
+    ],
+    "classification": "Cricket Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "5.0lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Metronome",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "When its antennae hit each other, it sounds like the music of a xylophone."
+    ],
+    "location": [
+        "Viridian Forest, Bug Catching Contest",
+        "Viridian Forest, Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Growl"
+        ],
+        "16": [
+            "Bug Bite"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        "",
+        "--",
+        "5",
+        "100"
+    ],
+    "tutor_moves": [
+        "String Shot",
+        "Bug Bite"
+    ],
+    "stats": [
+        "37",
+        "25",
+        "41",
+        "25",
+        "41",
+        "25"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "97 - 144",
+                "97 - 144",
+                "97 - 144"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "41 - 83",
+                "46 - 93",
+                "50 - 102"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "41 - 83",
+                "46 - 93",
+                "50 - 102"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ]
+        ],
+        "100": [
+            [
+                "184 - 278",
+                "184 - 278",
+                "184 - 278"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "78 - 162",
+                "87 - 181",
+                "95 - 199"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "78 - 162",
+                "87 - 181",
+                "95 - 199"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ]
+        ]
+    }
+}

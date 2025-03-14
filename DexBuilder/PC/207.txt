@@ -1,0 +1,252 @@
+{
+    "name": "Gligar",
+    "jp_name": "Guraiga\u30b0\u30e9\u30a4\u30ac\u30fc",
+    "number": " National: #207Johto: #193 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Hyper Cutter",
+        "Sand Veil"
+    ],
+    "classification": "Flyscorpion Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "142.9lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "1",
+        "4",
+        "0.5",
+        "0.5",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It flies straight at its target's face, then clamps down on the startled victim to inject poison.",
+        "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack."
+    ],
+    "location": [
+        "Route 45",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Sting"
+        ],
+        "5": [
+            "Sand-attack"
+        ],
+        "9": [
+            "Harden"
+        ],
+        "12": [
+            "Knock Off"
+        ],
+        "16": [
+            "Quick Attack"
+        ],
+        "20": [
+            "Fury Cutter"
+        ],
+        "23": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "27": [
+            "Screech"
+        ],
+        "31": [
+            "Slash"
+        ],
+        "34": [
+            "Swords Dance"
+        ],
+        "38": [
+            "U-turn"
+        ],
+        "42": [
+            "X-scissor"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM69",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Earth Power",
+        "Tailwind",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Metal Claw",
+        "Wing Attack",
+        "Razor Wind",
+        "Counter",
+        "Sand Tomb",
+        "Agility",
+        "Baton Pass",
+        "Double-edge",
+        "Feint",
+        "Night Slash",
+        "Cross Poison",
+        "Power Trick"
+    ],
+    "stats": [
+        "65",
+        "75",
+        "105",
+        "35",
+        "65",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

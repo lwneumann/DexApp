@@ -1,0 +1,220 @@
+{
+    "name": "Doduo",
+    "jp_name": "Dodo\u30c9\u30fc\u30c9\u30fc",
+    "number": " National: #084Johto: #204 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Run Away",
+        "Early Bird"
+    ],
+    "classification": "Twin Bird Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "86.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Sharp Beak",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+        "It races through grassy plains with powerful strides, leaving footprints up to four inches deep."
+    ],
+    "location": [
+        "Route 22, Route 26, Route 27, Route 28, Mt. Silver, Safari Zone",
+        "Route 22, Route 26, Route 27, Route 28, Mt. Silver, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Peck",
+            "Growl"
+        ],
+        "5": [
+            "Quick Attack"
+        ],
+        "10": [
+            "Rage"
+        ],
+        "14": [
+            "Fury Attack"
+        ],
+        "19": [
+            "Pursuit"
+        ],
+        "23": [
+            "Uproar"
+        ],
+        "28": [
+            "Acupressure"
+        ],
+        "32": [
+            "Double Hit"
+        ],
+        "37": [
+            "Agility"
+        ],
+        "41": [
+            "Drill Peck"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM02"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Knock Off",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Endeavor",
+        "Mud-slap"
+    ],
+    "egg_moves": [
+        "Quick Attack",
+        "Supersonic",
+        "Haze",
+        "Faint Attack",
+        "Flail",
+        "Endeavor",
+        "Mirror Move",
+        "Brave Bird"
+    ],
+    "stats": [
+        "35",
+        "85",
+        "45",
+        "35",
+        "35",
+        "75"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "95 - 142",
+                "95 - 142",
+                "95 - 142"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ]
+        ],
+        "100": [
+            [
+                "180 - 274",
+                "180 - 274",
+                "180 - 274"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ]
+        ]
+    }
+}

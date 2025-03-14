@@ -1,0 +1,274 @@
+{
+    "name": "Slowbro",
+    "jp_name": "Yadoran\u30e4\u30c9\u30e9\u30f3",
+    "number": " National: #080Johto: #081 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Oblivious",
+        "Own Tempo"
+    ],
+    "classification": "Hermit Crab Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "173.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "King's Rock",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "flavor_text": [
+        "If the tail-biting SHELLDER is thrown off in a harsh battle, it reverts to being an ordinary SLOWPOKE.",
+        "Naturally dull to begin with, it lost its ability to feel pain due to SHELLDER's seeping poison."
+    ],
+    "location": [
+        "Slowpoke Well, Seafoam Islands, Safari Zone",
+        "Slowpoke Well, Seafoam Islands, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Curse",
+            "Yawn",
+            "Tackle",
+            "Growl"
+        ],
+        "6": [
+            "Growl"
+        ],
+        "11": [
+            "Water Gun"
+        ],
+        "15": [
+            "Confusion"
+        ],
+        "20": [
+            "Disable"
+        ],
+        "25": [
+            "Headbutt"
+        ],
+        "29": [
+            "Water Pulse"
+        ],
+        "34": [
+            "Zen Headbutt"
+        ],
+        "37": [
+            "Withdraw"
+        ],
+        "41": [
+            "Slack Off"
+        ],
+        "47": [
+            "Amnesia"
+        ],
+        "54": [
+            "Psychic"
+        ],
+        "61": [
+            "Rain Dance"
+        ],
+        "67": [
+            "Psych Up"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM48",
+        "TM52",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM72",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Iron Defense",
+        "Mud-slap",
+        "Signal Beam",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Safeguard",
+        "Belly Drum",
+        "Future Sight",
+        "Stomp",
+        "Mud Sport",
+        "Sleep Talk",
+        "Snore",
+        "Me First",
+        "Block",
+        "Zen Headbutt"
+    ],
+    "stats": [
+        "95",
+        "75",
+        "110",
+        "100",
+        "80",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

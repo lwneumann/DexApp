@@ -1,0 +1,221 @@
+{
+    "name": "Politoed",
+    "jp_name": "Nyorotono\u30cb\u30e7\u30ed\u30c8\u30ce",
+    "number": " National: #186Johto: #075 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Water Absorb",
+        "Damp"
+    ],
+    "classification": "Frog Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "74.7lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "King's Rock",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1"
+    ],
+    "flavor_text": [
+        "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide.",
+        "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing."
+    ],
+    "location": [
+        "Evolve Poliwhirl",
+        "Evolve Poliwhirl"
+    ],
+    "learnset": {
+        "0": [
+            "Bubblebeam",
+            "Hypnosis",
+            "Doubleslap",
+            "Perish Song"
+        ],
+        "27": [
+            "Swagger"
+        ],
+        "37": [
+            "Bounce"
+        ],
+        "48": [
+            "Hyper Voice"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM31",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Helping Hand",
+        "Snore",
+        "Bounce",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Mist",
+        "Splash",
+        "Bubblebeam",
+        "Haze",
+        "Mind Reader",
+        "Water Sport",
+        "Ice Ball",
+        "Mud Shot",
+        "Refresh",
+        "Endeavor",
+        "Encore"
+    ],
+    "stats": [
+        "90",
+        "75",
+        "75",
+        "90",
+        "100",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

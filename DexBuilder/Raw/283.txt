@@ -1,0 +1,2388 @@
+
+
+Images
+
+
+ 
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Surskit
+Ametamaアメタマ
+ National: #283
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Swift Swim 
+
+
+
+Swift Swim: When rainy, The Pokémon’s Speed doubles. However, Speed will not double on the turn weather becomes Heavy Rain. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Pond Skater Pokémon
+1'08"
+3.7lbs
+200
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Speed Point(s)
+Blue
+120
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*0.5
+*2
+*1
+*0.5
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+Water 1SquirtleWartortleBlastoisePsyduckGolduckPoliwagPoliwhirlPoliwrathSlowpokeSlowbroSeelDewgongHorseaSeadraLaprasOmanyteOmastarKabutoKabutopsDratiniDragonairDragoniteTotodileCroconawFeraligatrMarillAzumarillPolitoedWooperQuagsireSlowkingCorsolaRemoraidOctilleryDelibirdMantineKingdraMudkipMarshtompSwampertLotadLombreLudicoloWingullPelipperSurskitMasquerainCorphishCrawdauntFeebasMiloticSphealSealeoWalreinClamperlHuntailGorebyssRelicanthPiplupPrinplupEmpoleonBidoofBibarelBuizelFloatzelShellosGastrodonPhioneManaphyDittoWater 1
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Routes 102, 114, 117 & 120 (Grass), Routes 102, 111, 114, 117, 120 (Surf)
+		
+
+
+Sapphire
+		
+
+		Routes 102, 114, 117 & 120 (Grass), Routes 102, 111, 114, 117, 120 (Surf)
+		
+
+
+Emerald
+		
+
+		Newsflash Swarm in Routes 102, 114, 117, 120
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald/XD
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald/XD
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/XD
+		
+
+
+XD
+		
+
+		Oasis PokéSpot
+		
+
+
+Diamond
+		
+
+		Swarm in Lake Verity
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Swarm in Lake Verity
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 229 (Surf)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubble201003010A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.7Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.13Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.19Water Sport----15--The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.25Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.31Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.37Mist----30--The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.37Haze----30--The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.43Baton Pass----40--The user switches places with a party Pokémon in waiting, passing along any stat changes.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Hydro Pump120805--DetailsThe foe is blasted by a huge volume of water launched under great pressure. Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Routes 102, 114, 117 & 120 (Grass), Routes 102, 111, 114, 117, 120 (Surf)
+		
+
+
+Sapphire
+		
+
+		Routes 102, 114, 117 & 120 (Grass), Routes 102, 111, 114, 117, 120 (Surf)
+		
+
+
+Emerald
+		
+
+		Newsflash Swarm in Routes 102, 114, 117, 120
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald/XD
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald/XD
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/XD
+		
+
+
+XD
+		
+
+		Oasis PokéSpot
+		
+
+
+Diamond
+		
+
+		Swarm in Lake Verity
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Swarm in Lake Verity
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 229 (Surf)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubble201003010A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.7Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.13Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.19Water Sport----15--The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.25Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.31Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.37Mist----30--The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.37Haze----30--The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.43Baton Pass----40--The user switches places with a party Pokémon in waiting, passing along any stat changes.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Hydro Pump120805--DetailsThe foe is blasted by a huge volume of water launched under great pressure. Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubble201003010A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.7Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.13Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.19Water Sport----15--The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.25Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.31Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.37Mist----30--The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.37Haze----30--The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.43Baton Pass----40--The user switches places with a party Pokémon in waiting, passing along any stat changes.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Hydro Pump120805--DetailsThe foe is blasted by a huge volume of water launched under great pressure. Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Hydro Pump120805--DetailsThe foe is blasted by a huge volume of water launched under great pressure. Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Hydro Pump120805--DetailsThe foe is blasted by a huge volume of water launched under great pressure. Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Hydro Pump120805--DetailsThe foe is blasted by a huge volume of water launched under great pressure. Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+32
+50
+52
+65
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+33 - 75
+49 - 91
+51 - 93
+63 - 105
+Lv. 100
+190 - 284
+58 - 143
+62 - 146
+94 - 179
+98 - 182
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+37 - 84
+55 - 102
+57 - 104
+70 - 117
+Lv. 100
+190 - 284
+65 - 159
+69 - 163
+105 - 199
+109 - 203
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+40 - 92
+60 - 112
+62 - 114
+77 - 128
+Lv. 100
+190 - 284
+71 - 174
+75 - 179
+115 - 218
+119 - 223
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#282Gardevoir
+		
+
+
+
+
+
+
+
+#284Masquerain
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

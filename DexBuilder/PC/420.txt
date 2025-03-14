@@ -1,0 +1,221 @@
+{
+    "name": "Cherubi",
+    "jp_name": "Cherinbo\u30c1\u30a7\u30ea\u30f3\u30dc",
+    "number": " National: #420Sinnoh: #058 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Cherry Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "7.3lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Miracle Seed",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+    ],
+    "location": [
+        "National Park (Headbutt - Special Tree)",
+        "National Park (Headbutt - Special Tree)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "7": [
+            "Growth"
+        ],
+        "10": [
+            "Leech Seed"
+        ],
+        "13": [
+            "Helping Hand"
+        ],
+        "19": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "22": [
+            "Sunny Day"
+        ],
+        "28": [
+            "Worry Seed"
+        ],
+        "31": [
+            "Take Down"
+        ],
+        "37": [
+            "Solarbeam"
+        ],
+        "40": [
+            "Lucky Chant"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Rollout",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Razor Leaf",
+        "Sweet Scent",
+        "Tickle",
+        "Nature Power",
+        "Grasswhistle",
+        "Aromatherapy",
+        "Weather Ball"
+    ],
+    "stats": [
+        "45",
+        "35",
+        "45",
+        "62",
+        "53",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "60 - 102",
+                "67 - 114",
+                "73 - 125"
+            ],
+            [
+                "52 - 94",
+                "58 - 105",
+                "63 - 115"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "116 - 200",
+                "129 - 223",
+                "141 - 245"
+            ],
+            [
+                "99 - 184",
+                "111 - 205",
+                "122 - 225"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "name": "Gastrodon",
+    "jp_name": "Toritoidon\u30c8\u30ea\u30c8\u30c9\u30f3",
+    "number": " National: #423Sinnoh: #061 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sticky Hold",
+        "Storm Drain"
+    ],
+    "classification": "Sea Slug Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "65.9lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "When its natural enemy attacks, it oozes purple fluid and escapes."
+    ],
+    "location": [
+        "Evolve Shellos",
+        "Evolve Shellos"
+    ],
+    "learnset": {
+        "0": [
+            "Mud-slap",
+            "Mud Sport",
+            "Harden",
+            "Water Pulse"
+        ],
+        "2": [
+            "Mud Sport"
+        ],
+        "4": [
+            "Harden"
+        ],
+        "7": [
+            "Water Pulse"
+        ],
+        "11": [
+            "Mud Bomb"
+        ],
+        "22": [
+            "Rain Dance"
+        ],
+        "29": [
+            "Body Slam"
+        ],
+        "41": [
+            "Muddy Water"
+        ],
+        "54": [
+            "Recover"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM71",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Mud-slap",
+        "Pain Split",
+        "String Shot",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Counter",
+        "Mirror Coat",
+        "Stockpile",
+        "Swallow",
+        "Spit Up",
+        "Yawn",
+        "Memento",
+        "Curse",
+        "Amnesia",
+        "Fissure",
+        "Trump Card",
+        "Sludge"
+    ],
+    "stats": [
+        "111",
+        "83",
+        "68",
+        "92",
+        "82",
+        "39"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "171 - 218",
+                "171 - 218",
+                "171 - 218"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ],
+            [
+                "65 - 108",
+                "73 - 120",
+                "80 - 132"
+            ],
+            [
+                "87 - 129",
+                "97 - 144",
+                "106 - 158"
+            ],
+            [
+                "78 - 120",
+                "87 - 134",
+                "95 - 147"
+            ],
+            [
+                "39 - 81",
+                "44 - 91",
+                "48 - 100"
+            ]
+        ],
+        "100": [
+            [
+                "332 - 426",
+                "332 - 426",
+                "332 - 426"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ],
+            [
+                "126 - 211",
+                "141 - 235",
+                "155 - 258"
+            ],
+            [
+                "170 - 254",
+                "189 - 283",
+                "207 - 311"
+            ],
+            [
+                "152 - 236",
+                "169 - 263",
+                "185 - 289"
+            ],
+            [
+                "74 - 159",
+                "83 - 177",
+                "91 - 194"
+            ]
+        ]
+    }
+}

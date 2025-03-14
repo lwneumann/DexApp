@@ -1,0 +1,220 @@
+{
+    "name": "Shinx",
+    "jp_name": "Korinku\u30b3\u30ea\u30f3\u30af",
+    "number": " National: #403Sinnoh: #017 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rivalry",
+        "Intimidate"
+    ],
+    "classification": "Flash Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "21.0lbs",
+    "capture_rate": "235",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble."
+    ],
+    "location": [
+        "Route 1, Route 2, Route 3, Route 4, Route 5, Route 7, Route 8, Route 11, Route 14, Route 15, Route 16, Route 17, Route 18, Route 29, Route 33, Route 37, Route 36, Route 37, Route 38, Route 39, Route 46, Route 48, National Park, Safari Zone (Special Items)",
+        "Route 1, Route 2, Route 3, Route 4, Route 5, Route 7, Route 8, Route 11, Route 14, Route 15, Route 16, Route 17, Route 18, Route 29, Route 33, Route 37, Route 36, Route 37, Route 38, Route 39, Route 46, Route 48, National Park, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Leer"
+        ],
+        "9": [
+            "Charge"
+        ],
+        "13": [
+            "Spark"
+        ],
+        "17": [
+            "Bite"
+        ],
+        "21": [
+            "Roar"
+        ],
+        "25": [
+            "Swagger"
+        ],
+        "29": [
+            "Thunder Fang"
+        ],
+        "33": [
+            "Crunch"
+        ],
+        "37": [
+            "Scary Face"
+        ],
+        "41": [
+            "Discharge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Quick Attack",
+        "Howl",
+        "Take Down",
+        "Night Slash"
+    ],
+    "stats": [
+        "45",
+        "65",
+        "34",
+        "40",
+        "34",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "35 - 77",
+                "39 - 86",
+                "42 - 94"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "35 - 77",
+                "39 - 86",
+                "42 - 94"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "65 - 150",
+                "73 - 167",
+                "80 - 183"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "65 - 150",
+                "73 - 167",
+                "80 - 183"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

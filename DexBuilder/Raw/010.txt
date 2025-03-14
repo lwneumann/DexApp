@@ -1,0 +1,1415 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Caterpie
+Catapieキャタピー
+ National: #010Johto: #024 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shield Dust 
+
+
+
+Shield Dust: Damaging moves used by the opponent will not have an additional effect. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Worm Pokémon
+1'00"
+6.4lbs
+255
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 HP Point(s)
+Green
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.5
+*1
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		For protection, it releases a horrible stench from the antennae on its head to drive away enemies.
+		
+
+
+SoulSilver
+
+		Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+LeafGreen
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Route 204-South FR Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Route 204-South FR Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Route 204, Eterna Forest (FireRed Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+LeafGreen
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Route 204-South FR Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Route 204-South FR Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Route 204, Eterna Forest (FireRed Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+30
+35
+20
+20
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+31 - 73
+36 - 78
+22 - 64
+22 - 64
+45 - 87
+Lv. 100
+200 - 294
+58 - 143
+67 - 152
+40 - 125
+40 - 125
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+35 - 82
+40 - 87
+25 - 72
+25 - 72
+50 - 97
+Lv. 100
+200 - 294
+65 - 159
+75 - 169
+45 - 139
+45 - 139
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+38 - 90
+44 - 95
+27 - 79
+27 - 79
+55 - 106
+Lv. 100
+200 - 294
+71 - 174
+82 - 185
+49 - 152
+49 - 152
+104 - 207
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#009Blastoise
+		
+
+
+
+
+
+
+
+#011Metapod
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

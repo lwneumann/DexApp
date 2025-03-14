@@ -1,0 +1,257 @@
+{
+    "name": "Bibarel",
+    "jp_name": "Biidaru\u30d3\u30fc\u30c0\u30eb",
+    "number": " National: #400Sinnoh: #014 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Simple",
+        "Unaware"
+    ],
+    "classification": "Beaver Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "69.4lbs",
+    "capture_rate": "127",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Oran Berry",
+            "50"
+        ],
+        [
+            "Sitrus Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors."
+    ],
+    "location": [
+        "Evolve Bidoof, Transfer from Pok\u00e9Walker",
+        "Evolve Bidoof, Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growl"
+        ],
+        "5": [
+            "Growl"
+        ],
+        "9": [
+            "Defense Curl"
+        ],
+        "13": [
+            "Rollout"
+        ],
+        "15": [
+            "Water Gun"
+        ],
+        "18": [
+            "Headbutt"
+        ],
+        "23": [
+            "Hyper Fang"
+        ],
+        "28": [
+            "Yawn"
+        ],
+        "33": [
+            "Amnesia"
+        ],
+        "38": [
+            "Take Down"
+        ],
+        "48": [
+            "Superpower"
+        ],
+        "53": [
+            "Curse"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM73",
+        "TM76",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Quick Attack",
+        "Water Sport",
+        "Double-edge",
+        "Fury Swipes",
+        "Defense Curl",
+        "Rollout",
+        "Odor Sleuth",
+        "Aqua Tail"
+    ],
+    "stats": [
+        "79",
+        "85",
+        "60",
+        "55",
+        "60",
+        "71"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "139 - 186",
+                "139 - 186",
+                "139 - 186"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "68 - 110",
+                "76 - 123",
+                "83 - 135"
+            ]
+        ],
+        "100": [
+            [
+                "268 - 362",
+                "268 - 362",
+                "268 - 362"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "132 - 216",
+                "147 - 241",
+                "161 - 265"
+            ]
+        ]
+    }
+}

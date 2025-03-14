@@ -1,0 +1,210 @@
+{
+    "name": "Nincada",
+    "jp_name": "Tsuchinin\u30c4\u30c1\u30cb\u30f3",
+    "number": " National: #290",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Compoundeyes"
+    ],
+    "classification": "Trainee Pok\u0165mon",
+    "height": "1'08\"",
+    "weight": "12.1lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "2",
+        "0",
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Harden"
+        ],
+        "5": [
+            "Leech Life"
+        ],
+        "9": [
+            "Sand-attack"
+        ],
+        "14": [
+            "Fury Swipes"
+        ],
+        "19": [
+            "Mind Reader"
+        ],
+        "25": [
+            "False Swipe"
+        ],
+        "31": [
+            "Mud-slap"
+        ],
+        "38": [
+            "Metal Claw"
+        ],
+        "45": [
+            "Dig"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM54",
+        "TM58",
+        "TM70",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Snore",
+        "Spite",
+        "Mud-slap",
+        "String Shot",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Endure",
+        "Faint Attack",
+        "Gust",
+        "Silver Wind",
+        "Bug Buzz",
+        "Night Slash",
+        "Bug Bite"
+    ],
+    "stats": [
+        "31",
+        "45",
+        "90",
+        "30",
+        "30",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "91 - 138",
+                "91 - 138",
+                "91 - 138"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "172 - 266",
+                "172 - 266",
+                "172 - 266"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

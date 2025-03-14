@@ -1,0 +1,218 @@
+{
+    "name": "Igglybuff",
+    "jp_name": "Pupurin\u30d7\u30d7\u30ea\u30f3",
+    "number": " National: #174Johto: #043 ",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Cute Charm"
+    ],
+    "classification": "Balloon Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "2.0lbs",
+    "capture_rate": "170",
+    "base_egg_steps": "2,560",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+        "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere."
+    ],
+    "location": [
+        "Breed Jigglypuff/Wigglytuff",
+        "Breed Jigglypuff/Wigglytuff"
+    ],
+    "learnset": {
+        "0": [
+            "Sing",
+            "Charm"
+        ],
+        "5": [
+            "Defense Curl"
+        ],
+        "9": [
+            "Pound"
+        ],
+        "13": [
+            "Sweet Kiss"
+        ],
+        "17": [
+            "Copycat"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Uproar",
+        "Bounce",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Pain Split",
+        "Gravity",
+        "Role Play",
+        "Magic Coat",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Perish Song",
+        "Present",
+        "Faint Attack",
+        "Wish",
+        "Fake Tears",
+        "Last Resort",
+        "Covet",
+        "Gravity"
+    ],
+    "stats": [
+        "90",
+        "30",
+        "15",
+        "40",
+        "20",
+        "15"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ]
+        ]
+    }
+}

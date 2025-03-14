@@ -1,0 +1,242 @@
+{
+    "name": "Leafeon",
+    "jp_name": "Leafia\u30ea\u30fc\u30d5\u30a3\u30a2",
+    "number": " National: #470Sinnoh: #169 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Leaf Guard"
+    ],
+    "classification": "Verdant Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "56.2lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "8,960",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "When you see LEAFEON asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Tail Whip",
+            "Tackle",
+            "Helping Hand"
+        ],
+        "8": [
+            "Sand-attack"
+        ],
+        "15": [
+            "Razor Leaf"
+        ],
+        "22": [
+            "Quick Attack"
+        ],
+        "29": [
+            "Synthesis"
+        ],
+        "36": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "43": [
+            "Giga Drain"
+        ],
+        "50": [
+            "Last Resort"
+        ],
+        "57": [
+            "Grasswhistle"
+        ],
+        "64": [
+            "Sunny Day"
+        ],
+        "71": [
+            "Leaf Blade"
+        ],
+        "78": [
+            "Swords Dance"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Synthesis",
+        "Mud-slap",
+        "Seed Bomb",
+        "Worry Seed",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Charm",
+        "Flail",
+        "Endure",
+        "Curse",
+        "Tickle",
+        "Wish",
+        "Yawn",
+        "Fake Tears",
+        "Covet",
+        "Detect"
+    ],
+    "stats": [
+        "65",
+        "110",
+        "130",
+        "60",
+        "65",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "name": "Omastar",
+    "jp_name": "Omstar\u30aa\u30e0\u30b9\u30bf\u30fc",
+    "number": " National: #139Johto: #226 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Shell Armor"
+    ],
+    "classification": "Spiral Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "77.2lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "7,680",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.25",
+        "1",
+        "2",
+        "4",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "flavor_text": [
+        "Apparently, it cracked SHELLDER's shell with its sharp fangs and sucked out the insides.",
+        "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs."
+    ],
+    "location": [
+        "Evolve Omanyte",
+        "Evolve Omanyte"
+    ],
+    "learnset": {
+        "0": [
+            "Constrict",
+            "Withdraw",
+            "Bite"
+        ],
+        "7": [
+            "Bite"
+        ],
+        "10": [
+            "Water Gun"
+        ],
+        "16": [
+            "Rollout"
+        ],
+        "19": [
+            "Leer"
+        ],
+        "25": [
+            "Mud Shot"
+        ],
+        "28": [
+            "Brine"
+        ],
+        "34": [
+            "Protect"
+        ],
+        "37": [
+            "Ancientpower"
+        ],
+        "40": [
+            "Spike Cannon"
+        ],
+        "48": [
+            "Tickle"
+        ],
+        "56": [
+            "Rock Blast"
+        ],
+        "67": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM74",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM06",
+        "HM07",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Knock Off",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Defense",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Bubblebeam",
+        "Aurora Beam",
+        "Slam",
+        "Supersonic",
+        "Haze",
+        "Rock Slide",
+        "Spikes",
+        "Knock Off",
+        "Wring Out",
+        "Toxic Spikes",
+        "Muddy Water"
+    ],
+    "stats": [
+        "70",
+        "60",
+        "125",
+        "115",
+        "70",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

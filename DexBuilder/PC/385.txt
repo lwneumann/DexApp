@@ -1,0 +1,253 @@
+{
+    "name": "Jirachi",
+    "jp_name": "Jirachi\u30b8\u30e9\u30fc\u30c1",
+    "number": " National: #385",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Serene Grace"
+    ],
+    "classification": "Wish Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "2.4lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "100",
+    "effort_values_earned": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0",
+        "2",
+        "0.5",
+        "0.25",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Star Piece",
+            "100"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "Generations have believed that any wish written on a note on its head will come true when it awakens."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Wish",
+            "Confusion"
+        ],
+        "5": [
+            "Rest"
+        ],
+        "10": [
+            "Swift"
+        ],
+        "60": [
+            "",
+            "Cosmic Power"
+        ],
+        "15": [
+            "Helping Hand"
+        ],
+        "20": [
+            "Psychic"
+        ],
+        "25": [
+            "Refresh"
+        ],
+        "30": [
+            "Rest"
+        ],
+        "35": [
+            "Zen Headbutt"
+        ],
+        "40": [
+            "Double-edge"
+        ],
+        "45": [
+            "Gravity"
+        ],
+        "50": [
+            "Healing Wish"
+        ],
+        "55": [
+            "Future Sight"
+        ],
+        "65": [
+            "Last Resort"
+        ],
+        "70": [
+            "Doom Desire"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM53",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "TM91",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Signal Beam",
+        "Gravity",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "stats": [
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

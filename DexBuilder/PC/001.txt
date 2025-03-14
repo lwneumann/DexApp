@@ -1,0 +1,237 @@
+{
+    "name": "Bulbasaur",
+    "jp_name": "Fushigidane\u30d5\u30b7\u30ae\u30c0\u30cd",
+    "number": " National: #001Johto: #231 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Seed Pok\u0165mon",
+    "height": "2'04\"",
+    "weight": "15.2lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+        "It carries a seed on its back right from birth. As it grows older, the seed also grows larger."
+    ],
+    "location": [
+        "Receive from Professor Oak",
+        "Receive from Professor Oak"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "3": [
+            "Growl"
+        ],
+        "7": [
+            "Leech Seed"
+        ],
+        "9": [
+            "Vine Whip"
+        ],
+        "13": [
+            "Poisonpowder",
+            "Sleep Powder"
+        ],
+        "15": [
+            "Take Down"
+        ],
+        "19": [
+            "Razor Leaf"
+        ],
+        "21": [
+            "Sweet Scent"
+        ],
+        "25": [
+            "Growth"
+        ],
+        "27": [
+            "Double-edge"
+        ],
+        "31": [
+            "Worry Seed"
+        ],
+        "33": [
+            "Synthesis"
+        ],
+        "37": [
+            "Seed Bomb"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Synthesis",
+        "Mud-slap",
+        "Seed Bomb",
+        "String Shot",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Light Screen",
+        "Skull Bash",
+        "Safeguard",
+        "Charm",
+        "Petal Dance",
+        "Magical Leaf",
+        "Grasswhistle",
+        "Curse",
+        "Ingrain",
+        "Nature Power",
+        "Amnesia",
+        "Leaf Storm",
+        "Power Whip",
+        "Sludge"
+    ],
+    "stats": [
+        "45",
+        "49",
+        "49",
+        "65",
+        "65",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

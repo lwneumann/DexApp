@@ -1,0 +1,243 @@
+{
+    "name": "Parasect",
+    "jp_name": "Parasect\u30d1\u30e9\u30bb\u30af\u30c8",
+    "number": " National: #047Sinnoh: #236 Johto: #071 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Effect Spore",
+        "Dry Skin"
+    ],
+    "classification": "Mushroom Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "65.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "4",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "2",
+        "0.25",
+        "4",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Tiny Mushroom",
+            "50"
+        ],
+        [
+            "Big Mushroom",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushroom on its back.",
+        "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters."
+    ],
+    "location": [
+        "Cerulean Cave, Safari Zone (Special Items)",
+        "Cerulean Cave, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Cross Poison",
+            "Scratch",
+            "Stun Spore",
+            "Poisonpowder",
+            "Leech Life"
+        ],
+        "6": [
+            "Stun Spore",
+            "Poisonpowder"
+        ],
+        "11": [
+            "Leech Life"
+        ],
+        "17": [
+            "Spore"
+        ],
+        "22": [
+            "Slash"
+        ],
+        "30": [
+            "Growth"
+        ],
+        "39": [
+            "Giga Drain"
+        ],
+        "47": [
+            "Aromatherapy"
+        ],
+        "55": [
+            "X-scissor"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM54",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Synthesis",
+        "Seed Bomb",
+        "String Shot",
+        "Worry Seed",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "False Swipe",
+        "Screech",
+        "Counter",
+        "Psybeam",
+        "Flail",
+        "Sweet Scent",
+        "Light Screen",
+        "Pursuit",
+        "Metal Claw",
+        "Bug Bite",
+        "Cross Poison",
+        "Agility"
+    ],
+    "stats": [
+        "60",
+        "95",
+        "80",
+        "60",
+        "80",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

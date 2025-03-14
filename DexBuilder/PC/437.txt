@@ -1,0 +1,243 @@
+{
+    "name": "Bronzong",
+    "jp_name": "Dootakun\u30c9\u30fc\u30bf\u30af\u30f3",
+    "number": " National: #437Sinnoh: #089 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Levitate",
+        "Heatproof"
+    ],
+    "classification": "Bronze Bell Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "412.3lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0",
+        "2",
+        "0.5",
+        "0.25",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Metal Coat",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "Ancient people believed that petitioning BRONZONG for rain was the way to make crops grow."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Sunny Day",
+            "Rain Dance",
+            "Tackle",
+            "Confusion",
+            "Hypnosis",
+            "Imprison"
+        ],
+        "7": [
+            "Hypnosis"
+        ],
+        "12": [
+            "Imprison"
+        ],
+        "14": [
+            "Confuse Ray"
+        ],
+        "19": [
+            "Extrasensory"
+        ],
+        "26": [
+            "Iron Defense"
+        ],
+        "30": [
+            "Safeguard"
+        ],
+        "33": [
+            "Block"
+        ],
+        "43": [
+            "Future Sight"
+        ],
+        "50": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "61": [
+            "Payback"
+        ],
+        "67": [
+            "Heal Block"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM57",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM67",
+        "TM68",
+        "TM69",
+        "TM70",
+        "TM74",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM91",
+        "TM92",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Trick",
+        "Zen Headbutt",
+        "Snore",
+        "Ancientpower",
+        "Iron Head",
+        "Rollout",
+        "Signal Beam",
+        "Gravity",
+        "Block"
+    ],
+    "stats": [
+        "67",
+        "89",
+        "116",
+        "79",
+        "116",
+        "33"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "127 - 174",
+                "127 - 174",
+                "127 - 174"
+            ],
+            [
+                "84 - 126",
+                "94 - 141",
+                "103 - 155"
+            ],
+            [
+                "108 - 151",
+                "121 - 168",
+                "133 - 184"
+            ],
+            [
+                "75 - 117",
+                "84 - 131",
+                "92 - 144"
+            ],
+            [
+                "108 - 151",
+                "121 - 168",
+                "133 - 184"
+            ],
+            [
+                "34 - 76",
+                "38 - 85",
+                "41 - 93"
+            ]
+        ],
+        "100": [
+            [
+                "244 - 338",
+                "244 - 338",
+                "244 - 338"
+            ],
+            [
+                "164 - 249",
+                "183 - 277",
+                "201 - 304"
+            ],
+            [
+                "213 - 297",
+                "237 - 331",
+                "260 - 364"
+            ],
+            [
+                "146 - 231",
+                "163 - 257",
+                "179 - 282"
+            ],
+            [
+                "213 - 297",
+                "237 - 331",
+                "260 - 364"
+            ],
+            [
+                "63 - 148",
+                "71 - 165",
+                "78 - 181"
+            ]
+        ]
+    }
+}

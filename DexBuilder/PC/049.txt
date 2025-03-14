@@ -1,0 +1,247 @@
+{
+    "name": "Venomoth",
+    "jp_name": "Morphon\u30e2\u30eb\u30d5\u30a9\u30f3",
+    "number": " National: #049Johto: #110 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shield Dust",
+        "Tinted Lens"
+    ],
+    "classification": "Poison Moth Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "27.6lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Shed Shell",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+        "The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis."
+    ],
+    "location": [
+        "Route 24, Route 25",
+        "Route 24, Route 25"
+    ],
+    "learnset": {
+        "0": [
+            "Silver Wind",
+            "Tackle",
+            "Disable",
+            "Foresight",
+            "Supersonic"
+        ],
+        "5": [
+            "Supersonic"
+        ],
+        "11": [
+            "Confusion"
+        ],
+        "13": [
+            "Poisonpowder"
+        ],
+        "17": [
+            "Leech Life"
+        ],
+        "23": [
+            "Stun Spore"
+        ],
+        "25": [
+            "Psybeam"
+        ],
+        "29": [
+            "Sleep Powder"
+        ],
+        "31": [
+            "Gust"
+        ],
+        "37": [
+            "Signal Beam"
+        ],
+        "41": [
+            "Zen Headbutt"
+        ],
+        "47": [
+            "Poison Fang"
+        ],
+        "55": [
+            "Psychic"
+        ],
+        "59": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM51",
+        "TM53",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Signal Beam",
+        "Twister",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Baton Pass",
+        "Screech",
+        "Giga Drain",
+        "Signal Beam",
+        "Agility",
+        "Morning Sun",
+        "Toxic Spikes",
+        "Bug Bite"
+    ],
+    "stats": [
+        "70",
+        "65",
+        "60",
+        "90",
+        "75",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

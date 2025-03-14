@@ -1,0 +1,233 @@
+{
+    "name": "Dialga",
+    "jp_name": "Diaruga\u30c7\u30a3\u30a2\u30eb\u30ac",
+    "number": " National: #483Sinnoh: #149 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Temporal Pok\u00e9mon",
+    "height": "17'09\"",
+    "weight": "1505.7lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "0.25",
+        "1",
+        "2",
+        "0",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "This Pok\u00e9mon completely controls the flow of time. It uses its power to travel at will through the past and future."
+    ],
+    "location": [
+        "Sinjoh Ruins",
+        "Sinjoh Ruins"
+    ],
+    "learnset": {
+        "0": [
+            "Dragonbreath",
+            "Scary Face"
+        ],
+        "6": [
+            "Metal Claw"
+        ],
+        "10": [
+            "Ancientpower"
+        ],
+        "15": [
+            "Slash"
+        ],
+        "19": [
+            "Power Gem"
+        ],
+        "28": [
+            "Dragon Claw"
+        ],
+        "33": [
+            "Earth Power"
+        ],
+        "37": [
+            "Aura Sphere"
+        ],
+        "90": [
+            ""
+        ],
+        "42": [
+            "Flash Cannon"
+        ],
+        "46": [
+            "Roar Of Time"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM50",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM68",
+        "TM70",
+        "TM71",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "TM92",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Gravity",
+        "Headbutt"
+    ],
+    "stats": [
+        "100",
+        "120",
+        "120",
+        "150",
+        "100",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

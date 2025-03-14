@@ -1,0 +1,263 @@
+{
+    "name": "Feraligatr",
+    "jp_name": "Ordairu\u30aa\u30fc\u30c0\u30a4\u30eb",
+    "number": " National: #160Johto: #009 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Torrent"
+    ],
+    "classification": "Big Jaw Pok\u00e9mon",
+    "height": "7'07\"",
+    "weight": "195.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "flavor_text": [
+        "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+        "It is hard for it to support its weight out of water, so it sometimes gets down on all fours. But it moves fast."
+    ],
+    "location": [
+        "Evolve Croconaw",
+        "Evolve Croconaw"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Leer",
+            "Water Gun",
+            "Rage"
+        ],
+        "6": [
+            "Water Gun"
+        ],
+        "8": [
+            "Rage"
+        ],
+        "13": [
+            "Bite"
+        ],
+        "15": [
+            "Scary Face"
+        ],
+        "21": [
+            "Ice Fang"
+        ],
+        "30": [
+            "Agility"
+        ],
+        "32": [
+            "Crunch"
+        ],
+        "37": [
+            "Slash"
+        ],
+        "45": [
+            "Screech"
+        ],
+        "50": [
+            "Thrash"
+        ],
+        "58": [
+            "Aqua Tail"
+        ],
+        "63": [
+            "Superpower"
+        ],
+        "71": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM02",
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM68",
+        "TM72",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Aqua Tail",
+        "Mud-slap",
+        "Outrage",
+        "Superpower",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Thrash",
+        "Hydro Pump",
+        "Ancientpower",
+        "Rock Slide",
+        "Mud Sport",
+        "Water Sport",
+        "Dragon Claw",
+        "Ice Punch",
+        "Metal Claw",
+        "Dragon Dance",
+        "Aqua Jet"
+    ],
+    "stats": [
+        "85",
+        "105",
+        "100",
+        "79",
+        "83",
+        "78"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "145 - 192",
+                "145 - 192",
+                "145 - 192"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "75 - 117",
+                "84 - 131",
+                "92 - 144"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ]
+        ],
+        "100": [
+            [
+                "280 - 374",
+                "280 - 374",
+                "280 - 374"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "146 - 231",
+                "163 - 257",
+                "179 - 282"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ]
+        ]
+    }
+}

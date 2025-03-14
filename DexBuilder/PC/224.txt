@@ -1,0 +1,243 @@
+{
+    "name": "Octillery",
+    "jp_name": "Okutan\u30aa\u30af\u30bf\u30f3",
+    "number": " National: #224Sinnoh: #133 Johto: #175 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Suction Cups",
+        "Sniper"
+    ],
+    "classification": "Jet Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "62.8lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "flavor_text": [
+        "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+        "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY."
+    ],
+    "location": [
+        "Evolve Remoraid",
+        "Evolve Remoraid"
+    ],
+    "learnset": {
+        "0": [
+            "Gunk Shot",
+            "Rock Blast",
+            "Water Gun",
+            "Constrict",
+            "Psybeam",
+            "Aurora Beam"
+        ],
+        "6": [
+            "Constrict"
+        ],
+        "10": [
+            "Psybeam"
+        ],
+        "14": [
+            "Aurora Beam"
+        ],
+        "19": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Focus Energy"
+        ],
+        "25": [
+            "Octazooka"
+        ],
+        "29": [
+            "Bullet Seed"
+        ],
+        "42": [
+            "Signal Beam"
+        ],
+        "48": [
+            "Ice Beam"
+        ],
+        "55": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM55",
+        "TM57",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Gunk Shot",
+        "Mud-slap",
+        "Seed Bomb",
+        "Signal Beam",
+        "String Shot"
+    ],
+    "egg_moves": [
+        "Aurora Beam",
+        "Octazooka",
+        "Supersonic",
+        "Haze",
+        "Screech",
+        "Thunder Wave",
+        "Rock Blast",
+        "Snore",
+        "Flail",
+        "Water Spout"
+    ],
+    "stats": [
+        "75",
+        "105",
+        "75",
+        "105",
+        "75",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

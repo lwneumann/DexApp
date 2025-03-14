@@ -1,0 +1,229 @@
+{
+    "name": "Numel",
+    "jp_name": "Donmel\u30c9\u30f3\u30e1\u30eb",
+    "number": " National: #322",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Oblivious",
+        "Simple"
+    ],
+    "classification": "Numb Pok\u00e9mon",
+    "height": "2'04\"",
+    "weight": "52.9lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "4",
+        "0",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Rawst Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "The flaming magma it stores in the hump on its back is the source of its tremendous power."
+    ],
+    "location": [
+        "Ilex Forest, Viridian Forest",
+        "Ilex Forest, Viridian Forest"
+    ],
+    "learnset": {
+        "0": [
+            "Growl",
+            "Tackle"
+        ],
+        "5": [
+            "Ember"
+        ],
+        "15": [
+            "Focus Energy"
+        ],
+        "21": [
+            "Take Down"
+        ],
+        "25": [
+            "Amnesia"
+        ],
+        "31": [
+            "Lava Plume"
+        ],
+        "35": [
+            "Earth Power"
+        ],
+        "41": [
+            "Earthquake"
+        ],
+        "45": [
+            "Flamethrower"
+        ],
+        "51": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Earth Power",
+        "Heat Wave",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Howl",
+        "Scary Face",
+        "Body Slam",
+        "Rollout",
+        "Defense Curl",
+        "Stomp",
+        "Yawn",
+        "Ancientpower",
+        "Mud Bomb",
+        "Heat Wave",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "60",
+        "60",
+        "40",
+        "65",
+        "45",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

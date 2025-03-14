@@ -1,0 +1,226 @@
+{
+    "name": "Pineco",
+    "jp_name": "Kunugidama\u30af\u30cc\u30ae\u30c0\u30de",
+    "number": " National: #204Johto: #093 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sturdy"
+    ],
+    "classification": "Bagworm Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "15.9lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+        "It hangs and waits for flying insect prey to come near. It does not move about much on its own."
+    ],
+    "location": [
+        "Routes 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate Pallet Town, Viridian City, Pewter City, Cerulean City (Headbutt)",
+        "Routes 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate Pallet Town, Viridian City, Pewter City, Cerulean City (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Protect"
+        ],
+        "6": [
+            "Selfdestruct"
+        ],
+        "9": [
+            "Bug Bite"
+        ],
+        "12": [
+            "Take Down"
+        ],
+        "17": [
+            "Rapid Spin"
+        ],
+        "28": [
+            "Spikes"
+        ],
+        "31": [
+            "Payback"
+        ],
+        "34": [
+            "Explosion"
+        ],
+        "39": [
+            "Iron Defense"
+        ],
+        "45": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM74",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Iron Defense",
+        "Rollout",
+        "Pain Split",
+        "String Shot",
+        "Gravity",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Reflect",
+        "Pin Missile",
+        "Flail",
+        "Swift",
+        "Counter",
+        "Sand Tomb",
+        "Revenge",
+        "Double-edge",
+        "Toxic Spikes",
+        "Power Trick"
+    ],
+    "stats": [
+        "50",
+        "65",
+        "90",
+        "35",
+        "35",
+        "15"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ]
+        ]
+    }
+}

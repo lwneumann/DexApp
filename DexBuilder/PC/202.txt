@@ -1,0 +1,154 @@
+{
+    "name": "Wobbuffet",
+    "jp_name": "Sonansu\u30bd\u30fc\u30ca\u30f3\u30b9",
+    "number": " National: #202Johto: #108 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shadow Tag"
+    ],
+    "classification": "Patient Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "63.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+        "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+    ],
+    "location": [
+        "Dark Cave, Cerulean Cave, Safari Zone",
+        "Dark Cave, Cerulean Cave, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Safeguard",
+            "Destiny Bond"
+        ]
+    },
+    "TMHM": [
+        "rns.",
+        "tack",
+        "58",
+        "- 99",
+        " 148",
+        "- 85",
+        " 215",
+        " 121",
+        " 181"
+    ],
+    "stats": [
+        "190",
+        "33",
+        "58",
+        "33",
+        "58",
+        "33"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "250 - 297",
+                "250 - 297",
+                "250 - 297"
+            ],
+            [
+                "34 - 76",
+                "38 - 85",
+                "41 - 93"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "34 - 76",
+                "38 - 85",
+                "41 - 93"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "34 - 76",
+                "38 - 85",
+                "41 - 93"
+            ]
+        ],
+        "100": [
+            [
+                "490 - 584",
+                "490 - 584",
+                "490 - 584"
+            ],
+            [
+                "63 - 148",
+                "71 - 165",
+                "78 - 181"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "63 - 148",
+                "71 - 165",
+                "78 - 181"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "63 - 148",
+                "71 - 165",
+                "78 - 181"
+            ]
+        ]
+    }
+}

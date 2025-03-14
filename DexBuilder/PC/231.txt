@@ -1,0 +1,224 @@
+{
+    "name": "Phanpy",
+    "jp_name": "Gomazou\u30b4\u30de\u30be\u30a6",
+    "number": " National: #231Johto: #200 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Pickup"
+    ],
+    "classification": "Long Nose Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "74.0lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Passho Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
+        "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying."
+    ],
+    "location": [
+        "Route 45, Mt. Silver",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Odor Sleuth",
+            "Tackle",
+            "Growl",
+            "Defense Curl"
+        ],
+        "10": [
+            "Take Down",
+            "The user endures any attack with at least"
+        ],
+        "15": [
+            "Rollout"
+        ],
+        "24": [
+            "Slam"
+        ],
+        "28": [
+            "Endure"
+        ],
+        "33": [
+            "Charm"
+        ],
+        "37": [
+            "Last Resort"
+        ],
+        "42": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Knock Off",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Endeavor",
+        "Gunk Shot",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Focus Energy",
+        "Body Slam",
+        "Ancientpower",
+        "Snore",
+        "Counter",
+        "Fissure",
+        "Endeavor",
+        "Ice Shard",
+        "Head Smash"
+    ],
+    "stats": [
+        "90",
+        "60",
+        "60",
+        "40",
+        "40",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

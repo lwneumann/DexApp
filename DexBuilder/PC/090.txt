@@ -1,0 +1,233 @@
+{
+    "name": "Shellder",
+    "jp_name": "Shellder\u30b7\u30a7\u30eb\u30c0\u30fc",
+    "number": " National: #090Johto: #171 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shell Armor",
+        "Skill Link"
+    ],
+    "classification": "Bivalve Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "8.8lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Pearl",
+            "50"
+        ],
+        [
+            "Big Pearl",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 3"
+    ],
+    "flavor_text": [
+        "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+        "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls."
+    ],
+    "location": [
+        "Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island",
+        "Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "4": [
+            "Withdraw"
+        ],
+        "8": [
+            "Supersonic"
+        ],
+        "13": [
+            "Icicle Spear"
+        ],
+        "16": [
+            "Protect"
+        ],
+        "20": [
+            "Leer"
+        ],
+        "25": [
+            "Clamp"
+        ],
+        "28": [
+            "Ice Shard"
+        ],
+        "32": [
+            "Aurora Beam"
+        ],
+        "37": [
+            "Whirlpool"
+        ],
+        "40": [
+            "Iron Defense"
+        ],
+        "44": [
+            "Brine"
+        ],
+        "49": [
+            "Ice Beam"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Iron Defense"
+    ],
+    "egg_moves": [
+        "Bubblebeam",
+        "Take Down",
+        "Barrier",
+        "Rapid Spin",
+        "Screech",
+        "Icicle Spear",
+        "Mud Shot",
+        "Rock Blast"
+    ],
+    "stats": [
+        "30",
+        "65",
+        "100",
+        "45",
+        "25",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

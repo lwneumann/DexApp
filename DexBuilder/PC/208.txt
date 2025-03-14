@@ -1,0 +1,259 @@
+{
+    "name": "Steelix",
+    "jp_name": "Haganeiru\u30cf\u30ac\u30cd\u30fc\u30eb",
+    "number": " National: #208Sinnoh: #035 Johto: #063 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rock Head",
+        "Sturdy"
+    ],
+    "classification": "Iron Snake Pok\u00e9mon",
+    "height": "30'02\"",
+    "weight": "881.8lbs",
+    "capture_rate": "25",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "2",
+        "2",
+        "0",
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.25",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Metal Coat",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+        "It's said that if an ONIX lives for 100 years, its composition becomes diamondlike as it evolves into a STEELIX."
+    ],
+    "location": [
+        "Mt. Silver, The Cliff Cave",
+        "Mt. Silver, The Cliff Cave"
+    ],
+    "learnset": {
+        "0": [
+            "Thunder Fang",
+            "Ice Fang",
+            "Fire Fang",
+            "Mud Sport",
+            "Tackle",
+            "Harden",
+            "Bind"
+        ],
+        "6": [
+            "Screech"
+        ],
+        "9": [
+            "Rock Throw"
+        ],
+        "14": [
+            "Rage"
+        ],
+        "17": [
+            "Rock Tomb"
+        ],
+        "22": [
+            "Sandstorm"
+        ],
+        "25": [
+            "Slam"
+        ],
+        "30": [
+            "Rock Polish"
+        ],
+        "33": [
+            "Dragonbreath"
+        ],
+        "38": [
+            "Curse"
+        ],
+        "41": [
+            "Iron Tail"
+        ],
+        "46": [
+            "Crunch"
+        ],
+        "49": [
+            "Double-edge"
+        ],
+        "54": [
+            "Stone Edge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM59",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM74",
+        "TM76",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Magnet Rise",
+        "Snore",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Twister",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rock Slide",
+        "Flail",
+        "Explosion",
+        "Block",
+        "Defense Curl",
+        "Rollout",
+        "Rock Blast"
+    ],
+    "stats": [
+        "75",
+        "85",
+        "200",
+        "55",
+        "65",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "184 - 226",
+                "205 - 252",
+                "225 - 277"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "364 - 449",
+                "405 - 499",
+                "445 - 548"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

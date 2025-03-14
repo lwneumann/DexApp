@@ -1,0 +1,3564 @@
+
+
+Images
+
+
+ 
+Male
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+ 
+Female
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Scizor
+Hassamuハッサム
+ National: #212Sinnoh: #196 Johto: #112 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Swarm & Technician 
+
+
+
+Swarm: When HP is below 1/3rd, Bug’s power increases to 1.5 times. 
+Technician: Moves with a base power of 60 or less raise to 1.5 times. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Pincer Pokémon
+5'11"
+260.1lbs
+25
+6,400
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Attack Point(s)
+Red
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*0.5
+*4
+*1
+*1
+*0.25
+*0.5
+*1
+*0
+*1
+*1
+*0.5
+*0.5
+*1
+*0.5
+*0.5
+*0.5
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.
+		
+
+
+Pearl
+
+
+Platinum
+		
+
+		It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.
+		  
+HeartGold 
+		It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.
+		
+
+
+SoulSilver
+
+		Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.
+		
+ 
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/XD
+		
+
+
+FireRed
+		
+
+		Evolve Scyther
+		
+
+
+LeafGreen
+		
+
+		Trade from FireRed/XD
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/XD
+		
+
+
+XD
+		
+
+		Evolve Scyther
+		
+
+
+Diamond
+		
+
+		Evolve from Scyther
+		
+
+
+Pearl
+		
+
+		Transfer from GBA Games, Trade with Diamond
+		
+
+Platinum
+		
+
+		Evolve Scyther
+		
+
+
+HeartGold
+		
+
+		Evolve Scyther
+		
+
+
+SoulSilver
+		
+
+		Evolve Scyther
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bullet Punch4010030--The user strikes with a tough punch as fast as a bullet. This move always goes first.—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.61Feint5010010--An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/XD
+		
+
+
+FireRed
+		
+
+		Evolve Scyther
+		
+
+
+LeafGreen
+		
+
+		Trade from FireRed/XD
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/XD
+		
+
+
+XD
+		
+
+		Evolve Scyther
+		
+
+
+Diamond
+		
+
+		Evolve from Scyther
+		
+
+
+Pearl
+		
+
+		Transfer from GBA Games, Trade with Diamond
+		
+
+Platinum
+		
+
+		Evolve Scyther
+		
+
+
+HeartGold
+		
+
+		Evolve Scyther
+		
+
+
+SoulSilver
+		
+
+		Evolve Scyther
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bullet Punch4010030--The user strikes with a tough punch as fast as a bullet. This move always goes first.—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.61Feint5010010--An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bullet Punch4010030--The user strikes with a tough punch as fast as a bullet. This move always goes first.—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.61Feint5010010--An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bullet Punch4010030--The user strikes with a tough punch as fast as a bullet. This move always goes first.—Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.5Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.9Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.13False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.17Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.21Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 25Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.29Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.33Razor Wind8010010--A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.37Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.41X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.45Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.49Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.53Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.57Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.61Feint5010010--An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Safeguard----25--DetailsThe user creates a protective field that prevents status problems for five turns.Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Razor Wind8010010--DetailsA two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Light Screen----30--DetailsA wondrous wall of light is put up to suppress damage from special attacks for five turns.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWing Attack6010035--  Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.Vacuum Wave4010030--  Pt Lv. 1The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.Wing Attack6010035--  Pt Lv. 21The foe is struck with large, imposing wings spread wide to inflict damage. Air Slash75952030  Pt Lv. 53The user attacks with a blade of air that slices even the sky. It may also make the target flinch.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansDouble Team----15--RSELv41 By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+130
+100
+55
+80
+65
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+121 - 163
+94 - 136
+54 - 96
+76 - 118
+63 - 105
+Lv. 100
+250 - 344
+238 - 323
+184 - 269
+103 - 188
+148 - 233
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+135 - 182
+105 - 152
+60 - 107
+85 - 132
+70 - 117
+Lv. 100
+250 - 344
+265 - 359
+205 - 299
+115 - 209
+165 - 259
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+148 - 200
+115 - 167
+66 - 117
+93 - 145
+77 - 128
+Lv. 100
+250 - 344
+291 - 394
+225 - 328
+126 - 229
+181 - 284
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#211Qwilfish
+		
+
+
+
+
+
+
+
+#213Shuckle
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,250 @@
+{
+    "name": "Venusaur",
+    "jp_name": "Fushigibana\u30d5\u30b7\u30ae\u30d0\u30ca",
+    "number": " National: #003Johto: #233 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Seed Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "220.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+        "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime."
+    ],
+    "location": [
+        "Evolve Ivysaur",
+        "Evolve Ivysaur"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growl",
+            "Leech Seed",
+            "Vine Whip"
+        ],
+        "3": [
+            "Growl"
+        ],
+        "7": [
+            "Leech Seed"
+        ],
+        "9": [
+            "Vine Whip"
+        ],
+        "13": [
+            "Poisonpowder",
+            "Sleep Powder"
+        ],
+        "15": [
+            "Take Down"
+        ],
+        "20": [
+            "Razor Leaf"
+        ],
+        "23": [
+            "Sweet Scent"
+        ],
+        "28": [
+            "Growth"
+        ],
+        "31": [
+            "Double-edge"
+        ],
+        "32": [
+            "Petal Dance"
+        ],
+        "39": [
+            "Worry Seed"
+        ],
+        "45": [
+            "Synthesis"
+        ],
+        "53": [
+            "Solarbeam"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Synthesis",
+        "Mud-slap",
+        "Outrage",
+        "Seed Bomb",
+        "String Shot",
+        "Worry Seed",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Light Screen",
+        "Skull Bash",
+        "Safeguard",
+        "Charm",
+        "Petal Dance",
+        "Magical Leaf",
+        "Grasswhistle",
+        "Curse",
+        "Ingrain",
+        "Nature Power",
+        "Amnesia",
+        "Leaf Storm",
+        "Power Whip",
+        "Sludge"
+    ],
+    "stats": [
+        "80",
+        "82",
+        "83",
+        "100",
+        "100",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "78 - 120",
+                "87 - 134",
+                "95 - 147"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "152 - 236",
+                "169 - 263",
+                "185 - 289"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "name": "Sunflora",
+    "jp_name": "Kimawari\u30ad\u30de\u30ef\u30ea",
+    "number": " National: #192Johto: #104 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Solar Power"
+    ],
+    "classification": "Sun Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "18.7lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+        "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets."
+    ],
+    "location": [
+        "Evolve Sunkern",
+        "Evolve Sunkern"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb",
+            "Pound",
+            "Growth"
+        ],
+        "5": [
+            "Mega Drain"
+        ],
+        "9": [
+            "Ingrain"
+        ],
+        "13": [
+            "Grasswhistle"
+        ],
+        "17": [
+            "Leech Seed"
+        ],
+        "21": [
+            "Bullet Seed"
+        ],
+        "25": [
+            "Worry Seed"
+        ],
+        "29": [
+            "Razor Leaf"
+        ],
+        "33": [
+            "Petal Dance"
+        ],
+        "37": [
+            "Sunny Day"
+        ],
+        "41": [
+            "Solarbeam"
+        ],
+        "43": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Endeavor",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Grasswhistle",
+        "Encore",
+        "Leech Seed",
+        "Nature Power",
+        "Curse",
+        "Helping Hand",
+        "Ingrain",
+        "Sweet Scent"
+    ],
+    "stats": [
+        "75",
+        "75",
+        "55",
+        "105",
+        "85",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

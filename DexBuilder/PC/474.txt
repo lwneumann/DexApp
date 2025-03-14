@@ -1,0 +1,235 @@
+{
+    "name": "Porygon-Z",
+    "jp_name": "PorygonZ\u30dd\u30ea\u30b4\u30f3\uff3a",
+    "number": " National: #474Sinnoh: #194 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Adaptability",
+        "Download"
+    ],
+    "classification": "Virtual Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "75.0lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error..."
+    ],
+    "location": [
+        "Evolve Porygon2",
+        "Evolve Porygon2"
+    ],
+    "learnset": {
+        "0": [
+            "Trick Room",
+            "Conversion",
+            "Tackle",
+            "Conversion",
+            "Nasty Plot"
+        ],
+        "2": [
+            ""
+        ],
+        "7": [
+            "Psybeam"
+        ],
+        "12": [
+            "Agility"
+        ],
+        "18": [
+            "Recover"
+        ],
+        "23": [
+            "Magnet Rise"
+        ],
+        "29": [
+            "Signal Beam"
+        ],
+        "34": [
+            "Embargo"
+        ],
+        "40": [
+            "Discharge"
+        ],
+        "45": [
+            "Lock-on"
+        ],
+        "51": [
+            "Tri Attack"
+        ],
+        "56": [
+            "Magic Coat"
+        ],
+        "62": [
+            "Zap Cannon"
+        ],
+        "67": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM63",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Signal Beam",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat"
+    ],
+    "stats": [
+        "85",
+        "80",
+        "70",
+        "135",
+        "75",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "145 - 192",
+                "145 - 192",
+                "145 - 192"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "126 - 168",
+                "140 - 187",
+                "154 - 205"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "280 - 374",
+                "280 - 374",
+                "280 - 374"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "247 - 332",
+                "275 - 369",
+                "302 - 405"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "name": "Froslass",
+    "jp_name": "Yukimenoko\u30e6\u30ad\u30e1\u30ce\u30b3",
+    "number": " National: #478Sinnoh: #208 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Snow Cloak"
+    ],
+    "classification": "Snow Land Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "58.6lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "0",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "1",
+        "2",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Babiri Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "flavor_text": [
+        "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as FROSLASS.",
+        "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as FROSLASS"
+    ],
+    "location": [
+        "Evolve Snorunt",
+        "Evolve Snorunt"
+    ],
+    "learnset": {
+        "0": [
+            "Powder Snow",
+            "Leer",
+            "Double Team",
+            "Astonish"
+        ],
+        "4": [
+            "Double Team"
+        ],
+        "10": [
+            "Astonish"
+        ],
+        "13": [
+            "Icy Wind"
+        ],
+        "19": [
+            "Confuse Ray"
+        ],
+        "22": [
+            "Ominous Wind"
+        ],
+        "28": [
+            "Wake-up Slap"
+        ],
+        "31": [
+            "Captivate"
+        ],
+        "37": [
+            "Ice Shard"
+        ],
+        "40": [
+            "Hail"
+        ],
+        "51": [
+            "Blizzard"
+        ],
+        "59": [
+            "Destiny Bond"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM49",
+        "TM56",
+        "TM58",
+        "TM63",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM72",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Ice Punch",
+        "Icy Wind",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Trick",
+        "Snore",
+        "Spite",
+        "Mud-slap",
+        "Rollout",
+        "Signal Beam",
+        "Pain Split",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Block",
+        "Spikes",
+        "Rollout",
+        "Disable",
+        "Bide",
+        "Weather Ball"
+    ],
+    "stats": [
+        "70",
+        "80",
+        "70",
+        "80",
+        "70",
+        "110"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ]
+        ]
+    }
+}

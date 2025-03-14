@@ -1,0 +1,250 @@
+{
+    "name": "Farfetch'd",
+    "jp_name": "Kamonegi\u30ab\u30e2\u30cd\u30ae",
+    "number": " National: #083Johto: #160 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye",
+        "Inner Focus"
+    ],
+    "classification": "Wild Duck Pok\u0137mon",
+    "height": "2'07\"",
+    "weight": "33.1lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Leek",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Flying",
+        "Ground"
+    ],
+    "flavor_text": [
+        "If anyone tries to disturb where the essential plant stalks grow, it uses its own stalk to thwart them.",
+        "If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk."
+    ],
+    "location": [
+        "Route 38, Route 39, Route 47, Route 48, Safari Zone",
+        "Route 38, Route 39, Route 47, Route 48, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Jab",
+            "Peck",
+            "Sand-attack",
+            "Leer",
+            "Fury Cutter"
+        ],
+        "7": [
+            "Fury Attack"
+        ],
+        "9": [
+            "Knock Off"
+        ],
+        "13": [
+            "Aerial Ace"
+        ],
+        "60": [
+            ""
+        ],
+        "19": [
+            "Slash"
+        ],
+        "21": [
+            "Air Cutter"
+        ],
+        "25": [
+            "Swords Dance"
+        ],
+        "31": [
+            "Agility"
+        ],
+        "33": [
+            "Night Slash"
+        ],
+        "37": [
+            "Air Slash"
+        ],
+        "43": [
+            "Feint"
+        ],
+        "45": [
+            "False Swipe"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM54",
+        "TM58",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM01",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Knock Off",
+        "Ominous Wind",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Steel Wing",
+        "Foresight",
+        "Mirror Move",
+        "Gust",
+        "Quick Attack",
+        "Flail",
+        "Featherdance",
+        "Curse",
+        "Covet",
+        "Mud-slap",
+        "Night Slash",
+        "Leaf Blade"
+    ],
+    "stats": [
+        "52",
+        "65",
+        "55",
+        "58",
+        "62",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "112 - 159",
+                "112 - 159",
+                "112 - 159"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "60 - 102",
+                "67 - 114",
+                "73 - 125"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "214 - 308",
+                "214 - 308",
+                "214 - 308"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "116 - 200",
+                "129 - 223",
+                "141 - 245"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

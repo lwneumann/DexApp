@@ -1,0 +1,229 @@
+{
+    "name": "Chatot",
+    "jp_name": "Perap\u30da\u30e9\u30c3\u30d7",
+    "number": " National: #441Sinnoh: #102 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye",
+        "Tangled Feet"
+    ],
+    "classification": "Music Note Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "4.0lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Metronome",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "It mimics the cries of other Pok\u00e9mon to trick them into thinking it's one of them. This way they won't attack it."
+    ],
+    "location": [
+        "Sprout Tower, Bell Tower, Burnt Tower",
+        "Sprout Tower, Bell Tower, Burnt Tower"
+    ],
+    "learnset": {
+        "0": [
+            "Peck"
+        ],
+        "5": [
+            "Growl"
+        ],
+        "9": [
+            "Mirror Move"
+        ],
+        "13": [
+            "Sing"
+        ],
+        "17": [
+            "Fury Attack"
+        ],
+        "21": [
+            "Chatter"
+        ],
+        "25": [
+            "Taunt"
+        ],
+        "29": [
+            "Mimic"
+        ],
+        "33": [
+            "Roost"
+        ],
+        "37": [
+            "Uproar"
+        ],
+        "41": [
+            "Featherdance"
+        ],
+        "45": [
+            "Hyper Voice"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind",
+        "Role Play",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Encore",
+        "Night Shade",
+        "Agility",
+        "Nasty Plot",
+        "Supersonic"
+    ],
+    "stats": [
+        "76",
+        "65",
+        "45",
+        "92",
+        "42",
+        "91"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "136 - 183",
+                "136 - 183",
+                "136 - 183"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "87 - 129",
+                "97 - 144",
+                "106 - 158"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "86 - 128",
+                "96 - 143",
+                "105 - 157"
+            ]
+        ],
+        "100": [
+            [
+                "262 - 356",
+                "262 - 356",
+                "262 - 356"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "170 - 254",
+                "189 - 283",
+                "207 - 311"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "168 - 252",
+                "187 - 281",
+                "205 - 309"
+            ]
+        ]
+    }
+}

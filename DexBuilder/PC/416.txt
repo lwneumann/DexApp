@@ -1,0 +1,235 @@
+{
+    "name": "Vespiquen",
+    "jp_name": "Beequeen\u30d3\u30fc\u30af\u30a4\u30f3",
+    "number": " National: #416Sinnoh: #054 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Beehive Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "84.9lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Poison Barb",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It raises grubs in the holes in its body. It secretes pheromones to control COMBEE."
+    ],
+    "location": [
+        "Evolve Combee",
+        "Evolve Combee"
+    ],
+    "learnset": {
+        "0": [
+            "Sweet Scent",
+            "Gust"
+        ],
+        "3": [
+            "Poison Sting"
+        ],
+        "7": [
+            "Confuse Ray"
+        ],
+        "9": [
+            "Fury Cutter"
+        ],
+        "13": [
+            "Defend Order"
+        ],
+        "15": [
+            "Pursuit"
+        ],
+        "19": [
+            "Fury Swipes"
+        ],
+        "21": [
+            "Power Gem"
+        ],
+        "25": [
+            "Heal Order"
+        ],
+        "27": [
+            "Toxic"
+        ],
+        "31": [
+            "Slash"
+        ],
+        "33": [
+            "Captivate"
+        ],
+        "37": [
+            "Attack Order"
+        ],
+        "39": [
+            "Swagger"
+        ],
+        "43": [
+            "Destiny Bond"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM56",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Endeavor",
+        "Mud-slap",
+        "Signal Beam",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "stats": [
+        "70",
+        "80",
+        "102",
+        "80",
+        "102",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "96 - 138",
+                "107 - 154",
+                "117 - 169"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "96 - 138",
+                "107 - 154",
+                "117 - 169"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "188 - 272",
+                "209 - 303",
+                "229 - 333"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "188 - 272",
+                "209 - 303",
+                "229 - 333"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

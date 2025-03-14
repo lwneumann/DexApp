@@ -1,0 +1,225 @@
+{
+    "name": "Moltres",
+    "jp_name": "Fire\u30d5\u30a1\u30a4\u30e4\u30fc",
+    "number": " National: #146Johto: #242 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Flame Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "132.3lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "0.25",
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.25",
+        "4",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "This legendary Pok\u00e9mon scatters embers with every flap of its wings. It is a thrilling sight to behold.",
+        "This legendary bird Pok\u00e9mon is said to bring early spring to the wintry lands it visits."
+    ],
+    "location": [
+        "Mt. Silver",
+        "Mt. Silver"
+    ],
+    "learnset": {
+        "0": [
+            "Wing Attack",
+            "Ember"
+        ],
+        "8": [
+            "Fire Spin"
+        ],
+        "15": [
+            "Agility"
+        ],
+        "22": [
+            "Endure"
+        ],
+        "10": [
+            "The user endures any attack with at least"
+        ],
+        "29": [
+            "Ancientpower"
+        ],
+        "36": [
+            "Flamethrower"
+        ],
+        "43": [
+            "Safeguard"
+        ],
+        "50": [
+            "Air Slash"
+        ],
+        "57": [
+            "Roost"
+        ],
+        "64": [
+            "Heat Wave"
+        ],
+        "71": [
+            "Solarbeam"
+        ],
+        "78": [
+            "Sky Attack"
+        ],
+        "85": [
+            "Sunny Day"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM47",
+        "TM50",
+        "TM51",
+        "TM58",
+        "TM61",
+        "TM68",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "stats": [
+        "90",
+        "100",
+        "90",
+        "125",
+        "85",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

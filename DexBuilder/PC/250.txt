@@ -1,0 +1,246 @@
+{
+    "name": "Ho-oh",
+    "jp_name": "Houou\u30db\u30a6\u30aa\u30a6",
+    "number": " National: #250Johto: #253 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Rainbow Pok\u00e9mon",
+    "height": "12'06\"",
+    "weight": "438.7lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "0.25",
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.25",
+        "4",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Sacred Ash",
+            "100"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "Legends claim this Pok\u00e9mon flies the world's skies continuously on its magnificent, seven-colored wings.",
+        "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies."
+    ],
+    "location": [
+        "Bell Tower",
+        "Bell Tower"
+    ],
+    "learnset": {
+        "0": [
+            "Whirlwind",
+            "Weather Ball"
+        ],
+        "9": [
+            "Gust"
+        ],
+        "15": [
+            "Brave Bird"
+        ],
+        "23": [
+            "Extrasensory"
+        ],
+        "29": [
+            "Sunny Day"
+        ],
+        "37": [
+            "Fire Blast"
+        ],
+        "43": [
+            "Sacred Fire"
+        ],
+        "57": [
+            "Ancientpower"
+        ],
+        "65": [
+            "Safeguard"
+        ],
+        "71": [
+            "Recover"
+        ],
+        "79": [
+            "Future Sight"
+        ],
+        "93": [
+            "Calm Mind"
+        ],
+        "99": [
+            "Sky Attack"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM47",
+        "TM50",
+        "TM51",
+        "TM57",
+        "TM58",
+        "TM61",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Mud-slap",
+        "Signal Beam",
+        "Twister",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "stats": [
+        "106",
+        "130",
+        "90",
+        "110",
+        "154",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "166 - 213",
+                "166 - 213",
+                "166 - 213"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "143 - 185",
+                "159 - 206",
+                "174 - 226"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "322 - 416",
+                "322 - 416",
+                "322 - 416"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "281 - 366",
+                "313 - 407",
+                "344 - 447"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

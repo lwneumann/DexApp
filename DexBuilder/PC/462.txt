@@ -1,0 +1,230 @@
+{
+    "name": "Magnezone",
+    "jp_name": "Jibacoil\u30b8\u30d0\u30b3\u30a4\u30eb",
+    "number": " National: #462Sinnoh: #180 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Magnet Pull",
+        "Sturdy"
+    ],
+    "classification": "Magnet Area Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "396.8lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "0",
+        "4",
+        "0.25",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.25"
+    ],
+    "held_item": [
+        [
+            "Metal Coat",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "Exposure to a special magnetic field changed MAGNETON's molecular structure, turning it into MAGNEZONE."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Barrier",
+            "Metal Sound",
+            "Tackle",
+            "Thundershock",
+            "Supersonic"
+        ],
+        "6": [
+            "Thundershock"
+        ],
+        "11": [
+            "Supersonic"
+        ],
+        "20": [
+            "The foe is hit with a destructive shock wave that always inflicts"
+        ],
+        "17": [
+            "Thunder Wave"
+        ],
+        "22": [
+            "Spark"
+        ],
+        "27": [
+            "Lock-on"
+        ],
+        "30": [
+            "Magnet Bomb"
+        ],
+        "60": [
+            "",
+            "Zap Cannon"
+        ],
+        "34": [
+            "Screech"
+        ],
+        "40": [
+            "Discharge"
+        ],
+        "46": [
+            "Mirror Shot"
+        ],
+        "50": [
+            "Magnet Rise"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM57",
+        "TM58",
+        "TM64",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM74",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91"
+    ],
+    "tutor_moves": [
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Iron Defense",
+        "Iron Head",
+        "Rollout",
+        "Signal Beam",
+        "Gravity",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "stats": [
+        "70",
+        "70",
+        "115",
+        "130",
+        "90",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

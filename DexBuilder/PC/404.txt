@@ -1,0 +1,221 @@
+{
+    "name": "Luxio",
+    "jp_name": "Rukushio\u30eb\u30af\u30b7\u30aa",
+    "number": " National: #404Sinnoh: #018 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rivalry",
+        "Intimidate"
+    ],
+    "classification": "Spark Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "67.2lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "100",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "By gathering their tails together, they collectively generate powerful electricity from their claws."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Leer"
+        ],
+        "5": [
+            "Leer"
+        ],
+        "9": [
+            "Charge"
+        ],
+        "13": [
+            "Spark"
+        ],
+        "18": [
+            "Bite"
+        ],
+        "23": [
+            "Roar"
+        ],
+        "28": [
+            "Swagger"
+        ],
+        "33": [
+            "Thunder Fang"
+        ],
+        "38": [
+            "Crunch"
+        ],
+        "43": [
+            "Scary Face"
+        ],
+        "48": [
+            "Discharge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Quick Attack",
+        "Howl",
+        "Take Down",
+        "Night Slash"
+    ],
+    "stats": [
+        "60",
+        "85",
+        "49",
+        "60",
+        "49",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

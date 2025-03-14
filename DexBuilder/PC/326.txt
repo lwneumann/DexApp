@@ -1,0 +1,257 @@
+{
+    "name": "Grumpig",
+    "jp_name": "Bupiggu\u30d6\u30fc\u30d4\u30c3\u30b0",
+    "number": " National: #326",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Thick Fat",
+        "Own Tempo"
+    ],
+    "classification": "Manipulate Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "157.6lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Tanga Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas."
+    ],
+    "location": [
+        "Evolve Spoink",
+        "Evolve Spoink"
+    ],
+    "learnset": {
+        "0": [
+            "Splash",
+            "Odor Sleuth",
+            "Psybeam"
+        ],
+        "10": [
+            "Odor Sleuth"
+        ],
+        "14": [
+            "Psybeam"
+        ],
+        "15": [
+            "Psych Up"
+        ],
+        "18": [
+            "Confuse Ray"
+        ],
+        "21": [
+            "Magic Coat"
+        ],
+        "26": [
+            "Zen Headbutt"
+        ],
+        "29": [
+            "Rest",
+            "Snore"
+        ],
+        "37": [
+            "Payback"
+        ],
+        "47": [
+            "Psychic"
+        ],
+        "55": [
+            "Power Gem"
+        ],
+        "60": [
+            "Bounce"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM66",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Mud-slap",
+        "Signal Beam",
+        "Role Play",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Future Sight",
+        "Extrasensory",
+        "Substitute",
+        "Trick",
+        "Zen Headbutt",
+        "Amnesia",
+        "Mirror Coat"
+    ],
+    "stats": [
+        "80",
+        "45",
+        "65",
+        "90",
+        "110",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

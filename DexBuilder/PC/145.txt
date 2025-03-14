@@ -1,0 +1,224 @@
+{
+    "name": "Zapdos",
+    "jp_name": "Thunder\u30b5\u30f3\u30c0\u30fc",
+    "number": " National: #145Johto: #241 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Electric Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "116.0lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "0",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "This legendary bird Pok\u00e9mon causes savage thunderstorms by flapping its glittering wings.",
+        "This legendary bird Pok\u00e9mon is said to appear only when a thundercloud parts into two halves."
+    ],
+    "location": [
+        "Route 10",
+        "Route 10"
+    ],
+    "learnset": {
+        "0": [
+            "Peck",
+            "Thundershock"
+        ],
+        "8": [
+            "Thunder Wave"
+        ],
+        "15": [
+            "Detect"
+        ],
+        "22": [
+            "Pluck"
+        ],
+        "29": [
+            "Ancientpower"
+        ],
+        "36": [
+            "Charge"
+        ],
+        "43": [
+            "Agility"
+        ],
+        "50": [
+            "Discharge"
+        ],
+        "57": [
+            "Roost"
+        ],
+        "64": [
+            "Light Screen"
+        ],
+        "71": [
+            "Drill Peck"
+        ],
+        "78": [
+            "Thunder"
+        ],
+        "85": [
+            "Rain Dance"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM47",
+        "TM51",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Heat Wave",
+        "Mud-slap",
+        "Signal Beam",
+        "Twister",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "stats": [
+        "90",
+        "90",
+        "85",
+        "125",
+        "90",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

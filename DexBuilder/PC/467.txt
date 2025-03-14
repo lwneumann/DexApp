@@ -1,0 +1,250 @@
+{
+    "name": "Magmortar",
+    "jp_name": "Buuburn\u30d6\u30fc\u30d0\u30fc\u30f3",
+    "number": " National: #467Sinnoh: #202 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Flame Body"
+    ],
+    "classification": "Blast Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "149.9lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Magmarizer",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles."
+    ],
+    "location": [
+        "Evolve Magmar",
+        "Evolve Magmar"
+    ],
+    "learnset": {
+        "0": [
+            "Thunderpunch",
+            "Smog",
+            "Leer",
+            "Ember",
+            "Smokescreen"
+        ],
+        "7": [
+            "Ember"
+        ],
+        "10": [
+            "Smokescreen"
+        ],
+        "16": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "19": [
+            "Fire Spin"
+        ],
+        "25": [
+            "Confuse Ray"
+        ],
+        "28": [
+            "Fire Punch"
+        ],
+        "37": [
+            "Lava Plume"
+        ],
+        "43": [
+            "Flamethrower"
+        ],
+        "52": [
+            "Sunny Day"
+        ],
+        "58": [
+            "Fire Blast"
+        ],
+        "67": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM68",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Helping Hand",
+        "Snore",
+        "Heat Wave",
+        "Mud-slap",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Karate Chop",
+        "Mega Punch",
+        "Barrier",
+        "Screech",
+        "Cross Chop",
+        "Thunderpunch",
+        "Mach Punch",
+        "Dynamicpunch",
+        "Flare Blitz",
+        "Belly Drum"
+    ],
+    "stats": [
+        "75",
+        "95",
+        "67",
+        "125",
+        "95",
+        "83"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ]
+        ]
+    }
+}

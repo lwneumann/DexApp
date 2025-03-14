@@ -1,0 +1,227 @@
+{
+    "name": "Cyndaquil",
+    "jp_name": "Hinoarashi\u30d2\u30ce\u30a2\u30e9\u30b7",
+    "number": " National: #155Johto: #004 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Fire Mouse Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "17.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+        "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back."
+    ],
+    "location": [
+        "Receive from Professor Elm",
+        "Receive from Professor Elm"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Leer"
+        ],
+        "6": [
+            "Smokescreen"
+        ],
+        "10": [
+            "Ember"
+        ],
+        "13": [
+            "Quick Attack"
+        ],
+        "19": [
+            "Flame Wheel"
+        ],
+        "22": [
+            "Defense Curl"
+        ],
+        "28": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "31": [
+            "Lava Plume"
+        ],
+        "37": [
+            "Flamethrower"
+        ],
+        "40": [
+            "Rollout"
+        ],
+        "46": [
+            "Double-edge"
+        ],
+        "49": [
+            "Eruption"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fury Swipes",
+        "Quick Attack",
+        "Reversal",
+        "Thrash",
+        "Foresight",
+        "Covet",
+        "Howl",
+        "Crush Claw",
+        "Double-edge",
+        "Double Kick",
+        "Flare Blitz",
+        "Extrasensory"
+    ],
+    "stats": [
+        "39",
+        "52",
+        "43",
+        "60",
+        "50",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "99 - 146",
+                "99 - 146",
+                "99 - 146"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "188 - 282",
+                "188 - 282",
+                "188 - 282"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

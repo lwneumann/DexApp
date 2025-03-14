@@ -1,0 +1,2284 @@
+
+
+Images
+
+
+ 
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Nincada
+Tsuchininツチニン
+ National: #290
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Compoundeyes 
+
+
+
+Compoundeyes: Raises the Pokémon’s accuracy by 30%. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Trainee Pokťmon
+1'08"
+12.1lbs
+255
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+600,000 PointsErratic
+70
+1 Defense Point(s)
+Gray
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*2
+*0
+*1
+*2
+*0.5
+*0.5
+*0.5
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Route 116
+		
+
+
+Sapphire
+		
+
+		Route 116
+		
+
+
+Emerald
+		
+
+		Route 116
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Eterna Forest
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest
+		
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (PokeRadar)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Scratch4010035--Hard, pointed, and sharp claws rake the foe to inflict damage. —Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 5Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.9Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 14Fury Swipes188015--The foe is raked with sharp claws or scythes for two to five times in quick succession.19Mind Reader----5--The user senses the foe's movements with its mind to ensure its next attack does not miss.25False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.31Mud-slap2010010100The user hurls mud in the foe's face to inflict damage and lower its accuracy. 38Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 45Dig8010010--The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Gust4010035--DetailsA gust of wind is whipped up by wings and launched at the foe to inflict damage. Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Route 116
+		
+
+
+Sapphire
+		
+
+		Route 116
+		
+
+
+Emerald
+		
+
+		Route 116
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Eterna Forest
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest
+		
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (PokeRadar)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Scratch4010035--Hard, pointed, and sharp claws rake the foe to inflict damage. —Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 5Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.9Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 14Fury Swipes188015--The foe is raked with sharp claws or scythes for two to five times in quick succession.19Mind Reader----5--The user senses the foe's movements with its mind to ensure its next attack does not miss.25False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.31Mud-slap2010010100The user hurls mud in the foe's face to inflict damage and lower its accuracy. 38Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 45Dig8010010--The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Gust4010035--DetailsA gust of wind is whipped up by wings and launched at the foe to inflict damage. Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Scratch4010035--Hard, pointed, and sharp claws rake the foe to inflict damage. —Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 5Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.9Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 14Fury Swipes188015--The foe is raked with sharp claws or scythes for two to five times in quick succession.19Mind Reader----5--The user senses the foe's movements with its mind to ensure its next attack does not miss.25False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.31Mud-slap2010010100The user hurls mud in the foe's face to inflict damage and lower its accuracy. 38Metal Claw50953510The foe is raked with steel claws. It may also raise the user's Attack stat. 45Dig8010010--The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Gust4010035--DetailsA gust of wind is whipped up by wings and launched at the foe to inflict damage. Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Gust4010035--DetailsA gust of wind is whipped up by wings and launched at the foe to inflict damage. Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Gust4010035--DetailsA gust of wind is whipped up by wings and launched at the foe to inflict damage. Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Gust4010035--DetailsA gust of wind is whipped up by wings and launched at the foe to inflict damage. Silver Wind60100510DetailsThe foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.Bug Buzz901001010DetailsThe user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.Night Slash7010015--DetailsThe user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+31
+45
+90
+30
+30
+40
+Max StatsHindering Nature
+Lv. 50
+91 - 138
+45 - 87
+85 - 127
+31 - 73
+31 - 73
+40 - 82
+Lv. 100
+172 - 266
+85 - 170
+166 - 251
+58 - 143
+58 - 143
+76 - 161
+Max StatsNeutral Nature
+Lv. 50
+91 - 138
+50 - 97
+95 - 142
+35 - 82
+35 - 82
+45 - 92
+Lv. 100
+172 - 266
+95 - 189
+185 - 279
+65 - 159
+65 - 159
+85 - 179
+Max StatsBeneficial Nature
+Lv. 50
+91 - 138
+55 - 106
+104 - 156
+38 - 90
+38 - 90
+49 - 101
+Lv. 100
+172 - 266
+104 - 207
+203 - 306
+71 - 174
+71 - 174
+93 - 196
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#289Slaking
+		
+
+
+
+
+
+
+
+#291Ninjask
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

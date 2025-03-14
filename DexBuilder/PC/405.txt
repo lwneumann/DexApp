@@ -1,0 +1,225 @@
+{
+    "name": "Luxray",
+    "jp_name": "Rentoraa\u30ec\u30f3\u30c8\u30e9\u30fc",
+    "number": " National: #405Sinnoh: #019 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rivalry",
+        "Intimidate"
+    ],
+    "classification": "Gleam Eyes Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "92.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "LUXRAY's ability to see through objects comes in handy when it's scouting for danger."
+    ],
+    "location": [
+        "Evolve Luxio",
+        "Evolve Luxio"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Leer",
+            "Charge"
+        ],
+        "5": [
+            "Leer"
+        ],
+        "9": [
+            "Charge"
+        ],
+        "13": [
+            "Spark"
+        ],
+        "18": [
+            "Bite"
+        ],
+        "23": [
+            "Roar"
+        ],
+        "28": [
+            "Swagger"
+        ],
+        "35": [
+            "Thunder Fang"
+        ],
+        "42": [
+            "Crunch"
+        ],
+        "49": [
+            "Scary Face"
+        ],
+        "56": [
+            "Discharge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Quick Attack",
+        "Howl",
+        "Take Down",
+        "Night Slash"
+    ],
+    "stats": [
+        "80",
+        "120",
+        "79",
+        "95",
+        "79",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "75 - 117",
+                "84 - 131",
+                "92 - 144"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "75 - 117",
+                "84 - 131",
+                "92 - 144"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "146 - 231",
+                "163 - 257",
+                "179 - 282"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "146 - 231",
+                "163 - 257",
+                "179 - 282"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

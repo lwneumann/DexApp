@@ -1,0 +1,233 @@
+{
+    "name": "Remoraid",
+    "jp_name": "Teppouo\u30c6\u30c3\u30dd\u30a6\u30aa",
+    "number": " National: #223Sinnoh: #132 Johto: #174 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Hustle",
+        "Sniper"
+    ],
+    "classification": "Jet Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "26.5lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "flavor_text": [
+        "It has superb accuracy. The water it shoots out can strike moving prey from more than 300 feet away.",
+        "Using its dorsal fin as a suction pad, it clings to a MANTINE's underside to scavenge for leftovers."
+    ],
+    "location": [
+        "Route 44",
+        "Route 44"
+    ],
+    "learnset": {
+        "0": [
+            "Water Gun"
+        ],
+        "6": [
+            "Lock-on"
+        ],
+        "10": [
+            "Psybeam"
+        ],
+        "14": [
+            "Aurora Beam"
+        ],
+        "19": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Focus Energy"
+        ],
+        "27": [
+            "Bullet Seed"
+        ],
+        "32": [
+            "Water Pulse"
+        ],
+        "36": [
+            "Signal Beam"
+        ],
+        "40": [
+            "Ice Beam"
+        ],
+        "45": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM55",
+        "TM57",
+        "TM58",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Gunk Shot",
+        "Mud-slap",
+        "Seed Bomb",
+        "Signal Beam",
+        "String Shot"
+    ],
+    "egg_moves": [
+        "Aurora Beam",
+        "Octazooka",
+        "Supersonic",
+        "Haze",
+        "Screech",
+        "Thunder Wave",
+        "Rock Blast",
+        "Snore",
+        "Flail",
+        "Water Spout"
+    ],
+    "stats": [
+        "35",
+        "65",
+        "35",
+        "65",
+        "35",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "95 - 142",
+                "95 - 142",
+                "95 - 142"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "180 - 274",
+                "180 - 274",
+                "180 - 274"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "name": "Meditite",
+    "jp_name": "Asanan\u30a2\u30b5\u30ca\u30f3",
+    "number": " National: #307Sinnoh: #086 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Pure Power"
+    ],
+    "classification": "Meditate Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "24.7lbs",
+    "capture_rate": "180",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It meditates to heighten its inner energy and to float in the air. It eats one berry a day."
+    ],
+    "location": [
+        "Sprout Tower, Bell Tower, Burnt Tower, Safari Zone (Special Items)",
+        "Sprout Tower, Bell Tower, Burnt Tower, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "4": [
+            "Meditate"
+        ],
+        "8": [
+            "Confusion"
+        ],
+        "11": [
+            "Detect"
+        ],
+        "18": [
+            "Mind Reader"
+        ],
+        "22": [
+            "Feint"
+        ],
+        "25": [
+            "Calm Mind"
+        ],
+        "29": [
+            "Force Palm"
+        ],
+        "32": [
+            "Hi Jump Kick"
+        ],
+        "36": [
+            "Psych Up"
+        ],
+        "39": [
+            "Power Trick"
+        ],
+        "46": [
+            "Recover"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Trick",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Pain Split",
+        "Gravity",
+        "Role Play",
+        "Magic Coat",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Ice Punch",
+        "Foresight",
+        "Fake Out",
+        "Baton Pass",
+        "Dynamicpunch",
+        "Power Swap",
+        "Guard Swap",
+        "Psycho Cut",
+        "Bullet Punch"
+    ],
+    "stats": [
+        "30",
+        "40",
+        "55",
+        "40",
+        "55",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,1388 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Metapod
+Trancelトランセル
+ National: #011Johto: #025 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shed Skin 
+
+
+
+Shed Skin: Every turn, it has a 1 in 3 chance of healing from a status condition (BURN, PARALYZE, SLEEP, POISON, FREEZE). 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Cocoon Pokémon
+2'04"
+21.8lbs
+120
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Defense Point(s)
+Green
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.5
+*1
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.
+		
+
+
+SoulSilver
+
+		It prepares for evolution by hardening its shell as much as possible to protect its soft body.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+LeafGreen
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Eterna Forest FR Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest FR Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (FireRed Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+LeafGreen
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Eterna Forest FR Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest FR Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (FireRed Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+20
+55
+25
+25
+30
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+22 - 64
+54 - 96
+27 - 69
+27 - 69
+31 - 73
+Lv. 100
+210 - 304
+40 - 125
+103 - 188
+49 - 134
+49 - 134
+58 - 143
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+25 - 72
+60 - 107
+30 - 77
+30 - 77
+35 - 82
+Lv. 100
+210 - 304
+45 - 139
+115 - 209
+55 - 149
+55 - 149
+65 - 159
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+27 - 79
+66 - 117
+33 - 84
+33 - 84
+38 - 90
+Lv. 100
+210 - 304
+49 - 152
+126 - 229
+60 - 163
+60 - 163
+71 - 174
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#010Caterpie
+		
+
+
+
+
+
+
+
+#012Butterfree
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

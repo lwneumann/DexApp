@@ -1,0 +1,219 @@
+{
+    "name": "Mareep",
+    "jp_name": "Maripu\u30e1\u30ea\u30fc\u30d7",
+    "number": " National: #179Johto: #053 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Static"
+    ],
+    "classification": "Wool Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "17.2lbs",
+    "capture_rate": "235",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Ground"
+    ],
+    "flavor_text": [
+        "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+        "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week."
+    ],
+    "location": [
+        "Route 32, Route 42, Route 43, Safari Zone (Special Items)",
+        "Route 32, Route 42, Route 43, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Growl"
+        ],
+        "10": [
+            "Thundershock"
+        ],
+        "14": [
+            "Thunder Wave"
+        ],
+        "19": [
+            "Cotton Spore"
+        ],
+        "23": [
+            "Charge"
+        ],
+        "28": [
+            "Discharge"
+        ],
+        "32": [
+            "Signal Beam"
+        ],
+        "37": [
+            "Light Screen"
+        ],
+        "41": [
+            "Power Gem"
+        ],
+        "46": [
+            "Thunder"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM57",
+        "TM58",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Signal Beam",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Take Down",
+        "Body Slam",
+        "Safeguard",
+        "Screech",
+        "Reflect",
+        "Odor Sleuth",
+        "Charge",
+        "Flatter",
+        "Sand-attack"
+    ],
+    "stats": [
+        "55",
+        "40",
+        "40",
+        "65",
+        "45",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

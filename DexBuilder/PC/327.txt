@@ -1,0 +1,258 @@
+{
+    "name": "Spinda",
+    "jp_name": "Patchiiru\u30d1\u30c3\u30c1\u30fc\u30eb",
+    "number": " National: #327",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Own Tempo",
+        "Tangled Feet"
+    ],
+    "classification": "Spot Panda Pok\u0165mon",
+    "height": "3'07\"",
+    "weight": "11.0lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Chesto Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "The chances of two SPINDA having identical spot patterns is less than one in four billion."
+    ],
+    "location": [
+        "Sprout Tower, Bell Tower, Burnt Tower, Safari Zone (Special Items)",
+        "Sprout Tower, Bell Tower, Burnt Tower, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Uproar"
+        ],
+        "10": [
+            "Copycat"
+        ],
+        "14": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "19": [
+            "Psybeam"
+        ],
+        "23": [
+            "Hypnosis"
+        ],
+        "28": [
+            "Dizzy Punch"
+        ],
+        "32": [
+            "Sucker Punch"
+        ],
+        "37": [
+            "Teeter Dance"
+        ],
+        "41": [
+            "Psych Up"
+        ],
+        "46": [
+            "Double-edge"
+        ],
+        "55": [
+            "Thrash"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Mud-slap",
+        "Rollout",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Encore",
+        "Rock Slide",
+        "Assist",
+        "Disable",
+        "Baton Pass",
+        "Wish",
+        "Trick",
+        "Smellingsalt",
+        "Fake Out",
+        "Role Play",
+        "Psycho Cut"
+    ],
+    "stats": [
+        "60",
+        "60",
+        "60",
+        "60",
+        "60",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "name": "Rhyhorn",
+    "jp_name": "Sihorn\u30b5\u30a4\u30db\u30fc\u30f3",
+    "number": " National: #111Sinnoh: #186 Johto: #211 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Lightningrod",
+        "Rock Head"
+    ],
+    "classification": "Spikes Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "254.0lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "0.5",
+        "0.5",
+        "4",
+        "0",
+        "4",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+        "It doesn't care if there is anything in its way. It just charges and destroys all obstacles."
+    ],
+    "location": [
+        "Victory Road, Safari Zone",
+        "Victory Road, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Horn Attack",
+            "Tail Whip"
+        ],
+        "9": [
+            "Stomp"
+        ],
+        "13": [
+            "Fury Attack"
+        ],
+        "21": [
+            "Scary Face"
+        ],
+        "25": [
+            "Rock Blast"
+        ],
+        "33": [
+            "Take Down"
+        ],
+        "45": [
+            "Stone Edge"
+        ],
+        "49": [
+            "Earthquake"
+        ],
+        "57": [
+            "Megahorn"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM59",
+        "TM66",
+        "TM69",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Reversal",
+        "Rock Slide",
+        "Counter",
+        "Magnitude",
+        "Swords Dance",
+        "Curse",
+        "Crush Claw",
+        "Dragon Rush",
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Skull Bash"
+    ],
+    "stats": [
+        "80",
+        "85",
+        "95",
+        "30",
+        "30",
+        "25"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ]
+        ]
+    }
+}

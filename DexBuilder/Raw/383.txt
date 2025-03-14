@@ -1,0 +1,3822 @@
+
+
+Images
+
+
+ 
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Groudon
+Groudonグラードン
+ National: #383
+Groudon is Genderless
+
+
+
+Ability: Drought 
+
+
+
+Drought: Weather changes to Clear Skies when the Pokémon enters the battle. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Continent Pokémon
+11'06"
+2,094.4lbs
+5
+30,720
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,250,000 PointsSlow
+0
+3 Attack Point(s)
+Red
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*2
+*0
+*2
+*2
+*1
+*0.5
+*1
+*1
+*1
+*1
+*0.5
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+Groudon cannot breed
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Cave of Origin
+		
+
+
+Sapphire
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+Emerald
+		
+
+		Terra Cave
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+Diamond
+		
+
+		Transfer from GBA via Pal Park
+		
+
+
+Pearl
+		
+
+		Transfer from GBA via Pal Park
+		
+
+Platinum
+		
+
+		None - Pal Park from 3rd Gen
+		
+
+
+HeartGold
+		
+
+		Trade from DPt
+		
+
+
+SoulSilver
+		
+
+		Hidden Tower
+		
+
+Details
+
+
+Diamond/Pearl/Platinum Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.20Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.50Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.60Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.65Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.75Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.80Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Lava Plume801001530An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.20Hammer Arm1009010--The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however.30Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.50Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.60Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.65Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.75Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.80Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.90Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM02
+Dragon Claw
+
+
+80
+100
+15
+--
+The user slashes the foe with huge, sharp claws. TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM59
+Dragon Pulse
+
+
+90
+100
+10
+--
+The foe is attacked with a shock wave generated by the user's gaping mouth. TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Ancientpower
+
+
+60
+100
+5
+10
+
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Cave of Origin
+		
+
+
+Sapphire
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+Emerald
+		
+
+		Terra Cave
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Emerald
+		
+
+
+Diamond
+		
+
+		Transfer from GBA via Pal Park
+		
+
+
+Pearl
+		
+
+		Transfer from GBA via Pal Park
+		
+
+Platinum
+		
+
+		None - Pal Park from 3rd Gen
+		
+
+
+HeartGold
+		
+
+		Trade from DPt
+		
+
+
+SoulSilver
+		
+
+		Hidden Tower
+		
+
+Details
+
+
+Diamond/Pearl/Platinum Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.20Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.50Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.60Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.65Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.75Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.80Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Lava Plume801001530An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.20Hammer Arm1009010--The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however.30Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.50Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.60Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.65Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.75Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.80Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.90Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM02
+Dragon Claw
+
+
+80
+100
+15
+--
+The user slashes the foe with huge, sharp claws. TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM59
+Dragon Pulse
+
+
+90
+100
+10
+--
+The foe is attacked with a shock wave generated by the user's gaping mouth. TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Ancientpower
+
+
+60
+100
+5
+10
+
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.20Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.50Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.60Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.65Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.75Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.80Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Lava Plume801001530An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.20Hammer Arm1009010--The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however.30Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.50Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.60Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.65Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.75Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.80Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.90Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM02
+Dragon Claw
+
+
+80
+100
+15
+--
+The user slashes the foe with huge, sharp claws. TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM59
+Dragon Pulse
+
+
+90
+100
+10
+--
+The foe is attacked with a shock wave generated by the user's gaping mouth. TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Ancientpower
+
+
+60
+100
+5
+10
+
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Mud Shot559515100The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.5Scary Face--9010--The user frightens the foe with a scary face to sharply reduce its Speed stat.15Lava Plume801001530An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.20Hammer Arm1009010--The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however.30Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.35Earthquake10010010--The user sets off an earthquake that hits all the Pokémon in the battle. 45Ancientpower60100510The user attacks with a prehistoric power. It may also raise all the user's stats at once.50Eruption1501005--The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.60Bulk Up----20--The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.65Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.75Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.80Solarbeam12010010--A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.90Fire Blast12085510The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM02
+Dragon Claw
+
+
+80
+100
+15
+--
+The user slashes the foe with huge, sharp claws. TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM59
+Dragon Pulse
+
+
+90
+100
+10
+--
+The foe is attacked with a shock wave generated by the user's gaping mouth. TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Ancientpower
+
+
+60
+100
+5
+10
+
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM02
+Dragon Claw
+
+
+80
+100
+15
+--
+The user slashes the foe with huge, sharp claws. TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM59
+Dragon Pulse
+
+
+90
+100
+10
+--
+The foe is attacked with a shock wave generated by the user's gaping mouth. TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Ancientpower
+
+
+60
+100
+5
+10
+
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+150
+140
+100
+90
+90
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+139 - 181
+130 - 172
+94 - 136
+85 - 127
+85 - 127
+Lv. 100
+310 - 404
+274 - 359
+256 - 341
+184 - 269
+166 - 251
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+155 - 202
+145 - 192
+105 - 152
+95 - 142
+95 - 142
+Lv. 100
+310 - 404
+305 - 399
+285 - 379
+205 - 299
+185 - 279
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+170 - 222
+159 - 211
+115 - 167
+104 - 156
+104 - 156
+Lv. 100
+310 - 404
+335 - 438
+313 - 416
+225 - 328
+203 - 306
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#382Kyogre
+		
+
+
+
+
+
+
+
+#384Rayquaza
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

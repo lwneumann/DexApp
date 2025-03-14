@@ -1,0 +1,221 @@
+{
+    "name": "Spinarak",
+    "jp_name": "Itomaru\u30a4\u30c8\u30de\u30eb",
+    "number": " National: #167Johto: #032 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm",
+        "Insomnia"
+    ],
+    "classification": "String Spit Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "18.7lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+        "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped."
+    ],
+    "location": [
+        "Route 2, Route 30, Route 31, Route 37, Routes 1, 2, 12, 13, 14, 15, 18, 21, 22, 26, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 47 & 48, New Bark Town, Cherrygrove City National Park, Ecruteak City, Safari Zone Gate, Pallet Town, Viridian City, Viridian Forest, Fuchsia City (Headbutt)",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Sting",
+            "String Shot"
+        ],
+        "5": [
+            "Scary Face"
+        ],
+        "8": [
+            "Constrict"
+        ],
+        "12": [
+            "Leech Life"
+        ],
+        "19": [
+            "Shadow Sneak"
+        ],
+        "22": [
+            "Fury Swipes"
+        ],
+        "26": [
+            "Sucker Punch"
+        ],
+        "29": [
+            "Spider Web"
+        ],
+        "33": [
+            "Agility"
+        ],
+        "36": [
+            "Pin Missile"
+        ],
+        "40": [
+            "Psychic"
+        ],
+        "43": [
+            "Poison Jab"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM70",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Bounce",
+        "Signal Beam",
+        "String Shot",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Psybeam",
+        "Disable",
+        "Sonicboom",
+        "Baton Pass",
+        "Pursuit",
+        "Signal Beam",
+        "Toxic Spikes",
+        "Poison Jab"
+    ],
+    "stats": [
+        "40",
+        "60",
+        "40",
+        "40",
+        "40",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

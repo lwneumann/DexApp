@@ -1,0 +1,235 @@
+{
+    "name": "Tauros",
+    "jp_name": "Kentauros\u30b1\u30f3\u30bf\u30ed\u30b9",
+    "number": " National: #128Johto: #150 ",
+    "gender_ratio": [
+        "100",
+        "0"
+    ],
+    "ability": [
+        "Intimidate",
+        "Anger Point"
+    ],
+    "classification": "Wild Bull Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "194.9lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
+        "After heightening its will to fight by whipping itself with its three tails, it charges at full speed."
+    ],
+    "location": [
+        "Route 38, Route 39, Route 48, Safari Zone",
+        "Route 38, Route 39, Route 48, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "3": [
+            "Tail Whip"
+        ],
+        "5": [
+            "Rage"
+        ],
+        "8": [
+            "Horn Attack"
+        ],
+        "11": [
+            "Scary Face"
+        ],
+        "15": [
+            "Pursuit"
+        ],
+        "19": [
+            "Rest"
+        ],
+        "24": [
+            "Payback"
+        ],
+        "29": [
+            "Zen Headbutt"
+        ],
+        "35": [
+            "Take Down"
+        ],
+        "41": [
+            "Swagger"
+        ],
+        "48": [
+            "Thrash"
+        ],
+        "55": [
+            "Giga Impact"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Endeavor",
+        "Iron Head",
+        "Outrage",
+        "Role Play",
+        "Headbutt"
+    ],
+    "stats": [
+        "75",
+        "100",
+        "95",
+        "40",
+        "70",
+        "110"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ]
+        ]
+    }
+}

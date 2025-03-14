@@ -1,0 +1,245 @@
+{
+    "name": "Tropius",
+    "jp_name": "Tropius\u30c8\u30ed\u30d4\u30a6\u30b9",
+    "number": " National: #357Sinnoh: #185 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Solar Power"
+    ],
+    "classification": "Fruit Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "220.5lbs",
+    "capture_rate": "200",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "0.25",
+        "4",
+        "0.5",
+        "2",
+        "0",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack."
+    ],
+    "location": [
+        "Transfer from Pok\u00e9Walker",
+        "Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Leer",
+            "Gust"
+        ],
+        "7": [
+            "Growth"
+        ],
+        "11": [
+            "Razor Leaf"
+        ],
+        "17": [
+            "Stomp"
+        ],
+        "21": [
+            "Sweet Scent"
+        ],
+        "27": [
+            "Whirlwind"
+        ],
+        "31": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "37": [
+            "Body Slam"
+        ],
+        "41": [
+            "Synthesis"
+        ],
+        "47": [
+            "Air Slash"
+        ],
+        "51": [
+            "Solarbeam"
+        ],
+        "61": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM47",
+        "TM51",
+        "TM53",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Synthesis",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Tailwind",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Headbutt",
+        "Slam",
+        "Razor Wind",
+        "Leech Seed",
+        "Nature Power",
+        "Leaf Storm",
+        "Synthesis",
+        "Curse",
+        "Leaf Blade",
+        "Dragon Dance"
+    ],
+    "stats": [
+        "99",
+        "68",
+        "83",
+        "72",
+        "87",
+        "51"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "159 - 206",
+                "159 - 206",
+                "159 - 206"
+            ],
+            [
+                "65 - 108",
+                "73 - 120",
+                "80 - 132"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "82 - 125",
+                "92 - 139",
+                "101 - 152"
+            ],
+            [
+                "50 - 92",
+                "56 - 103",
+                "61 - 113"
+            ]
+        ],
+        "100": [
+            [
+                "308 - 402",
+                "308 - 402",
+                "308 - 402"
+            ],
+            [
+                "126 - 211",
+                "141 - 235",
+                "155 - 258"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "161 - 245",
+                "179 - 273",
+                "196 - 300"
+            ],
+            [
+                "96 - 180",
+                "107 - 201",
+                "117 - 221"
+            ]
+        ]
+    }
+}

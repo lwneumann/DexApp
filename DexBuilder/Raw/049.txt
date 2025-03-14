@@ -1,0 +1,2674 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Venomoth
+Morphonモルフォン
+ National: #049Johto: #110 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Shield Dust & Tinted Lens 
+
+
+
+Shield Dust: Damaging moves used by the opponent will not have an additional effect. 
+Tinted Lens: The power of “not very effective” moves is doubled. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Poison Moth Pokémon
+4'11"
+27.6lbs
+75
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Speed Point(s)1 Sp. Attack Point(s)
+Purple
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.25
+*1
+*0.25
+*0.5
+*1
+*2
+*2
+*0.5
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Shed Shell - 5%
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.
+		
+
+
+SoulSilver
+
+		The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+FireRed
+		
+
+		Berry Forest, Safari Zone Areas 2 & 3
+		
+
+
+LeafGreen
+		
+
+		Berry Forest, Safari Zone Areas 2 & 3
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+XD
+		
+
+		Snagged from Cipher Peon Angic in Cipher Key Lair
+		
+
+
+Diamond
+		
+
+		Route 229
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 229
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 229 (PokeRadar)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 24, Route 25
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 24, Route 25
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Disable--8020--For several turns, this move prevents the foe from using the move it last used.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Supersonic--5520--The user generates odd sound waves from its body. It may confuse the target.5Supersonic--5520--The user generates odd sound waves from its body. It may confuse the target.11Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.13Poisonpowder--7535--A cloud of poisonous dust is scattered on the foe. It may poison the target.17Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.23Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.25Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 29Sleep Powder--7515--The user scatters a big cloud of sleep- inducing dust around the foe. 31Gust4010035--A gust of wind is whipped up by wings and launched at the foe to inflict damage. 37Signal Beam751001510The user attacks with a sinister beam of light. It may also confuse the target. 41Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.47Poison Fang501001530The user bites the foe with toxic fangs. It may also leave the foe badly poisoned. 55Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.59Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Giga Drain6010010--DetailsA nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Morning Sun----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Toxic Spikes----20--DetailsThe user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+FireRed
+		
+
+		Berry Forest, Safari Zone Areas 2 & 3
+		
+
+
+LeafGreen
+		
+
+		Berry Forest, Safari Zone Areas 2 & 3
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+XD
+		
+
+		Snagged from Cipher Peon Angic in Cipher Key Lair
+		
+
+
+Diamond
+		
+
+		Route 229
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 229
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 229 (PokeRadar)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 24, Route 25
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 24, Route 25
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Disable--8020--For several turns, this move prevents the foe from using the move it last used.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Supersonic--5520--The user generates odd sound waves from its body. It may confuse the target.5Supersonic--5520--The user generates odd sound waves from its body. It may confuse the target.11Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.13Poisonpowder--7535--A cloud of poisonous dust is scattered on the foe. It may poison the target.17Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.23Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.25Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 29Sleep Powder--7515--The user scatters a big cloud of sleep- inducing dust around the foe. 31Gust4010035--A gust of wind is whipped up by wings and launched at the foe to inflict damage. 37Signal Beam751001510The user attacks with a sinister beam of light. It may also confuse the target. 41Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.47Poison Fang501001530The user bites the foe with toxic fangs. It may also leave the foe badly poisoned. 55Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.59Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Giga Drain6010010--DetailsA nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Morning Sun----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Toxic Spikes----20--DetailsThe user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Disable--8020--For several turns, this move prevents the foe from using the move it last used.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Supersonic--5520--The user generates odd sound waves from its body. It may confuse the target.5Supersonic--5520--The user generates odd sound waves from its body. It may confuse the target.11Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.13Poisonpowder--7535--A cloud of poisonous dust is scattered on the foe. It may poison the target.17Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.23Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.25Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 29Sleep Powder--7515--The user scatters a big cloud of sleep- inducing dust around the foe. 31Gust4010035--A gust of wind is whipped up by wings and launched at the foe to inflict damage. 37Signal Beam751001510The user attacks with a sinister beam of light. It may also confuse the target. 41Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.47Poison Fang501001530The user bites the foe with toxic fangs. It may also leave the foe badly poisoned. 55Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.59Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Giga Drain6010010--DetailsA nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Morning Sun----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Toxic Spikes----20--DetailsThe user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Giga Drain6010010--DetailsA nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Morning Sun----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Toxic Spikes----20--DetailsThe user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Giga Drain6010010--DetailsA nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Morning Sun----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Toxic Spikes----20--DetailsThe user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Baton Pass----40--DetailsThe user switches places with a party Pokémon in waiting, passing along any stat changes.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Giga Drain6010010--DetailsA nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Signal Beam751001510DetailsThe user attacks with a sinister beam of light. It may also confuse the target. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Morning Sun----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Toxic Spikes----20--DetailsThe user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.Bug Bite6010020--DetailsThe user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+65
+60
+90
+75
+90
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+63 - 105
+58 - 100
+85 - 127
+72 - 114
+85 - 127
+Lv. 100
+250 - 344
+121 - 206
+112 - 197
+166 - 251
+139 - 224
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+70 - 117
+65 - 112
+95 - 142
+80 - 127
+95 - 142
+Lv. 100
+250 - 344
+135 - 229
+125 - 219
+185 - 279
+155 - 249
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+77 - 128
+71 - 123
+104 - 156
+88 - 139
+104 - 156
+Lv. 100
+250 - 344
+148 - 251
+137 - 240
+203 - 306
+170 - 273
+203 - 306
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#048Venonat
+		
+
+
+
+
+
+
+
+#050Diglett
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

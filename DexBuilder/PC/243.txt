@@ -1,0 +1,222 @@
+{
+    "name": "Raikou",
+    "jp_name": "Raikou\u30e9\u30a4\u30b3\u30a6",
+    "number": " National: #243Johto: #243 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Thunder Pok\u00e9mon",
+    "height": "6'03\"",
+    "weight": "392.4lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+        "A Pok\u00e9mon that races across the land while barking a cry that sounds like crashing thunder."
+    ],
+    "location": [
+        "Roaming Johto",
+        "Roaming Johto"
+    ],
+    "learnset": {
+        "0": [
+            "Bite",
+            "Leer"
+        ],
+        "8": [
+            "Thundershock"
+        ],
+        "15": [
+            "Roar"
+        ],
+        "22": [
+            "Quick Attack"
+        ],
+        "29": [
+            "Spark"
+        ],
+        "36": [
+            "Reflect"
+        ],
+        "43": [
+            "Crunch"
+        ],
+        "50": [
+            "Thunder Fang"
+        ],
+        "57": [
+            "Discharge"
+        ],
+        "64": [
+            "Extrasensory"
+        ],
+        "71": [
+            "Rain Dance"
+        ],
+        "78": [
+            "Calm Mind"
+        ],
+        "85": [
+            "Thunder"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM37",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Iron Head",
+        "Mud-slap",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "stats": [
+        "90",
+        "85",
+        "75",
+        "115",
+        "100",
+        "115"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ]
+        ]
+    }
+}

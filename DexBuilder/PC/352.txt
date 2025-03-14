@@ -1,0 +1,272 @@
+{
+    "name": "Kecleon",
+    "jp_name": "Kakureon\u30ab\u30af\u30ec\u30aa\u30f3",
+    "number": " National: #352",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Color Change"
+    ],
+    "classification": "Color Swap Pok\u0137mon",
+    "height": "3'03\"",
+    "weight": "48.5lbs",
+    "capture_rate": "200",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Persim Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed."
+    ],
+    "location": [
+        "Transfer from Pok\u0137Walker",
+        "Transfer from Pok\u0137Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Thief",
+            "Tail Whip",
+            "Astonish",
+            "Lick",
+            "Scratch"
+        ],
+        "4": [
+            "Bind"
+        ],
+        "7": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "10": [
+            "Fury Swipes"
+        ],
+        "14": [
+            "Feint"
+        ],
+        "18": [
+            "Psybeam"
+        ],
+        "22": [
+            "Shadow Sneak"
+        ],
+        "27": [
+            "Slash"
+        ],
+        "32": [
+            "Screech"
+        ],
+        "37": [
+            "Substitute"
+        ],
+        "43": [
+            "Sucker Punch"
+        ],
+        "49": [
+            "Shadow Claw"
+        ],
+        "55": [
+            "Ancientpower"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM65",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Sucker Punch",
+        "Trick",
+        "Thunderpunch",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Aqua Tail",
+        "Mud-slap",
+        "Rollout",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Disable",
+        "Magic Coat",
+        "Trick",
+        "Fake Out",
+        "Nasty Plot",
+        "Dizzy Punch",
+        "Recover"
+    ],
+    "stats": [
+        "60",
+        "90",
+        "70",
+        "60",
+        "120",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

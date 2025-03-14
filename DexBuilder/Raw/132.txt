@@ -1,0 +1,960 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Ditto
+Metamonメタモン
+ National: #132Johto: #092 
+Ditto is Genderless
+
+
+
+Ability: Limber 
+
+
+
+Limber: The Pokémon cannot be under the PARALYZE condition while having this ability. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Transform Pokémon
+1'00"
+8.8lbs
+35
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 HP Point(s)
+Purple
+90
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*1
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+*0
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+  Quick Powder - 50%Metal Powder - 5%
+
+DittoDittoDitto
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.
+		
+
+
+SoulSilver
+
+		Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Desert Underpass
+		
+
+
+FireRed
+		
+
+		Routes 13, 14 & 15, Cerulean Cave Floors 1, 2 & Basement 1, Pokémon Mansion Basement 1
+		
+
+
+LeafGreen
+		
+
+		Routes 13, 14 & 15, Cerulean Cave Floors 1, 2 & Basement 1, Pokémon Mansion Basement 1
+		
+
+
+Colosseum
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Route 218
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 218
+		
+
+Details
+
+
+Platinum
+		
+
+		Trophy Garden (Daily Pokémon)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 35, Route 47, Cerulean CaveSafari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 35, Route 47, Cerulean CaveSafari Zone
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Transform----10--The user transforms into a copy of the foe right down to having the same move set.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+48
+48
+48
+48
+48
+48
+Max StatsHindering Nature
+Lv. 50
+108 - 155
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+Lv. 100
+206 - 300
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+Max StatsNeutral Nature
+Lv. 50
+108 - 155
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+Lv. 100
+206 - 300
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+Max StatsBeneficial Nature
+Lv. 50
+108 - 155
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+Lv. 100
+206 - 300
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#131Lapras
+		
+
+
+
+
+
+
+
+#133Eevee
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Desert Underpass
+		
+
+
+FireRed
+		
+
+		Routes 13, 14 & 15, Cerulean Cave Floors 1, 2 & Basement 1, Pokémon Mansion Basement 1
+		
+
+
+LeafGreen
+		
+
+		Routes 13, 14 & 15, Cerulean Cave Floors 1, 2 & Basement 1, Pokémon Mansion Basement 1
+		
+
+
+Colosseum
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Route 218
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 218
+		
+
+Details
+
+
+Platinum
+		
+
+		Trophy Garden (Daily Pokémon)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 35, Route 47, Cerulean CaveSafari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 35, Route 47, Cerulean CaveSafari Zone
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Transform----10--The user transforms into a copy of the foe right down to having the same move set.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+48
+48
+48
+48
+48
+48
+Max StatsHindering Nature
+Lv. 50
+108 - 155
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+Lv. 100
+206 - 300
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+Max StatsNeutral Nature
+Lv. 50
+108 - 155
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+Lv. 100
+206 - 300
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+Max StatsBeneficial Nature
+Lv. 50
+108 - 155
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+Lv. 100
+206 - 300
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#131Lapras
+		
+
+
+
+
+
+
+
+#133Eevee
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Transform----10--The user transforms into a copy of the foe right down to having the same move set.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+48
+48
+48
+48
+48
+48
+Max StatsHindering Nature
+Lv. 50
+108 - 155
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+Lv. 100
+206 - 300
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+Max StatsNeutral Nature
+Lv. 50
+108 - 155
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+Lv. 100
+206 - 300
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+Max StatsBeneficial Nature
+Lv. 50
+108 - 155
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+Lv. 100
+206 - 300
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#131Lapras
+		
+
+
+
+
+
+
+
+#133Eevee
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+48
+48
+48
+48
+48
+48
+Max StatsHindering Nature
+Lv. 50
+108 - 155
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+Lv. 100
+206 - 300
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+Max StatsNeutral Nature
+Lv. 50
+108 - 155
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+Lv. 100
+206 - 300
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+Max StatsBeneficial Nature
+Lv. 50
+108 - 155
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+Lv. 100
+206 - 300
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#131Lapras
+		
+
+
+
+
+
+
+
+#133Eevee
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+48
+48
+48
+48
+48
+48
+Max StatsHindering Nature
+Lv. 50
+108 - 155
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+47 - 90
+Lv. 100
+206 - 300
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+90 - 175
+Max StatsNeutral Nature
+Lv. 50
+108 - 155
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+53 - 100
+Lv. 100
+206 - 300
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+101 - 195
+Max StatsBeneficial Nature
+Lv. 50
+108 - 155
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+58 - 110
+Lv. 100
+206 - 300
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+111 - 214
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#131Lapras
+		
+
+
+
+
+
+
+
+#133Eevee
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#131Lapras
+		
+
+
+
+
+
+
+
+#133Eevee
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

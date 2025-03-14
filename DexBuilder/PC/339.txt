@@ -1,0 +1,219 @@
+{
+    "name": "Barboach",
+    "jp_name": "Dojotchi\u30c9\u30b8\u30e7\u30c3\u30c1",
+    "number": " National: #339Sinnoh: #080 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Oblivious",
+        "Anticipation"
+    ],
+    "classification": "Whiskers Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "4.2lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 2"
+    ],
+    "flavor_text": [
+        "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Mud-slap"
+        ],
+        "6": [
+            "Mud Sport",
+            "Water Sport"
+        ],
+        "10": [
+            "Water Gun"
+        ],
+        "14": [
+            "Mud Bomb"
+        ],
+        "18": [
+            "Amnesia"
+        ],
+        "22": [
+            "Water Pulse"
+        ],
+        "31": [
+            "Rest",
+            "Snore"
+        ],
+        "35": [
+            "Aqua Tail"
+        ],
+        "39": [
+            "Earthquake"
+        ],
+        "43": [
+            "Future Sight"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Thrash",
+        "Whirlpool",
+        "Spark",
+        "Hydro Pump",
+        "Flail",
+        "Take Down",
+        "Dragon Dance"
+    ],
+    "stats": [
+        "50",
+        "48",
+        "43",
+        "46",
+        "41",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ],
+            [
+                "45 - 88",
+                "51 - 98",
+                "56 - 107"
+            ],
+            [
+                "41 - 83",
+                "46 - 93",
+                "50 - 102"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ],
+            [
+                "87 - 171",
+                "97 - 191",
+                "106 - 210"
+            ],
+            [
+                "78 - 162",
+                "87 - 181",
+                "95 - 199"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

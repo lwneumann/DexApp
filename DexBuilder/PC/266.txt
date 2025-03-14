@@ -1,0 +1,152 @@
+{
+    "name": "Silcoon",
+    "jp_name": "Karasairu\u30ab\u30e9\u30b5\u30ea\u30b9",
+    "number": " National: #266Sinnoh: #049 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shed Skin"
+    ],
+    "classification": "Cocoon Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "22.0lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Having wrapped silk around the branches of a tree, it quiescently awaits evolution."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Harden"
+        ],
+        "7": [
+            "Harden"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        ""
+    ],
+    "tutor_moves": [
+        "String Shot",
+        "Bug Bite"
+    ],
+    "stats": [
+        "50",
+        "35",
+        "55",
+        "25",
+        "25",
+        "15"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "name": "Ursaring",
+    "jp_name": "Ringuma\u30ea\u30f3\u30b0\u30de",
+    "number": " National: #217Johto: #199 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Guts",
+        "Quick Feet"
+    ],
+    "classification": "Hibernator Pok\u00e9mon",
+    "height": "5'11\"",
+    "weight": "277.3lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen berries.",
+        "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground."
+    ],
+    "location": [
+        "Trade from DPt, SS",
+        "Route 28, Mt. Silver, Victory Road"
+    ],
+    "learnset": {
+        "0": [
+            "Covet",
+            "Scratch",
+            "Leer",
+            "Lick",
+            "Fake Tears"
+        ],
+        "8": [
+            "Fury Swipes"
+        ],
+        "15": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "22": [
+            "Sweet Scent"
+        ],
+        "29": [
+            "Slash"
+        ],
+        "38": [
+            "Scary Face"
+        ],
+        "47": [
+            "Rest"
+        ],
+        "49": [
+            "Snore"
+        ],
+        "58": [
+            "Thrash"
+        ],
+        "67": [
+            "Hammer Arm"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM72",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Thunderpunch",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Gunk Shot",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Superpower",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Take Down",
+        "Seismic Toss",
+        "Counter",
+        "Metal Claw",
+        "Fake Tears",
+        "Yawn",
+        "Sleep Talk",
+        "Cross Chop",
+        "Double-edge",
+        "Close Combat",
+        "Night Slash",
+        "Belly Drum"
+    ],
+    "stats": [
+        "90",
+        "130",
+        "75",
+        "75",
+        "75",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

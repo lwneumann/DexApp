@@ -1,0 +1,225 @@
+{
+    "name": "Kyogre",
+    "jp_name": "Kaiorga\u30ab\u30a4\u30aa\u30fc\u30ac",
+    "number": " National: #382",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Drizzle"
+    ],
+    "classification": "Sea Basin Pok\u00e9mon",
+    "height": "14'09\"",
+    "weight": "776.0lbs",
+    "capture_rate": "5",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "A mythical Pok\u00e9mon said to have swelled the seas with rain and tidal waves. It battled with GROUDON."
+    ],
+    "location": [
+        "Hidden Tower",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Water Pulse"
+        ],
+        "5": [
+            "Scary Face"
+        ],
+        "15": [
+            "Body Slam"
+        ],
+        "20": [
+            "Muddy Water"
+        ],
+        "30": [
+            "Aqua Ring"
+        ],
+        "35": [
+            "Ice Beam"
+        ],
+        "45": [
+            "Ancientpower"
+        ],
+        "50": [
+            "Water Spout"
+        ],
+        "60": [
+            "Calm Mind"
+        ],
+        "65": [
+            "Aqua Tail"
+        ],
+        "80": [
+            "Double-edge"
+        ],
+        "90": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM72",
+        "TM73",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Aqua Tail",
+        "Iron Head",
+        "Mud-slap",
+        "Signal Beam",
+        "Block",
+        "Headbutt"
+    ],
+    "stats": [
+        "100",
+        "100",
+        "90",
+        "150",
+        "140",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "130 - 172",
+                "145 - 192",
+                "159 - 211"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "256 - 341",
+                "285 - 379",
+                "313 - 416"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

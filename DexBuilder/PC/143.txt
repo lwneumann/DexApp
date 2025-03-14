@@ -1,0 +1,261 @@
+{
+    "name": "Snorlax",
+    "jp_name": "Kabigon\u30ab\u30d3\u30b4\u30f3",
+    "number": " National: #143Sinnoh: #113 Johto: #230 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Immunity",
+        "Thick Fat"
+    ],
+    "classification": "Sleeping Pok\u00e9mon",
+    "height": "6'11\"",
+    "weight": "1041.1lbs",
+    "capture_rate": "25",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Leftovers",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
+        "Its stomach's digestive juices can dissolve any kind of poison. It can even eat things off the ground."
+    ],
+    "location": [
+        "Route 11",
+        "Route 11"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "4": [
+            "Defense Curl"
+        ],
+        "9": [
+            "Amnesia"
+        ],
+        "12": [
+            "Lick"
+        ],
+        "17": [
+            "Belly Drum"
+        ],
+        "20": [
+            "Yawn"
+        ],
+        "25": [
+            "Rest"
+        ],
+        "28": [
+            "Snore",
+            "Sleep Talk"
+        ],
+        "33": [
+            "Body Slam"
+        ],
+        "36": [
+            "Block"
+        ],
+        "41": [
+            "Rollout"
+        ],
+        "44": [
+            "Crunch"
+        ],
+        "49": [
+            "Giga Impact"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM67",
+        "TM68",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Gunk Shot",
+        "Iron Head",
+        "Mud-slap",
+        "Outrage",
+        "Rollout",
+        "Seed Bomb",
+        "Superpower",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Lick",
+        "Charm",
+        "Double-edge",
+        "Curse",
+        "Fissure",
+        "Substitute",
+        "Whirlwind",
+        "Pursuit",
+        "Counter"
+    ],
+    "stats": [
+        "160",
+        "110",
+        "65",
+        "65",
+        "110",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "220 - 267",
+                "220 - 267",
+                "220 - 267"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "430 - 524",
+                "430 - 524",
+                "430 - 524"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

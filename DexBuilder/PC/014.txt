@@ -1,0 +1,153 @@
+{
+    "name": "Kakuna",
+    "jp_name": "Kokoon\u30b3\u30af\u30fc\u30f3",
+    "number": " National: #014Johto: #028 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shed Skin"
+    ],
+    "classification": "Cocoon Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "22.0lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+        "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian Forest, Ilex Forest (Headbutt), Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Harden"
+        ],
+        "7": [
+            "Harden"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        ""
+    ],
+    "tutor_moves": [
+        "String Shot",
+        "Bug Bite"
+    ],
+    "stats": [
+        "45",
+        "25",
+        "50",
+        "25",
+        "25",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

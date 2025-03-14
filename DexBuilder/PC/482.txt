@@ -1,0 +1,235 @@
+{
+    "name": "Azelf",
+    "jp_name": "Agunomuu\u30a2\u30b0\u30ce\u30e0",
+    "number": " National: #482Sinnoh: #148 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Willpower Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "0.7lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "140",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "This Pok\u00e9mon is said to have endowed humans with the determination needed to face any of life's difficulties."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Rest",
+            "Confusion"
+        ],
+        "6": [
+            "Imprison"
+        ],
+        "16": [
+            "Detect"
+        ],
+        "21": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "31": [
+            "Uproar"
+        ],
+        "36": [
+            "Future Sight"
+        ],
+        "46": [
+            "Nasty Plot"
+        ],
+        "51": [
+            "Extrasensory"
+        ],
+        "61": [
+            "Last Resort"
+        ],
+        "76": [
+            "Explosion"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM53",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Knock Off",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Mud-slap",
+        "Signal Beam",
+        "Role Play",
+        "Headbutt"
+    ],
+    "stats": [
+        "75",
+        "125",
+        "70",
+        "125",
+        "70",
+        "115"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ]
+        ]
+    }
+}

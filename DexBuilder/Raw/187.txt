@@ -1,0 +1,2417 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Hoppip
+Hanekkoハネッコ
+ National: #187Johto: #067 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Chlorophyll & Leaf Guard 
+
+
+
+Chlorophyll: When sunny, the Pokémon’s Speed doubles. However, Speed will not double on the turn weather becomes Clear Skies. 
+Leaf Guard: Prevents the Pokémon from receiving status conditions during strong sunlight. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Cottonweed Pokémon
+1'04"
+1.1lbs
+255
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+70
+1 Sp. Defense Point(s)
+Pink
+90
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*0.5
+*1
+*0.25
+*4
+*0.5
+*2
+*0
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+FairyPikachuRaichuClefairyClefableJigglypuffWigglytuffChanseyTogeticMarillAzumarillHoppipSkiploomJumpluffSnubbullGranbullBlisseyShroomishBreloomSkittyDelcattyMawilePlusleMinunRoseliaCastformSnoruntGlalieRoseradePachirisuCherubiCherrimTogekissFroslassPhioneManaphyDittoFairy
+
+PlantBulbasaurIvysaurVenusaurOddishGloomVileplumeParasParasectBellsproutWeepinbellVictreebelExeggcuteExeggutorTangelaChikoritaBayleefMeganiumBellossomHoppipSkiploomJumpluffSunkernSunfloraLotadLombreLudicoloSeedotNuzleafShiftryShroomishBreloomRoseliaCacneaCacturneTropiusTurtwigGrotleTorterraRoseradeCherubiCherrimCarnivineSnoverAbomasnowTangrowthDittoPlant
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		To keep from being blown away by the wind, they gather in clusters. But they do enjoy gentle breezes.
+		
+
+
+SoulSilver
+
+		Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+FireRed
+		
+
+		Five Island, Five Isle Meadow, Memorial Pillar, Resort Gorgeous, Water Labyrinth (Surf), Five Isle Meadow, Memorial Pillar
+		
+
+
+LeafGreen
+		
+
+		Five Island, Five Isle Meadow, Memorial Pillar, Resort Gorgeous, Water Labyrinth (Surf), Five Isle Meadow, Memorial Pillar
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+XD
+		
+
+		Oasis PokéSpot
+		
+
+
+Diamond
+		
+
+		Route 205
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 205
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 205 South (PokeRadar)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 13, Route 14, Route 15, Route 32, Route 33, Route 48Safari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 13, Route 14, Route 15, Route 32, Route 33, Route 48Safari Zone
+		
+
+Details
+
+PokéWalker
+		
+
+		Resort
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Splash----40--The user just flops and splashes around to no effect at all... 4Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.7Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.12Poisonpowder--7535--A cloud of poisonous dust is scattered on the foe. It may poison the target.14Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.16Sleep Powder--7515--The user scatters a big cloud of sleep- inducing dust around the foe. 19Bullet Seed1010030--The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.22Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.25Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.28Cotton Spore--8540--The user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.31U-turn7010020--After making its attack, the user rushes back to switch places with a party Pokémon in waiting.34Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.37Giga Drain6010010--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.40Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.43Memento--10010--The user faints upon using this move. In return, it sharply lowers the target's Attack and Sp. Atk.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Confusion501002510DetailsThe foe is hit by a weak telekinetic force. It may also leave the foe confused.Encore--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Reflect----20--DetailsA wondrous wall of light is put up to suppress damage from physical attacks for five turns.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Aromatherapy----5--DetailsThe user releases a soothing scent that heals all status problems affecting the user's party.Worry Seed--10010--DetailsA seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+FireRed
+		
+
+		Five Island, Five Isle Meadow, Memorial Pillar, Resort Gorgeous, Water Labyrinth (Surf), Five Isle Meadow, Memorial Pillar
+		
+
+
+LeafGreen
+		
+
+		Five Island, Five Isle Meadow, Memorial Pillar, Resort Gorgeous, Water Labyrinth (Surf), Five Isle Meadow, Memorial Pillar
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+XD
+		
+
+		Oasis PokéSpot
+		
+
+
+Diamond
+		
+
+		Route 205
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 205
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 205 South (PokeRadar)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 13, Route 14, Route 15, Route 32, Route 33, Route 48Safari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 13, Route 14, Route 15, Route 32, Route 33, Route 48Safari Zone
+		
+
+Details
+
+PokéWalker
+		
+
+		Resort
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Splash----40--The user just flops and splashes around to no effect at all... 4Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.7Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.12Poisonpowder--7535--A cloud of poisonous dust is scattered on the foe. It may poison the target.14Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.16Sleep Powder--7515--The user scatters a big cloud of sleep- inducing dust around the foe. 19Bullet Seed1010030--The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.22Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.25Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.28Cotton Spore--8540--The user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.31U-turn7010020--After making its attack, the user rushes back to switch places with a party Pokémon in waiting.34Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.37Giga Drain6010010--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.40Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.43Memento--10010--The user faints upon using this move. In return, it sharply lowers the target's Attack and Sp. Atk.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Confusion501002510DetailsThe foe is hit by a weak telekinetic force. It may also leave the foe confused.Encore--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Reflect----20--DetailsA wondrous wall of light is put up to suppress damage from physical attacks for five turns.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Aromatherapy----5--DetailsThe user releases a soothing scent that heals all status problems affecting the user's party.Worry Seed--10010--DetailsA seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Splash----40--The user just flops and splashes around to no effect at all... 4Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.7Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.10Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.12Poisonpowder--7535--A cloud of poisonous dust is scattered on the foe. It may poison the target.14Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.16Sleep Powder--7515--The user scatters a big cloud of sleep- inducing dust around the foe. 19Bullet Seed1010030--The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.22Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.25Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.28Cotton Spore--8540--The user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.31U-turn7010020--After making its attack, the user rushes back to switch places with a party Pokémon in waiting.34Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.37Giga Drain6010010--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.40Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.43Memento--10010--The user faints upon using this move. In return, it sharply lowers the target's Attack and Sp. Atk.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Confusion501002510DetailsThe foe is hit by a weak telekinetic force. It may also leave the foe confused.Encore--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Reflect----20--DetailsA wondrous wall of light is put up to suppress damage from physical attacks for five turns.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Aromatherapy----5--DetailsThe user releases a soothing scent that heals all status problems affecting the user's party.Worry Seed--10010--DetailsA seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Confusion501002510DetailsThe foe is hit by a weak telekinetic force. It may also leave the foe confused.Encore--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Reflect----20--DetailsA wondrous wall of light is put up to suppress damage from physical attacks for five turns.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Aromatherapy----5--DetailsThe user releases a soothing scent that heals all status problems affecting the user's party.Worry Seed--10010--DetailsA seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Confusion501002510DetailsThe foe is hit by a weak telekinetic force. It may also leave the foe confused.Encore--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Reflect----20--DetailsA wondrous wall of light is put up to suppress damage from physical attacks for five turns.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Aromatherapy----5--DetailsThe user releases a soothing scent that heals all status problems affecting the user's party.Worry Seed--10010--DetailsA seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Confusion501002510DetailsThe foe is hit by a weak telekinetic force. It may also leave the foe confused.Encore--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Reflect----20--DetailsA wondrous wall of light is put up to suppress damage from physical attacks for five turns.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Aromatherapy----5--DetailsThe user releases a soothing scent that heals all status problems affecting the user's party.Worry Seed--10010--DetailsA seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+35
+40
+35
+55
+50
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+36 - 78
+40 - 82
+36 - 78
+54 - 96
+49 - 91
+Lv. 100
+180 - 274
+67 - 152
+76 - 161
+67 - 152
+103 - 188
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+40 - 87
+45 - 92
+40 - 87
+60 - 107
+55 - 102
+Lv. 100
+180 - 274
+75 - 169
+85 - 179
+75 - 169
+115 - 209
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+44 - 95
+49 - 101
+44 - 95
+66 - 117
+60 - 112
+Lv. 100
+180 - 274
+82 - 185
+93 - 196
+82 - 185
+126 - 229
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#186Politoed
+		
+
+
+
+
+
+
+
+#188Skiploom
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

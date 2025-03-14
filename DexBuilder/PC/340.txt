@@ -1,0 +1,230 @@
+{
+    "name": "Whiscash",
+    "jp_name": "Namazun\u30ca\u30de\u30ba\u30f3",
+    "number": " National: #340Sinnoh: #081 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Oblivious",
+        "Anticipation"
+    ],
+    "classification": "Whiskers Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "52.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 2"
+    ],
+    "flavor_text": [
+        "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around."
+    ],
+    "location": [
+        "Violet City",
+        "Violet City"
+    ],
+    "learnset": {
+        "0": [
+            "Zen Headbutt",
+            "Tickle",
+            "Mud-slap",
+            "Mud Sport",
+            "Water Sport"
+        ],
+        "6": [
+            "Mud Sport",
+            "Water Sport"
+        ],
+        "10": [
+            "Water Gun"
+        ],
+        "14": [
+            "Mud Bomb"
+        ],
+        "18": [
+            "Amnesia"
+        ],
+        "22": [
+            "Water Pulse"
+        ],
+        "33": [
+            "Rest",
+            "Snore"
+        ],
+        "39": [
+            "Aqua Tail"
+        ],
+        "45": [
+            "Earthquake"
+        ],
+        "51": [
+            "Future Sight"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM68",
+        "TM71",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Thrash",
+        "Whirlpool",
+        "Spark",
+        "Hydro Pump",
+        "Flail",
+        "Take Down",
+        "Dragon Dance"
+    ],
+    "stats": [
+        "110",
+        "78",
+        "73",
+        "76",
+        "71",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "170 - 217",
+                "170 - 217",
+                "170 - 217"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "70 - 112",
+                "78 - 125",
+                "85 - 137"
+            ],
+            [
+                "72 - 115",
+                "81 - 128",
+                "89 - 140"
+            ],
+            [
+                "68 - 110",
+                "76 - 123",
+                "83 - 135"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "330 - 424",
+                "330 - 424",
+                "330 - 424"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "135 - 220",
+                "151 - 245",
+                "166 - 269"
+            ],
+            [
+                "141 - 225",
+                "157 - 251",
+                "172 - 276"
+            ],
+            [
+                "132 - 216",
+                "147 - 241",
+                "161 - 265"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

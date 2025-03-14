@@ -1,0 +1,244 @@
+{
+    "name": "Hitmonlee",
+    "jp_name": "Sawamular\u30b5\u30ef\u30e0\u30e9\u30fc",
+    "number": " National: #106Johto: #146 ",
+    "gender_ratio": [
+        "100",
+        "0"
+    ],
+    "ability": [
+        "Limber",
+        "Reckless"
+    ],
+    "classification": "Kicking Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "109.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "This amazing Pok\u00e9mon has an awesome sense of balance. It can kick in succession from any position.",
+        "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe."
+    ],
+    "location": [
+        "Evolve Tyrogue",
+        "Evolve Tyrogue"
+    ],
+    "learnset": {
+        "0": [
+            "Revenge",
+            "Double Kick"
+        ],
+        "5": [
+            "Meditate"
+        ],
+        "9": [
+            "Rolling Kick"
+        ],
+        "13": [
+            "Jump Kick"
+        ],
+        "17": [
+            "Brick Break"
+        ],
+        "21": [
+            "Focus Energy"
+        ],
+        "25": [
+            "Feint"
+        ],
+        "29": [
+            "Hi Jump Kick"
+        ],
+        "33": [
+            "Mind Reader"
+        ],
+        "37": [
+            "Foresight"
+        ],
+        "41": [
+            "Blaze Kick"
+        ],
+        "45": [
+            "Endure"
+        ],
+        "10": [
+            "The user endures any attack with at least"
+        ],
+        "49": [
+            "Mega Kick"
+        ],
+        "53": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM71",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Knock Off",
+        "Sucker Punch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Mud-slap",
+        "Superpower",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rapid Spin",
+        "Hi Jump Kick",
+        "Mach Punch",
+        "Mind Reader",
+        "Helping Hand",
+        "Counter",
+        "Vacuum Wave",
+        "Bullet Punch"
+    ],
+    "stats": [
+        "50",
+        "120",
+        "53",
+        "35",
+        "110",
+        "87"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "52 - 94",
+                "58 - 105",
+                "63 - 115"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "82 - 125",
+                "92 - 139",
+                "101 - 152"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "99 - 184",
+                "111 - 205",
+                "122 - 225"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "161 - 245",
+                "179 - 273",
+                "196 - 300"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,200 @@
+TM01 - Focus Punch
+TM01 	Focus Punch 	Fighting 	Oreburgh Gate, Pickup (1% chance, lv 71-90) 	Prize for defeating Chuck 	N/A
+TM02 - Dragon Claw
+TM02 	Dragon Claw 	Dragon 	Mt. Coronet 	Route 27, Goldenrod Department Store Lottery 	N/A
+TM03 - Water Pulse
+TM03 	Water Pulse 	Water 	Ravaged Path 	Prize for defeating Misty 	N/A
+TM04 - Calm Mind
+TM04 	Calm Mind 	Psychic 	Battle Tower/Battle Frontier prize 	Battle Frontier prize 	48BP
+TM05 - Roar
+TM05 	Roar 	Normal 	Route 213 	Route 32 	N/A
+TM06 - Toxic
+TM06 	Toxic 	Poison 	Route 212, Battle Tower/Battle Frontier prize 	Battle Frontier prize 	32BP
+TM07 - Hail
+TM07 	Hail 	Ice 	Route 212DP, Route 217 	Prize for defeating Pryce, Pokéwalker (Icy Mountain Rd.) 	10 Green ShardsDP 	N/A
+TM08 - Bulk Up
+TM08 	Bulk Up 	Fighting 	Battle Tower/Battle Frontier prize 	Battle Frontier prize 	48BP
+TM09 - Bullet Seed
+TM09 	Bullet Seed 	Grass 	Route 204 	Route 32 	N/A
+TM10 - Hidden Power
+TM10 	Hidden Power 	Normal 	Trainers' SchoolDP, Veilstone Game Corner 	Lake of Rage, Celadon Game Corner, Pokéwalker (Quiet Cave) 	6000C
+TM11 - Sunny Day
+TM11 	Sunny Day 	Fire 	Route 212 	Goldenrod Radio Tower, Pokéwalker (Blue Lake) 	10 Red ShardsDP 	N/A
+TM12 - Taunt
+TM12 	Taunt 	Dark 	Route 211 	Route 34 outpost, Burned Tower, Celadon Department Store 	N/A 	$1500
+TM13 - Ice Beam
+TM13 	Ice Beam 	Ice 	Route 216, Veilstone Game Corner 	Goldenrod Game Corner, Seafoam Islands 	10000C
+TM14 - Blizzard
+TM14 	Blizzard 	Ice 	Lake Acuity, Veilstone Department Store 	Goldenrod Department Store 	$5500
+TM15 - Hyper Beam
+TM15 	Hyper Beam 	Normal 	Veilstone Department Store 	Goldenrod Department Store, Pokéwalker (Quiet Cave) 	$7500
+TM16 - Light Screen
+TM16 	Light Screen 	Psychic 	Veilstone Department Store 	Goldenrod Department Store 	$2000
+TM17 - Protect
+TM17 	Protect 	Normal 	Veilstone Department Store 	Goldenrod Department Store 	$2000
+TM18 - Rain Dance
+TM18 	Rain Dance 	Water 	Route 212DP, Route 223 	Slowpoke Well, Pokéwalker (Dim Cave) 	10 Blue ShardsDP 	N/A
+TM19 - Giga Drain
+TM19 	Giga Drain 	Grass 	Route 209 	Prize for defeating Erika 	N/A
+TM20 - Safeguard
+TM20 	Safeguard 	Normal 	Veilstone Department Store 	Celadon Department Store 	$2000
+TM21 - Frustration
+TM21 	Frustration 	Normal 	Veilstone Game Corner, Team Galactic HQ 	Celadon Department Store 	8000C 	$1000
+TM22 - SolarBeam
+TM22 	Solarbeam 	Grass 	Veilstone Department Store 	Goldenrod Department Store 	$3000
+TM23 - Iron Tail
+TM23 	Iron Tail 	Steel 	Iron Island 	Prize for defeating Jasmine 	N/A
+TM24 - Thunderbolt
+TM24 	Thunderbolt 	Electric 	Veilstone Game Corner, Valley Windworks 	Goldenrod Game Corner, Cerulean Cave 	10000C
+TM25 - Thunder
+TM25 	Thunder 	Electric 	Lake Valor, Veilstone Department Store 	Goldenrod Department Store 	$5500
+TM26 - Earthquake
+TM26 	Earthquake 	Ground 	Wayward Cave (secret entrance under bike path), Battle Tower/Battle Frontier prize, Pickup (1% chance, lv 91-100) 	Victory Road, Battle Frontier prize, Pickup (1% chance, lv 91-100) 	80BP
+TM27 - Return
+TM27 	Return 	Normal 	Lost Tower, Veilstone Game Corner, Sandgem TownPt 	Goldenrod Department Store, Celadon Department Store 	8000C 	$1000
+TM28 - Dig
+TM28 	Dig 	Ground 	Maniac Tunnel 	National Park, Celadon Department Store 	N/A 	$2000
+TM29 - Psychic
+TM29 	Psychic 	Psychic 	Veilstone Game Corner, Route 211 	Celadon Game Corner, Saffron City, Pokéwalker (Night Sky's Edge) 	10000C
+TM30 - Shadow Ball
+TM30 	Shadow Ball 	Ghost 	Route 210, Battle Tower/Battle Frontier prize 	Prize for defeating Morty, Battle Frontier prize 	64 BP
+TM31 - Brick Break
+TM31 	Brick Break 	Fighting 	Battle Tower/Battle Frontier prize, Oreburgh Gate (basement) 	Battle Frontier prize 	40BP
+TM32 - Double Team
+TM32 	Double Team 	Normal 	Wayward Cave, Veilstone Game Corner 	Celadon Game Corner 	4000C
+TM33 - Reflect
+TM33 	Reflect 	Psychic 	Veilstone Department Store 	Goldenrod Department Store 	$2000
+TM34 - Shock Wave
+TM34 	Shock Wave 	Electric 	Route 215 	Prize for defeating Lt. Surge 	N/A
+TM35 - Flamethrower
+TM35 	Flamethrower 	Fire 	Veilstone Game Corner, Fuego Ironworks 	Goldenrod Game Corner, Route 28 	10000C
+TM36 - Sludge Bomb
+TM36 	Sludge Bomb 	Poison 	Galactic Warehouse, Battle Tower/Battle Frontier prize 	Route 43, Battle Frontier prize 	80BP
+TM37 - Sandstorm
+TM37 	Sandstorm 	Rock 	Route 212DP, Route 228 	Route 27, Pokéwalker (Town Outskirts) 	10 Yellow ShardsDP 	N/A
+TM38 - Fire Blast
+TM38 	Fire Blast 	Fire 	Lake Verity, Veilstone Department Store 	Goldenrod Department Store 	$5500
+TM39 - Rock Tomb
+TM39 	Rock Tomb 	Rock 	Ravaged Path 	Union Cave 	N/A
+TM40 - Aerial Ace
+TM40 	Aerial Ace 	Flying 	Route 213, Battle Tower/Battle Frontier prize 	Mt. Mortar, Battle Frontier prize 	40 BP
+TM41 - Torment
+TM41 	Torment 	Dark 	Victory Road 	Route 8, Celadon Department Store 	N/A 	$1500
+TM42 - Facade
+TM42 	Facade 	Normal 	Survival Area 	Goldenrod Department Store Lottery 	N/A
+TM43 - Secret Power
+TM43 	Secret Power 	Normal 	Amity Square 	Lake of Rage 	N/A
+TM44 - Rest
+TM44 	Rest 	Psychic 	Veilstone Game Corner, Pickup (1% chance, lv 51-70) 	Route 31, Goldenrod Game Corner 	6000C
+TM45 - Attract
+TM45 	Attract 	Normal 	Battle Tower/Battle Frontier prize, Amity Square 	Prize for defeating Whitney, Battle Frontier prize 	32BP
+TM46 - Thief
+TM46 	Thief 	Dark 	Eterna City 	Team Rocket HQ 	N/A
+TM47 - Steel Wing
+TM47 	Steel Wing 	Steel 	Route 209 	Route 28 	N/A
+TM48 - Skill Swap
+TM48 	Skill Swap 	Psychic 	Canalave City 	Prize for defeating Sabrina 	N/A
+TM49 - Snatch
+TM49 	Snatch 	Dark 	Galactic Warehouse 	Team Rocket HQ 	N/A
+TM50 - Overheat
+TM50 	Overheat 	Fire 	Stark Mountain 	Prize for defeating Blaine 	N/A
+TM51 - Roost
+TM51 	Roost 	Flying 	Route 210 	Prize for defeating Falkner 	N/A
+TM52 - Focus Blast
+TM52 	Focus Blast 	Fighting 	Veilstone Department Store 	Goldenrod Department Store 	$5500
+TM53 - Energy Ball
+TM53 	Energy Ball 	Grass 	Battle Tower/Battle Frontier prize, Route 226 	Battle Frontier prize 	64BP
+TM54 - False Swipe
+TM54 	False Swipe 	Normal 	Veilstone Department Store 	Goldenrod Department Store 	$2000
+TM55 - Brine
+TM55 	Brine 	Water 	Prize for defeating Crasher Wake 	Celadon Department Store, Route 19 	N/A 	$3000
+TM56 - Fling
+TM56 	Fling 	Dark 	Route 222 	Rock Tunnel, Pickup (1% chance, lv 51-70) 	N/A
+TM57 - Charge Beam
+TM57 	Charge Beam 	Electric 	Prize for defeating Volkner 	Olivine City, Kanto Power Plant (after returning the Machine Part),
+TM58 - Endure
+TM58 	Endure 	Normal 	Veilstone Game Corner 	Celadon Game Corner 	2000C
+TM59 - Dragon Pulse
+TM59 	Dragon Pulse 	Dragon 	Battle Tower/Battle Frontier prize, Victory Road 	Prize for defeating Clair, Battle Frontier prize 	80BP
+TM60 - Drain Punch
+TM60 	Drain Punch 	Fighting 	Prize for defeating Maylene 	Route 39, Goldenrod Department Store Lottery 	N/A
+TM61 - Will-O-Wisp
+TM61 	Will-O-Wisp 	Fire 	Battle Tower/Battle Frontier prize 	Battle Frontier prize 	32BP
+TM62 - Silver Wind
+TM62 	Silver Wind 	Bug 	Route 212 	Route 6, Goldenrod Department Store Lottery 	N/A
+TM63 - Embargo
+TM63 	Embargo 	Dark 	Veilstone City 	Route 34 	N/A
+TM64 - Explosion
+TM64 	Explosion 	Normal 	Veilstone Game Corner 	Underground Path (Kanto Routes 5–6) 	N/A 	RageCandyBar
+TM65 - Shadow Claw
+TM65 	Shadow Claw 	Ghost 	Prize for defeating Fantina 	Route 42, Goldenrod Department Store Lottery 	N/A
+TM66 - Payback
+TM66 	Payback 	Dark 	Route 215 	Route 35 	N/A
+TM67 - Recycle
+TM67 	Recycle 	Normal 	Eterna Condominiums 	Celadon City 	N/A
+TM68 - Giga Impact
+TM68 	Giga Impact 	Normal 	Veilstone Game Corner 	Celadon Game Corner, Pokéwalker (White Lake) 	20000C 	15000C
+TM69 - Rock Polish
+TM69 	Rock Polish 	Rock 	Mt. Coronet 	Route 10 	N/A
+TM70 - Flash
+TM70 	Flash 	Normal 	Veilstone Department Store, Oreburgh Gate (basement) 	Sprout Tower, Goldenrod Department Store 	$1000
+TM71 - Stone Edge
+TM71 	Stone Edge 	Rock 	Battle Tower/Battle Frontier prize, Victory Road 	Battle Frontier prize 	80BP
+TM72 - Avalanche
+TM72 	Avalanche 	Ice 	Prize for defeating Candice 	Ice Path, Celadon Department Store 	N/A 	$3000
+TM73 - Thunder Wave
+TM73 	Thunder Wave 	Electric 	Battle Tower/Battle Frontier prize 	Battle Frontier prize 	32BP
+TM74 - Gyro Ball
+TM74 	Gyro Ball 	Steel 	Veilstone Game Corner 	Celadon Game Corner 	15000C 	10000C
+TM75 - Swords Dance
+TM75 	Swords Dance 	Normal 	Veilstone Game Corner 	Goldenrod Game Corner 	4000C
+TM76 - Stealth Rock
+TM76 	Stealth Rock 	Rock 	Prize for defeating Roark 	Celadon Department Store, Mt. Silver Cave 	N/A 	$2000
+TM77 - Psych Up
+TM77 	Psych Up 	Normal 	Route 211 	Viridian Forest 	N/A
+TM78 - Captivate
+TM78 	Captivate 	Normal 	Route 204 	Celadon Department Store 	N/A 	$1500
+TM79 - Dark Pulse
+TM79 	Dark Pulse 	Dark 	Victory Road 	Victory Road, Celadon Department Store 	N/A 	$3000
+TM80 - Rock Slide
+TM80 	Rock Slide 	Rock 	Mt. Coronet 	Prize for defeating Brock 	N/A
+TM81 - X-Scissor
+TM81 	X-scissor 	Bug 	Battle Tower/Battle Frontier prize, Route 221 	Battle Frontier prize 	64BP
+TM82 - Sleep Talk
+TM82 	Sleep Talk 	Normal 	Eterna Forest 	Goldenrod Tunnel 	N/A
+TM83 - Natural Gift
+TM83 	Natural Gift 	Normal 	Veilstone Department Store 	Goldenrod Department Store 	$2000
+TM84 - Poison Jab
+TM84 	Poison Jab 	Poison 	Route 212 	Prize for defeating Janine 	N/A
+TM85 - Dream Eater
+TM85 	Dream Eater 	Psychic 	Valor Lakefront 	Viridian City 	N/A
+TM86 - Grass Knot
+TM86 	Grass Knot 	Grass 	Prize for defeating Gardenia 	Route 11, Pickup (1% chance, lv 71-90) 	N/A
+TM87 - Swagger
+TM87 	Swagger 	Normal 	Pokémon Mansion 	Olivine Lighthouse, Celadon Department Store 	N/A 	$1500
+TM88 - Pluck
+TM88 	Pluck 	Flying 	Floaroma Town 	Route 40 	N/A
+TM89 - U-turn
+TM89 	U-turn 	Bug 	Veilstone Game Corner, Canalave City 	Prize for defeating Bugsy, Battle Frontier prize 	6000C 	40BP
+TM90 - Substitute
+TM90 	Substitute 	Normal 	Veilstone Game Corner, Old Chateau 	Goldenrod Game Corner 	2000C
+TM91 - Flash Cannon
+TM91 	Flash Cannon 	Steel 	Prize for defeating Byron 	Route 9, Goldenrod Department Store Lottery 	N/A
+TM92 - Trick Room
+TM92 	Trick Room 	Psychic 	Route 213 	Prize for defeating Blue 	N/A 
+HM01 - Cut
+HM01 	Cut 	Normal 	Eterna City 	Ilex Forest 	Forest Badge.png
+HM02 - Fly
+HM02 	Fly 	Flying 	Veilstone City 	Cianwood City 	Cobble Badge.png
+HM03 - Surf
+HM03 	Surf 	Water 	Celestic Town 	Ecruteak City 	Relic Badge.png
+HM04 - Strength
+HM04 	Strength 	Normal 	Lost Tower 	Iron Island 	Route 42 	Mine Badge.png
+HM05 - Whirlpool
+HM05 	Whirlpool 	Water 	— 	Team Rocket HQ 	— 	Glacier Badge.png
+HM06 - Rock Smash
+HM06 	Rock Smash 	Fighting 	Oreburgh Gate 	Route 36 	Coal Badge.png
+HM07 - Waterfall
+HM07 	Waterfall 	Water 	Sunyshore City 	Ice Path 	Beacon Badge.png
+HM08 - Rock Climb
+HM08 	Rock Climb 	Normal 	Route 217 	Pallet Town 	Icicle Badge.png

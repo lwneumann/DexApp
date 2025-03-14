@@ -1,0 +1,249 @@
+{
+    "name": "Typhlosion",
+    "jp_name": "Bakufun\u30d0\u30af\u30d5\u30fc\u30f3",
+    "number": " National: #157Johto: #006 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Volcano Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "175.3lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+        "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+    ],
+    "location": [
+        "Evolve Cyndaquil",
+        "Evolve Cyndaquil"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Leer",
+            "Smokescreen",
+            "Ember"
+        ],
+        "6": [
+            "Smokescreen"
+        ],
+        "10": [
+            "Ember"
+        ],
+        "13": [
+            "Quick Attack"
+        ],
+        "20": [
+            "Flame Wheel"
+        ],
+        "24": [
+            "Defense Curl"
+        ],
+        "31": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "35": [
+            "Lava Plume"
+        ],
+        "42": [
+            "Flamethrower"
+        ],
+        "46": [
+            "Rollout"
+        ],
+        "53": [
+            "Double-edge"
+        ],
+        "57": [
+            "Eruption"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM68",
+        "TM74",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Rollout",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fury Swipes",
+        "Quick Attack",
+        "Reversal",
+        "Thrash",
+        "Foresight",
+        "Covet",
+        "Howl",
+        "Crush Claw",
+        "Double-edge",
+        "Double Kick",
+        "Flare Blitz",
+        "Extrasensory"
+    ],
+    "stats": [
+        "78",
+        "84",
+        "78",
+        "109",
+        "85",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "138 - 185",
+                "138 - 185",
+                "138 - 185"
+            ],
+            [
+                "80 - 122",
+                "89 - 136",
+                "97 - 149"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "102 - 144",
+                "114 - 161",
+                "125 - 177"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "266 - 360",
+                "266 - 360",
+                "266 - 360"
+            ],
+            [
+                "155 - 240",
+                "173 - 267",
+                "190 - 293"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "200 - 285",
+                "223 - 317",
+                "245 - 348"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

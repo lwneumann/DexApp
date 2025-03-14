@@ -1,0 +1,1904 @@
+{
+    "gender_ratio": "Type",
+    "type": "",
+    "abilities": "Overgrow",
+    "classification": "Height",
+    "height": "Weight",
+    "weight": "Capture Rate",
+    "capture_rate": "Base Egg Steps",
+    "base_egg_steps": "",
+    "moves": [
+        {
+            "level": "45",
+            "name": "5,120",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "1 Sp. Attack Point(s)",
+            "type": "Green",
+            "details": "0"
+        },
+        {
+            "level": "1",
+            "name": "*2",
+            "type": "*0.5",
+            "details": "*0.5"
+        },
+        {
+            "level": "25",
+            "name": "*2",
+            "type": "*0.5",
+            "details": "*1"
+        },
+        {
+            "level": "1",
+            "name": "*2",
+            "type": "*2",
+            "details": "*1"
+        },
+        {
+            "level": "1",
+            "name": "*1",
+            "type": "*1",
+            "details": "*1"
+        },
+        {
+            "level": "1",
+            "name": "",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "06",
+            "name": "Toxic",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "85",
+            "name": "10",
+            "type": "--",
+            "details": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09"
+        },
+        {
+            "level": "10",
+            "name": "100",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "10",
+            "name": "Hidden Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "A unique attack that varies in type and intensity depending on the Pok\u0165mon using it.TM11"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "The user intensifies the sun for five turns, powering up Fire-type moves. TM17",
+            "details": "Protect"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19",
+            "details": "Giga Drain"
+        },
+        {
+            "level": "60",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "21",
+            "name": "Frustration",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the less the user likes its Trainer.TM22"
+        },
+        {
+            "level": "120",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "27",
+            "name": "Return",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the more the user likes its Trainer.TM32"
+        },
+        {
+            "level": "15",
+            "name": "--",
+            "type": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36",
+            "details": "Sludge Bomb"
+        },
+        {
+            "level": "90",
+            "name": "100",
+            "type": "10",
+            "details": "30"
+        },
+        {
+            "level": "42",
+            "name": "Facade",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "43",
+            "name": "Secret Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "30"
+        },
+        {
+            "level": "44",
+            "name": "Rest",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45",
+            "details": "Attract"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "10",
+            "details": "10"
+        },
+        {
+            "level": "58",
+            "name": "Endure",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70",
+            "details": "Flash"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75"
+        },
+        {
+            "level": "30",
+            "name": "--",
+            "type": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78",
+            "details": "Captivate"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "While it is asleep, the user randomly uses one of the moves it knows. TM83",
+            "details": "Natural Gift"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87"
+        },
+        {
+            "level": "90",
+            "name": "15",
+            "type": "--",
+            "details": "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01",
+            "details": "Cut"
+        },
+        {
+            "level": "50",
+            "name": "95",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "04",
+            "name": "Strength",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "06",
+            "name": "Rock Smash",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "50"
+        },
+        {
+            "level": "10",
+            "name": "95",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "",
+            "details": "The user restores its own HP. The amount of HP regained varies with the weather."
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "10",
+            "details": "100"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "95",
+            "name": "40",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "10",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "06",
+            "name": "Toxic",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "85",
+            "name": "10",
+            "type": "--",
+            "details": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09"
+        },
+        {
+            "level": "10",
+            "name": "100",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "10",
+            "name": "Hidden Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "A unique attack that varies in type and intensity depending on the Pok\u0165mon using it.TM11"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "The user intensifies the sun for five turns, powering up Fire-type moves. TM17",
+            "details": "Protect"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19",
+            "details": "Giga Drain"
+        },
+        {
+            "level": "60",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "21",
+            "name": "Frustration",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the less the user likes its Trainer.TM22"
+        },
+        {
+            "level": "120",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "27",
+            "name": "Return",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the more the user likes its Trainer.TM32"
+        },
+        {
+            "level": "15",
+            "name": "--",
+            "type": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36",
+            "details": "Sludge Bomb"
+        },
+        {
+            "level": "90",
+            "name": "100",
+            "type": "10",
+            "details": "30"
+        },
+        {
+            "level": "42",
+            "name": "Facade",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "43",
+            "name": "Secret Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "30"
+        },
+        {
+            "level": "44",
+            "name": "Rest",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45",
+            "details": "Attract"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "10",
+            "details": "10"
+        },
+        {
+            "level": "58",
+            "name": "Endure",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70",
+            "details": "Flash"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75"
+        },
+        {
+            "level": "30",
+            "name": "--",
+            "type": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78",
+            "details": "Captivate"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "While it is asleep, the user randomly uses one of the moves it knows. TM83",
+            "details": "Natural Gift"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87"
+        },
+        {
+            "level": "90",
+            "name": "15",
+            "type": "--",
+            "details": "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01",
+            "details": "Cut"
+        },
+        {
+            "level": "50",
+            "name": "95",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "04",
+            "name": "Strength",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "06",
+            "name": "Rock Smash",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "50"
+        },
+        {
+            "level": "10",
+            "name": "95",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "",
+            "details": "The user restores its own HP. The amount of HP regained varies with the weather."
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "10",
+            "details": "100"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "95",
+            "name": "40",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "10",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "06",
+            "name": "Toxic",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "85",
+            "name": "10",
+            "type": "--",
+            "details": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09"
+        },
+        {
+            "level": "10",
+            "name": "100",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "10",
+            "name": "Hidden Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "A unique attack that varies in type and intensity depending on the Pok\u0165mon using it.TM11"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "The user intensifies the sun for five turns, powering up Fire-type moves. TM17",
+            "details": "Protect"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19",
+            "details": "Giga Drain"
+        },
+        {
+            "level": "60",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "21",
+            "name": "Frustration",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the less the user likes its Trainer.TM22"
+        },
+        {
+            "level": "120",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "27",
+            "name": "Return",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the more the user likes its Trainer.TM32"
+        },
+        {
+            "level": "15",
+            "name": "--",
+            "type": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36",
+            "details": "Sludge Bomb"
+        },
+        {
+            "level": "90",
+            "name": "100",
+            "type": "10",
+            "details": "30"
+        },
+        {
+            "level": "42",
+            "name": "Facade",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "43",
+            "name": "Secret Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "30"
+        },
+        {
+            "level": "44",
+            "name": "Rest",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45",
+            "details": "Attract"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "10",
+            "details": "10"
+        },
+        {
+            "level": "58",
+            "name": "Endure",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70",
+            "details": "Flash"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75"
+        },
+        {
+            "level": "30",
+            "name": "--",
+            "type": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78",
+            "details": "Captivate"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "While it is asleep, the user randomly uses one of the moves it knows. TM83",
+            "details": "Natural Gift"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87"
+        },
+        {
+            "level": "90",
+            "name": "15",
+            "type": "--",
+            "details": "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01",
+            "details": "Cut"
+        },
+        {
+            "level": "50",
+            "name": "95",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "04",
+            "name": "Strength",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "06",
+            "name": "Rock Smash",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "50"
+        },
+        {
+            "level": "10",
+            "name": "95",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "",
+            "details": "The user restores its own HP. The amount of HP regained varies with the weather."
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "10",
+            "details": "100"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "95",
+            "name": "40",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "10",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "06",
+            "name": "Toxic",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "85",
+            "name": "10",
+            "type": "--",
+            "details": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09"
+        },
+        {
+            "level": "10",
+            "name": "100",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "10",
+            "name": "Hidden Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "A unique attack that varies in type and intensity depending on the Pok\u0165mon using it.TM11"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "The user intensifies the sun for five turns, powering up Fire-type moves. TM17",
+            "details": "Protect"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19",
+            "details": "Giga Drain"
+        },
+        {
+            "level": "60",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "21",
+            "name": "Frustration",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the less the user likes its Trainer.TM22"
+        },
+        {
+            "level": "120",
+            "name": "100",
+            "type": "10",
+            "details": "--"
+        },
+        {
+            "level": "27",
+            "name": "Return",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "A full-power attack that grows more powerful the more the user likes its Trainer.TM32"
+        },
+        {
+            "level": "15",
+            "name": "--",
+            "type": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36",
+            "details": "Sludge Bomb"
+        },
+        {
+            "level": "90",
+            "name": "100",
+            "type": "10",
+            "details": "30"
+        },
+        {
+            "level": "42",
+            "name": "Facade",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "43",
+            "name": "Secret Power",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "20",
+            "details": "30"
+        },
+        {
+            "level": "44",
+            "name": "Rest",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45",
+            "details": "Attract"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "10",
+            "details": "10"
+        },
+        {
+            "level": "58",
+            "name": "Endure",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70",
+            "details": "Flash"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75"
+        },
+        {
+            "level": "30",
+            "name": "--",
+            "type": "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78",
+            "details": "Captivate"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "While it is asleep, the user randomly uses one of the moves it knows. TM83",
+            "details": "Natural Gift"
+        },
+        {
+            "level": "100",
+            "name": "15",
+            "type": "--",
+            "details": "The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86"
+        },
+        {
+            "level": "100",
+            "name": "20",
+            "type": "--",
+            "details": "The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87"
+        },
+        {
+            "level": "90",
+            "name": "15",
+            "type": "--",
+            "details": "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90"
+        },
+        {
+            "level": "10",
+            "name": "--",
+            "type": "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01",
+            "details": "Cut"
+        },
+        {
+            "level": "50",
+            "name": "95",
+            "type": "30",
+            "details": "--"
+        },
+        {
+            "level": "04",
+            "name": "Strength",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "06",
+            "name": "Rock Smash",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "50"
+        },
+        {
+            "level": "10",
+            "name": "95",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "20",
+            "details": "--"
+        },
+        {
+            "level": "40",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "5",
+            "name": "--",
+            "type": "",
+            "details": "The user restores its own HP. The amount of HP regained varies with the weather."
+        },
+        {
+            "level": "20",
+            "name": "100",
+            "type": "10",
+            "details": "100"
+        },
+        {
+            "level": "80",
+            "name": "100",
+            "type": "15",
+            "details": "--"
+        },
+        {
+            "level": "95",
+            "name": "40",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "10",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "95",
+            "name": "40",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "100",
+            "name": "10",
+            "type": "--",
+            "details": ""
+        },
+        {
+            "level": "70",
+            "name": "100",
+            "type": "15",
+            "details": "30"
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        },
+        {
+            "level": "45",
+            "name": "49",
+            "type": "49",
+            "details": "65"
+        },
+        {
+            "level": "65",
+            "name": "45",
+            "type": "Max StatsHindering Nature",
+            "details": "Lv. 50"
+        },
+        {
+            "level": "152",
+            "name": "48 - 90",
+            "type": "48 - 90",
+            "details": "63 - 105"
+        },
+        {
+            "level": "105",
+            "name": "45 - 87",
+            "type": "Lv. 100",
+            "details": "200 - 294"
+        },
+        {
+            "level": "177",
+            "name": "92 - 177",
+            "type": "121 - 206",
+            "details": "121 - 206"
+        },
+        {
+            "level": "170",
+            "name": "Max StatsNeutral Nature",
+            "type": "Lv. 50",
+            "details": "105 - 152"
+        },
+        {
+            "level": "101",
+            "name": "54 - 101",
+            "type": "70 - 117",
+            "details": "70 - 117"
+        },
+        {
+            "level": "97",
+            "name": "Lv. 100",
+            "type": "200 - 294",
+            "details": "103 - 197"
+        },
+        {
+            "level": "197",
+            "name": "135 - 229",
+            "type": "135 - 229",
+            "details": "95 - 189"
+        },
+        {
+            "level": "50",
+            "name": "105 - 152",
+            "type": "59 - 111",
+            "details": "59 - 111"
+        },
+        {
+            "level": "128",
+            "name": "77 - 128",
+            "type": "55 - 106",
+            "details": "Lv. 100"
+        },
+        {
+            "level": "294",
+            "name": "113 - 216",
+            "type": "113 - 216",
+            "details": "148 - 251"
+        },
+        {
+            "level": "251",
+            "name": "104 - 207",
+            "type": "",
+            "details": ""
+        }
+    ],
+    "evolutionary_chain": "",
+    "egg_moves": []
+}

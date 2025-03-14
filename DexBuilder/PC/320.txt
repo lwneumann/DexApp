@@ -1,0 +1,239 @@
+{
+    "name": "Wailmer",
+    "jp_name": "Hoeruko\u30db\u30a8\u30eb\u30b3",
+    "number": " National: #320",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Water Veil",
+        "Oblivious"
+    ],
+    "classification": "Ball Whale Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "286.6lbs",
+    "capture_rate": "125",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "Water 2"
+    ],
+    "flavor_text": [
+        "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces."
+    ],
+    "location": [
+        "Transfer from Pok\u00e9Walker",
+        "Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Splash"
+        ],
+        "4": [
+            "Growl"
+        ],
+        "7": [
+            "Water Gun"
+        ],
+        "11": [
+            "Rollout"
+        ],
+        "14": [
+            "Whirlpool"
+        ],
+        "17": [
+            "Astonish"
+        ],
+        "21": [
+            "Water Pulse"
+        ],
+        "24": [
+            "Mist"
+        ],
+        "27": [
+            "Rest"
+        ],
+        "31": [
+            "Brine"
+        ],
+        "34": [
+            "Water Spout"
+        ],
+        "37": [
+            "Amnesia"
+        ],
+        "41": [
+            "Dive"
+        ],
+        "44": [
+            "Bounce"
+        ],
+        "47": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM72",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Bounce",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Double-edge",
+        "Thrash",
+        "Swagger",
+        "Snore",
+        "Sleep Talk",
+        "Curse",
+        "Fissure",
+        "Tickle",
+        "Defense Curl",
+        "Body Slam",
+        "Aqua Ring"
+    ],
+    "stats": [
+        "130",
+        "70",
+        "35",
+        "70",
+        "35",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "190 - 237",
+                "190 - 237",
+                "190 - 237"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "370 - 464",
+                "370 - 464",
+                "370 - 464"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

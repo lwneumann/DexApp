@@ -1,0 +1,2582 @@
+
+
+Images
+
+
+ 
+D/P
+PtHGSS
+ 
+Male
+Female
+Male
+Female
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Finneon
+Keikouoケイコウオ
+ National: #456Sinnoh: #134 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Swift Swim & Storm Drain 
+
+
+
+Swift Swim: When rainy, The Pokémon’s Speed doubles. However, Speed will not double on the turn weather becomes Heavy Rain. 
+Storm Drain: Water-type moves are drawn to this Pokémon. The Pokémon's SP ATK is raised one stage 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Wing Fish Pokémon
+1'04"
+15.4lbs
+190
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+600,000 PointsErratic
+70
+1 Speed Point(s)
+Blue
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*0.5
+*2
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Rindo Berry - 5%
+
+Water 2GoldeenSeakingMagikarpGyaradosChinchouLanturnQwilfishRemoraidOctilleryCarvanhaSharpedoWailmerWailordBarboachWhiscashRelicanthLuvdiscFinneonLumineonDittoWater 2
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.
+		
+
+
+Pearl
+		
+
+		The way its two tail fins flutter while it swims has earned it the nickname "BEAUTIFLY of the Sea."ť
+		
+ 
+Platinum
+		
+
+		The line running down its side can store sunlight. It shines vividly at night.
+		
+ 
+HeartGold 
+		Swimming and fluttering its two tail fins, it looks like a BEAUTIFLY. At night, the patterns on its tail fins softly shine.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 205-South, 218, 219, 220 & 221, Fuego Ironworks, Iron Mountain, Canalave City, Valley Windworks (Fish w/ Good Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 205-South, 218, 219, 220 & 221, Fuego Ironworks, Iron Mountain, Canalave City, Valley Windworks (Fish w/ Good Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 205 South, Route 218, Route 219, Route 220, Route 221, Canalave City, Valley Windworks, Fuego Ironworks, Iron Island (Fish With Good Rod)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Transfer from PokéWalker
+		
+
+
+SoulSilver
+		
+
+		Transfer from PokéWalker
+		
+PokéWalker
+		
+
+		Stormy Beach
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Pound4010035--The foe is physically pounded with a long tail or a foreleg, etc. 6Water Gun4010025--The foe is blasted with a forceful shot of water. 10Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.13Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.17Gust4010035--A gust of wind is whipped up by wings and launched at the foe to inflict damage. 22Water Pulse601002020The user attacks the foe with a pulsing blast of water. It may also confuse the foe.26Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.29Safeguard----25--The user creates a protective field that prevents status problems for five turns.33Aqua Ring----20--The user envelops itself in a veil made of water. It regains some HP on every turn.38Whirlpool157015--Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.42U-turn7010020--After making its attack, the user rushes back to switch places with a party Pokémon in waiting.45Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.49Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Sweet Kiss--7510--DetailsThe user kisses the foe with a sweet, angelic cuteness that causes confusion. Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. Splash----40--DetailsThe user just flops and splashes around to no effect at all... Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 205-South, 218, 219, 220 & 221, Fuego Ironworks, Iron Mountain, Canalave City, Valley Windworks (Fish w/ Good Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 205-South, 218, 219, 220 & 221, Fuego Ironworks, Iron Mountain, Canalave City, Valley Windworks (Fish w/ Good Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 205 South, Route 218, Route 219, Route 220, Route 221, Canalave City, Valley Windworks, Fuego Ironworks, Iron Island (Fish With Good Rod)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Transfer from PokéWalker
+		
+
+
+SoulSilver
+		
+
+		Transfer from PokéWalker
+		
+PokéWalker
+		
+
+		Stormy Beach
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Pound4010035--The foe is physically pounded with a long tail or a foreleg, etc. 6Water Gun4010025--The foe is blasted with a forceful shot of water. 10Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.13Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.17Gust4010035--A gust of wind is whipped up by wings and launched at the foe to inflict damage. 22Water Pulse601002020The user attacks the foe with a pulsing blast of water. It may also confuse the foe.26Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.29Safeguard----25--The user creates a protective field that prevents status problems for five turns.33Aqua Ring----20--The user envelops itself in a veil made of water. It regains some HP on every turn.38Whirlpool157015--Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.42U-turn7010020--After making its attack, the user rushes back to switch places with a party Pokémon in waiting.45Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.49Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Sweet Kiss--7510--DetailsThe user kisses the foe with a sweet, angelic cuteness that causes confusion. Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. Splash----40--DetailsThe user just flops and splashes around to no effect at all... Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Pound4010035--The foe is physically pounded with a long tail or a foreleg, etc. 6Water Gun4010025--The foe is blasted with a forceful shot of water. 10Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.13Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.17Gust4010035--A gust of wind is whipped up by wings and launched at the foe to inflict damage. 22Water Pulse601002020The user attacks the foe with a pulsing blast of water. It may also confuse the foe.26Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.29Safeguard----25--The user creates a protective field that prevents status problems for five turns.33Aqua Ring----20--The user envelops itself in a veil made of water. It regains some HP on every turn.38Whirlpool157015--Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.42U-turn7010020--After making its attack, the user rushes back to switch places with a party Pokémon in waiting.45Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.49Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Sweet Kiss--7510--DetailsThe user kisses the foe with a sweet, angelic cuteness that causes confusion. Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. Splash----40--DetailsThe user just flops and splashes around to no effect at all... Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM89
+U-turn
+
+
+70
+100
+20
+--
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Sweet Kiss--7510--DetailsThe user kisses the foe with a sweet, angelic cuteness that causes confusion. Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. Splash----40--DetailsThe user just flops and splashes around to no effect at all... Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Sweet Kiss--7510--DetailsThe user kisses the foe with a sweet, angelic cuteness that causes confusion. Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. Splash----40--DetailsThe user just flops and splashes around to no effect at all... Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Sweet Kiss--7510--DetailsThe user kisses the foe with a sweet, angelic cuteness that causes confusion. Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. Splash----40--DetailsThe user just flops and splashes around to no effect at all... Psybeam651002010DetailsThe foe is attacked with a peculiar ray. It may also leave the target confused. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+49
+49
+56
+49
+61
+66
+Max StatsHindering Nature
+Lv. 50
+109 - 156
+48 - 90
+54 - 97
+48 - 90
+59 - 101
+63 - 106
+Lv. 100
+208 - 302
+92 - 177
+105 - 189
+92 - 177
+114 - 198
+123 - 207
+Max StatsNeutral Nature
+Lv. 50
+109 - 156
+54 - 101
+61 - 108
+54 - 101
+66 - 113
+71 - 118
+Lv. 100
+208 - 302
+103 - 197
+117 - 211
+103 - 197
+127 - 221
+137 - 231
+Max StatsBeneficial Nature
+Lv. 50
+109 - 156
+59 - 111
+67 - 118
+59 - 111
+72 - 124
+78 - 129
+Lv. 100
+208 - 302
+113 - 216
+128 - 232
+113 - 216
+139 - 243
+150 - 254
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#455Carnivine
+		
+
+
+
+
+
+
+
+#457Lumineon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,254 @@
+{
+    "name": "Torterra",
+    "jp_name": "Dotaitos\u30c9\u30c0\u30a4\u30c8\u30b9",
+    "number": " National: #389Sinnoh: #003 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Continent Pok\u00e9mon",
+    "height": "7'03\"",
+    "weight": "683.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "0",
+        "1",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "Ancient people imagined that beneath the ground, a gigantic TORTERRA dwelled."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Wood Hammer",
+            "Tackle",
+            "Withdraw",
+            "Absorb",
+            "Razor Leaf"
+        ],
+        "5": [
+            "Withdraw"
+        ],
+        "9": [
+            "Absorb"
+        ],
+        "13": [
+            "Razor Leaf"
+        ],
+        "17": [
+            "Curse"
+        ],
+        "22": [
+            "Bite"
+        ],
+        "27": [
+            "Mega Drain"
+        ],
+        "32": [
+            "Earthquake"
+        ],
+        "33": [
+            "Leech Seed"
+        ],
+        "39": [
+            "Synthesis"
+        ],
+        "45": [
+            "Crunch"
+        ],
+        "51": [
+            "Giga Drain"
+        ],
+        "57": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM69",
+        "TM70",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Outrage",
+        "Seed Bomb",
+        "Superpower",
+        "Worry Seed",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Worry Seed",
+        "Growth",
+        "Tickle",
+        "Body Slam",
+        "Double-edge",
+        "Sand Tomb",
+        "Seed Bomb",
+        "Thrash",
+        "Amnesia",
+        "Superpower",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "95",
+        "109",
+        "105",
+        "75",
+        "85",
+        "56"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "102 - 144",
+                "114 - 161",
+                "125 - 177"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "54 - 97",
+                "61 - 108",
+                "67 - 118"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "200 - 285",
+                "223 - 317",
+                "245 - 348"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "105 - 189",
+                "117 - 211",
+                "128 - 232"
+            ]
+        ]
+    }
+}

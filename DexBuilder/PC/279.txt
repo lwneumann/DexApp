@@ -1,0 +1,239 @@
+{
+    "name": "Pelipper",
+    "jp_name": "Pelipper\u30da\u30ea\u30c3\u30d1\u30fc",
+    "number": " National: #279Sinnoh: #120 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye"
+    ],
+    "classification": "Water Bird Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "61.7lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Flying"
+    ],
+    "flavor_text": [
+        "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm."
+    ],
+    "location": [
+        "Evolve Wingull",
+        "Evolve Wingull"
+    ],
+    "learnset": {
+        "0": [
+            "Growl",
+            "Water Gun",
+            "Water Sport",
+            "Wing Attack"
+        ],
+        "6": [
+            "Supersonic"
+        ],
+        "11": [
+            "Wing Attack"
+        ],
+        "16": [
+            "Mist"
+        ],
+        "19": [
+            "Water Pulse"
+        ],
+        "24": [
+            "Payback"
+        ],
+        "25": [
+            "Protect"
+        ],
+        "31": [
+            "Roost"
+        ],
+        "38": [
+            "Stockpile",
+            "Swallow"
+        ],
+        "50": [
+            "Tailwind"
+        ],
+        "57": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        "HM03",
+        " DPt",
+        "HGSS"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Gunk Shot",
+        "Mud-slap",
+        "Seed Bomb",
+        "Twister",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Mist",
+        "Twister",
+        "Agility",
+        "Gust",
+        "Water Sport",
+        "Aqua Ring",
+        "Knock Off"
+    ],
+    "stats": [
+        "60",
+        "50",
+        "100",
+        "85",
+        "70",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

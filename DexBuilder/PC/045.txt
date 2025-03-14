@@ -1,0 +1,200 @@
+{
+    "name": "Vileplume",
+    "jp_name": "Rafureissa\u30e9\u30d5\u30ec\u30b7\u30a2",
+    "number": " National: #045Johto: #085 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Flower Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "41.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+        "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen."
+    ],
+    "location": [
+        "Evolve Gloom",
+        "Evolve Gloom"
+    ],
+    "learnset": {
+        "0": [
+            "Mega Drain",
+            "Aromatherapy",
+            "Stun Spore",
+            "Poisonpowder"
+        ],
+        "53": [
+            "Petal Dance"
+        ],
+        "65": [
+            "Solarbeam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Gastro Acid",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Swords Dance",
+        "Razor Leaf",
+        "Flail",
+        "Synthesis",
+        "Charm",
+        "Ingrain",
+        "Tickle",
+        "Teeter Dance"
+    ],
+    "stats": [
+        "75",
+        "80",
+        "85",
+        "100",
+        "90",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

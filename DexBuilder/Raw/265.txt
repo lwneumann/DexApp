@@ -1,0 +1,1434 @@
+
+
+Images
+
+
+ 
+D/P
+Pt/HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Wurmple
+Kemussoケムッソ
+ National: #265Sinnoh: #048 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shield Dust 
+
+
+
+Shield Dust: Damaging moves used by the opponent will not have an additional effect. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Worm Pokémon
+1'00"
+7.9lbs
+255
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 HP Point(s)
+Red
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.5
+*1
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It loves to eat leaves. If it is attacked by a STARLY, it will defend itself with its spiked rear.
+		
+
+
+Pearl
+		
+
+		It spits a white silk that turns sticky when it contacts air. It is used to immobilize foes.
+		
+ 
+Platinum
+		
+
+		Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.
+		
+ 
+HeartGold 
+		It lives among the tall grass and in forests. It repels attacks by  raising up the spikes on its rear.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Routes 101, 102 & 104, Petalburg Woods
+		
+
+
+Sapphire
+		
+
+		Routes 101, 102 & 104, Petalburg Woods
+		
+
+
+Emerald
+		
+
+		Routes 101, 102 & 104, Petalburg Woods
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 204, Route 205 North, Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Routes 1, 2, 3, 4, 12, 13, 14, 15, 18, 21, 22, Pallet Town, Viridian City, Pewter City, Fuchsia City (Headbutt)Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Routes 1, 2, 3, 4, 12, 13, 14, 15, 18, 21, 22, Pallet Town, Viridian City, Pewter City, Fuchsia City (Headbutt)Bug Catching Contest
+		
+
+Details
+
+PokéWalker
+		
+
+		Hoenn Field
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Routes 101, 102 & 104, Petalburg Woods
+		
+
+
+Sapphire
+		
+
+		Routes 101, 102 & 104, Petalburg Woods
+		
+
+
+Emerald
+		
+
+		Routes 101, 102 & 104, Petalburg Woods
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 204, Route 205 North, Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Routes 1, 2, 3, 4, 12, 13, 14, 15, 18, 21, 22, Pallet Town, Viridian City, Pewter City, Fuchsia City (Headbutt)Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Routes 1, 2, 3, 4, 12, 13, 14, 15, 18, 21, 22, Pallet Town, Viridian City, Pewter City, Fuchsia City (Headbutt)Bug Catching Contest
+		
+
+Details
+
+PokéWalker
+		
+
+		Hoenn Field
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—String Shot--9540--The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.5Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+45
+35
+20
+30
+20
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+45 - 87
+36 - 78
+22 - 64
+31 - 73
+22 - 64
+Lv. 100
+200 - 294
+85 - 170
+67 - 152
+40 - 125
+58 - 143
+40 - 125
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+50 - 97
+40 - 87
+25 - 72
+35 - 82
+25 - 72
+Lv. 100
+200 - 294
+95 - 189
+75 - 169
+45 - 139
+65 - 159
+45 - 139
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+55 - 106
+44 - 95
+27 - 79
+38 - 90
+27 - 79
+Lv. 100
+200 - 294
+104 - 207
+82 - 185
+49 - 152
+71 - 174
+49 - 152
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#264Linoone
+		
+
+
+
+
+
+
+
+#266Silcoon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

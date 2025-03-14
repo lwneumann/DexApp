@@ -1,0 +1,239 @@
+{
+    "name": "Corphish",
+    "jp_name": "Heigani\u30d8\u30a4\u30ac\u30cb",
+    "number": " National: #341",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Hyper Cutter",
+        "Shell Armor"
+    ],
+    "classification": "Ruffian Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "25.4lbs",
+    "capture_rate": "205",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "flavor_text": [
+        "It was originally a Pok\u00e9mon from afar that escaped to the wild. It can adapt to the dirtiest river."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Bubble"
+        ],
+        "7": [
+            "Harden"
+        ],
+        "10": [
+            "Vicegrip"
+        ],
+        "13": [
+            "Leer"
+        ],
+        "20": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Protect"
+        ],
+        "26": [
+            "Knock Off"
+        ],
+        "32": [
+            "Taunt"
+        ],
+        "35": [
+            "Night Slash"
+        ],
+        "38": [
+            "Crabhammer"
+        ],
+        "44": [
+            "Swords Dance"
+        ],
+        "47": [
+            "Crunch"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Snore",
+        "Spite",
+        "Ancientpower",
+        "Endeavor",
+        "Iron Defense",
+        "Mud-slap",
+        "Superpower"
+    ],
+    "egg_moves": [
+        "Mud Sport",
+        "Endeavor",
+        "Body Slam",
+        "Ancientpower",
+        "Knock Off",
+        "Superpower",
+        "Metal Claw",
+        "Dragon Dance"
+    ],
+    "stats": [
+        "43",
+        "80",
+        "65",
+        "50",
+        "35",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "103 - 150",
+                "103 - 150",
+                "103 - 150"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "196 - 290",
+                "196 - 290",
+                "196 - 290"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

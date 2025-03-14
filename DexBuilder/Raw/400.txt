@@ -1,0 +1,3649 @@
+
+
+Images
+
+
+ 
+D/P
+PtHGSS
+ 
+Male
+Female
+Male
+Female
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Bibarel
+Biidaruビーダル
+ National: #400Sinnoh: #014 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Simple & Unaware 
+
+
+
+Simple: The effectiveness of all stat modifications is doubled. 
+Unaware: Foe’s stat modifications are ignored. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Beaver Pokémon
+3'03"
+69.4lbs
+127
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Attack Point(s)
+Brown
+60
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*0.5
+*2
+*2
+*0.5
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+*0
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+  Oran Berry - 50%Sitrus Berry - 5%
+
+Water 1SquirtleWartortleBlastoisePsyduckGolduckPoliwagPoliwhirlPoliwrathSlowpokeSlowbroSeelDewgongHorseaSeadraLaprasOmanyteOmastarKabutoKabutopsDratiniDragonairDragoniteTotodileCroconawFeraligatrMarillAzumarillPolitoedWooperQuagsireSlowkingCorsolaRemoraidOctilleryDelibirdMantineKingdraMudkipMarshtompSwampertLotadLombreLudicoloWingullPelipperSurskitMasquerainCorphishCrawdauntFeebasMiloticSphealSealeoWalreinClamperlHuntailGorebyssRelicanthPiplupPrinplupEmpoleonBidoofBibarelBuizelFloatzelShellosGastrodonPhioneManaphyDittoWater 1
+
+GroundRattataRaticateEkansArbokPikachuRaichuSandshrewSandslashNidoran♀Nidoran♂NidorinoNidokingVulpixNinetalesDiglettDugtrioMeowthPersianPsyduckGolduckMankeyPrimeapeGrowlitheArcaninePonytaRapidashFarfetch'dSeelDewgongRhyhornRhydonTaurosEeveeVaporeonJolteonFlareonCyndaquilQuilavaTyphlosionSentretFurretMareepFlaaffyAmpharosAipomWooperQuagsireEspeonUmbreonGirafarigDunsparceSnubbullGranbullSneaselTeddiursaUrsaringSwinubPiloswineDelibirdHoundourHoundoomPhanpyDonphanStantlerSmeargleMiltankTorchicCombuskenBlazikenPoochyenaMightyenaZigzagoonLinooneSeedotNuzleafShiftrySlakothVigorothSlakingWhismurLoudredExploudSkittyDelcattyMawileElectrikeManectricWailmerWailordNumelCameruptTorkoalSpoinkGrumpigSpindaZangooseSeviperKecleonAbsolSphealSealeoWalreinChimcharMonfernoInfernapePiplupPrinplupEmpoleonBidoofBibarelShinxLuxioLuxrayPachirisuBuizelFloatzelAmbipomBunearyLopunnyGlameowPuruglyStunkySkuntankLucarioHippopotasHippowdonWeavileRhyperiorLeafeonGlaceonMamoswineDittoGround
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It makes its nest by damming streams with bark and mud. It is known as an industrious worker.
+		
+
+
+Pearl
+		
+
+		While its movements out of water are sluggish, it can swim as fast as any FEEBAS.
+		
+ 
+Platinum
+		
+
+		A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.
+		
+ 
+HeartGold 
+		It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 208, 209, 210-North & 212-South, Lake Valor, Spring Path, Safari Game, Lake Acuity
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 208, 209, 210-North & 212-South, Lake Valor, Spring Path, Safari Game, Lake Acuity
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 208, Route 209, Route 210 North, Great Marsh, Lake Valor, Lake Valor Lakefront, Lake Acuity, Sendoff Spring
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Evolve BidoofTransfer from PokéWalker
+		
+
+
+SoulSilver
+		
+
+		Evolve BidoofTransfer from PokéWalker
+		
+PokéWalker
+		
+
+		Big Forest
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.53Curse----10--A move that works differently for the Ghost type than for all the other types. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 208, 209, 210-North & 212-South, Lake Valor, Spring Path, Safari Game, Lake Acuity
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 208, 209, 210-North & 212-South, Lake Valor, Spring Path, Safari Game, Lake Acuity
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 208, Route 209, Route 210 North, Great Marsh, Lake Valor, Lake Valor Lakefront, Lake Acuity, Sendoff Spring
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Evolve BidoofTransfer from PokéWalker
+		
+
+
+SoulSilver
+		
+
+		Evolve BidoofTransfer from PokéWalker
+		
+PokéWalker
+		
+
+		Big Forest
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.53Curse----10--A move that works differently for the Ghost type than for all the other types. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.53Curse----10--A move that works differently for the Ghost type than for all the other types. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.9Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 13Rollout309020--The user continually rolls into the foe over five turns. It becomes stronger each time it hits.15Water Gun4010025--The foe is blasted with a forceful shot of water. 18Headbutt701001530The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.23Hyper Fang80901510The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.28Yawn----10--The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.33Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.38Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.43Super Fang??9010--The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.48Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.53Curse----10--A move that works differently for the Ghost type than for all the other types. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Double-edge12010015--DetailsA reckless, life- risking tackle. It also damages the user by a fairly large amount, however.Fury Swipes188015--DetailsThe foe is raked with sharp claws or scythes for two to five times in quick succession.Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Odor Sleuth----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Aqua Tail909010--DetailsThe user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+79
+85
+60
+55
+60
+71
+Max StatsHindering Nature
+Lv. 50
+139 - 186
+81 - 123
+58 - 100
+54 - 96
+58 - 100
+68 - 110
+Lv. 100
+268 - 362
+157 - 242
+112 - 197
+103 - 188
+112 - 197
+132 - 216
+Max StatsNeutral Nature
+Lv. 50
+139 - 186
+90 - 137
+65 - 112
+60 - 107
+65 - 112
+76 - 123
+Lv. 100
+268 - 362
+175 - 269
+125 - 219
+115 - 209
+125 - 219
+147 - 241
+Max StatsBeneficial Nature
+Lv. 50
+139 - 186
+99 - 150
+71 - 123
+66 - 117
+71 - 123
+83 - 135
+Lv. 100
+268 - 362
+192 - 295
+137 - 240
+126 - 229
+137 - 240
+161 - 265
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#399Bidoof
+		
+
+
+
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

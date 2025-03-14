@@ -1,0 +1,272 @@
+{
+    "name": "Chansey",
+    "jp_name": "Lucky\u30e9\u30c3\u30ad\u30fc",
+    "number": " National: #113Sinnoh: #097 Johto: #222 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Natural Cure",
+        "Serene Grace"
+    ],
+    "classification": "Egg Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "76.3lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "140",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Oval Stone",
+            "50"
+        ],
+        [
+            "Lucky Egg",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy"
+    ],
+    "flavor_text": [
+        "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
+        "Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it."
+    ],
+    "location": [
+        "Route 13, Route 14, Route 15, Safari Zone (Special Items)",
+        "Route 13, Route 14, Route 15, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Pound",
+            "Growl"
+        ],
+        "5": [
+            "Tail Whip"
+        ],
+        "9": [
+            "Refresh"
+        ],
+        "12": [
+            "Softboiled"
+        ],
+        "16": [
+            "Doubleslap"
+        ],
+        "20": [
+            "Minimize"
+        ],
+        "23": [
+            "Sing"
+        ],
+        "31": [
+            "Defense Curl"
+        ],
+        "34": [
+            "Light Screen"
+        ],
+        "38": [
+            "Egg Bomb"
+        ],
+        "42": [
+            "Healing Wish"
+        ],
+        "46": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Gravity",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Present",
+        "Metronome",
+        "Heal Bell",
+        "Aromatherapy",
+        "Substitute",
+        "Counter",
+        "Helping Hand",
+        "Gravity",
+        "Mud Bomb"
+    ],
+    "stats": [
+        "250",
+        "5",
+        "5",
+        "35",
+        "105",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "310 - 357",
+                "310 - 357",
+                "310 - 357"
+            ],
+            [
+                "9 - 51",
+                "10 - 57",
+                "11 - 62"
+            ],
+            [
+                "9 - 51",
+                "10 - 57",
+                "11 - 62"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "610 - 704",
+                "610 - 704",
+                "610 - 704"
+            ],
+            [
+                "13 - 98",
+                "15 - 109",
+                "16 - 119"
+            ],
+            [
+                "13 - 98",
+                "15 - 109",
+                "16 - 119"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

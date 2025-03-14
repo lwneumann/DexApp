@@ -1,0 +1,252 @@
+{
+    "name": "Dunsparce",
+    "jp_name": "Nokocchi\u30ce\u30b3\u30c3\u30c1",
+    "number": " National: #206Johto: #052 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Serene Grace",
+        "Run Away"
+    ],
+    "classification": "Land Snake Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "15.9lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "When spotted, this Pok\u00e9mon escapes backward by furiously boring into the ground with its tail.",
+        "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
+    ],
+    "location": [
+        "Dark Cave",
+        "Dark Cave"
+    ],
+    "learnset": {
+        "0": [
+            "Rage"
+        ],
+        "5": [
+            "Defense Curl"
+        ],
+        "9": [
+            "Yawn"
+        ],
+        "13": [
+            "Glare"
+        ],
+        "17": [
+            "Rollout"
+        ],
+        "21": [
+            "Spite"
+        ],
+        "10": [
+            "The user looses its grudge on the move last used by the foe by cutting"
+        ],
+        "25": [
+            "Pursuit"
+        ],
+        "29": [
+            "Screech"
+        ],
+        "33": [
+            "Roost"
+        ],
+        "37": [
+            "Take Down"
+        ],
+        "41": [
+            "Ancientpower"
+        ],
+        "45": [
+            "Dig"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM57",
+        "TM58",
+        "TM73",
+        "TM74",
+        "TM76",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Spite",
+        "Ancientpower",
+        "Aqua Tail",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Pain Split",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Bide",
+        "Ancientpower",
+        "Rock Slide",
+        "Bite",
+        "Headbutt",
+        "Astonish",
+        "Curse",
+        "Trump Card",
+        "Magic Coat",
+        "Snore",
+        "Agility"
+    ],
+    "stats": [
+        "100",
+        "70",
+        "70",
+        "65",
+        "65",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

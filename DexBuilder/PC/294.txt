@@ -1,0 +1,243 @@
+{
+    "name": "Loudred",
+    "jp_name": "Dogoomu\u30c9\u30b4\u30fc\u30e0",
+    "number": " National: #294",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Soundproof"
+    ],
+    "classification": "Big Voice Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "89.3lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Chesto Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Monster",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale."
+    ],
+    "location": [
+        "Evolve Whismur",
+        "Evolve Whismur"
+    ],
+    "learnset": {
+        "0": [
+            "Pound",
+            "Uproar",
+            "Astonish",
+            "Howl"
+        ],
+        "5": [
+            "Uproar"
+        ],
+        "11": [
+            "Astonish"
+        ],
+        "15": [
+            "Howl"
+        ],
+        "20": [
+            "Bite"
+        ],
+        "23": [
+            "Supersonic"
+        ],
+        "29": [
+            "Stomp"
+        ],
+        "37": [
+            "Screech"
+        ],
+        "43": [
+            "Roar"
+        ],
+        "51": [
+            "Rest",
+            "Sleep Talk"
+        ],
+        "57": [
+            "Hyper Voice"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM56",
+        "TM58",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Uproar",
+        "Mud-slap",
+        "Rollout",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Take Down",
+        "Snore",
+        "Swagger",
+        "Extrasensory",
+        "Smellingsalt",
+        "Smokescreen",
+        "Endeavor",
+        "Hammer Arm"
+    ],
+    "stats": [
+        "84",
+        "71",
+        "43",
+        "71",
+        "43",
+        "48"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "144 - 191",
+                "144 - 191",
+                "144 - 191"
+            ],
+            [
+                "68 - 110",
+                "76 - 123",
+                "83 - 135"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ],
+            [
+                "68 - 110",
+                "76 - 123",
+                "83 - 135"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ]
+        ],
+        "100": [
+            [
+                "278 - 372",
+                "278 - 372",
+                "278 - 372"
+            ],
+            [
+                "132 - 216",
+                "147 - 241",
+                "161 - 265"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ],
+            [
+                "132 - 216",
+                "147 - 241",
+                "161 - 265"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ]
+        ]
+    }
+}

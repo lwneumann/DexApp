@@ -1,0 +1,272 @@
+{
+    "name": "Gallade",
+    "jp_name": "Erureido\u30a8\u30eb\u30ec\u30a4\u30c9",
+    "number": " National: #475Sinnoh: #170 ",
+    "gender_ratio": [
+        "100",
+        "0"
+    ],
+    "ability": [
+        "Steadfast"
+    ],
+    "classification": "Blade Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "114.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce."
+    ],
+    "location": [
+        "Evolve Kirlia",
+        "Evolve Kirlia"
+    ],
+    "learnset": {
+        "0": [
+            "Leaf Blade",
+            "Night Slash",
+            "Leer",
+            "Confusion",
+            "Double Team",
+            "Teleport"
+        ],
+        "6": [
+            "Confusion"
+        ],
+        "10": [
+            "Double Team"
+        ],
+        "12": [
+            "Teleport"
+        ],
+        "17": [
+            "Fury Cutter"
+        ],
+        "22": [
+            "Slash"
+        ],
+        "25": [
+            "Swords Dance"
+        ],
+        "31": [
+            "Psycho Cut"
+        ],
+        "36": [
+            "Helping Hand"
+        ],
+        "39": [
+            "Feint"
+        ],
+        "45": [
+            "False Swipe"
+        ],
+        "50": [
+            "Protect"
+        ],
+        "53": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM52",
+        "TM54",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM71",
+        "TM73",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Knock Off",
+        "Trick",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Pain Split",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Disable",
+        "Will-o-wisp",
+        "Mean Look",
+        "Memento",
+        "Destiny Bond",
+        "Grudge",
+        "Shadow Sneak",
+        "Confuse Ray",
+        "Encore"
+    ],
+    "stats": [
+        "68",
+        "125",
+        "65",
+        "65",
+        "115",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "128 - 175",
+                "128 - 175",
+                "128 - 175"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "246 - 340",
+                "246 - 340",
+                "246 - 340"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

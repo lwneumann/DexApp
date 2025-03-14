@@ -1,0 +1,236 @@
+{
+    "name": "Regice",
+    "jp_name": "Rejice\u30ec\u30b8\u30a2\u30a4\u30b9",
+    "number": " National: #378",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Clear Body"
+    ],
+    "classification": "Iceberg Pok\u0165mon",
+    "height": "5'11\"",
+    "weight": "385.8lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Explosion",
+            "Stomp"
+        ],
+        "9": [
+            "Icy Wind"
+        ],
+        "17": [
+            "Curse"
+        ],
+        "25": [
+            "Superpower"
+        ],
+        "33": [
+            "Ancientpower"
+        ],
+        "41": [
+            "Amnesia"
+        ],
+        "49": [
+            "Charge Beam"
+        ],
+        "57": [
+            "Lock-on"
+        ],
+        "65": [
+            "Zap Cannon"
+        ],
+        "73": [
+            "Ice Beam"
+        ],
+        "81": [
+            "Hammer Arm"
+        ],
+        "89": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM52",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM64",
+        "TM68",
+        "TM69",
+        "TM72",
+        "TM73",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Snore",
+        "Ancientpower",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Signal Beam",
+        "Superpower",
+        "Gravity",
+        "Block",
+        "Headbutt",
+        "Base/Max Pok\u0165athlon Stats",
+        "Sp. Attack",
+        "50",
+        "Lv. 100",
+        "140 - 187",
+        "205 - 299",
+        "115 - 167",
+        "115 - 218"
+    ],
+    "stats": [
+        "80",
+        "50",
+        "100",
+        "100",
+        "200",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "184 - 226",
+                "205 - 252",
+                "225 - 277"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "364 - 449",
+                "405 - 499",
+                "445 - 548"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "name": "Girafarig",
+    "jp_name": "Kiriniki\u30ad\u30ea\u30f3\u30ea\u30ad",
+    "number": " National: #203Sinnoh: #153 Johto: #149 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Inner Focus",
+        "Early Bird"
+    ],
+    "classification": "Long Neck Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "91.0lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Persim Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
+        "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell."
+    ],
+    "location": [
+        "Route 43, Route 48, Safari Zone",
+        "Route 43, Route 48, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Power Swap",
+            "Guard Swap",
+            "Astonish",
+            "Tackle",
+            "Growl",
+            "Confusion"
+        ],
+        "5": [
+            "Odor Sleuth"
+        ],
+        "10": [
+            "Stomp"
+        ],
+        "14": [
+            "Agility"
+        ],
+        "19": [
+            "Psybeam"
+        ],
+        "23": [
+            "Baton Pass"
+        ],
+        "28": [
+            "Assurance"
+        ],
+        "32": [
+            "Double Hit"
+        ],
+        "37": [
+            "Psychic"
+        ],
+        "41": [
+            "Zen Headbutt"
+        ],
+        "46": [
+            "Crunch"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM53",
+        "TM57",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Trick",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Mud-slap",
+        "Signal Beam",
+        "Gravity",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Take Down",
+        "Amnesia",
+        "Foresight",
+        "Future Sight",
+        "Beat Up",
+        "Psych Up",
+        "Wish",
+        "Magic Coat",
+        "Double Kick",
+        "Mirror Coat",
+        "Razor Wind"
+    ],
+    "stats": [
+        "70",
+        "80",
+        "65",
+        "90",
+        "65",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

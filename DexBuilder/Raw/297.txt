@@ -1,0 +1,2934 @@
+
+
+Images
+
+
+ 
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Hariyama
+Hariteyamaハリテヤマ
+ National: #297
+ Male ♂:75%Female ♀:25%
+
+
+
+Ability: Thick Fat & Guts 
+
+
+
+Thick Fat: Fire and Ice-type moves deal 50% damage. 
+Guts: Attack raises to 1.5 times when induced with a status (BURN, PARALYZE, SLEEP, POISON, FREEZE). BURN’s effect of lowering Attack is not applied. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Arm Thrust Pokémon
+7'07"
+559.5lbs
+200
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,640,000 PointsFluctuating
+70
+2 HP Point(s)
+Brown
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*2
+*2
+*0.5
+*0.5
+*1
+*1
+*0.5
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+King's Rock - 5%
+
+HumanShapeAbraKadabraAlakazamMachopMachokeMachampDrowzeeHypnoHitmonleeHitmonchanMr. MimeJynxElectabuzzMagmarHitmontopMakuhitaHariyamaSableyeMedititeMedichamVolbeatIllumiseSpindaCacneaCacturneChimcharMonfernoInfernapeBunearyLopunnyLucarioCroagunkToxicroakElectivireMagmortarDittoHumanShape
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		It loves challenging others to tests of strength. It has the power to stop a train with a slap.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Victory Road Floor 1 & Basement 1
+		
+
+
+Sapphire
+		
+
+		Victory Road Floor 1 & Basement 1
+		
+
+
+Emerald
+		
+
+		Victory Road Floor 1 & Basement 1
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald/Colosseum/XD
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald/Colosseum/XD
+		
+
+
+Colosseum
+		
+
+		Evolve Makuhita
+		
+
+
+XD
+		
+
+		Evolve Makuhita
+		
+
+
+Diamond
+		
+
+		Evolve from Makuhita
+		
+
+
+Pearl
+		
+
+		Evolve from Makuhita
+		
+
+Platinum
+		
+
+		Evolve Makuhita
+		
+
+
+HeartGold
+		
+
+		Evolve Makuhita
+		
+
+
+SoulSilver
+		
+
+		Evolve Makuhita
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Brine6510010--If the foe's HP is down to about half, this attack will hit with double the power.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.—Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. —Arm Thrust1510020--The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.4Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 7Arm Thrust1510020--The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.10Vital Throw70--10--The user allows the foe to attack first. In return, this throw move is guaranteed not to miss.13Fake Out4010010100An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.16Whirlwind--10020--The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.19Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.22Smellingsalt6010010--This attack inflicts double damage on a paralyzed foe. It also cures the foe's paralysis, however.27Belly Drum----10--The user maximizes its Attack stat in exchange for HP equal to half its max HP.32Force Palm601001030The foe is attacked with a shock wave. It may also leave the target paralyzed. 37Seismic Toss??10020--The foe is thrown using the power of gravity. It inflicts damage equal to the user's level.42Wake-up Slap6010010--This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.47Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.52Close Combat1201005--The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.57Reversal??10015--An all-out attack that becomes more powerful the less HP the user has. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Vacuum Wave
+
+
+40
+100
+30
+--
+
+The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Detect----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Cross Chop100805--DetailsThe user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.Revenge6010010--DetailsAn attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.Dynamicpunch100505100DetailsThe foe is punched with the user's full, concentrated power. It confuses the foe if it hits.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Wake-up Slap6010010--DetailsThis attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Bullet Punch4010030--DetailsThe user strikes with a tough punch as fast as a bullet. This move always goes first.Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Victory Road Floor 1 & Basement 1
+		
+
+
+Sapphire
+		
+
+		Victory Road Floor 1 & Basement 1
+		
+
+
+Emerald
+		
+
+		Victory Road Floor 1 & Basement 1
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald/Colosseum/XD
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald/Colosseum/XD
+		
+
+
+Colosseum
+		
+
+		Evolve Makuhita
+		
+
+
+XD
+		
+
+		Evolve Makuhita
+		
+
+
+Diamond
+		
+
+		Evolve from Makuhita
+		
+
+
+Pearl
+		
+
+		Evolve from Makuhita
+		
+
+Platinum
+		
+
+		Evolve Makuhita
+		
+
+
+HeartGold
+		
+
+		Evolve Makuhita
+		
+
+
+SoulSilver
+		
+
+		Evolve Makuhita
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Brine6510010--If the foe's HP is down to about half, this attack will hit with double the power.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.—Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. —Arm Thrust1510020--The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.4Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 7Arm Thrust1510020--The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.10Vital Throw70--10--The user allows the foe to attack first. In return, this throw move is guaranteed not to miss.13Fake Out4010010100An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.16Whirlwind--10020--The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.19Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.22Smellingsalt6010010--This attack inflicts double damage on a paralyzed foe. It also cures the foe's paralysis, however.27Belly Drum----10--The user maximizes its Attack stat in exchange for HP equal to half its max HP.32Force Palm601001030The foe is attacked with a shock wave. It may also leave the target paralyzed. 37Seismic Toss??10020--The foe is thrown using the power of gravity. It inflicts damage equal to the user's level.42Wake-up Slap6010010--This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.47Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.52Close Combat1201005--The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.57Reversal??10015--An all-out attack that becomes more powerful the less HP the user has. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Vacuum Wave
+
+
+40
+100
+30
+--
+
+The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Detect----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Cross Chop100805--DetailsThe user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.Revenge6010010--DetailsAn attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.Dynamicpunch100505100DetailsThe foe is punched with the user's full, concentrated power. It confuses the foe if it hits.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Wake-up Slap6010010--DetailsThis attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Bullet Punch4010030--DetailsThe user strikes with a tough punch as fast as a bullet. This move always goes first.Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Brine6510010--If the foe's HP is down to about half, this attack will hit with double the power.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.—Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. —Arm Thrust1510020--The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.4Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 7Arm Thrust1510020--The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.10Vital Throw70--10--The user allows the foe to attack first. In return, this throw move is guaranteed not to miss.13Fake Out4010010100An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.16Whirlwind--10020--The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.19Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.22Smellingsalt6010010--This attack inflicts double damage on a paralyzed foe. It also cures the foe's paralysis, however.27Belly Drum----10--The user maximizes its Attack stat in exchange for HP equal to half its max HP.32Force Palm601001030The foe is attacked with a shock wave. It may also leave the target paralyzed. 37Seismic Toss??10020--The foe is thrown using the power of gravity. It inflicts damage equal to the user's level.42Wake-up Slap6010010--This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.47Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.52Close Combat1201005--The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.57Reversal??10015--An all-out attack that becomes more powerful the less HP the user has. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Vacuum Wave
+
+
+40
+100
+30
+--
+
+The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Detect----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Cross Chop100805--DetailsThe user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.Revenge6010010--DetailsAn attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.Dynamicpunch100505100DetailsThe foe is punched with the user's full, concentrated power. It confuses the foe if it hits.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Wake-up Slap6010010--DetailsThis attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Bullet Punch4010030--DetailsThe user strikes with a tough punch as fast as a bullet. This move always goes first.Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM08
+Bulk Up
+
+
+--
+--
+20
+--
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM71
+Stone Edge
+
+
+100
+80
+5
+--
+The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM08
+Rock Climb
+
+
+90
+85
+20
+20
+A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Vacuum Wave
+
+
+40
+100
+30
+--
+
+The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Detect----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Cross Chop100805--DetailsThe user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.Revenge6010010--DetailsAn attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.Dynamicpunch100505100DetailsThe foe is punched with the user's full, concentrated power. It confuses the foe if it hits.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Wake-up Slap6010010--DetailsThis attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Bullet Punch4010030--DetailsThe user strikes with a tough punch as fast as a bullet. This move always goes first.Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Detect----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Cross Chop100805--DetailsThe user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.Revenge6010010--DetailsAn attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.Dynamicpunch100505100DetailsThe foe is punched with the user's full, concentrated power. It confuses the foe if it hits.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Wake-up Slap6010010--DetailsThis attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Bullet Punch4010030--DetailsThe user strikes with a tough punch as fast as a bullet. This move always goes first.Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Detect----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Foresight----40--DetailsEnables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.Helping Hand----20--DetailsA move that boosts the power of the ally's attack in a Double Battle. Cross Chop100805--DetailsThe user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.Revenge6010010--DetailsAn attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.Dynamicpunch100505100DetailsThe foe is punched with the user's full, concentrated power. It confuses the foe if it hits.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Wake-up Slap6010010--DetailsThis attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Bullet Punch4010030--DetailsThe user strikes with a tough punch as fast as a bullet. This move always goes first.Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+144
+120
+60
+40
+60
+50
+Max StatsHindering Nature
+Lv. 50
+204 - 251
+112 - 154
+58 - 100
+40 - 82
+58 - 100
+49 - 91
+Lv. 100
+398 - 492
+220 - 305
+112 - 197
+76 - 161
+112 - 197
+94 - 179
+Max StatsNeutral Nature
+Lv. 50
+204 - 251
+125 - 172
+65 - 112
+45 - 92
+65 - 112
+55 - 102
+Lv. 100
+398 - 492
+245 - 339
+125 - 219
+85 - 179
+125 - 219
+105 - 199
+Max StatsBeneficial Nature
+Lv. 50
+204 - 251
+137 - 189
+71 - 123
+49 - 101
+71 - 123
+60 - 112
+Lv. 100
+398 - 492
+269 - 372
+137 - 240
+93 - 196
+137 - 240
+115 - 218
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#296Makuhita
+		
+
+
+
+
+
+
+
+#298Azurill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

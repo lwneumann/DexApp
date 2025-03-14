@@ -1,0 +1,239 @@
+{
+    "name": "Finneon",
+    "jp_name": "Keikouo\u30b1\u30a4\u30b3\u30a6\u30aa",
+    "number": " National: #456Sinnoh: #134 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Storm Drain"
+    ],
+    "classification": "Wing Fish Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "15.4lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Rindo Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 2"
+    ],
+    "flavor_text": [
+        "Swimming and fluttering its two tail fins, it looks like a BEAUTIFLY. At night, the patterns on its tail fins softly shine."
+    ],
+    "location": [
+        "Transfer from Pok\u00e9Walker",
+        "Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Pound"
+        ],
+        "6": [
+            "Water Gun"
+        ],
+        "10": [
+            "Attract"
+        ],
+        "13": [
+            "Rain Dance"
+        ],
+        "17": [
+            "Gust"
+        ],
+        "22": [
+            "Water Pulse"
+        ],
+        "26": [
+            "Captivate"
+        ],
+        "29": [
+            "Safeguard"
+        ],
+        "33": [
+            "Aqua Ring"
+        ],
+        "38": [
+            "Whirlpool"
+        ],
+        "42": [
+            "U-turn"
+        ],
+        "45": [
+            "Bounce"
+        ],
+        "49": [
+            "Silver Wind"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM62",
+        "TM66",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM03",
+        " DPt",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Dive",
+        "Icy Wind",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Bounce",
+        "Twister",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Sweet Kiss",
+        "Charm",
+        "Flail",
+        "Aqua Tail",
+        "Splash",
+        "Psybeam",
+        "Tickle",
+        "Agility"
+    ],
+    "stats": [
+        "49",
+        "49",
+        "56",
+        "49",
+        "61",
+        "66"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "109 - 156",
+                "109 - 156",
+                "109 - 156"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "54 - 97",
+                "61 - 108",
+                "67 - 118"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ],
+            [
+                "63 - 106",
+                "71 - 118",
+                "78 - 129"
+            ]
+        ],
+        "100": [
+            [
+                "208 - 302",
+                "208 - 302",
+                "208 - 302"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "105 - 189",
+                "117 - 211",
+                "128 - 232"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ],
+            [
+                "123 - 207",
+                "137 - 231",
+                "150 - 254"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "name": "Slugma",
+    "jp_name": "Magumagu\u30de\u30b0\u30de\u30c3\u30b0",
+    "number": " National: #218Johto: #216 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Magma Armor",
+        "Flame Body"
+    ],
+    "classification": "Lava Pok\u0137mon",
+    "height": "2'03\"",
+    "weight": "77.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+        "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places."
+    ],
+    "location": [
+        "Route 16, Route 17, Route 18",
+        "Route 16, Route 17, Route 18"
+    ],
+    "learnset": {
+        "0": [
+            "Yawn",
+            "Smog"
+        ],
+        "8": [
+            "Ember"
+        ],
+        "11": [
+            "Rock Throw"
+        ],
+        "16": [
+            "Harden"
+        ],
+        "23": [
+            "Recover"
+        ],
+        "26": [
+            "Ancientpower"
+        ],
+        "31": [
+            "Amnesia"
+        ],
+        "38": [
+            "Lava Plume"
+        ],
+        "41": [
+            "Rock Slide"
+        ],
+        "46": [
+            "Body Slam"
+        ],
+        "53": [
+            "Flamethrower"
+        ],
+        "56": [
+            "Earth Power"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Defense",
+        "Mud-slap",
+        "Rollout",
+        "Pain Split"
+    ],
+    "egg_moves": [
+        "Acid Armor",
+        "Heat Wave",
+        "Curse",
+        "Smokescreen",
+        "Memento",
+        "Stockpile",
+        "Spit Up",
+        "Swallow"
+    ],
+    "stats": [
+        "40",
+        "40",
+        "40",
+        "70",
+        "40",
+        "20"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,249 @@
+{
+    "name": "Ralts",
+    "jp_name": "Rarutos\u30e9\u30eb\u30c8\u30b9",
+    "number": " National: #280Sinnoh: #157 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Synchronize",
+        "Trace"
+    ],
+    "classification": "Feeling Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "14.6lbs",
+    "capture_rate": "235",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "The horns on its head provide a strong power that enables it to sense people's emotions."
+    ],
+    "location": [
+        "Route 34",
+        "Route 34"
+    ],
+    "learnset": {
+        "0": [
+            "Growl"
+        ],
+        "6": [
+            "Confusion"
+        ],
+        "10": [
+            "Double Team"
+        ],
+        "12": [
+            "Teleport"
+        ],
+        "17": [
+            "Lucky Chant"
+        ],
+        "21": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "23": [
+            "Calm Mind"
+        ],
+        "28": [
+            "Psychic"
+        ],
+        "32": [
+            "Imprison"
+        ],
+        "34": [
+            "Future Sight"
+        ],
+        "39": [
+            "Charm"
+        ],
+        "43": [
+            "Hypnosis"
+        ],
+        "45": [
+            "Dream Eater"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Pain Split",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Disable",
+        "Will-o-wisp",
+        "Mean Look",
+        "Memento",
+        "Destiny Bond",
+        "Grudge",
+        "Shadow Sneak",
+        "Confuse Ray",
+        "Encore"
+    ],
+    "stats": [
+        "28",
+        "25",
+        "25",
+        "45",
+        "35",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "88 - 135",
+                "88 - 135",
+                "88 - 135"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "166 - 260",
+                "166 - 260",
+                "166 - 260"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

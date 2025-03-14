@@ -1,0 +1,263 @@
+{
+    "name": "Cacturne",
+    "jp_name": "Nokutasu\u30ce\u30af\u30bf\u30b9",
+    "number": " National: #332",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sand Veil"
+    ],
+    "classification": "Scarecrow Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "170.6lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "0",
+        "4",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Sticky Barb",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Plant",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "Packs of them follow travelers through the desert until the travelers can no longer move."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Revenge",
+            "Poison Sting",
+            "Leer",
+            "Absorb",
+            "Growth"
+        ],
+        "5": [
+            "Absorb"
+        ],
+        "9": [
+            "Growth"
+        ],
+        "13": [
+            "Leech Seed"
+        ],
+        "17": [
+            "Sand-attack"
+        ],
+        "21": [
+            "Pin Missile"
+        ],
+        "25": [
+            "Ingrain"
+        ],
+        "29": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "35": [
+            "Spikes"
+        ],
+        "41": [
+            "Sucker Punch"
+        ],
+        "47": [
+            "Payback"
+        ],
+        "53": [
+            "Needle Arm"
+        ],
+        "59": [
+            "Cotton Spore"
+        ],
+        "65": [
+            "Sandstorm"
+        ],
+        "71": [
+            "Destiny Bond"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM37",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM63",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Snore",
+        "Spite",
+        "Synthesis",
+        "Mud-slap",
+        "Seed Bomb",
+        "Superpower",
+        "Worry Seed",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Grasswhistle",
+        "Acid",
+        "Teeter Dance",
+        "Dynamicpunch",
+        "Counter",
+        "Low Kick",
+        "Smellingsalt",
+        "Magical Leaf",
+        "Seed Bomb",
+        "Nasty Plot"
+    ],
+    "stats": [
+        "70",
+        "115",
+        "60",
+        "115",
+        "60",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

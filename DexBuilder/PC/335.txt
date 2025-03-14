@@ -1,0 +1,265 @@
+{
+    "name": "Zangoose",
+    "jp_name": "Zanguusu\u30b6\u30f3\u30b0\u30fc\u30b9",
+    "number": " National: #335",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Immunity"
+    ],
+    "classification": "Cat Ferret Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "88.8lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Quick Claw",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its fur would all stand on end if it smelled a SEVIPER nearby. Its sharp claws tear up its foes."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Leer"
+        ],
+        "5": [
+            "Quick Attack"
+        ],
+        "9": [
+            "Swords Dance"
+        ],
+        "14": [
+            "Fury Cutter"
+        ],
+        "18": [
+            "Slash"
+        ],
+        "22": [
+            "Pursuit"
+        ],
+        "27": [
+            "Embargo"
+        ],
+        "31": [
+            "Crush Claw"
+        ],
+        "35": [
+            "Taunt"
+        ],
+        "40": [
+            "Detect"
+        ],
+        "44": [
+            "False Swipe"
+        ],
+        "48": [
+            "X-scissor"
+        ],
+        "53": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM63",
+        "TM65",
+        "TM66",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Thunderpunch",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flail",
+        "Double Kick",
+        "Razor Wind",
+        "Counter",
+        "Roar",
+        "Curse",
+        "Fury Swipes",
+        "Night Slash",
+        "Metal Claw",
+        "Double Hit",
+        "Disable"
+    ],
+    "stats": [
+        "73",
+        "115",
+        "60",
+        "60",
+        "60",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "133 - 180",
+                "133 - 180",
+                "133 - 180"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "256 - 350",
+                "256 - 350",
+                "256 - 350"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

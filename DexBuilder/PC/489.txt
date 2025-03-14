@@ -1,0 +1,212 @@
+{
+    "name": "Phione",
+    "jp_name": "Fione\u30d5\u30a3\u30aa\u30cd",
+    "number": " National: #489",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Hydration"
+    ],
+    "classification": "Sea Drifter Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "6.8lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Fairy"
+    ],
+    "flavor_text": [
+        "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Bubble",
+            "Water Sport"
+        ],
+        "9": [
+            "Charm"
+        ],
+        "16": [
+            "Supersonic"
+        ],
+        "24": [
+            "Bubblebeam"
+        ],
+        "31": [
+            "Acid Armor"
+        ],
+        "39": [
+            "Whirlpool"
+        ],
+        "46": [
+            "Water Pulse"
+        ],
+        "54": [
+            "Aqua Ring"
+        ],
+        "61": [
+            "Dive"
+        ],
+        "69": [
+            "Rain Dance"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Knock Off",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Bounce",
+        "Mud-slap",
+        "Signal Beam",
+        "Heal Bell"
+    ],
+    "stats": [
+        "80",
+        "80",
+        "80",
+        "80",
+        "80",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

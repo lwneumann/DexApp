@@ -1,0 +1,256 @@
+{
+    "name": "Marowak",
+    "jp_name": "GaraGara\u30ac\u30e9\u30ac\u30e9",
+    "number": " National: #105Johto: #209 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rock Head",
+        "Lightningrod"
+    ],
+    "classification": "Bone Keeper Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "99.2lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Thick Club",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+        "It collects bones from an unknown place. Some whisper that a MAROWAK graveyard exists somewhere in the world."
+    ],
+    "location": [
+        "Rock Tunnel, Safari Zone",
+        "Rock Tunnel, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Growl",
+            "Tail Whip",
+            "Bone Club",
+            "Headbutt"
+        ],
+        "3": [
+            "Tail Whip"
+        ],
+        "7": [
+            "Bone Club"
+        ],
+        "11": [
+            "Headbutt"
+        ],
+        "13": [
+            "Leer"
+        ],
+        "17": [
+            "Focus Energy"
+        ],
+        "21": [
+            "Bonemerang"
+        ],
+        "23": [
+            "Rage"
+        ],
+        "27": [
+            "False Swipe"
+        ],
+        "33": [
+            "Thrash"
+        ],
+        "43": [
+            "Bone Rush"
+        ],
+        "53": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM68",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Thunderpunch",
+        "Snore",
+        "Uproar",
+        "Earth Power",
+        "Endeavor",
+        "Iron Defense",
+        "Mud-slap",
+        "Outrage",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rock Slide",
+        "Ancientpower",
+        "Belly Drum",
+        "Screech",
+        "Skull Bash",
+        "Perish Song",
+        "Swords Dance",
+        "Double Kick",
+        "Iron Head",
+        "Detect"
+    ],
+    "stats": [
+        "60",
+        "80",
+        "110",
+        "50",
+        "80",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

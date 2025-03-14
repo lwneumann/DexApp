@@ -1,0 +1,233 @@
+{
+    "name": "Vibrava",
+    "jp_name": "Birubara\u30d3\u30d6\u30e9\u30fc\u30d0",
+    "number": " National: #329",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Vibration Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "33.7lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "4",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "20": [
+            "The foe is hit with a destructive shock wave that always inflicts"
+        ],
+        "0": [
+            "Sand-attack",
+            "Faint Attack",
+            "Sand Tomb"
+        ],
+        "60": [
+            "",
+            ""
+        ],
+        "9": [
+            "Sand-attack"
+        ],
+        "17": [
+            "Faint Attack"
+        ],
+        "25": [
+            "Sand Tomb"
+        ],
+        "33": [
+            "Supersonic"
+        ],
+        "35": [
+            "Dragonbreath"
+        ],
+        "41": [
+            "Screech"
+        ],
+        "49": [
+            "Sandstorm"
+        ],
+        "57": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM59",
+        "TM62",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Earth Power",
+        "Heat Wave",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Tailwind",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Focus Energy",
+        "Quick Attack",
+        "Gust",
+        "Flail",
+        "Fury Cutter",
+        "Mud Shot"
+    ],
+    "stats": [
+        "50",
+        "70",
+        "50",
+        "50",
+        "50",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

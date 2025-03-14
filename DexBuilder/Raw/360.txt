@@ -1,0 +1,915 @@
+
+
+Images
+
+
+ 
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Wynaut
+Sonanoソーナノ
+ National: #360
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shadow Tag 
+
+
+
+Shadow Tag: The opponent cannot run nor switch while this Pokémon is in play. The opponent may still switch by using Baton Pass. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Bright Pokémon
+2'00"
+30.9lbs
+125
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 HP Point(s)
+Blue
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+*1
+*1
+*1
+*0.5
+*2
+*1
+*2
+*1
+*2
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+Wynaut cannot breed
+
+
+
+Evolutionary Chain
+
+
+
+
+
+To get Wynaut, you will need to breed while holding the Lax Incense
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It grows strong by pushing up against others en masse. It loves eating sweet fruit.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		It tends to move in a pack. Individuals squash against one another to toughen their spirits.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Mirage Island
+		
+
+
+Sapphire
+		
+
+		Mirage Island
+		
+
+
+Emerald
+		
+
+		Mirage Island
+		
+
+
+FireRed
+		
+
+		Breed Wobbuffet with Lax Incense attached
+		
+
+
+LeafGreen
+		
+
+		Breed Wobbuffet with Lax Incense attached
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Breed Wobbuffet with Lax Incense Attached
+		
+
+
+Pearl
+		
+
+		Breed Wobbuffet with Lax Incense Attached
+		
+
+Platinum
+		
+
+		Breed Wobbuffet
+		
+
+
+HeartGold
+		
+
+		Breed Wobbuffet
+		
+
+
+SoulSilver
+		
+
+		Breed Wobbuffet
+		
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Splash----40--The user just flops and splashes around to no effect at all... —Charm--10020--The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.—Encore--1005--The user compels the foe to keep using only the move it last used for three to seven turns.15Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.15Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.15Safeguard----25--The user creates a protective field that prevents status problems for five turns.15Destiny Bond----5--When this move is used, if the user faints, the foe that landed the knockout hit also faints.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+95
+23
+48
+23
+48
+23
+Max StatsHindering Nature
+Lv. 50
+155 - 202
+25 - 67
+47 - 90
+25 - 67
+47 - 90
+25 - 67
+Lv. 100
+300 - 394
+45 - 130
+90 - 175
+45 - 130
+90 - 175
+45 - 130
+Max StatsNeutral Nature
+Lv. 50
+155 - 202
+28 - 75
+53 - 100
+28 - 75
+53 - 100
+28 - 75
+Lv. 100
+300 - 394
+51 - 145
+101 - 195
+51 - 145
+101 - 195
+51 - 145
+Max StatsBeneficial Nature
+Lv. 50
+155 - 202
+30 - 82
+58 - 110
+30 - 82
+58 - 110
+30 - 82
+Lv. 100
+300 - 394
+56 - 159
+111 - 214
+56 - 159
+111 - 214
+56 - 159
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#359Absol
+		
+
+
+
+
+
+
+
+#361Snorunt
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Mirage Island
+		
+
+
+Sapphire
+		
+
+		Mirage Island
+		
+
+
+Emerald
+		
+
+		Mirage Island
+		
+
+
+FireRed
+		
+
+		Breed Wobbuffet with Lax Incense attached
+		
+
+
+LeafGreen
+		
+
+		Breed Wobbuffet with Lax Incense attached
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Breed Wobbuffet with Lax Incense Attached
+		
+
+
+Pearl
+		
+
+		Breed Wobbuffet with Lax Incense Attached
+		
+
+Platinum
+		
+
+		Breed Wobbuffet
+		
+
+
+HeartGold
+		
+
+		Breed Wobbuffet
+		
+
+
+SoulSilver
+		
+
+		Breed Wobbuffet
+		
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Splash----40--The user just flops and splashes around to no effect at all... —Charm--10020--The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.—Encore--1005--The user compels the foe to keep using only the move it last used for three to seven turns.15Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.15Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.15Safeguard----25--The user creates a protective field that prevents status problems for five turns.15Destiny Bond----5--When this move is used, if the user faints, the foe that landed the knockout hit also faints.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+95
+23
+48
+23
+48
+23
+Max StatsHindering Nature
+Lv. 50
+155 - 202
+25 - 67
+47 - 90
+25 - 67
+47 - 90
+25 - 67
+Lv. 100
+300 - 394
+45 - 130
+90 - 175
+45 - 130
+90 - 175
+45 - 130
+Max StatsNeutral Nature
+Lv. 50
+155 - 202
+28 - 75
+53 - 100
+28 - 75
+53 - 100
+28 - 75
+Lv. 100
+300 - 394
+51 - 145
+101 - 195
+51 - 145
+101 - 195
+51 - 145
+Max StatsBeneficial Nature
+Lv. 50
+155 - 202
+30 - 82
+58 - 110
+30 - 82
+58 - 110
+30 - 82
+Lv. 100
+300 - 394
+56 - 159
+111 - 214
+56 - 159
+111 - 214
+56 - 159
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#359Absol
+		
+
+
+
+
+
+
+
+#361Snorunt
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Splash----40--The user just flops and splashes around to no effect at all... —Charm--10020--The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.—Encore--1005--The user compels the foe to keep using only the move it last used for three to seven turns.15Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.15Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.15Safeguard----25--The user creates a protective field that prevents status problems for five turns.15Destiny Bond----5--When this move is used, if the user faints, the foe that landed the knockout hit also faints.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+95
+23
+48
+23
+48
+23
+Max StatsHindering Nature
+Lv. 50
+155 - 202
+25 - 67
+47 - 90
+25 - 67
+47 - 90
+25 - 67
+Lv. 100
+300 - 394
+45 - 130
+90 - 175
+45 - 130
+90 - 175
+45 - 130
+Max StatsNeutral Nature
+Lv. 50
+155 - 202
+28 - 75
+53 - 100
+28 - 75
+53 - 100
+28 - 75
+Lv. 100
+300 - 394
+51 - 145
+101 - 195
+51 - 145
+101 - 195
+51 - 145
+Max StatsBeneficial Nature
+Lv. 50
+155 - 202
+30 - 82
+58 - 110
+30 - 82
+58 - 110
+30 - 82
+Lv. 100
+300 - 394
+56 - 159
+111 - 214
+56 - 159
+111 - 214
+56 - 159
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#359Absol
+		
+
+
+
+
+
+
+
+#361Snorunt
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+95
+23
+48
+23
+48
+23
+Max StatsHindering Nature
+Lv. 50
+155 - 202
+25 - 67
+47 - 90
+25 - 67
+47 - 90
+25 - 67
+Lv. 100
+300 - 394
+45 - 130
+90 - 175
+45 - 130
+90 - 175
+45 - 130
+Max StatsNeutral Nature
+Lv. 50
+155 - 202
+28 - 75
+53 - 100
+28 - 75
+53 - 100
+28 - 75
+Lv. 100
+300 - 394
+51 - 145
+101 - 195
+51 - 145
+101 - 195
+51 - 145
+Max StatsBeneficial Nature
+Lv. 50
+155 - 202
+30 - 82
+58 - 110
+30 - 82
+58 - 110
+30 - 82
+Lv. 100
+300 - 394
+56 - 159
+111 - 214
+56 - 159
+111 - 214
+56 - 159
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#359Absol
+		
+
+
+
+
+
+
+
+#361Snorunt
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+95
+23
+48
+23
+48
+23
+Max StatsHindering Nature
+Lv. 50
+155 - 202
+25 - 67
+47 - 90
+25 - 67
+47 - 90
+25 - 67
+Lv. 100
+300 - 394
+45 - 130
+90 - 175
+45 - 130
+90 - 175
+45 - 130
+Max StatsNeutral Nature
+Lv. 50
+155 - 202
+28 - 75
+53 - 100
+28 - 75
+53 - 100
+28 - 75
+Lv. 100
+300 - 394
+51 - 145
+101 - 195
+51 - 145
+101 - 195
+51 - 145
+Max StatsBeneficial Nature
+Lv. 50
+155 - 202
+30 - 82
+58 - 110
+30 - 82
+58 - 110
+30 - 82
+Lv. 100
+300 - 394
+56 - 159
+111 - 214
+56 - 159
+111 - 214
+56 - 159
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#359Absol
+		
+
+
+
+
+
+
+
+#361Snorunt
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#359Absol
+		
+
+
+
+
+
+
+
+#361Snorunt
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

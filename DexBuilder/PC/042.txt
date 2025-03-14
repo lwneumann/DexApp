@@ -1,0 +1,236 @@
+{
+    "name": "Golbat",
+    "jp_name": "Golbat\u30b4\u30eb\u30d0\u30c3\u30c8",
+    "number": " National: #042Sinnoh: #029 Johto: #038 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Inner Focus"
+    ],
+    "classification": "Bat Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "121.0lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "0.5",
+        "0",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+        "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily."
+    ],
+    "location": [
+        "Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Cerulean Cave, Seafoam Islands, Victory Road, Tohjo Falls, Safari Zone",
+        "Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Cerulean Cave, Seafoam Islands, Victory Road, Tohjo Falls, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Screech",
+            "Leech Life",
+            "Supersonic",
+            "Astonish"
+        ],
+        "5": [
+            "Supersonic"
+        ],
+        "9": [
+            "Astonish"
+        ],
+        "13": [
+            "Bite"
+        ],
+        "17": [
+            "Wing Attack"
+        ],
+        "21": [
+            "Confuse Ray"
+        ],
+        "27": [
+            "Air Cutter"
+        ],
+        "33": [
+            "Mean Look"
+        ],
+        "39": [
+            "Poison Fang"
+        ],
+        "45": [
+            "Haze"
+        ],
+        "51": [
+            "Air Slash"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM49",
+        "TM51",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Twister",
+        "Super Fang",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Quick Attack",
+        "Pursuit",
+        "Faint Attack",
+        "Gust",
+        "Whirlwind",
+        "Curse",
+        "Nasty Plot",
+        "Hypnosis",
+        "Zen Headbutt",
+        "Brave Bird"
+    ],
+    "stats": [
+        "75",
+        "80",
+        "70",
+        "65",
+        "75",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

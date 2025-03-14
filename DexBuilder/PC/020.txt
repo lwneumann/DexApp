@@ -1,0 +1,248 @@
+{
+    "name": "Raticate",
+    "jp_name": "Ratta\u30e9\u30c3\u30bf",
+    "number": " National: #020Johto: #018 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Run Away",
+        "Guts"
+    ],
+    "classification": "Mouse Pok\u00e9mon",
+    "height": "2'04\"",
+    "weight": "40.8lbs",
+    "capture_rate": "127",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Chilan Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+        "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down."
+    ],
+    "location": [
+        "Route 7, Route 9, Route 10, Route 26, Route 27, Route 38, Route 39, Route 47, Union Cave, Mt. Mortar, Burnt Tower, Tohjo Falls, Safari Zone",
+        "Route 7, Route 9, Route 10, Route 26, Route 27, Route 38, Route 39, Route 47, Union Cave, Mt. Mortar, Burnt Tower, Tohjo Falls, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Swords Dance",
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Focus Energy"
+        ],
+        "4": [
+            "Quick Attack"
+        ],
+        "7": [
+            "Focus Energy"
+        ],
+        "10": [
+            "Bite"
+        ],
+        "13": [
+            "Pursuit"
+        ],
+        "16": [
+            "Hyper Fang"
+        ],
+        "19": [
+            "Sucker Punch"
+        ],
+        "20": [
+            "Scary Face"
+        ],
+        "24": [
+            "Crunch"
+        ],
+        "29": [
+            "Assurance"
+        ],
+        "39": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM73",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Sucker Punch",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Endeavor",
+        "Mud-slap",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Screech",
+        "Flame Wheel",
+        "Fury Swipes",
+        "Bite",
+        "Counter",
+        "Reversal",
+        "Uproar",
+        "Swagger",
+        "Last Resort",
+        "Me First"
+    ],
+    "stats": [
+        "55",
+        "81",
+        "60",
+        "50",
+        "70",
+        "97"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "77 - 119",
+                "86 - 133",
+                "94 - 146"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "91 - 134",
+                "102 - 149",
+                "112 - 163"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "150 - 234",
+                "167 - 261",
+                "183 - 287"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "179 - 263",
+                "199 - 293",
+                "218 - 322"
+            ]
+        ]
+    }
+}

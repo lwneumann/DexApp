@@ -1,0 +1,249 @@
+{
+    "name": "Latios",
+    "jp_name": "Ratiosu\u30e9\u30c6\u30a3\u30aa\u30b9",
+    "number": " National: #381",
+    "gender_ratio": [
+        "100",
+        "0"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Eon Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "132.3lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "90",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "2",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It understands human speech and is highly intelligent. It is a tender Pok\u00e9mon that dislikes fighting."
+    ],
+    "location": [
+        "Pewter City (Enigma Crystal)",
+        "Roaming Kanto"
+    ],
+    "learnset": {
+        "5": [
+            "Heal Block"
+        ],
+        "10": [
+            "Helping Hand"
+        ],
+        "15": [
+            "Safeguard"
+        ],
+        "20": [
+            "Dragonbreath"
+        ],
+        "25": [
+            "Protect"
+        ],
+        "30": [
+            "Refresh"
+        ],
+        "35": [
+            "Luster Purge"
+        ],
+        "40": [
+            "Zen Headbutt"
+        ],
+        "45": [
+            "Recover"
+        ],
+        "50": [
+            "Psycho Shift"
+        ],
+        "55": [
+            "Dragon Dance"
+        ],
+        "60": [
+            "Memento"
+        ],
+        "65": [
+            "Psychic"
+        ],
+        "70": [
+            "Dragon Pulse"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM03",
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM47",
+        "TM51",
+        "TM53",
+        "TM57",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM02",
+        "HM03",
+        " DPt",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Tailwind"
+    ],
+    "stats": [
+        "80",
+        "90",
+        "80",
+        "130",
+        "110",
+        "110"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ]
+        ]
+    }
+}

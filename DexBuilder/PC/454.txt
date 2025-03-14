@@ -1,0 +1,272 @@
+{
+    "name": "Toxicroak",
+    "jp_name": "Dokurogu\u30c9\u30af\u30ed\u30c3\u30b0",
+    "number": " National: #454Sinnoh: #130 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Anticipation",
+        "Dry Skin"
+    ],
+    "classification": "Toxic Mouth Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "97.9lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "4",
+        "0.25",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Black Sludge",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws."
+    ],
+    "location": [
+        "Evolve Croagunk",
+        "Evolve Croagunk"
+    ],
+    "learnset": {
+        "0": [
+            "Astonish",
+            "Mud-slap",
+            "Poison Sting"
+        ],
+        "3": [
+            "Mud-slap"
+        ],
+        "8": [
+            "Poison Sting"
+        ],
+        "10": [
+            "Taunt"
+        ],
+        "15": [
+            "Pursuit"
+        ],
+        "17": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "22": [
+            "Revenge"
+        ],
+        "24": [
+            "Swagger"
+        ],
+        "29": [
+            "Mud Bomb"
+        ],
+        "31": [
+            "Sucker Punch"
+        ],
+        "36": [
+            "Nasty Plot"
+        ],
+        "41": [
+            "Poison Jab"
+        ],
+        "49": [
+            "Sludge Bomb"
+        ],
+        "54": [
+            "Flatter"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM63",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM75",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Spite",
+        "Bounce",
+        "Gunk Shot",
+        "Mud-slap",
+        "Super Fang",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Me First",
+        "Feint",
+        "Dynamicpunch",
+        "Headbutt",
+        "Vacuum Wave",
+        "Meditate",
+        "Fake Out",
+        "Wake-up Slap",
+        "Smellingsalt",
+        "Cross Chop",
+        "Bullet Punch",
+        "Counter"
+    ],
+    "stats": [
+        "83",
+        "106",
+        "65",
+        "86",
+        "65",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "143 - 190",
+                "143 - 190",
+                "143 - 190"
+            ],
+            [
+                "99 - 142",
+                "111 - 158",
+                "122 - 173"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "81 - 124",
+                "91 - 138",
+                "100 - 151"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "276 - 370",
+                "276 - 370",
+                "276 - 370"
+            ],
+            [
+                "195 - 279",
+                "217 - 311",
+                "238 - 342"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "159 - 243",
+                "177 - 271",
+                "194 - 298"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

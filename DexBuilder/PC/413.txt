@@ -1,0 +1,261 @@
+{
+    "name": "Wormadam",
+    "jp_name": "Minomadamu\u30df\u30ce\u30de\u30c0\u30e0",
+    "number": " National: #413Sinnoh: #046 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Anticipation"
+    ],
+    "classification": "Bagworm Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "14.3lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "4",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "2",
+        "0.25",
+        "4",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Silver Powder",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It is said that a WORMADAM that evolves on a cold day will have a thicker cloak."
+    ],
+    "location": [
+        "Evolve Burmy",
+        "Evolve Burmy"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Tackle",
+            "Tackle"
+        ],
+        "10": [
+            "Protect",
+            "Protect",
+            "Protect"
+        ],
+        "15": [
+            "Bug Bite"
+        ],
+        "23": [
+            "Confusion",
+            "Confusion",
+            "Confusion"
+        ],
+        "26": [
+            "Razor Leaf",
+            "Rock Blast",
+            "Mirror Shot"
+        ],
+        "29": [
+            "Growth",
+            "Harden",
+            "Metal Sound"
+        ],
+        "32": [
+            "Psybeam",
+            "Psybeam",
+            "Psybeam"
+        ],
+        "35": [
+            "Captivate",
+            "Captivate",
+            "Captivate"
+        ],
+        "41": [
+            "Attract",
+            "Attract",
+            "Attract"
+        ],
+        "44": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+        ],
+        "47": [
+            "Leaf Storm",
+            "Iron Head"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "",
+        "--",
+        "15",
+        "--",
+        "150",
+        "",
+        "",
+        "rain",
+        "TM20",
+        "",
+        "--",
+        "10",
+        "100",
+        "??",
+        "",
+        "",
+        "Ball",
+        "TM32",
+        "",
+        "--",
+        "10",
+        "100",
+        "70",
+        "",
+        "",
+        "hief",
+        "TM48",
+        "",
+        "10",
+        "10",
+        "90",
+        "--",
+        "",
+        "",
+        "h Up",
+        "TM78",
+        "",
+        "--",
+        "15",
+        "100",
+        "??",
+        "",
+        "",
+        "nnon"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Magnet Rise",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Earth Power",
+        "Endeavor",
+        "Gunk Shot",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Signal Beam",
+        "String Shot",
+        "Worry Seed",
+        "Bug Bite"
+    ],
+    "stats": [
+        "60",
+        "59",
+        "85",
+        "79",
+        "105",
+        "36"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "66 - 108",
+                "74 - 121",
+                "81 - 133"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "66 - 108",
+                "74 - 121",
+                "81 - 133"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "36 - 79",
+                "41 - 88",
+                "45 - 96"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "128 - 213",
+                "143 - 237",
+                "157 - 260"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "128 - 213",
+                "143 - 237",
+                "157 - 260"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "69 - 153",
+                "77 - 171",
+                "84 - 188"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,2467 @@
+
+
+Images
+
+
+ 
+D/P
+Pt/HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Bonsly
+Usohachiiウソハチ
+ National: #438Sinnoh: #092 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Sturdy & Rock Head 
+
+
+
+Sturdy: The Pokémon is unaffected by One Hit Knock Out moves and in Generation V, the Pokémon cannot be knocked out when it has full Hit Points 
+Rock Head: Does not receive recoil damage from recoil-causing damages. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Bonsai Pokémon
+1'08"
+33.0lbs
+255
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Defense Point(s)
+Brown
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*0.5
+*0.5
+*2
+*1
+*2
+*1
+*2
+*0.5
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*2
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+Bonsly cannot breed
+
+
+
+Evolutionary Chain
+
+
+
+
+
+To get Bonsly, you will need to breed while holding the Rock Incense
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.
+		
+
+
+Pearl
+		
+
+		It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.
+		
+ 
+Platinum
+		
+
+		It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.
+		
+ 
+HeartGold 
+		In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Trophy GardenBreed Sudowoodo with Rock Incense Attached
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 209 & 210-South, Trophy GardenBreed Sudowoodo with Rock Incense Attached
+		
+
+Details
+
+
+Platinum
+		
+
+		Trophy Garden (Daily Pokémon)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Breed SudoowodoTransfer from PokéWalker
+		
+
+
+SoulSilver
+		
+
+		Breed SudoowodoTransfer from PokéWalker
+		
+PokéWalker
+		
+
+		Big Forest
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Fake Tears--10020--The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.—Copycat----20--The user mimics the move used immediately before it. The move fails if no other move has been used yet.6Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.9Low Kick??10020--A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.14Rock Throw509015--The user picks up and throws a small rock at the foe to attack. 17Mimic----10--The user copies the move last used by the foe. The move can be used for the rest of the battle.22Block----5--The user blocks the foe's way with arms spread wide to prevent escape. 25Faint Attack60--20--The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.30Rock Tomb508010100Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.33Rock Slide75901030Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.38Slam807520--The foe is slammed with a long tail, vines, etc., to inflict damage. 41Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.46Double-edge12010015--A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Selfdestruct2001005--DetailsThe user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.Headbutt701001530DetailsThe user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Harden----30--DetailsThe user stiffens all the muscles in its body to raise its Defense stat. Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Sand Tomb157015--DetailsThe user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Trophy GardenBreed Sudowoodo with Rock Incense Attached
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 209 & 210-South, Trophy GardenBreed Sudowoodo with Rock Incense Attached
+		
+
+Details
+
+
+Platinum
+		
+
+		Trophy Garden (Daily Pokémon)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Breed SudoowodoTransfer from PokéWalker
+		
+
+
+SoulSilver
+		
+
+		Breed SudoowodoTransfer from PokéWalker
+		
+PokéWalker
+		
+
+		Big Forest
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Fake Tears--10020--The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.—Copycat----20--The user mimics the move used immediately before it. The move fails if no other move has been used yet.6Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.9Low Kick??10020--A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.14Rock Throw509015--The user picks up and throws a small rock at the foe to attack. 17Mimic----10--The user copies the move last used by the foe. The move can be used for the rest of the battle.22Block----5--The user blocks the foe's way with arms spread wide to prevent escape. 25Faint Attack60--20--The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.30Rock Tomb508010100Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.33Rock Slide75901030Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.38Slam807520--The foe is slammed with a long tail, vines, etc., to inflict damage. 41Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.46Double-edge12010015--A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Selfdestruct2001005--DetailsThe user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.Headbutt701001530DetailsThe user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Harden----30--DetailsThe user stiffens all the muscles in its body to raise its Defense stat. Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Sand Tomb157015--DetailsThe user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Fake Tears--10020--The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.—Copycat----20--The user mimics the move used immediately before it. The move fails if no other move has been used yet.6Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.9Low Kick??10020--A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.14Rock Throw509015--The user picks up and throws a small rock at the foe to attack. 17Mimic----10--The user copies the move last used by the foe. The move can be used for the rest of the battle.22Block----5--The user blocks the foe's way with arms spread wide to prevent escape. 25Faint Attack60--20--The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.30Rock Tomb508010100Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.33Rock Slide75901030Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.38Slam807520--The foe is slammed with a long tail, vines, etc., to inflict damage. 41Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.46Double-edge12010015--A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Selfdestruct2001005--DetailsThe user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.Headbutt701001530DetailsThe user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Harden----30--DetailsThe user stiffens all the muscles in its body to raise its Defense stat. Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Sand Tomb157015--DetailsThe user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM69
+Rock Polish
+
+
+--
+--
+20
+--
+The user polishes its body to reduce drag. It can sharply raise the Speed stat. TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Selfdestruct2001005--DetailsThe user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.Headbutt701001530DetailsThe user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Harden----30--DetailsThe user stiffens all the muscles in its body to raise its Defense stat. Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Sand Tomb157015--DetailsThe user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Block
+
+
+--
+--
+5
+--
+
+The user blocks the foe's way with arms spread wide to prevent escape. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Selfdestruct2001005--DetailsThe user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.Headbutt701001530DetailsThe user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Harden----30--DetailsThe user stiffens all the muscles in its body to raise its Defense stat. Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Sand Tomb157015--DetailsThe user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Selfdestruct2001005--DetailsThe user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.Headbutt701001530DetailsThe user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Harden----30--DetailsThe user stiffens all the muscles in its body to raise its Defense stat. Defense Curl----40--DetailsThe user curls up to conceal weak spots and raise its Defense stat. Rollout309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Sand Tomb157015--DetailsThe user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+80
+95
+10
+45
+10
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+76 - 118
+90 - 132
+13 - 55
+45 - 87
+13 - 55
+Lv. 100
+210 - 304
+148 - 233
+175 - 260
+22 - 107
+85 - 170
+22 - 107
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+85 - 132
+100 - 147
+15 - 62
+50 - 97
+15 - 62
+Lv. 100
+210 - 304
+165 - 259
+195 - 289
+25 - 119
+95 - 189
+25 - 119
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+93 - 145
+110 - 161
+16 - 68
+55 - 106
+16 - 68
+Lv. 100
+210 - 304
+181 - 284
+214 - 317
+27 - 130
+104 - 207
+27 - 130
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#437Bronzong
+		
+
+
+
+
+
+
+
+#439Mime Jr.
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

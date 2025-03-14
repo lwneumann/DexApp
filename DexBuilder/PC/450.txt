@@ -1,0 +1,219 @@
+{
+    "name": "Hippowdon",
+    "jp_name": "Kabarudon\u30ab\u30d0\u30eb\u30c9\u30f3",
+    "number": " National: #450Sinnoh: #123 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sand Stream"
+    ],
+    "classification": "Heavyweight Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "661.4lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "7,680",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking."
+    ],
+    "location": [
+        "Evolve Hippopotas",
+        "Evolve Hippopotas"
+    ],
+    "learnset": {
+        "0": [
+            "Ice Fang",
+            "Fire Fang",
+            "Thunder Fang",
+            "Tackle",
+            "Sand-attack",
+            "Bite",
+            "Yawn"
+        ],
+        "7": [
+            "Bite"
+        ],
+        "13": [
+            "Yawn"
+        ],
+        "19": [
+            "Take Down",
+            "Dig"
+        ],
+        "25": [
+            "Sand Tomb"
+        ],
+        "31": [
+            "Crunch"
+        ],
+        "40": [
+            "Earthquake"
+        ],
+        "50": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM68",
+        "TM71",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Stockpile",
+        "Swallow",
+        "Spit Up",
+        "Curse",
+        "Slack Off",
+        "Body Slam",
+        "Sand Tomb",
+        "Revenge"
+    ],
+    "stats": [
+        "108",
+        "112",
+        "118",
+        "68",
+        "72",
+        "47"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "168 - 215",
+                "168 - 215",
+                "168 - 215"
+            ],
+            [
+                "105 - 147",
+                "117 - 164",
+                "128 - 180"
+            ],
+            [
+                "110 - 153",
+                "123 - 170",
+                "135 - 187"
+            ],
+            [
+                "65 - 108",
+                "73 - 120",
+                "80 - 132"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "46 - 89",
+                "52 - 99",
+                "57 - 108"
+            ]
+        ],
+        "100": [
+            [
+                "326 - 420",
+                "326 - 420",
+                "326 - 420"
+            ],
+            [
+                "206 - 290",
+                "229 - 323",
+                "251 - 355"
+            ],
+            [
+                "216 - 301",
+                "241 - 335",
+                "265 - 368"
+            ],
+            [
+                "126 - 211",
+                "141 - 235",
+                "155 - 258"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "89 - 173",
+                "99 - 193",
+                "108 - 212"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "name": "Rapidash",
+    "jp_name": "Gyaroppu\u30ae\u30e3\u30ed\u30c3\u30d7",
+    "number": " National: #078Sinnoh: #091 Johto: #207 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Run Away",
+        "Flash Fire"
+    ],
+    "classification": "Fire Horse Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "209.0lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Shuca Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+        "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps."
+    ],
+    "location": [
+        "Route 22, Route 28, Mt. Silver",
+        "Route 22, Route 28, Mt. Silver"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Jab",
+            "Megahorn",
+            "Growl",
+            "Quick Attack",
+            "Tail Whip",
+            "Ember"
+        ],
+        "6": [
+            "Tail Whip"
+        ],
+        "10": [
+            "Ember"
+        ],
+        "15": [
+            "Flame Wheel"
+        ],
+        "19": [
+            "Stomp"
+        ],
+        "24": [
+            "Fire Spin"
+        ],
+        "28": [
+            "Take Down"
+        ],
+        "33": [
+            "Agility"
+        ],
+        "37": [
+            "Fire Blast"
+        ],
+        "40": [
+            "Fury Attack"
+        ],
+        "47": [
+            "Bounce"
+        ],
+        "56": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Heat Wave",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flame Wheel",
+        "Thrash",
+        "Double Kick",
+        "Hypnosis",
+        "Charm",
+        "Double-edge",
+        "Horn Drill",
+        "Morning Sun"
+    ],
+    "stats": [
+        "65",
+        "100",
+        "70",
+        "80",
+        "80",
+        "105"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ]
+        ]
+    }
+}

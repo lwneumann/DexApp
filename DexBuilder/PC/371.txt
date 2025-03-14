@@ -1,0 +1,231 @@
+{
+    "name": "Bagon",
+    "jp_name": "Tatsubi\u30bf\u30c4\u30d9\u30a4",
+    "number": " National: #371",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rock Head"
+    ],
+    "classification": "Rock Head Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "92.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Dragon Fang",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Dragon"
+    ],
+    "flavor_text": [
+        "Its well-developed neck muscles and ironlike head can smash boulders into pieces."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Rage"
+        ],
+        "5": [
+            "Bite"
+        ],
+        "10": [
+            "Leer"
+        ],
+        "16": [
+            "Headbutt"
+        ],
+        "20": [
+            "Focus Energy"
+        ],
+        "25": [
+            "Ember"
+        ],
+        "31": [
+            "Dragonbreath"
+        ],
+        "35": [
+            "Zen Headbutt"
+        ],
+        "40": [
+            "Scary Face"
+        ],
+        "46": [
+            "Crunch"
+        ],
+        "50": [
+            "Dragon Claw"
+        ],
+        "55": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Zen Headbutt",
+        "Snore",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Hydro Pump",
+        "Thrash",
+        "Dragon Rage",
+        "Twister",
+        "Dragon Dance",
+        "Fire Fang",
+        "Shadow Claw",
+        "Dragon Rush"
+    ],
+    "stats": [
+        "45",
+        "75",
+        "60",
+        "40",
+        "30",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

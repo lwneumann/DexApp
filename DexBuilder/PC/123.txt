@@ -1,0 +1,247 @@
+{
+    "name": "Scyther",
+    "jp_name": "Strike\u30b9\u30c8\u30e9\u30a4\u30af",
+    "number": " National: #123Sinnoh: #195 Johto: #111 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm",
+        "Technician"
+    ],
+    "classification": "Mantis Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "123.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+        "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Vacuum Wave",
+            "Quick Attack",
+            "Leer"
+        ],
+        "5": [
+            "Focus Energy"
+        ],
+        "9": [
+            "Pursuit"
+        ],
+        "13": [
+            "False Swipe"
+        ],
+        "17": [
+            "Agility"
+        ],
+        "21": [
+            "Wing Attack"
+        ],
+        "25": [
+            "Fury Cutter"
+        ],
+        "29": [
+            "Slash"
+        ],
+        "33": [
+            "Razor Wind"
+        ],
+        "37": [
+            "Double Team"
+        ],
+        "41": [
+            "X-scissor"
+        ],
+        "45": [
+            "Night Slash"
+        ],
+        "49": [
+            "Double Hit"
+        ],
+        "53": [
+            "Air Slash"
+        ],
+        "57": [
+            "Swords Dance"
+        ],
+        "61": [
+            "Feint"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM54",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM75",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Tailwind",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Counter",
+        "Safeguard",
+        "Baton Pass",
+        "Razor Wind",
+        "Reversal",
+        "Light Screen",
+        "Endure",
+        "Silver Wind",
+        "Bug Buzz",
+        "Night Slash"
+    ],
+    "stats": [
+        "70",
+        "110",
+        "80",
+        "55",
+        "80",
+        "105"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ]
+        ]
+    }
+}

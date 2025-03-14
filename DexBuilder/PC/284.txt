@@ -1,0 +1,240 @@
+{
+    "name": "Masquerain",
+    "jp_name": "Amemoth\u30a2\u30e1\u30e2\u30fc\u30b9",
+    "number": " National: #284",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Intimidate"
+    ],
+    "classification": "Eyeball Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "7.9lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Silver Powder",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1",
+        "Bug"
+    ],
+    "flavor_text": [
+        "It flaps its four wings to hover and fly freely in any direction-- to and fro and sideways."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Ominous Wind",
+            "Bubble",
+            "Quick Attack",
+            "Sweet Scent",
+            "Water Sport"
+        ],
+        "7": [
+            "Quick Attack"
+        ],
+        "13": [
+            "Sweet Scent"
+        ],
+        "19": [
+            "Water Sport"
+        ],
+        "22": [
+            "Gust"
+        ],
+        "26": [
+            "Scary Face"
+        ],
+        "33": [
+            "Stun Spore"
+        ],
+        "40": [
+            "Silver Wind"
+        ],
+        "47": [
+            "Air Slash"
+        ],
+        "54": [
+            "Whirlwind"
+        ],
+        "61": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM53",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Icy Wind",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Twister",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Foresight",
+        "Mud Shot",
+        "Psybeam",
+        "Hydro Pump",
+        "Mind Reader",
+        "Signal Beam",
+        "Bug Bite"
+    ],
+    "stats": [
+        "70",
+        "60",
+        "62",
+        "80",
+        "82",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "60 - 102",
+                "67 - 114",
+                "73 - 125"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "78 - 120",
+                "87 - 134",
+                "95 - 147"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "116 - 200",
+                "129 - 223",
+                "141 - 245"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "152 - 236",
+                "169 - 263",
+                "185 - 289"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

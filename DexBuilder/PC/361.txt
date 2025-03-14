@@ -1,0 +1,223 @@
+{
+    "name": "Snorunt",
+    "jp_name": "Yukiwarashi\u30e6\u30ad\u30ef\u30e9\u30b7",
+    "number": " National: #361Sinnoh: #206 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Inner Focus",
+        "Ice Body"
+    ],
+    "classification": "Snow Hat Pok\u00e9mon",
+    "height": "2'04\"",
+    "weight": "37.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Babiri Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "flavor_text": [
+        "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive."
+    ],
+    "location": [
+        "Transfer from Pok\u00e9Walker",
+        "Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Powder Snow",
+            "Leer"
+        ],
+        "4": [
+            "Double Team"
+        ],
+        "10": [
+            "Bite"
+        ],
+        "13": [
+            "Icy Wind"
+        ],
+        "19": [
+            "Headbutt"
+        ],
+        "22": [
+            "Protect"
+        ],
+        "28": [
+            "Ice Fang"
+        ],
+        "31": [
+            "Crunch"
+        ],
+        "37": [
+            "Ice Shard"
+        ],
+        "40": [
+            "Hail"
+        ],
+        "46": [
+            "Blizzard"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM70",
+        "TM72",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Rollout",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Block",
+        "Spikes",
+        "Rollout",
+        "Disable",
+        "Bide",
+        "Weather Ball"
+    ],
+    "stats": [
+        "50",
+        "50",
+        "50",
+        "50",
+        "50",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

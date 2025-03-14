@@ -1,0 +1,229 @@
+{
+    "name": "Electrike",
+    "jp_name": "Rakurai\u30e9\u30af\u30e9\u30a4",
+    "number": " National: #309",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Static",
+        "Lightningrod"
+    ],
+    "classification": "Lightning Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "33.5lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "4": [
+            "Thunder Wave"
+        ],
+        "9": [
+            "Leer"
+        ],
+        "12": [
+            "Howl"
+        ],
+        "17": [
+            "Quick Attack"
+        ],
+        "20": [
+            "Spark"
+        ],
+        "25": [
+            "Odor Sleuth"
+        ],
+        "28": [
+            "Bite"
+        ],
+        "33": [
+            "Thunder Fang"
+        ],
+        "36": [
+            "Roar"
+        ],
+        "41": [
+            "Discharge"
+        ],
+        "44": [
+            "Charge"
+        ],
+        "49": [
+            "Thunder"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Headbutt",
+        "Uproar",
+        "Curse",
+        "Swift",
+        "Discharge",
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Switcheroo"
+    ],
+    "stats": [
+        "40",
+        "45",
+        "40",
+        "65",
+        "40",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

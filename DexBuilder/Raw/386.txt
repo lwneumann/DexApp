@@ -1,0 +1,8362 @@
+
+
+Images
+
+
+
+Normal Forme
+Attack Forme
+Defense Forme
+Speed Forme
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Deoxys
+Deokishisuデオキシス
+ National: #386
+Deoxys is Genderless
+
+
+
+Ability: Pressure 
+
+
+
+Pressure: When this Pokémon is hit by a move, the opponent’s PP lowers by 2 rather than 1. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+DNA Pokémon
+5'05"
+134.0lbs
+3
+30,720
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,250,000 PointsSlow
+0
+1 Attack Point(s)1 Speed Point(s)1 Sp. Attack Point(s)
+Red
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+*1
+*1
+*1
+*0.5
+*2
+*1
+*2
+*1
+*2
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+Deoxys cannot breed
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+Alternate Forms
+
+
+ 
+Normal FormeAttack FormeDefense FormeSpeed Forme
+Deoxys forms are interchanged when interacting with meteors in Veilstone City and Route 3
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/Emerald
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/Emerald
+		
+
+
+Emerald
+		
+
+		Birth Island
+		
+
+
+FireRed
+		
+
+		Birth Island
+		
+
+
+LeafGreen
+		
+
+		Birth Island
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/Emerald
+		
+
+
+XD
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Transfer from GBA via Pal Park
+		
+
+
+Pearl
+		
+
+		Transfer from GBA via Pal Park
+		
+
+Platinum
+		
+
+		None - Pal Park from 3rd Gen
+		
+
+
+HeartGold
+		
+
+		Trade from DPt
+		
+
+
+SoulSilver
+		
+
+		Trade from DPt
+		
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Attack Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Zap Cannon120505100The user fires an electric blast like a cannon to inflict damage and cause paralysis.89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Defense Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Spikes----20--The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.73Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.97Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.Diamond/Pearl Level Up (Speed Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Extremespeed801005--The user charges the foe at blinding speed. This attack always goes before any other move.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/Emerald
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/Emerald
+		
+
+
+Emerald
+		
+
+		Birth Island
+		
+
+
+FireRed
+		
+
+		Birth Island
+		
+
+
+LeafGreen
+		
+
+		Birth Island
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/Emerald
+		
+
+
+XD
+		
+
+		Trade from Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Transfer from GBA via Pal Park
+		
+
+
+Pearl
+		
+
+		Transfer from GBA via Pal Park
+		
+
+Platinum
+		
+
+		None - Pal Park from 3rd Gen
+		
+
+
+HeartGold
+		
+
+		Trade from DPt
+		
+
+
+SoulSilver
+		
+
+		Trade from DPt
+		
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Attack Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Zap Cannon120505100The user fires an electric blast like a cannon to inflict damage and cause paralysis.89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Defense Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Spikes----20--The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.73Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.97Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.Diamond/Pearl Level Up (Speed Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Extremespeed801005--The user charges the foe at blinding speed. This attack always goes before any other move.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Attack Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Zap Cannon120505100The user fires an electric blast like a cannon to inflict damage and cause paralysis.89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Defense Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Spikes----20--The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.73Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.97Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.Diamond/Pearl Level Up (Speed Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Extremespeed801005--The user charges the foe at blinding speed. This attack always goes before any other move.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level Up (Attack Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Superpower1201005--The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.81Zap Cannon120505100The user fires an electric blast like a cannon to inflict damage and cause paralysis.89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.Diamond/Pearl Level Up (Defense Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Spikes----20--The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.73Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.97Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.Diamond/Pearl Level Up (Speed Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Extremespeed801005--The user charges the foe at blinding speed. This attack always goes before any other move.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level Up (Defense Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Teleport----20--Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Spikes----20--The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Snatch----10--The user steals the effects of any healing or stat- changing move the foe attempts to use.57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.73Amnesia----20--The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Counter??10020--A retaliation move that counters any physical attack, inflicting double the damage taken.97Mirror Coat??10020--A retaliation move that counters any special attack, inflicting double the damage taken.Diamond/Pearl Level Up (Speed Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Extremespeed801005--The user charges the foe at blinding speed. This attack always goes before any other move.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level Up (Speed Form)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. 9Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.17Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. 25Knock Off2010020--The user slaps down the foe's held item, preventing the item from being used during the battle.33Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.41Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.49Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 57Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.65Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.73Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.81Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 89Psycho Boost140905100The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.97Extremespeed801005--The user charges the foe at blinding speed. This attack always goes before any other move.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM04
+Calm Mind
+
+
+--
+--
+20
+--
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM60
+Drain Punch
+
+
+60
+100
+5
+--
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Superpower
+
+
+120
+100
+5
+--
+
+The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Low Kick
+
+
+??
+100
+20
+--
+
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTaunt--10020--FRLGLv15 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.Superpower1201005--FRLGLv30 The user attacks the foe with great power. However, it also lowers the user's Attack and Defense.Zap Cannon120505100FRLGLv40 The user fires an electric blast like a cannon to inflict damage and cause paralysis.Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Special MovesAttack NameTypeCat.Att.Acc.PPEffect %Meteor Mash100851020The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.Ranger Tracks of Light - Attack DeoxysDetect----5--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Ranger Tracks of Light - Defense Deoxys
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéthlon Stats - Normal Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Attack Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Defense Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Speed Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+150
+50
+150
+50
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+139 - 181
+49 - 91
+139 - 181
+49 - 91
+139 - 181
+Lv. 100
+210 - 304
+274 - 359
+94 - 179
+274 - 359
+94 - 179
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+155 - 202
+55 - 102
+155 - 202
+55 - 102
+155 - 202
+Lv. 100
+210 - 304
+305 - 399
+105 - 199
+305 - 399
+105 - 199
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+170 - 222
+60 - 112
+170 - 222
+60 - 112
+170 - 222
+Lv. 100
+210 - 304
+335 - 438
+115 - 218
+335 - 438
+115 - 218
+335 - 438
+
+Stats - Attack Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+180
+20
+180
+20
+150
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+166 - 208
+22 - 64
+166 - 208
+22 - 64
+139 - 181
+Lv. 100
+210 - 304
+328 - 413
+40 - 125
+328 - 413
+40 - 125
+274 - 359
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+185 - 232
+25 - 72
+185 - 232
+25 - 72
+155 - 202
+Lv. 100
+210 - 304
+365 - 459
+45 - 139
+365 - 459
+45 - 139
+305 - 399
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+203 - 255
+27 - 79
+203 - 255
+27 - 79
+170 - 222
+Lv. 100
+210 - 304
+401 - 504
+49 - 152
+401 - 504
+49 - 152
+335 - 438
+
+Stats - Defense Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+70
+160
+70
+160
+90
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+67 - 109
+148 - 190
+67 - 109
+148 - 190
+85 - 127
+Lv. 100
+210 - 304
+130 - 215
+292 - 377
+130 - 215
+292 - 377
+166 - 251
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+75 - 122
+165 - 212
+75 - 122
+165 - 212
+95 - 142
+Lv. 100
+210 - 304
+145 - 239
+325 - 419
+145 - 239
+325 - 419
+185 - 279
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+82 - 134
+181 - 233
+82 - 134
+181 - 233
+104 - 156
+Lv. 100
+210 - 304
+159 - 262
+357 - 460
+159 - 262
+357 - 460
+203 - 306
+
+Stats - Speed Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+95
+90
+95
+90
+180
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+90 - 132
+85 - 127
+90 - 132
+85 - 127
+166 - 208
+Lv. 100
+210 - 304
+175 - 260
+166 - 251
+175 - 260
+166 - 251
+328 - 413
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+100 - 147
+95 - 142
+100 - 147
+95 - 142
+185 - 232
+Lv. 100
+210 - 304
+195 - 289
+185 - 279
+195 - 289
+185 - 279
+365 - 459
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+110 - 161
+104 - 156
+110 - 161
+104 - 156
+203 - 255
+Lv. 100
+210 - 304
+214 - 317
+203 - 306
+214 - 317
+203 - 306
+401 - 504
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#385Jirachi
+		
+
+
+
+
+
+
+
+#387Turtwig
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,246 @@
+{
+    "name": "Ledian",
+    "jp_name": "Redian\u30ec\u30c7\u30a3\u30a2\u30f3",
+    "number": " National: #166Johto: #031 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm",
+        "Early Bird"
+    ],
+    "classification": "Five Star Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "78.5lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+        "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Route 2, Viridian Forest (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Supersonic",
+            "Comet Punch"
+        ],
+        "6": [
+            "Supersonic"
+        ],
+        "9": [
+            "Comet Punch"
+        ],
+        "14": [
+            "Light Screen",
+            "Reflect",
+            "Safeguard"
+        ],
+        "17": [
+            "Mach Punch"
+        ],
+        "24": [
+            "Baton Pass"
+        ],
+        "29": [
+            "Silver Wind"
+        ],
+        "36": [
+            "Agility"
+        ],
+        "41": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "48": [
+            "Double-edge"
+        ],
+        "53": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ice Punch",
+        "Knock Off",
+        "Ominous Wind",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Rollout",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Psybeam",
+        "Bide",
+        "Silver Wind",
+        "Bug Buzz",
+        "Screech",
+        "Encore",
+        "Knock Off",
+        "Bug Bite"
+    ],
+    "stats": [
+        "55",
+        "35",
+        "50",
+        "55",
+        "110",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

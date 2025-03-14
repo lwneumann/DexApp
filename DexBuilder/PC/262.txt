@@ -1,0 +1,245 @@
+{
+    "name": "Mightyena",
+    "jp_name": "Guraena\u30b0\u30e9\u30a8\u30ca",
+    "number": " National: #262",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Intimidate",
+        "Quick Feet"
+    ],
+    "classification": "Bite Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "81.6lbs",
+    "capture_rate": "127",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Pecha Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Howl",
+            "Sand-attack",
+            "Bite"
+        ],
+        "5": [
+            "Howl"
+        ],
+        "9": [
+            "Sand-attack"
+        ],
+        "13": [
+            "Bite"
+        ],
+        "17": [
+            "Odor Sleuth"
+        ],
+        "22": [
+            "Roar"
+        ],
+        "27": [
+            "Swagger"
+        ],
+        "32": [
+            "Assurance"
+        ],
+        "37": [
+            "Scary Face"
+        ],
+        "42": [
+            "Taunt"
+        ],
+        "47": [
+            "Embargo"
+        ],
+        "52": [
+            "Take Down"
+        ],
+        "57": [
+            "Thief"
+        ],
+        "62": [
+            "Sucker Punch"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM58",
+        "TM63",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Mud-slap",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Astonish",
+        "Poison Fang",
+        "Covet",
+        "Leer",
+        "Yawn",
+        "Sucker Punch",
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Me First"
+    ],
+    "stats": [
+        "70",
+        "90",
+        "70",
+        "60",
+        "60",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

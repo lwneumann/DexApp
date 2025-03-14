@@ -1,0 +1,236 @@
+{
+    "name": "Grotle",
+    "jp_name": "Hayashigame\u30cf\u30e4\u30b7\u30ac\u30e1",
+    "number": " National: #388Sinnoh: #002 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Grove Pok\u0165mon",
+    "height": "3'07\"",
+    "weight": "214lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "A GROTLE that lives in the forest is said to have its own secret springwater."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Withdraw"
+        ],
+        "5": [
+            "Withdraw"
+        ],
+        "9": [
+            "Absorb"
+        ],
+        "13": [
+            "Razor Leaf"
+        ],
+        "17": [
+            "Curse"
+        ],
+        "22": [
+            "Bite"
+        ],
+        "27": [
+            "Mega Drain"
+        ],
+        "32": [
+            "Leech Seed"
+        ],
+        "37": [
+            "Synthesis"
+        ],
+        "42": [
+            "Crunch"
+        ],
+        "47": [
+            "Giga Drain"
+        ],
+        "52": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Earth Power",
+        "Mud-slap",
+        "Seed Bomb",
+        "Superpower",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Worry Seed",
+        "Growth",
+        "Tickle",
+        "Body Slam",
+        "Double-edge",
+        "Sand Tomb",
+        "Seed Bomb",
+        "Thrash",
+        "Amnesia",
+        "Superpower",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "75",
+        "89",
+        "85",
+        "55",
+        "65",
+        "36"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "84 - 126",
+                "94 - 141",
+                "103 - 155"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "36 - 79",
+                "41 - 88",
+                "45 - 96"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "164 - 249",
+                "183 - 277",
+                "201 - 304"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "69 - 153",
+                "77 - 171",
+                "84 - 188"
+            ]
+        ]
+    }
+}

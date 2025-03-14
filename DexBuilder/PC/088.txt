@@ -1,0 +1,243 @@
+{
+    "name": "Grimer",
+    "jp_name": "Betbeter\u30d9\u30c8\u30d9\u30bf\u30fc",
+    "number": " National: #088Johto: #117 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Stench",
+        "Sticky Hold"
+    ],
+    "classification": "Sludge Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "66.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Nugget",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "As it moves, it loses bits of its body, from which new GRIMER emerge. This worsens the stench around it.",
+        "Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again."
+    ],
+    "location": [
+        "Route 16, Route 17, Route 18, Celadon City, Safari Zone",
+        "Route 16, Route 17, Route 18, Celadon City, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Gas",
+            "Pound"
+        ],
+        "4": [
+            "Harden"
+        ],
+        "7": [
+            "Mud-slap"
+        ],
+        "12": [
+            "Disable"
+        ],
+        "17": [
+            "Minimize"
+        ],
+        "20": [
+            "Sludge"
+        ],
+        "23": [
+            "Mud Bomb"
+        ],
+        "33": [
+            "Screech"
+        ],
+        "36": [
+            "Sludge Bomb"
+        ],
+        "39": [
+            "Acid Armor"
+        ],
+        "44": [
+            "Gunk Shot"
+        ],
+        "49": [
+            "Memento"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM56",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Snore",
+        "Gunk Shot",
+        "Mud-slap",
+        "Pain Split"
+    ],
+    "egg_moves": [
+        "Haze",
+        "Mean Look",
+        "Lick",
+        "Imprison",
+        "Curse",
+        "Shadow Punch",
+        "Explosion",
+        "Shadow Sneak",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "80",
+        "80",
+        "50",
+        "40",
+        "50",
+        "25"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,163 @@
+# 	  	Pokémon 	Gender 	Group 	Area Found 	Unlock Method 	Level 	Number of steps 	Rarity 	Item Held
+0016 	Spr 4pw 016.png 	Pidgey 	♂ 	C 	Refreshing Field 	Default 	5 	0+ steps 	Very Common 	None
+0019 	Spr 4pw 019 f.png 	Rattata 	♀ 	C 	Suburban Area 	500 watts 	7 	0+ steps 	Very Common 	None
+0019 	Spr 4pw 019 f.png 	Rattata 	♀ 	C 	Town Outskirts 	3,000 watts 	16 	0+ steps 	Very Common 	None
+0021 	Spr 4pw 021.png 	Spearow 	♂ 	C 	Noisy Forest 	Default 	5 	0+ steps 	Very Common 	None
+0025 	Spr 4pw 025 f.png 	Pikachu 	♀ 	A 	Resort 	80,000 watts 	30 	8000+ steps 	Common 	None
+0025 	Spr 4pw 025 m.png 	Pikachu 	♂ 	A 	Yellow Forest 	Event 	15 	10000+ steps 	Very Rare 	Bag Shuca Berry Sprite.png
+0025 	Spr 4pw 025 f.png 	Pikachu 	♀ 	A 	Yellow Forest 	Event 	14 	9500+ steps 	Very Rare 	Bag Lum Berry Sprite.png
+0025 	Spr 4pw 025 f.png 	Pikachu 	♀ 	B 	Yellow Forest 	Event 	12 	5000+ steps 	Very Rare 	Bag Sitrus Berry Sprite.png
+0025 	Spr 4pw 025 m.png 	Pikachu 	♂ 	B 	Yellow Forest 	Event 	13 	2000+ steps 	Rare 	Bag Leppa Berry Sprite.png
+0025 	Spr 4pw 025 m.png 	Pikachu 	♂ 	C 	Yellow Forest 	Event 	10 	0+ steps 	Very Common 	Bag TinyMushroom Sprite.png
+0025 	Spr 4pw 025 f.png 	Pikachu 	♀ 	C 	Yellow Forest 	Event 	10 	0+ steps 	Very Common 	Bag Oran Berry Sprite.png
+0025 	Spr 4pw 025 f.png 	Pikachu 	♀ 	B 	Rally 	Event 	10 	500+ steps 	Common 	None
+0025 	Spr 4pw 025 f.png 	Pikachu 	♀ 	C 	Sightseeing 	Event 	8 	0+ steps 	Very Common 	None
+0029 	Spr 4pw 029.png 	Nidoran♀ 	♀ 	B 	Refreshing Field 	Default 	5 	500+ steps 	Very Common 	None
+0032 	Spr 4pw 032.png 	Nidoran♂ 	♂ 	B 	Refreshing Field 	Default 	5 	500+ steps 	Very Common 	None
+0035 	Spr 4pw 035.png 	Clefairy 	♀ 	B 	Resort 	80,000 watts 	31 	4000+ steps 	Very Common 	None
+0035 	Spr 4pw 035.png 	Clefairy 	♂ 	A 	Night Sky's Edge 	Jirachi transfer to HGSS 	8 	5000+ steps 	Common 	None
+0039 	Spr 4pw 039.png 	Jigglypuff 	♀ 	B 	Resort 	80,000 watts 	30 	4000+ steps 	Very Common 	None
+0039 	Spr 4pw 039.png 	Jigglypuff 	♂ 	A 	Night Sky's Edge 	Jirachi transfer to HGSS 	10 	5000+ steps 	Common 	None
+0041 	Spr 4pw 041 m.png 	Zubat 	♂ 	C 	Dim Cave 	1,000 watts 	8 	0+ steps 	Very Common 	None
+0041 	Spr 4pw 041 m.png 	Zubat 	♂ 	B 	Night Sky's Edge 	Jirachi transfer to HGSS 	9 	2500+ steps 	Very Common 	None
+0042 	Spr 4pw 042 m.png 	Golbat 	♂ 	B 	Scary Cave 	20,000 watts 	33 	500+ steps 	Very Common 	None
+0042 	Spr 4pw 042 m.png 	Golbat 	♂ 	C 	Quiet Cave 	100,000 watts 	33 	0+ steps 	Very Common 	None
+0043 	Spr 4pw 043.png 	Oddish 	♀ 	C 	Noisy Forest 	Default 	5 	0+ steps 	Very Common 	None
+0044 	Spr 4pw 044 f.png 	Gloom 	♀ 	C 	Treehouse 	15,000 watts 	14 	0+ steps 	Very Common 	None
+0046 	Spr 4pw 046.png 	Paras 	♀ 	B 	Noisy Forest 	Default 	6 	700+ steps 	Very Common 	None
+0048 	Spr 4pw 048.png 	Venonat 	♂ 	B 	Noisy Forest 	Default 	6 	700+ steps 	Very Common 	None
+0052 	Spr 4pw 052.png 	Meowth 	♂ 	C 	Sightseeing 	Event 	10 	0+ steps 	Very Common 	None
+0054 	Spr 4pw 054.png 	Psyduck 	♀ 	A 	Beautiful Beach 	200 watts 	10 	4000+ steps 	Very Common 	None
+0054 	Spr 4pw 054.png 	Psyduck 	♀ 	C 	Stormy Beach 	65,000 watts 	22 	0+ steps 	Very Common 	None
+0060 	Spr 4pw 060.png 	Poliwag 	♂ 	B 	Beautiful Beach 	200 watts 	8 	1500+ steps 	Very Common 	None
+0060 	Spr 4pw 060.png 	Poliwag 	♀ 	A 	Blue Lake 	2,000 watts 	15 	4000+ steps 	Very Common 	None
+0061 	Spr 4pw 061.png 	Poliwhirl 	♀ 	B 	Sightseeing 	Event 	15 	2000+ steps 	Rare 	None
+0063 	Spr 4pw 063.png 	Abra 	♀ 	A 	Town Outskirts 	3,000 watts 	15 	5000+ steps 	Common 	None
+0066 	Spr 4pw 066.png 	Machop 	♀ 	B 	Rugged Road 	50 watts 	7 	1000+ steps 	Very Common 	None
+0066 	Spr 4pw 066.png 	Machop 	♂ 	C 	Dim Cave 	1,000 watts 	8 	0+ steps 	Very Common 	None
+0066 	Spr 4pw 066.png 	Machop 	♂ 	C 	Scary Cave 	20,000 watts 	13 	0+ steps 	Very Common 	None
+0069 	Spr 4pw 069.png 	Bellsprout 	♀ 	A 	Noisy Forest 	Default 	8 	3000+ steps 	Very Common 	None
+0070 	Spr 4pw 070.png 	Weepinbell 	♂ 	C 	Treehouse 	15,000 watts 	13 	0+ steps 	Very Common 	None
+0072 	Spr 4pw 072.png 	Tentacool 	♀ 	C 	Blue Lake 	2,000 watts 	9 	0+ steps 	Very Common 	None
+0074 	Spr 4pw 074.png 	Geodude 	♀ 	C 	Rugged Road 	50 watts 	8 	0+ steps 	Very Common 	None
+0074 	Spr 4pw 074.png 	Geodude 	♂ 	C 	Volcano Path 	10,000 watts 	29 	0+ steps 	Very Common 	None
+0074 	Spr 4pw 074.png 	Geodude 	♂ 	C 	Night Sky's Edge 	Jirachi transfer to HGSS 	5 	0+ steps 	Very Common 	None
+0077 	Spr 4pw 077.png 	Ponyta 	♀ 	B 	Rugged Road 	50 watts 	7 	1000+ steps 	Very Common 	None
+0077 	Spr 4pw 077.png 	Ponyta 	♀ 	C 	Volcano Path 	10,000 watts 	19 	0+ steps 	Very Common 	None
+0079 	Spr 4pw 079.png 	Slowpoke 	♂ 	B 	Beautiful Beach 	200 watts 	8 	1000+ steps 	Very Common 	None
+0081 	Spr 4pw 081.png 	Magnemite 		A 	Suburban Area 	500 watts 	11 	4000+ steps 	Common 	None
+0081 	Spr 4pw 081.png 	Magnemite 		B 	Suburban Area 	500 watts 	8 	1000+ steps 	Very Common 	None
+0084 	Spr 4pw 084 f.png 	Doduo 	♀ 	A 	Refreshing Field 	Default 	8 	2000+ steps 	Very Common 	None
+0086 	Spr 4pw 086.png 	Seel 	♀ 	B 	Stormy Beach 	65,000 watts 	27 	1500+ steps 	Very Common 	None
+0088 	Spr 4pw 088.png 	Grimer 	♂ 	B 	Town Outskirts 	3,000 watts 	13 	1500+ steps 	Very Common 	None
+0090 	Spr 4pw 090.png 	Shellder 	♀ 	B 	Blue Lake 	2,000 watts 	12 	500+ steps 	Very Common 	None
+0090 	Spr 4pw 090.png 	Shellder 	♂ 	C 	Stormy Beach 	65,000 watts 	20 	0+ steps 	Very Common 	None
+0092 	Spr 4pw 092.png 	Gastly 	♀ 	A 	Dim Cave 	1,000 watts 	15 	5000+ steps 	Rare 	None
+0092 	Spr 4pw 092.png 	Gastly 	♀ 	B 	Dim Cave 	1,000 watts 	10 	1000+ steps 	Very Common 	None
+0092 	Spr 4pw 092.png 	Gastly 	♀ 	C 	Scary Cave 	20,000 watts 	15 	0+ steps 	Very Common 	None
+0093 	Spr 4pw 093.png 	Haunter 	♂ 	B 	White Lake 	50,000 watts 	25 	500+ steps 	Very Common 	None
+0095 	Spr 4pw 095.png 	Onix 	♂ 	A 	Rugged Road 	50 watts 	9 	4000+ steps 	Very Common 	None
+0095 	Spr 4pw 095.png 	Onix 	♂ 	B 	Dim Cave 	1,000 watts 	10 	1000+ steps 	Very Common 	None
+0095 	Spr 4pw 095.png 	Onix 	♀ 	C 	Night Sky's Edge 	Jirachi transfer to HGSS 	5 	0+ steps 	Very Common 	None
+0098 	Spr 4pw 098.png 	Krabby 	♂ 	B 	Blue Lake 	2,000 watts 	12 	500+ steps 	Very Common 	None
+0100 	Spr 4pw 100.png 	Voltorb 		A 	Town Outskirts 	3,000 watts 	15 	3000+ steps 	Very Common 	None
+0102 	Spr 4pw 102.png 	Exeggcute 	♀ 	C 	Big Forest 	40,000 watts 	17 	0+ steps 	Very Common 	None
+0105 	Spr 4pw 105.png 	Marowak 	♀ 	A 	Scary Cave 	20,000 watts 	30 	5000+ steps 	Common 	None
+0109 	Spr 4pw 109.png 	Koffing 	♀ 	B 	Town Outskirts 	3,000 watts 	13 	1500+ steps 	Very Common 	None
+0111 	Spr 4pw 111 m.png 	Rhyhorn 	♂ 	B 	Volcano Path 	10,000 watts 	25 	2000+ steps 	Very Common 	None
+0114 	Spr 4pw 114.png 	Tangela 	♀ 	B 	Big Forest 	40,000 watts 	30 	1000+ steps 	Very Common 	None
+0115 	Spr 4pw 115.png 	Kangaskhan 	♀ 	A 	Refreshing Field 	Default 	8 	3000+ steps 	Common 	None
+0116 	Spr 4pw 116.png 	Horsea 	♀ 	B 	Warm Beach 	7,500 watts 	20 	1500+ steps 	Very Common 	None
+0116 	Spr 4pw 116.png 	Horsea 	♂ 	B 	Beyond the Sea 	Obtain a foreign Pokémon through GTS 	15 	2500+ steps 	Common 	None
+0116 	Spr 4pw 116.png 	Horsea 	♂ 	B 	Winner's Path 	Event 	5 	3000+ steps 	Common 	Bag Dragon Scale Sprite.png
+0118 	Spr 4pw 118 f.png 	Goldeen 	♀ 	C 	Blue Lake 	2,000 watts 	9 	0+ steps 	Very Common 	None
+0118 	Spr 4pw 118 f.png 	Goldeen 	♀ 	C 	Warm Beach 	7,500 watts 	22 	0+ steps 	Very Common 	None
+0120 	Spr 4pw 120.png 	Staryu 		A 	Beautiful Beach 	200 watts 	10 	5000+ steps 	Very Common 	None
+0120 	Spr 4pw 120.png 	Staryu 		A 	Beyond the Sea 	Obtain a foreign Pokémon through GTS 	18 	5000+ steps 	Rare 	Bag Water Stone Sprite.png
+0128 	Spr 4pw 128.png 	Tauros 	♂ 	A 	Scary Cave 	20,000 watts 	30 	5000+ steps 	Common 	None
+0129 	Spr 4pw 129 f.png 	Magikarp 	♀ 	C 	Warm Beach 	7,500 watts 	15 	0+ steps 	Very Common 	None
+0129 	Spr 4pw 129 f.png 	Magikarp 	♀ 	B 	Stormy Beach 	65,000 watts 	30 	500+ steps 	Very Common 	None
+0129 	Spr 4pw 129 m.png 	Magikarp 	♂ 	C 	Winner's Path 	Event 	5 	0+ steps 	Very Common 	Bag Wacan Berry Sprite.png
+0133 	Spr 4pw 133.png 	Eevee 	♂ 	A 	Sightseeing 	Event 	10 	7000+ steps 	Very Rare 	None
+0147 	Spr 4pw 147.png 	Dratini 	♀ 	A 	Blue Lake 	2,000 watts 	10 	5000+ steps 	Rare 	None
+0161 	Spr 4pw 161.png 	Sentret 	♀ 	C 	Refreshing Field 	Default 	5 	0+ steps 	Very Common 	None
+0162 	Spr 4pw 162.png 	Furret 	♂ 	C 	Town Outskirts 	3,000 watts 	15 	0+ steps 	Very Common 	None
+0163 	Spr 4pw 163.png 	Hoothoot 	♀ 	C 	Rugged Road 	50 watts 	6 	0+ steps 	Very Common 	None
+0163 	Spr 4pw 163.png 	Hoothoot 	♀ 	C 	Suburban Area 	500 watts 	7 	0+ steps 	Very Common 	None
+0163 	Spr 4pw 163.png 	Hoothoot 	♀ 	B 	Night Sky's Edge 	Jirachi transfer to HGSS 	6 	2500+ steps 	Very Common 	None
+0164 	Spr 4pw 164.png 	Noctowl 	♀ 	C 	Quiet Cave 	100,000 watts 	30 	0+ steps 	Very Common 	None
+0170 	Spr 4pw 170.png 	Chinchou 	♀ 	C 	White Lake 	50,000 watts 	17 	0+ steps 	Very Common 	None
+0170 	Spr 4pw 170.png 	Chinchou 	♀ 	C 	Beyond the Sea 	Obtain a foreign Pokémon through GTS 	12 	0+ steps 	Very Common 	None
+0173 	Spr 4pw 173.png 	Cleffa 	♀ 	C 	Amity Meadow 	Event 	5 	0+ steps 	Very Common 	Bag Qualot Berry Sprite.png
+0174 	Spr 4pw 174.png 	Igglybuff 	♂ 	C 	Amity Meadow 	Event 	5 	0+ steps 	Very Common 	Bag Grepa Berry Sprite.png
+0177 	Spr 4pw 177.png 	Natu 	♀ 	B 	Scary Cave 	20,000 watts 	24 	1000+ steps 	Very Common 	None
+0179 	Spr 4pw 179.png 	Mareep 	♀ 	C 	Icy Mountain Rd. 	30,000 watts 	15 	0+ steps 	Very Common 	None
+0179 	Spr 4pw 179.png 	Mareep 	♂ 	C 	Big Forest 	40,000 watts 	19 	0+ steps 	Very Common 	None
+0183 	Spr 4pw 183.png 	Marill 	♀ 	C 	Resort 	80,000 watts 	25 	0+ steps 	Very Common 	None
+0187 	Spr 4pw 187.png 	Hoppip 	♀ 	C 	Resort 	80,000 watts 	25 	0+ steps 	Very Common 	None
+0191 	Spr 4pw 191.png 	Sunkern 	♀ 	C 	Beautiful Beach 	200 watts 	6 	0+ steps 	Very Common 	None
+0194 	Spr 4pw 194 m.png 	Wooper 	♂ 	C 	Beautiful Beach 	200 watts 	6 	0+ steps 	Very Common 	None
+0198 	Spr 4pw 198 f.png 	Murkrow 	♀ 	B 	Suburban Area 	500 watts 	11 	1000+ steps 	Common 	None
+0200 	Spr 4pw 200.png 	Misdreavus 	♀ 	A 	White Lake 	50,000 watts 	32 	6000+ steps 	Common 	None
+0202 	Spr 4pw 202 f.png 	Wobbuffet 	♀ 	A 	Noisy Forest 	Default 	15 	4000+ steps 	Rare 	None
+0203 	Spr 4pw 203 f.png 	Girafarig 	♀ 	B 	Treehouse 	15,000 watts 	28 	1000+ steps 	Very Common 	None
+0215 	Spr 4pw 215 m.png 	Sneasel 	♂ 	B 	Icy Mountain Rd. 	30,000 watts 	28 	3000+ steps 	Very Common 	None
+0218 	Spr 4pw 218.png 	Slugma 	♀ 	A 	Volcano Path 	10,000 watts 	31 	5000+ steps 	Very Common 	None
+0220 	Spr 4pw 220.png 	Swinub 	♀ 	C 	Icy Mountain Rd. 	30,000 watts 	16 	0+ steps 	Very Common 	None
+0222 	Spr 4pw 222.png 	Corsola 	♀ 	B 	Beyond the Sea 	Obtain a foreign Pokémon through GTS 	16 	2500+ steps 	Common 	None
+0223 	Spr 4pw 223.png 	Remoraid 	♀ 	C 	White Lake 	50,000 watts 	19 	0+ steps 	Very Common 	None
+0223 	Spr 4pw 223.png 	Remoraid 	♂ 	C 	Beyond the Sea 	Obtain a foreign Pokémon through GTS 	14 	0+ steps 	Very Common 	None
+0224 	Spr 4pw 224 f.png 	Octillery 	♀ 	A 	Beyond the Sea 	Obtain a foreign Pokémon through GTS 	19 	5000+ steps 	Very Rare 	Bag Focus Band Sprite.png
+0228 	Spr 4pw 228.png 	Houndour 	♂ 	B 	Volcano Path 	10,000 watts 	27 	2000+ steps 	Very Common 	None
+0234 	Spr 4pw 234.png 	Stantler 	♀ 	B 	Treehouse 	15,000 watts 	28 	1000+ steps 	Very Common 	None
+0238 	Spr 4pw 238.png 	Smoochum 	♀ 	A 	Dim Cave 	1,000 watts 	12 	5000+ steps 	Common 	None
+0238 	Spr 4pw 238.png 	Smoochum 	♀ 	B 	Amity Meadow 	Event 	5 	2000+ steps 	Common 	Bag Hondew Berry Sprite.png
+0239 	Spr 4pw 239.png 	Elekid 	♂ 	A 	Suburban Area 	500 watts 	11 	5000+ steps 	Very Rare 	None
+0239 	Spr 4pw 239.png 	Elekid 	♂ 	A 	Amity Meadow 	Event 	5 	5000+ steps 	Rare 	Bag Tamato Berry Sprite.png
+0240 	Spr 4pw 240.png 	Magby 	♂ 	A 	Rugged Road 	50 watts 	9 	5000+ steps 	Common 	None
+0240 	Spr 4pw 240.png 	Magby 	♂ 	A 	Amity Meadow 	Event 	5 	5000+ steps 	Rare 	Bag Kelpsy Berry Sprite.png
+0255 	Spr 4pw 255 m.png 	Torchic 	♂ 	A 	Sightseeing 	Event 	10 	10000+ steps 	Very Rare 	None
+0263 	Spr 4pw 263.png 	Zigzagoon 	♀ 	C 	Hoenn Field 	5,000 watts 	17 	0+ steps 	Very Common 	None
+0264 	Spr 4pw 264.png 	Linoone 	♀ 	A 	Hoenn Field 	5,000 watts 	30 	5000+ steps 	Very Common 	None
+0265 	Spr 4pw 265.png 	Wurmple 	♀ 	C 	Hoenn Field 	5,000 watts 	15 	0+ steps 	Very Common 	None
+0279 	Spr 4pw 279.png 	Pelipper 	♂ 	B 	Sightseeing 	Event 	15 	3000+ steps 	Rare 	None
+0298 	Spr 4pw 298.png 	Azurill 	♀ 	A 	Warm Beach 	7,500 watts 	20 	5000+ steps 	Common 	None
+0300 	Spr 4pw 300.png 	Skitty 	♀ 	A 	Hoenn Field 	5,000 watts 	30 	7500+ steps 	Common 	None
+0302 	Spr 4pw 302.png 	Sableye 	♀ 	A 	Rally 	Event 	15 	1000+ steps 	Rare 	None
+0307 	Spr 4pw 307 m.png 	Meditite 	♂ 	A 	Volcano Path 	10,000 watts 	32 	5000+ steps 	Very Common 	None
+0313 	Spr 4pw 313.png 	Volbeat 	♂ 	B 	Hoenn Field 	5,000 watts 	25 	2000+ steps 	Very Common 	None
+0314 	Spr 4pw 314.png 	Illumise 	♀ 	B 	Hoenn Field 	5,000 watts 	25 	2000+ steps 	Very Common 	None
+0318 	Spr 4pw 318.png 	Carvanha 	♀ 	B 	Warm Beach 	7,500 watts 	26 	1500+ steps 	Very Common 	None
+0320 	Spr 4pw 320.png 	Wailmer 	♀ 	A 	Warm Beach 	7,500 watts 	31 	7000+ steps 	Common 	None
+0349 	Spr 4pw 349.png 	Feebas 	♂ 	B 	Quiet Cave 	100,000 watts 	30 	500+ steps 	Rare 	None
+0351 	Spr 4pw 351.png 	Castform 	♀ 	A 	Treehouse 	15,000 watts 	30 	5000+ steps 	Rare 	None
+0352 	Spr 4pw 352.png 	Kecleon 	♂ 	A 	Treehouse 	15,000 watts 	30 	5000+ steps 	Rare 	None
+0355 	Spr 4pw 355.png 	Duskull 	♂ 	B 	Winner's Path 	Event 	5 	3000+ steps 	Common 	Bag Reaper Cloth Sprite.png
+0357 	Spr 4pw 357.png 	Tropius 	♀ 	A 	Big Forest 	40,000 watts 	35 	6000+ steps 	Common 	None
+0361 	Spr 4pw 361.png 	Snorunt 	♀ 	A 	Icy Mountain Rd. 	30,000 watts 	28 	10000+ steps 	Common 	None
+0374 	Spr 4pw 374.png 	Beldum 		A 	Winner's Path 	Event 	5 	8000+ steps 	Rare 	Bag Shuca Berry Sprite.png
+0399 	Spr 4pw 399 f.png 	Bidoof 	♀ 	C 	Sinnoh Field 	25,000 watts 	13 	0+ steps 	Very Common 	None
+0400 	Spr 4pw 400 f.png 	Bibarel 	♀ 	B 	Big Forest 	40,000 watts 	30 	1000+ steps 	Very Common 	None
+0401 	Spr 4pw 401 m.png 	Kricketot 	♂ 	C 	Sinnoh Field 	25,000 watts 	15 	0+ steps 	Very Common 	None
+0403 	Spr 4pw 403 f.png 	Shinx 	♀ 	B 	Sinnoh Field 	25,000 watts 	33 	3000+ steps 	Very Common 	None
+0406 	Spr 4pw 406.png 	Budew 	♂ 	B 	Sinnoh Field 	25,000 watts 	30 	3000+ steps 	Very Common 	None
+0415 	Spr 4pw 415 m.png 	Combee 	♂ 	A 	Sinnoh Field 	25,000 watts 	30 	7000+ steps 	Common 	None
+0417 	Spr 4pw 417 f.png 	Pachirisu 	♀ 	A 	Resort 	80,000 watts 	33 	8000+ steps 	Common 	None
+0417 	Spr 4pw 417 m.png 	Pachirisu 	♂ 	C 	Rally 	Event 	5 	0+ steps 	Very Common 	None
+0418 	Spr 4pw 418 m.png 	Buizel 	♂ 	B 	White Lake 	50,000 watts 	28 	1000+ steps 	Very Common 	None
+0422 	Spr 4pw 422-West.png 	Shellos 	♀ 	A 	Stormy Beach 	65,000 watts 	30 	5000+ steps 	Very Common 	None
+0427 	Spr 4pw 427.png 	Buneary 	♀ 	C 	Rally 	Event 	5 	0+ steps 	Very Common 	None
+0433 	Spr 4pw 433.png 	Chingling 	♀ 	A 	White Lake 	50,000 watts 	22 	5000+ steps 	Common 	None
+0433 	Spr 4pw 433.png 	Chingling 	♀ 	B 	Quiet Cave 	100,000 watts 	26 	500+ steps 	Common 	None
+0436 	Spr 4pw 436.png 	Bronzor 		B 	Icy Mountain Rd. 	30,000 watts 	20 	3000+ steps 	Very Common 	None
+0436 	Spr 4pw 436.png 	Bronzor 		C 	Winner's Path 	Event 	5 	0+ steps 	Very Common 	Bag Occa Berry Sprite.png
+0438 	Spr 4pw 438.png 	Bonsly 	♂ 	A 	Big Forest 	40,000 watts 	30 	5000+ steps 	Common 	None
+0439 	Spr 4pw 439.png 	Mime Jr. 	♂ 	A 	Sinnoh Field 	25,000 watts 	29 	7000+ steps 	Common 	None
+0440 	Spr 4pw 440.png 	Happiny 	♀ 	B 	Amity Meadow 	Event 	5 	2000+ steps 	Common 	Bag Pomeg Berry Sprite.png
+0441 	Spr 4pw 441.png 	Chatot 	♂ 	A 	Rally 	Event 	15 	1000+ steps 	Rare 	None
+0442 	Spr 4pw 442.png 	Spiritomb 	♂ 	A 	Quiet Cave 	100,000 watts 	31 	10000+ steps 	Very Rare 	None
+0446 	Spr 4pw 446.png 	Munchlax 	♂ 	A 	Winner's Path 	Event 	5 	8000+ steps 	Very Rare 	Bag Leftovers Sprite.png
+0446 	Spr 4pw 446.png 	Munchlax 	♂ 	A 	Quiet Cave 	100,000 watts 	33 	10000+ steps 	Very Rare 	None
+0453 	Spr 4pw 453 m.png 	Croagunk 	♂ 	B 	Rally 	Event 	10 	500+ steps 	Common 	None
+0456 	Spr 4pw 456 f.png 	Finneon 	♀ 	A 	Stormy Beach 	65,000 watts 	26 	4000+ steps 	Rare 	None
+0459 	Spr 4pw 459 m.png 	Snover 	♂ 	A 	Icy Mountain Rd. 	30,000 watts 	31 	10000+ steps 	Common 	None

@@ -1,0 +1,258 @@
+{
+    "name": "Salamence",
+    "jp_name": "Boomanda\u30dc\u30fc\u30de\u30f3\u30c0",
+    "number": " National: #373",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Intimidate"
+    ],
+    "classification": "Dragon Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "226.2lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0.25",
+        "4",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Dragon Fang",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Dragon"
+    ],
+    "flavor_text": [
+        "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains."
+    ],
+    "location": [
+        "Evolve Shelgon",
+        "Evolve Shelgon"
+    ],
+    "learnset": {
+        "0": [
+            "Fire Fang",
+            "Thunder Fang",
+            "Rage",
+            "Bite",
+            "Leer",
+            "Headbutt"
+        ],
+        "5": [
+            "Bite"
+        ],
+        "10": [
+            "Leer"
+        ],
+        "16": [
+            "Headbutt"
+        ],
+        "20": [
+            "Focus Energy"
+        ],
+        "25": [
+            "Ember"
+        ],
+        "30": [
+            "Protect"
+        ],
+        "32": [
+            "Dragonbreath"
+        ],
+        "37": [
+            "Zen Headbutt"
+        ],
+        "43": [
+            "Scary Face"
+        ],
+        "50": [
+            "Fly"
+        ],
+        "53": [
+            "Crunch"
+        ],
+        "61": [
+            "Dragon Claw"
+        ],
+        "70": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM68",
+        "TM71",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Heat Wave",
+        "Mud-slap",
+        "Outrage",
+        "Rollout",
+        "Twister",
+        "Tailwind",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Hydro Pump",
+        "Thrash",
+        "Dragon Rage",
+        "Twister",
+        "Dragon Dance",
+        "Fire Fang",
+        "Shadow Claw",
+        "Dragon Rush"
+    ],
+    "stats": [
+        "95",
+        "135",
+        "80",
+        "110",
+        "80",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "126 - 168",
+                "140 - 187",
+                "154 - 205"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "247 - 332",
+                "275 - 369",
+                "302 - 405"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

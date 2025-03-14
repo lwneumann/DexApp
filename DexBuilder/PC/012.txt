@@ -1,0 +1,231 @@
+{
+    "name": "Butterfree",
+    "jp_name": "Batterfree\u30d0\u30bf\u30d5\u30ea\u30fc",
+    "number": " National: #012Johto: #026 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Compoundeyes"
+    ],
+    "classification": "Butterfly Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "70.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Silver Powder",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+        "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains."
+    ],
+    "location": [
+        "Route 2, Viridian Forest, Ilex Forest (Headbutt), Bug Catching Contest",
+        "Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Confusion"
+        ],
+        "10": [
+            "Confusion"
+        ],
+        "12": [
+            "Poisonpowder",
+            "Stun Spore",
+            "Sleep Powder"
+        ],
+        "16": [
+            "Gust"
+        ],
+        "18": [
+            "Supersonic"
+        ],
+        "22": [
+            "Whirlwind"
+        ],
+        "24": [
+            "Psybeam"
+        ],
+        "28": [
+            "Silver Wind"
+        ],
+        "30": [
+            "Tailwind"
+        ],
+        "34": [
+            "Safeguard"
+        ],
+        "36": [
+            "Captivate"
+        ],
+        "40": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM51",
+        "TM53",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM89",
+        "TM90",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Signal Beam",
+        "Twister",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "stats": [
+        "60",
+        "45",
+        "50",
+        "80",
+        "80",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,6310 @@
+
+
+Images
+
+
+ 
+D/P
+ 
+Plant Cloak
+Sandy Cloak
+Trash Cloak
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+ 
+Pt/HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Wormadam
+Minomadamuミノマダム
+ National: #413Sinnoh: #046 
+ Male ♂:0%Female ♀:100%
+Plant Cloak Sandy Cloak Trash Cloak 
+
+
+Ability: Anticipation 
+
+
+
+Anticipation: Warns when the foe knows 1-hit KO or super-effective moves. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Bagworm Pokémon
+1'08"
+14.3lbs
+45
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Sp. Defense Point(s)
+Gray
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*4
+*0.5
+*0.5
+*0.25
+*2
+*0.5
+*2
+*0.25
+*4
+*1
+*2
+*2
+*1
+*1
+*1
+*1
+
+
+
+		Damage Taken Sandy Cloak
+
+
+
+*1
+*2
+*2
+*0
+*1
+*2
+*0.5
+*0.5
+*0.5
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+
+
+
+		Damage Taken Trash Cloak
+
+
+
+*0.5
+*4
+*1
+*1
+*0.25
+*0.5
+*1
+*0
+*1
+*1
+*0.5
+*0.5
+*1
+*0.5
+*0.5
+*0.5
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Silver Powder - 5%
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+Alternate Forms
+
+
+ 
+Plant CloakSandy CloakTrash Cloak
+Wormadam keeps the form of whatever Cloak Burmy had at the time of evolution
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		When BURMY evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.
+		
+
+
+Pearl
+		
+
+		Its appearance changes depending on where it evolved. The materials on hand become a part of its body.
+		
+ 
+Platinum
+		
+
+		When evolving, its body takes in surrounding materials. As a result, there are many body variations.
+		
+ 
+HeartGold 
+		It is said that a WORMADAM that evolves on a cold day will have a thicker cloak.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Evolve from Burmy
+		
+
+
+Pearl
+		
+
+		Evolve from Burmy
+		
+
+Platinum
+		
+
+		Evolve Burmy
+		
+
+
+HeartGold
+		
+
+		Evolve Burmy
+		
+
+
+SoulSilver
+		
+
+		Evolve Burmy
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Diamond/Pearl Level Up (Sandy Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Rock Blast258010--The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.29Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.Diamond/Pearl Level Up (Trash Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Mirror Shot65851030The user looses a flash of energy from its polished body. It may also lower the target's accuracy.29Metal Sound--8540--A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Evolve from Burmy
+		
+
+
+Pearl
+		
+
+		Evolve from Burmy
+		
+
+Platinum
+		
+
+		Evolve Burmy
+		
+
+
+HeartGold
+		
+
+		Evolve Burmy
+		
+
+
+SoulSilver
+		
+
+		Evolve Burmy
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Diamond/Pearl Level Up (Sandy Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Rock Blast258010--The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.29Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.Diamond/Pearl Level Up (Trash Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Mirror Shot65851030The user looses a flash of energy from its polished body. It may also lower the target's accuracy.29Metal Sound--8540--A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Diamond/Pearl Level Up (Sandy Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Rock Blast258010--The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.29Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.Diamond/Pearl Level Up (Trash Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Mirror Shot65851030The user looses a flash of energy from its polished body. It may also lower the target's accuracy.29Metal Sound--8540--A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.15Bug Bite6010020--The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Razor Leaf559525--Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.29Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Diamond/Pearl Level Up (Sandy Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Rock Blast258010--The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.29Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.Diamond/Pearl Level Up (Trash Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Mirror Shot65851030The user looses a flash of energy from its polished body. It may also lower the target's accuracy.29Metal Sound--8540--A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level Up (Sandy Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Rock Blast258010--The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.29Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.Diamond/Pearl Level Up (Trash Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Mirror Shot65851030The user looses a flash of energy from its polished body. It may also lower the target's accuracy.29Metal Sound--8540--A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level Up (Trash Cloak)LevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.20Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.23Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.26Mirror Shot65851030The user looses a flash of energy from its polished body. It may also lower the target's accuracy.29Metal Sound--8540--A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.32Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 35Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.38Flail??10015--The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.41Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.44Psychic901001010The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.47Iron Head801001530The foe slams the target with its steel-hard head. It may also make the target flinch.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %FormTM06
+Toxic
+
+
+--
+85
+10
+--
+
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM26
+Earthquake
+
+
+100
+100
+10
+--
+
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM37
+Sandstorm
+
+
+--
+--
+10
+--
+
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM42
+Facade
+
+
+70
+100
+20
+--
+
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+
+The user employs its psychic power to exchange abilities with the foe. TM53
+Energy Ball
+
+
+80
+100
+10
+10
+
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM77
+Psych Up
+
+
+--
+--
+10
+--
+
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head
+
+
+80
+100
+15
+30
+
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéthlon Stats - Plant Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sandy Cloak
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Trash Cloak>
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+59
+85
+79
+105
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+57 - 99
+81 - 123
+75 - 117
+99 - 141
+36 - 79
+Lv. 100
+230 - 324
+110 - 195
+157 - 242
+146 - 231
+193 - 278
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+64 - 111
+90 - 137
+84 - 131
+110 - 157
+41 - 88
+Lv. 100
+230 - 324
+123 - 217
+175 - 269
+163 - 257
+215 - 309
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+70 - 122
+99 - 150
+92 - 144
+121 - 172
+45 - 96
+Lv. 100
+230 - 324
+135 - 238
+192 - 295
+179 - 282
+236 - 339
+84 - 188
+
+Stats - Sandy Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+79
+105
+59
+85
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+75 - 117
+99 - 141
+57 - 99
+81 - 123
+36 - 79
+Lv. 100
+230 - 324
+146 - 231
+193 - 278
+110 - 195
+157 - 242
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+84 - 131
+110 - 157
+64 - 111
+90 - 137
+41 - 88
+Lv. 100
+230 - 324
+163 - 257
+215 - 309
+123 - 217
+175 - 269
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+92 - 144
+121 - 172
+70 - 122
+99 - 150
+45 - 96
+Lv. 100
+230 - 324
+179 - 282
+236 - 339
+135 - 238
+192 - 295
+84 - 188
+
+Stats - Trash Cloak
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+69
+95
+69
+95
+36
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+66 - 108
+90 - 132
+66 - 108
+90 - 132
+36 - 79
+Lv. 100
+230 - 324
+128 - 213
+175 - 260
+128 - 213
+175 - 260
+69 - 153
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+74 - 121
+100 - 147
+74 - 121
+100 - 147
+41 - 88
+Lv. 100
+230 - 324
+143 - 237
+195 - 289
+143 - 237
+195 - 289
+77 - 171
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+81 - 133
+110 - 161
+81 - 133
+110 - 161
+45 - 96
+Lv. 100
+230 - 324
+157 - 260
+214 - 317
+157 - 260
+214 - 317
+84 - 188
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#412Burmy
+		
+
+
+
+
+
+
+
+#414Mothim
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

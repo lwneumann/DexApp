@@ -1,0 +1,145 @@
+{
+    "name": "Unown",
+    "jp_name": "Annon\u30a2\u30f3\u30ce\u30fc\u30f3",
+    "number": " National: #201Sinnoh: #114 Johto: #061 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Symbol Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "11.0lbs",
+    "capture_rate": "225",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+        "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+    ],
+    "location": [
+        "Ruins of Alph",
+        "Ruins of Alph"
+    ],
+    "learnset": {},
+    "TMHM": [
+        " it.",
+        "tats",
+        "tats",
+        ". 50",
+        " 300",
+        " 155",
+        " 243",
+        " 136",
+        " 214",
+        ""
+    ],
+    "stats": [
+        "48",
+        "72",
+        "48",
+        "72",
+        "48",
+        "48"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "108 - 155",
+                "108 - 155",
+                "108 - 155"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ]
+        ],
+        "100": [
+            [
+                "206 - 300",
+                "206 - 300",
+                "206 - 300"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ]
+        ]
+    }
+}

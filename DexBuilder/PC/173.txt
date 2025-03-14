@@ -1,0 +1,238 @@
+{
+    "name": "Cleffa",
+    "jp_name": "Piii\u30d4\u30a3",
+    "number": " National: #173Sinnoh: #099 Johto: #040 ",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Cute Charm",
+        "Magic Guard"
+    ],
+    "classification": "Star Shape Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "6.6lbs",
+    "capture_rate": "150",
+    "base_egg_steps": "2,560",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "140",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Leppa Berry",
+            "50"
+        ],
+        [
+            "Moon Stone",
+            "5"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+        "When numerous meteors illuminate the night sky, sightings of CLEFFA strangely increase."
+    ],
+    "location": [
+        "Breed Clefairy/Clefable",
+        "Breed Clefairy/Clefable"
+    ],
+    "learnset": {
+        "0": [
+            "Pound",
+            "Charm"
+        ],
+        "4": [
+            "Encore"
+        ],
+        "7": [
+            "Sing"
+        ],
+        "10": [
+            "Sweet Kiss"
+        ],
+        "13": [
+            "Copycat"
+        ],
+        "16": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Uproar",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Signal Beam",
+        "Gravity",
+        "Role Play",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Present",
+        "Metronome",
+        "Amnesia",
+        "Belly Drum",
+        "Splash",
+        "Mimic",
+        "Wish",
+        "Substitute",
+        "Fake Tears",
+        "Covet",
+        "Aromatherapy"
+    ],
+    "stats": [
+        "50",
+        "25",
+        "28",
+        "45",
+        "55",
+        "15"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "29 - 72",
+                "33 - 80",
+                "36 - 88"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "54 - 139",
+                "61 - 155",
+                "67 - 170"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ]
+        ]
+    }
+}

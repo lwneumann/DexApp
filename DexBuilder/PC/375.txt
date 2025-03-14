@@ -1,0 +1,244 @@
+{
+    "name": "Metang",
+    "jp_name": "Metang\u30e1\u30bf\u30f3\u30b0",
+    "number": " National: #375",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Clear Body"
+    ],
+    "classification": "Iron Claw Pok\u0137mon",
+    "height": "3'11\"",
+    "weight": "446.4lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0",
+        "2",
+        "0.5",
+        "0.25",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Metal Coat",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "When two BELDUM fuse together, a magnetic nervous system places their brains in union."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Magnet Rise",
+            "Take Down",
+            "Metal Claw",
+            "Confusion"
+        ],
+        "20": [
+            "Metal Claw",
+            "Confusion"
+        ],
+        "24": [
+            "Scary Face"
+        ],
+        "28": [
+            "Pursuit"
+        ],
+        "32": [
+            "Bullet Punch"
+        ],
+        "36": [
+            "Psychic"
+        ],
+        "40": [
+            "Iron Defense"
+        ],
+        "44": [
+            "Agility"
+        ],
+        "48": [
+            "Meteor Mash"
+        ],
+        "52": [
+            "Zen Headbutt"
+        ],
+        "56": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM58",
+        "TM64",
+        "TM69",
+        "TM70",
+        "TM74",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Signal Beam",
+        "Gravity",
+        "Headbutt",
+        "Base/Max Pok\u0137athlon Stats",
+        "Sp. Attack",
+        "50",
+        "Lv. 100",
+        "120 - 167",
+        "205 - 299",
+        "66 - 117",
+        "115 - 218"
+    ],
+    "stats": [
+        "60",
+        "75",
+        "100",
+        "55",
+        "80",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

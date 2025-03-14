@@ -1,0 +1,222 @@
+{
+    "name": "Exeggutor",
+    "jp_name": "Nassy\u30ca\u30c3\u30b7\u30fc",
+    "number": " National: #103Johto: #106 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Coconut Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "264.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "4",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "Its three heads think independently. However, they are friendly and never appear to squabble.",
+        "If a head drops off, it emits a telepathic call in search of others to form an EXEGGCUTE cluster."
+    ],
+    "location": [
+        "Evolve Exeggcute",
+        "Evolve Exeggcute"
+    ],
+    "learnset": {
+        "0": [
+            "Seed Bomb",
+            "Barrage",
+            "Hypnosis",
+            "Confusion",
+            "Stomp"
+        ],
+        "17": [
+            "Stomp"
+        ],
+        "27": [
+            "Egg Bomb"
+        ],
+        "37": [
+            "Wood Hammer"
+        ],
+        "47": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM33",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM53",
+        "TM58",
+        "TM64",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Zen Headbutt",
+        "Snore",
+        "Synthesis",
+        "Ancientpower",
+        "Rollout",
+        "Seed Bomb",
+        "Gravity",
+        "Worry Seed",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Synthesis",
+        "Moonlight",
+        "Reflect",
+        "Ancientpower",
+        "Psych Up",
+        "Ingrain",
+        "Curse",
+        "Nature Power",
+        "Lucky Chant",
+        "Leaf Storm",
+        "Power Swap"
+    ],
+    "stats": [
+        "95",
+        "95",
+        "85",
+        "125",
+        "65",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

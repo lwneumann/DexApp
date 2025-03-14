@@ -1,0 +1,253 @@
+{
+    "name": "Kadabra",
+    "jp_name": "Yunghelor\u30e6\u30f3\u30b2\u30e9\u30fc",
+    "number": " National: #064Sinnoh: #021 Johto: #090 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Synchronize",
+        "Inner Focus"
+    ],
+    "classification": "Psi Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "125.0lbs",
+    "capture_rate": "100",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Twisted Spoon",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+        "If it uses its abilities, it emits special alpha waves that cause machines to malfunction."
+    ],
+    "location": [
+        "Route 8, Cerulean Cave",
+        "Route 8, Cerulean Cave"
+    ],
+    "learnset": {
+        "0": [
+            "Teleport",
+            "Kinesis",
+            "Confusion"
+        ],
+        "16": [
+            "Confusion"
+        ],
+        "18": [
+            "Disable"
+        ],
+        "22": [
+            "Miracle Eye"
+        ],
+        "24": [
+            "Psybeam"
+        ],
+        "28": [
+            "Reflect"
+        ],
+        "30": [
+            "Recover"
+        ],
+        "34": [
+            "Psycho Cut"
+        ],
+        "36": [
+            "Role Play"
+        ],
+        "40": [
+            "Psychic"
+        ],
+        "42": [
+            "Future Sight"
+        ],
+        "46": [
+            "Trick"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM53",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM63",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Knock Off",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Signal Beam",
+        "Gravity",
+        "Role Play",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Encore",
+        "Barrier",
+        "Knock Off",
+        "Fire Punch",
+        "Thunderpunch",
+        "Ice Punch",
+        "Power Trick",
+        "Guard Swap"
+    ],
+    "stats": [
+        "40",
+        "35",
+        "30",
+        "120",
+        "70",
+        "105"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "name": "Rhydon",
+    "jp_name": "Sidon\u30b5\u30a4\u30c9\u30f3",
+    "number": " National: #112Sinnoh: #187 Johto: #212 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Lightningrod",
+        "Rock Head"
+    ],
+    "classification": "Drill Pok\u00e9mon",
+    "height": "6'03\"",
+    "weight": "265.0lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "0.5",
+        "0.5",
+        "4",
+        "0",
+        "4",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
+        "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Horn Attack",
+            "Tail Whip",
+            "Stomp",
+            "Fury Attack"
+        ],
+        "9": [
+            "Stomp"
+        ],
+        "13": [
+            "Fury Attack"
+        ],
+        "21": [
+            "Scary Face"
+        ],
+        "25": [
+            "Rock Blast"
+        ],
+        "33": [
+            "Take Down"
+        ],
+        "42": [
+            "Hammer Arm"
+        ],
+        "45": [
+            "Stone Edge"
+        ],
+        "49": [
+            "Earthquake"
+        ],
+        "57": [
+            "Megahorn"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM72",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Endeavor",
+        "Mud-slap",
+        "Outrage",
+        "Rollout",
+        "Superpower",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Reversal",
+        "Rock Slide",
+        "Counter",
+        "Magnitude",
+        "Swords Dance",
+        "Curse",
+        "Crush Claw",
+        "Dragon Rush",
+        "Ice Fang",
+        "Fire Fang",
+        "Thunder Fang",
+        "Skull Bash"
+    ],
+    "stats": [
+        "105",
+        "130",
+        "120",
+        "45",
+        "45",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "165 - 212",
+                "165 - 212",
+                "165 - 212"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "320 - 414",
+                "320 - 414",
+                "320 - 414"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "name": "Hypno",
+    "jp_name": "Sleeper\u30b9\u30ea\u30fc\u30d1\u30fc",
+    "number": " National: #097Johto: #088 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Insomnia",
+        "Forewarn"
+    ],
+    "classification": "Hypnosis Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "166.7lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
+        "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby."
+    ],
+    "location": [
+        "Route 11, Safari Zone (Special Items)",
+        "Route 11, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Nightmare",
+            "Switcheroo",
+            "Pound",
+            "Hypnosis",
+            "Disable",
+            "Confusion"
+        ],
+        "7": [
+            "Disable"
+        ],
+        "9": [
+            "Confusion"
+        ],
+        "15": [
+            "Headbutt"
+        ],
+        "18": [
+            "Poison Gas"
+        ],
+        "21": [
+            "Meditate"
+        ],
+        "28": [
+            "Psybeam"
+        ],
+        "33": [
+            "Psych Up"
+        ],
+        "38": [
+            "Headbutt"
+        ],
+        "45": [
+            "Swagger"
+        ],
+        "50": [
+            "Psychic"
+        ],
+        "55": [
+            "Nasty Plot"
+        ],
+        "64": [
+            "Zen Headbutt"
+        ],
+        "69": [
+            "Future Sight"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Signal Beam",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Barrier",
+        "Assist",
+        "Role Play",
+        "Fire Punch",
+        "Thunderpunch",
+        "Ice Punch",
+        "Nasty Plot",
+        "Flatter",
+        "Psycho Cut",
+        "Guard Swap"
+    ],
+    "stats": [
+        "85",
+        "73",
+        "70",
+        "73",
+        "115",
+        "67"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "145 - 192",
+                "145 - 192",
+                "145 - 192"
+            ],
+            [
+                "70 - 112",
+                "78 - 125",
+                "85 - 137"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "70 - 112",
+                "78 - 125",
+                "85 - 137"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ]
+        ],
+        "100": [
+            [
+                "280 - 374",
+                "280 - 374",
+                "280 - 374"
+            ],
+            [
+                "135 - 220",
+                "151 - 245",
+                "166 - 269"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "135 - 220",
+                "151 - 245",
+                "166 - 269"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ]
+        ]
+    }
+}

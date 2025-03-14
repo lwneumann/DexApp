@@ -1,0 +1,213 @@
+{
+    "name": "Cloyster",
+    "jp_name": "Parshen\u30d1\u30eb\u30b7\u30a7\u30f3",
+    "number": " National: #091Johto: #172 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shell Armor",
+        "Skill Link"
+    ],
+    "classification": "Bivalve Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "292.1lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Pearl",
+            "50"
+        ],
+        [
+            "Big Pearl",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 3"
+    ],
+    "flavor_text": [
+        "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+        "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells."
+    ],
+    "location": [
+        "Evolve Shellder",
+        "Evolve Shellder"
+    ],
+    "learnset": {
+        "0": [
+            "Toxic Spikes",
+            "Withdraw",
+            "Supersonic",
+            "Aurora Beam",
+            "Protect"
+        ],
+        "28": [
+            "Spikes"
+        ],
+        "40": [
+            "Spike Cannon"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM72",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Iron Defense",
+        "Signal Beam"
+    ],
+    "egg_moves": [
+        "Bubblebeam",
+        "Take Down",
+        "Barrier",
+        "Rapid Spin",
+        "Screech",
+        "Icicle Spear",
+        "Mud Shot",
+        "Rock Blast"
+    ],
+    "stats": [
+        "50",
+        "95",
+        "180",
+        "85",
+        "45",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "166 - 208",
+                "185 - 232",
+                "203 - 255"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "328 - 413",
+                "365 - 459",
+                "401 - 504"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

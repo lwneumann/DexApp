@@ -1,0 +1,238 @@
+{
+    "name": "Umbreon",
+    "jp_name": "Burakki\u30d6\u30e9\u30c3\u30ad\u30fc",
+    "number": " National: #197Sinnoh: #168 Johto: #189 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Synchronize"
+    ],
+    "classification": "Moonlight Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "59.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "8,960",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "When agitated, this Pok\u00e9mon protects itself by spraying poisonous sweat from its pores.",
+        "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby."
+    ],
+    "location": [
+        "Evolve Eevee",
+        "Evolve Eevee"
+    ],
+    "learnset": {
+        "0": [
+            "Tail Whip",
+            "Tackle",
+            "Helping Hand"
+        ],
+        "8": [
+            "Sand-attack"
+        ],
+        "15": [
+            "Pursuit"
+        ],
+        "22": [
+            "Quick Attack"
+        ],
+        "29": [
+            "Confuse Ray"
+        ],
+        "36": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "43": [
+            "Assurance"
+        ],
+        "50": [
+            "Last Resort"
+        ],
+        "57": [
+            "Mean Look"
+        ],
+        "64": [
+            "Screech"
+        ],
+        "71": [
+            "Moonlight"
+        ],
+        "78": [
+            "Guard Swap"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM49",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Mud-slap",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Charm",
+        "Flail",
+        "Endure",
+        "Curse",
+        "Tickle",
+        "Wish",
+        "Yawn",
+        "Fake Tears",
+        "Covet",
+        "Detect"
+    ],
+    "stats": [
+        "95",
+        "65",
+        "110",
+        "60",
+        "130",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

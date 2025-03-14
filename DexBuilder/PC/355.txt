@@ -1,0 +1,239 @@
+{
+    "name": "Duskull",
+    "jp_name": "Yomawaru\u30e8\u30de\u30ef\u30eb",
+    "number": " National: #355Sinnoh: #189 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Requiem Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "33.1lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "0",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Kasib Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "If it finds bad children who won't listen to their parents, it will spirit them away--or so it's said."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Leer"
+        ],
+        "6": [
+            "Disable"
+        ],
+        "9": [
+            "Foresight"
+        ],
+        "14": [
+            "Astonish"
+        ],
+        "17": [
+            "Confuse Ray"
+        ],
+        "22": [
+            "Shadow Sneak"
+        ],
+        "25": [
+            "Pursuit"
+        ],
+        "30": [
+            "Curse"
+        ],
+        "33": [
+            "Will-o-wisp"
+        ],
+        "38": [
+            "Mean Look"
+        ],
+        "41": [
+            "Payback"
+        ],
+        "46": [
+            "Future Sight"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM61",
+        "TM63",
+        "TM66",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Trick",
+        "Snore",
+        "Spite",
+        "Pain Split",
+        "Gravity",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Imprison",
+        "Destiny Bond",
+        "Pain Split",
+        "Grudge",
+        "Memento",
+        "Faint Attack",
+        "Ominous Wind"
+    ],
+    "stats": [
+        "20",
+        "40",
+        "90",
+        "30",
+        "90",
+        "25"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "80 - 127",
+                "80 - 127",
+                "80 - 127"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ]
+        ],
+        "100": [
+            [
+                "150 - 244",
+                "150 - 244",
+                "150 - 244"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ]
+        ]
+    }
+}

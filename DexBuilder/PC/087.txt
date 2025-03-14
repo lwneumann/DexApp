@@ -1,0 +1,247 @@
+{
+    "name": "Dewgong",
+    "jp_name": "Jugong\u30b8\u30e5\u30b4\u30f3",
+    "number": " National: #087Johto: #179 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Thick Fat",
+        "Hydration"
+    ],
+    "classification": "Sea Lion Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "265.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+        "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly."
+    ],
+    "location": [
+        "Seafoam Islands",
+        "Seafoam Islands"
+    ],
+    "learnset": {
+        "0": [
+            "Headbutt",
+            "Growl",
+            "Signal Beam",
+            "Icy Wind"
+        ],
+        "3": [
+            "Growl"
+        ],
+        "7": [
+            "Signal Beam"
+        ],
+        "11": [
+            "Icy Wind"
+        ],
+        "13": [
+            "Encore"
+        ],
+        "17": [
+            "Ice Shard"
+        ],
+        "21": [
+            "Rest"
+        ],
+        "23": [
+            "Aqua Ring"
+        ],
+        "27": [
+            "Aurora Beam"
+        ],
+        "31": [
+            "Aqua Jet"
+        ],
+        "33": [
+            "Brine"
+        ],
+        "37": [
+            "Take Down"
+        ],
+        "41": [
+            "Dive"
+        ],
+        "43": [
+            "Aqua Tail"
+        ],
+        "47": [
+            "Ice Beam"
+        ],
+        "51": [
+            "Safeguard"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM68",
+        "TM72",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Aqua Tail",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Lick",
+        "Perish Song",
+        "Disable",
+        "Horn Drill",
+        "Slam",
+        "Encore",
+        "Fake Out",
+        "Icicle Spear",
+        "Signal Beam",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "90",
+        "70",
+        "80",
+        "70",
+        "95",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

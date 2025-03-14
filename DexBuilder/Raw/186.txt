@@ -1,0 +1,3348 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Male
+Female
+Male
+Female
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Politoed
+Nyorotonoニョロトノ
+ National: #186Johto: #075 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Water Absorb & Damp 
+
+
+
+Water Absorb: The Pokémon heals up to 1/4 of it’s maximum Hit Points when hit with Water-type moves. 
+Damp: Explosion and Selfdestruct will not work while the Pokémon is on the field. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Frog Pokémon
+3'07"
+74.7lbs
+45
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+70
+3 Sp. Defense Point(s)
+Green
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*0.5
+*2
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+King's Rock - 5%
+
+Water 1SquirtleWartortleBlastoisePsyduckGolduckPoliwagPoliwhirlPoliwrathSlowpokeSlowbroSeelDewgongHorseaSeadraLaprasOmanyteOmastarKabutoKabutopsDratiniDragonairDragoniteTotodileCroconawFeraligatrMarillAzumarillPolitoedWooperQuagsireSlowkingCorsolaRemoraidOctilleryDelibirdMantineKingdraMudkipMarshtompSwampertLotadLombreLudicoloWingullPelipperSurskitMasquerainCorphishCrawdauntFeebasMiloticSphealSealeoWalreinClamperlHuntailGorebyssRelicanthPiplupPrinplupEmpoleonBidoofBibarelBuizelFloatzelShellosGastrodonPhioneManaphyDittoWater 1
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It gathers groups of others as their leader. Its cries make POLIWAG obey.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide.
+		
+
+
+SoulSilver
+
+		Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.
+		
+ 
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Evolve Poliwhirl
+		
+
+
+LeafGreen
+		
+
+		Evolve Poliwhirl
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Evolve from Poliwhirl
+		
+
+
+Pearl
+		
+
+		Evolve from Poliwhirl
+		
+
+Platinum
+		
+
+		Evolve Poliwhirl
+		
+
+
+HeartGold
+		
+
+		Evolve Poliwhirl
+		
+
+
+SoulSilver
+		
+
+		Evolve Poliwhirl
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.43Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.53Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.27Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.37Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.48Hyper Voice9010010--The user lets loose a horribly echoing shout with the power to inflict damage.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Evolve Poliwhirl
+		
+
+
+LeafGreen
+		
+
+		Evolve Poliwhirl
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Evolve from Poliwhirl
+		
+
+
+Pearl
+		
+
+		Evolve from Poliwhirl
+		
+
+Platinum
+		
+
+		Evolve Poliwhirl
+		
+
+
+HeartGold
+		
+
+		Evolve Poliwhirl
+		
+
+
+SoulSilver
+		
+
+		Evolve Poliwhirl
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.43Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.53Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.27Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.37Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.48Hyper Voice9010010--The user lets loose a horribly echoing shout with the power to inflict damage.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.43Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.53Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.27Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.37Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.48Hyper Voice9010010--The user lets loose a horribly echoing shout with the power to inflict damage.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Doubleslap158510--The foe is slapped repeatedly, back and forth, two to five times in a row. —Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.27Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.37Bounce8585530The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.48Hyper Voice9010010--The user lets loose a horribly echoing shout with the power to inflict damage.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM01
+Focus Punch
+
+
+150
+100
+20
+--
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM52
+Focus Blast
+
+
+120
+70
+5
+10
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.TM56
+Fling
+
+
+??
+100
+10
+--
+The user flings its held item at the foe to attack. Its power and effects depend on the item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mist----30--DetailsThe user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.Splash----40--DetailsThe user just flops and splashes around to no effect at all... Bubblebeam651002010DetailsA spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Water Sport----15--DetailsThe user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Ice Ball309020--DetailsThe user continually rolls into the foe over five turns. It becomes stronger each time it hits.Mud Shot559515100DetailsThe user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Encore - HGSS Only--1005--DetailsThe user compels the foe to keep using only the move it last used for three to seven turns.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Sport----15--  Lv. 1The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.Bubble201003010  Lv. 1A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Bubble201003010  Lv. 5A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.Water Gun4010025--  Lv. 11The foe is blasted with a forceful shot of water. Body Slam851001530  Lv. 21The user drops onto the foe with its full body weight. It may leave the foe paralyzed.Mud Shot559515100  Lv. 32The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.Belly Drum----10--  Lv. 37The user maximizes its Attack stat in exchange for HP equal to half its max HP.Wake-up Slap6010010--  Lv. 43This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.Hydro Pump120805--  Lv. 48The foe is blasted by a huge volume of water launched under great pressure. Mud Bomb65851030  Lv. 53The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Ice Punch751001510  TutorThe foe is punched with an icy fist. It may leave the target frozen. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansWater Gun4010025--RSEFRLGLv1 Lv1 The foe is blasted with a forceful shot of water. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+90
+75
+75
+90
+100
+70
+Max StatsHindering Nature
+Lv. 50
+150 - 197
+72 - 114
+72 - 114
+85 - 127
+94 - 136
+67 - 109
+Lv. 100
+290 - 384
+139 - 224
+139 - 224
+166 - 251
+184 - 269
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+150 - 197
+80 - 127
+80 - 127
+95 - 142
+105 - 152
+75 - 122
+Lv. 100
+290 - 384
+155 - 249
+155 - 249
+185 - 279
+205 - 299
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+150 - 197
+88 - 139
+88 - 139
+104 - 156
+115 - 167
+82 - 134
+Lv. 100
+290 - 384
+170 - 273
+170 - 273
+203 - 306
+225 - 328
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#185Sudowoodo
+		
+
+
+
+
+
+
+
+#187Hoppip
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

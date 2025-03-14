@@ -1,0 +1,252 @@
+{
+    "name": "Linoone",
+    "jp_name": "Massaguma\u30de\u30c3\u30b9\u30b0\u30de",
+    "number": " National: #264",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Pickup",
+        "Gluttony"
+    ],
+    "classification": "Rush Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "71.6lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Oran Berry",
+            "50"
+        ],
+        [
+            "Sitrus Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads."
+    ],
+    "location": [
+        "Route 6, Route 9, Route 10, Route 13, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 42, Route 43, Route 44, Route 45, Route 47, Ruins of Alph, Mt. Silver, Safari Zone (Special Items)",
+        "Route 6, Route 9, Route 10, Route 13, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 42, Route 43, Route 44, Route 45, Route 47, Ruins of Alph, Mt. Silver, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Switcheroo",
+            "Tackle",
+            "Growl",
+            "Tail Whip",
+            "Headbutt"
+        ],
+        "5": [
+            "Tail Whip"
+        ],
+        "9": [
+            "Headbutt"
+        ],
+        "13": [
+            "Sand-attack"
+        ],
+        "17": [
+            "Odor Sleuth"
+        ],
+        "23": [
+            "Mud Sport"
+        ],
+        "29": [
+            "Fury Swipes"
+        ],
+        "35": [
+            "Covet"
+        ],
+        "41": [
+            "Slash"
+        ],
+        "47": [
+            "Rest"
+        ],
+        "53": [
+            "Belly Drum"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM65",
+        "TM68",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Icy Wind",
+        "Trick",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Gunk Shot",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Charm",
+        "Pursuit",
+        "Substitute",
+        "Tickle",
+        "Trick",
+        "Helping Hand",
+        "Mud-slap"
+    ],
+    "stats": [
+        "78",
+        "70",
+        "61",
+        "50",
+        "61",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "138 - 185",
+                "138 - 185",
+                "138 - 185"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "266 - 360",
+                "266 - 360",
+                "266 - 360"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

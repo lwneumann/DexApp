@@ -1,0 +1,259 @@
+{
+    "name": "Banette",
+    "jp_name": "Jupetta\u30b8\u30e5\u30da\u30c3\u30bf",
+    "number": " National: #354",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Insomnia",
+        "Frisk"
+    ],
+    "classification": "Marionette Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "27.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "0",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Spell Tag",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "This Pok\u00e9mon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys."
+    ],
+    "location": [
+        "Evolve Banette",
+        "Evolve Banette"
+    ],
+    "learnset": {
+        "0": [
+            "Knock Off",
+            "Screech",
+            "Curse"
+        ],
+        "8": [
+            "Screech"
+        ],
+        "13": [
+            "Curse"
+        ],
+        "16": [
+            "Spite"
+        ],
+        "10": [
+            "The user looses its grudge on the move last used by the foe by cutting"
+        ],
+        "20": [
+            "Shadow Sneak"
+        ],
+        "23": [
+            "Will-o-wisp"
+        ],
+        "28": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "31": [
+            "Shadow Ball"
+        ],
+        "35": [
+            "Sucker Punch"
+        ],
+        "42": [
+            "Embargo"
+        ],
+        "51": [
+            "Snatch"
+        ],
+        "58": [
+            "Grudge"
+        ],
+        "66": [
+            "Trick"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM61",
+        "TM63",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Knock Off",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Trick",
+        "Spite",
+        "Mud-slap",
+        "Pain Split",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Disable",
+        "Destiny Bond",
+        "Foresight",
+        "Astonish",
+        "Imprison",
+        "Pursuit",
+        "Shadow Sneak",
+        "Payback",
+        "Confuse Ray"
+    ],
+    "stats": [
+        "64",
+        "115",
+        "65",
+        "83",
+        "63",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "124 - 171",
+                "124 - 171",
+                "124 - 171"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ],
+            [
+                "61 - 103",
+                "68 - 115",
+                "74 - 126"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "238 - 332",
+                "238 - 332",
+                "238 - 332"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ],
+            [
+                "117 - 202",
+                "131 - 225",
+                "144 - 247"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

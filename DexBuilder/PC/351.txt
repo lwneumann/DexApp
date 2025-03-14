@@ -1,0 +1,214 @@
+{
+    "name": "Castform",
+    "jp_name": "Powarun\u30dd\u30ef\u30eb\u30f3",
+    "number": " National: #351",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Forecast"
+    ],
+    "classification": "Weather Pok\u0165mon",
+    "height": "1'04\"",
+    "weight": "1.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Mystic Water",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "This Pok\u0165mon can change its cells, taking different forms based on the temperature and humidity."
+    ],
+    "location": [
+        "Transfer from Pok\u0165Walker",
+        "Transfer from Pok\u0165Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "10": [
+            "Water Gun",
+            "Ember",
+            "Powder Snow"
+        ],
+        "20": [
+            "Rain Dance",
+            "Sunny Day",
+            "Hail"
+        ],
+        "30": [
+            "Weather Ball"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM72",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Ominous Wind",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Future Sight",
+        "Psych Up",
+        "Lucky Chant",
+        "Disable",
+        "Amnesia",
+        "Ominous Wind"
+    ],
+    "stats": [
+        "70",
+        "70",
+        "70",
+        "70",
+        "70",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

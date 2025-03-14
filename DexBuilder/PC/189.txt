@@ -1,0 +1,243 @@
+{
+    "name": "Jumpluff",
+    "jp_name": "Watakko\u30ef\u30bf\u30c3\u30b3",
+    "number": " National: #189Johto: #069 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Leaf Guard"
+    ],
+    "classification": "Cottonweed Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "6.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "0.25",
+        "4",
+        "0.5",
+        "2",
+        "0",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Fairy",
+        "Plant"
+    ],
+    "flavor_text": [
+        "Once it catches the wind, it deftly controls its cotton-puff spores-- it can even float around the world.",
+        "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Splash",
+            "Synthesis",
+            "Tail Whip",
+            "Tackle"
+        ],
+        "4": [
+            "Synthesis"
+        ],
+        "7": [
+            "Tail Whip"
+        ],
+        "10": [
+            "Tackle"
+        ],
+        "12": [
+            "Poisonpowder"
+        ],
+        "14": [
+            "Stun Spore"
+        ],
+        "16": [
+            "Sleep Powder"
+        ],
+        "20": [
+            "Bullet Seed"
+        ],
+        "24": [
+            "Leech Seed"
+        ],
+        "28": [
+            "Mega Drain"
+        ],
+        "32": [
+            "Cotton Spore"
+        ],
+        "36": [
+            "U-turn"
+        ],
+        "40": [
+            "Worry Seed"
+        ],
+        "44": [
+            "Giga Drain"
+        ],
+        "48": [
+            "Bounce"
+        ],
+        "52": [
+            "Memento"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Bounce",
+        "Seed Bomb",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Confusion",
+        "Encore",
+        "Double-edge",
+        "Reflect",
+        "Amnesia",
+        "Helping Hand",
+        "Psych Up",
+        "Aromatherapy",
+        "Worry Seed"
+    ],
+    "stats": [
+        "75",
+        "55",
+        "70",
+        "55",
+        "85",
+        "110"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ]
+        ]
+    }
+}

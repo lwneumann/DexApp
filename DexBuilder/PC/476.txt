@@ -1,0 +1,259 @@
+{
+    "name": "Probopass",
+    "jp_name": "Dainoosu\u30c0\u30a4\u30ce\u30fc\u30ba",
+    "number": " National: #476Sinnoh: #156 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sturdy",
+        "Magnet Pull"
+    ],
+    "classification": "Compass Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "749.6lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.25",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "4",
+        "0",
+        "4",
+        "0.25",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Hard Stone",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "It controls three units called Mini-Noses using magnetic force. With them, it can attack the foe from three directions."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Magnet Rise",
+            "Gravity",
+            "Tackle",
+            "Iron Defense",
+            "Magnet Bomb",
+            "Block"
+        ],
+        "60": [
+            "",
+            ""
+        ],
+        "7": [
+            "Iron Defense"
+        ],
+        "13": [
+            "Magnet Bomb"
+        ],
+        "19": [
+            "Block"
+        ],
+        "25": [
+            "Thunder Wave"
+        ],
+        "31": [
+            "Rock Slide"
+        ],
+        "37": [
+            "Sandstorm"
+        ],
+        "43": [
+            "Rest"
+        ],
+        "49": [
+            "Power Gem"
+        ],
+        "55": [
+            "Discharge"
+        ],
+        "61": [
+            "Stone Edge"
+        ],
+        "67": [
+            "Zap Cannon"
+        ],
+        "73": [
+            "Lock-on"
+        ],
+        "79": [
+            "Earth Power"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM37",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM64",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM73",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Magnet Rise",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Magnitude",
+        "Rollout",
+        "Explosion",
+        "Double-edge",
+        "Block",
+        "Head Smash"
+    ],
+    "stats": [
+        "60",
+        "55",
+        "145",
+        "75",
+        "150",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "135 - 177",
+                "150 - 197",
+                "165 - 216"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "265 - 350",
+                "295 - 389",
+                "324 - 427"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

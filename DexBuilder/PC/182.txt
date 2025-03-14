@@ -1,0 +1,206 @@
+{
+    "name": "Bellossom",
+    "jp_name": "Kireihana\u30ad\u30ec\u30a4\u30cf\u30ca",
+    "number": " National: #182Johto: #086 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Flower Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "13.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "BELLOSSOM gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+        "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound."
+    ],
+    "location": [
+        "Evolve Gloom",
+        "Evolve Gloom"
+    ],
+    "learnset": {
+        "0": [
+            "Leaf Blade",
+            "Mega Drain",
+            "Sweet Scent",
+            "Stun Spore",
+            "Sunny Day"
+        ],
+        "23": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "53": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Gastro Acid",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Swords Dance",
+        "Razor Leaf",
+        "Flail",
+        "Synthesis",
+        "Charm",
+        "Ingrain",
+        "Tickle",
+        "Teeter Dance"
+    ],
+    "stats": [
+        "75",
+        "80",
+        "85",
+        "90",
+        "100",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

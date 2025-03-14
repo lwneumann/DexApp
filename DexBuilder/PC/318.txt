@@ -1,0 +1,232 @@
+{
+    "name": "Carvanha",
+    "jp_name": "Kibanha\u30ad\u30d0\u30cb\u30a2",
+    "number": " National: #318",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rough Skin"
+    ],
+    "classification": "Savage Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "45.9lbs",
+    "capture_rate": "225",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Deep Sea Tooth",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 2"
+    ],
+    "flavor_text": [
+        "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle."
+    ],
+    "location": [
+        "Transfer from Pok\u00e9Walker",
+        "Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Leer",
+            "Bite"
+        ],
+        "6": [
+            "Rage"
+        ],
+        "8": [
+            "Focus Energy"
+        ],
+        "11": [
+            "Scary Face"
+        ],
+        "16": [
+            "Ice Fang"
+        ],
+        "18": [
+            "Screech"
+        ],
+        "21": [
+            "Swagger"
+        ],
+        "26": [
+            "Assurance"
+        ],
+        "28": [
+            "Crunch"
+        ],
+        "31": [
+            "Aqua Jet"
+        ],
+        "36": [
+            "Agility"
+        ],
+        "38": [
+            "Take Down"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM55",
+        "TM58",
+        "TM66",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Bounce",
+        "Mud-slap",
+        "Super Fang"
+    ],
+    "egg_moves": [
+        "Hydro Pump",
+        "Double-edge",
+        "Thrash",
+        "Ancientpower"
+    ],
+    "stats": [
+        "45",
+        "90",
+        "20",
+        "65",
+        "20",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

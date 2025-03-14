@@ -1,0 +1,215 @@
+{
+    "name": "Ludicolo",
+    "jp_name": "Runpapa\u30eb\u30f3\u30d1\u30c3\u30d1",
+    "number": " National: #272",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Rain Dish"
+    ],
+    "classification": "Carefree Pok\u0137mon",
+    "height": "4'11\"",
+    "weight": "121.3lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Plant"
+    ],
+    "flavor_text": [
+        "If it hears festive music, it begins moving in rhythm in order to amplify its power."
+    ],
+    "location": [
+        "Evolve Lombre",
+        "Evolve Lombre"
+    ],
+    "learnset": {
+        "0": [
+            "Astonish",
+            "Growl",
+            "Mega Drain",
+            "Nature Power"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Mud-slap",
+        "Seed Bomb",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Synthesis",
+        "Razor Leaf",
+        "Sweet Scent",
+        "Leech Seed",
+        "Flail",
+        "Water Gun",
+        "Tickle",
+        "Counter"
+    ],
+    "stats": [
+        "80",
+        "70",
+        "70",
+        "90",
+        "100",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

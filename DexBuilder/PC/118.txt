@@ -1,0 +1,217 @@
+{
+    "name": "Goldeen",
+    "jp_name": "Tosakinto\u30c8\u30b5\u30ad\u30f3\u30c8",
+    "number": " National: #118Sinnoh: #078 Johto: #078 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "classification": "Goldfish Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "33.0lbs",
+    "capture_rate": "225",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 2"
+    ],
+    "flavor_text": [
+        "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+        "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour."
+    ],
+    "location": [
+        "Route 9, Route 10, Route 24, Route 25, Route 42, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Mt. Silver, Cerulean City, Cerulean Cave, Tohjo Falls, Safari Zone",
+        "Route 9, Route 10, Route 24, Route 25, Route 42, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Mt. Silver, Cerulean City, Cerulean Cave, Tohjo Falls, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Peck",
+            "Tail Whip",
+            "Water Sport"
+        ],
+        "7": [
+            "Supersonic"
+        ],
+        "11": [
+            "Horn Attack"
+        ],
+        "17": [
+            "Water Pulse"
+        ],
+        "27": [
+            "Aqua Ring"
+        ],
+        "31": [
+            "Fury Attack"
+        ],
+        "37": [
+            "Waterfall"
+        ],
+        "47": [
+            "Agility"
+        ],
+        "51": [
+            "Megahorn"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Bounce",
+        "Mud-slap"
+    ],
+    "egg_moves": [
+        "Psybeam",
+        "Haze",
+        "Hydro Pump",
+        "Sleep Talk",
+        "Mud Sport",
+        "Mud-slap",
+        "Aqua Tail",
+        "Body Slam"
+    ],
+    "stats": [
+        "45",
+        "67",
+        "60",
+        "35",
+        "50",
+        "63"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "61 - 103",
+                "68 - 115",
+                "74 - 126"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "117 - 202",
+                "131 - 225",
+                "144 - 247"
+            ]
+        ]
+    }
+}

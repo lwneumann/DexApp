@@ -1,0 +1,235 @@
+{
+    "name": "Cradily",
+    "jp_name": "Yureidoru\u30e6\u30ec\u30a4\u30c9\u30eb",
+    "number": " National: #346",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Suction Cups"
+    ],
+    "classification": "Barnacle Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "133.2lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "7,680",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Big Root",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 3"
+    ],
+    "flavor_text": [
+        "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather."
+    ],
+    "location": [
+        "Evolve Lileep",
+        "Evolve Lileep"
+    ],
+    "learnset": {
+        "0": [
+            "Astonish",
+            "Constrict",
+            "Acid",
+            "Ingrain"
+        ],
+        "8": [
+            "Acid"
+        ],
+        "15": [
+            "Ingrain"
+        ],
+        "22": [
+            "Confuse Ray"
+        ],
+        "29": [
+            "Amnesia"
+        ],
+        "36": [
+            "Ancientpower"
+        ],
+        "46": [
+            "Gastro Acid"
+        ],
+        "56": [
+            "Energy Ball"
+        ],
+        "66": [
+            "Stockpile",
+            "Swallow"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM69",
+        "TM70",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Ancientpower",
+        "Earth Power",
+        "Gastro Acid",
+        "Mud-slap",
+        "Seed Bomb",
+        "Pain Split",
+        "String Shot",
+        "Worry Seed",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Barrier",
+        "Recover",
+        "Mirror Coat",
+        "Rock Slide",
+        "Wring Out",
+        "Tickle",
+        "Curse"
+    ],
+    "stats": [
+        "86",
+        "81",
+        "97",
+        "81",
+        "107",
+        "43"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "146 - 193",
+                "146 - 193",
+                "146 - 193"
+            ],
+            [
+                "77 - 119",
+                "86 - 133",
+                "94 - 146"
+            ],
+            [
+                "91 - 134",
+                "102 - 149",
+                "112 - 163"
+            ],
+            [
+                "77 - 119",
+                "86 - 133",
+                "94 - 146"
+            ],
+            [
+                "100 - 143",
+                "112 - 159",
+                "123 - 174"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ]
+        ],
+        "100": [
+            [
+                "282 - 376",
+                "282 - 376",
+                "282 - 376"
+            ],
+            [
+                "150 - 234",
+                "167 - 261",
+                "183 - 287"
+            ],
+            [
+                "179 - 263",
+                "199 - 293",
+                "218 - 322"
+            ],
+            [
+                "150 - 234",
+                "167 - 261",
+                "183 - 287"
+            ],
+            [
+                "197 - 281",
+                "219 - 313",
+                "240 - 344"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,2614 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Arbok
+Arbokアーボック
+ National: #024Johto: #051 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Intimidate & Shed Skin 
+
+
+
+Intimidate: Upon entering battle, the opponent’s Attack lowers one stage. In a Double Battle, both opponents’ Attack are lowered. Pokémon with the Clear Body, Hyper Cutter, or White Smoke ability are unaffected. In a link battle, if both sides switch on the same turn, and first player sends out a Pokémon with Intimidate, the opponent’s Attack will be lowered before the opponent’s Pokémon switches. 
+Shed Skin: Every turn, it has a 1 in 3 chance of healing from a status condition (BURN, PARALYZE, SLEEP, POISON, FREEZE). 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Cobra Pokémon
+11'06"
+143.3lbs
+90
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Attack Point(s)
+Purple
+60
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*1
+*0.5
+*1
+*0.5
+*0.5
+*2
+*1
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+GroundRattataRaticateEkansArbokPikachuRaichuSandshrewSandslashNidoran♀Nidoran♂NidorinoNidokingVulpixNinetalesDiglettDugtrioMeowthPersianPsyduckGolduckMankeyPrimeapeGrowlitheArcaninePonytaRapidashFarfetch'dSeelDewgongRhyhornRhydonTaurosEeveeVaporeonJolteonFlareonCyndaquilQuilavaTyphlosionSentretFurretMareepFlaaffyAmpharosAipomWooperQuagsireEspeonUmbreonGirafarigDunsparceSnubbullGranbullSneaselTeddiursaUrsaringSwinubPiloswineDelibirdHoundourHoundoomPhanpyDonphanStantlerSmeargleMiltankTorchicCombuskenBlazikenPoochyenaMightyenaZigzagoonLinooneSeedotNuzleafShiftrySlakothVigorothSlakingWhismurLoudredExploudSkittyDelcattyMawileElectrikeManectricWailmerWailordNumelCameruptTorkoalSpoinkGrumpigSpindaZangooseSeviperKecleonAbsolSphealSealeoWalreinChimcharMonfernoInfernapePiplupPrinplupEmpoleonBidoofBibarelShinxLuxioLuxrayPachirisuBuizelFloatzelAmbipomBunearyLopunnyGlameowPuruglyStunkySkuntankLucarioHippopotasHippowdonWeavileRhyperiorLeafeonGlaceonMamoswineDittoGround
+
+DragonCharmanderCharmeleonCharizardEkansArbokHorseaSeadraMagikarpGyaradosDratiniDragonairDragoniteKingdraTreeckoGrovyleSceptileSwabluAltariaSeviperFeebasMiloticBagonShelgonSalamenceGibleGabiteGarchompDittoDragon
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.
+		
+
+
+SoulSilver
+
+		With a very vengeful nature, it won't give up the chase, no matter how far, once it targets its prey.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/XD
+		
+
+
+FireRed
+		
+
+		Route 23 & Victory Road
+		
+
+
+LeafGreen
+		
+
+		Trade from FireRed/XD
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/XD
+		
+
+
+XD
+		
+
+		Snagged from Cipher Peon Smarton in Cipher Key Lair
+		
+
+
+Diamond
+		
+
+		Safari Game FR Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Safari Game FR Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Great Marsh (FireRed Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Safari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 3, Route 4, Route 26, Route 27Safari Zone
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Ice Fang65951510The user bites with cold-infused fangs. It may also make the foe flinch or freeze. —Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.—Fire Fang65951510The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. —Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.—Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 4Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.9Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 12Glare--7530--The user intimidates the foe with the pattern on its belly to cause paralysis. 17Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 20Acid401003010The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.22Crunch801001520The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.28Stockpile----20--The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.28Swallow----10--The power stored using the move Stockpile is absorbed by the user to heal its HP.28Spit Up??10010--The power stored using the move Stockpile is released at once in an attack. 34Mud Bomb65851030The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.42Gastro Acid--10010--The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.48Haze----30--The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.56Gunk Shot12070530The user shoots filthy garbage at the foe to attack. It may also poison the target.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Slam807520--DetailsThe foe is slammed with a long tail, vines, etc., to inflict damage. Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Poison Fang501001530DetailsThe user bites the foe with toxic fangs. It may also leave the foe badly poisoned. Scary Face--9010--DetailsThe user frightens the foe with a scary face to sharply reduce its Speed stat.Poison Tail501002510DetailsAn attack with a high critical-hit ratio. This tail attack may also poison the foe.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Switcheroo - HGSS Only--10010--DetailsThe user trades held items with the foe faster than the eye can follow. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/XD
+		
+
+
+FireRed
+		
+
+		Route 23 & Victory Road
+		
+
+
+LeafGreen
+		
+
+		Trade from FireRed/XD
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/XD
+		
+
+
+XD
+		
+
+		Snagged from Cipher Peon Smarton in Cipher Key Lair
+		
+
+
+Diamond
+		
+
+		Safari Game FR Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Safari Game FR Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Great Marsh (FireRed Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Safari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 3, Route 4, Route 26, Route 27Safari Zone
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Ice Fang65951510The user bites with cold-infused fangs. It may also make the foe flinch or freeze. —Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.—Fire Fang65951510The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. —Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.—Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 4Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.9Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 12Glare--7530--The user intimidates the foe with the pattern on its belly to cause paralysis. 17Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 20Acid401003010The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.22Crunch801001520The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.28Stockpile----20--The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.28Swallow----10--The power stored using the move Stockpile is absorbed by the user to heal its HP.28Spit Up??10010--The power stored using the move Stockpile is released at once in an attack. 34Mud Bomb65851030The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.42Gastro Acid--10010--The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.48Haze----30--The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.56Gunk Shot12070530The user shoots filthy garbage at the foe to attack. It may also poison the target.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Slam807520--DetailsThe foe is slammed with a long tail, vines, etc., to inflict damage. Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Poison Fang501001530DetailsThe user bites the foe with toxic fangs. It may also leave the foe badly poisoned. Scary Face--9010--DetailsThe user frightens the foe with a scary face to sharply reduce its Speed stat.Poison Tail501002510DetailsAn attack with a high critical-hit ratio. This tail attack may also poison the foe.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Switcheroo - HGSS Only--10010--DetailsThe user trades held items with the foe faster than the eye can follow. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Ice Fang65951510The user bites with cold-infused fangs. It may also make the foe flinch or freeze. —Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.—Fire Fang65951510The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.—Wrap158520--A long body or vines are used to wrap and squeeze the foe for two to five turns. —Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.—Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 4Poison Sting151003530The foe is stabbed with a poisonous barb of some sort. It may also poison the target.9Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 12Glare--7530--The user intimidates the foe with the pattern on its belly to cause paralysis. 17Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 20Acid401003010The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.22Crunch801001520The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.28Stockpile----20--The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.28Swallow----10--The power stored using the move Stockpile is absorbed by the user to heal its HP.28Spit Up??10010--The power stored using the move Stockpile is released at once in an attack. 34Mud Bomb65851030The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.42Gastro Acid--10010--The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.48Haze----30--The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.56Gunk Shot12070530The user shoots filthy garbage at the foe to attack. It may also poison the target.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Slam807520--DetailsThe foe is slammed with a long tail, vines, etc., to inflict damage. Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Poison Fang501001530DetailsThe user bites the foe with toxic fangs. It may also leave the foe badly poisoned. Scary Face--9010--DetailsThe user frightens the foe with a scary face to sharply reduce its Speed stat.Poison Tail501002510DetailsAn attack with a high critical-hit ratio. This tail attack may also poison the foe.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Switcheroo - HGSS Only--10010--DetailsThe user trades held items with the foe faster than the eye can follow. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokémon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM84
+Poison Jab
+
+
+80
+100
+20
+30
+The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Aqua Tail
+
+
+90
+90
+10
+--
+
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Gastro Acid
+
+
+--
+100
+10
+--
+
+The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Slam807520--DetailsThe foe is slammed with a long tail, vines, etc., to inflict damage. Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Poison Fang501001530DetailsThe user bites the foe with toxic fangs. It may also leave the foe badly poisoned. Scary Face--9010--DetailsThe user frightens the foe with a scary face to sharply reduce its Speed stat.Poison Tail501002510DetailsAn attack with a high critical-hit ratio. This tail attack may also poison the foe.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Switcheroo - HGSS Only--10010--DetailsThe user trades held items with the foe faster than the eye can follow. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Slam807520--DetailsThe foe is slammed with a long tail, vines, etc., to inflict damage. Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Poison Fang501001530DetailsThe user bites the foe with toxic fangs. It may also leave the foe badly poisoned. Scary Face--9010--DetailsThe user frightens the foe with a scary face to sharply reduce its Speed stat.Poison Tail501002510DetailsAn attack with a high critical-hit ratio. This tail attack may also poison the foe.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Switcheroo - HGSS Only--10010--DetailsThe user trades held items with the foe faster than the eye can follow. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Slam807520--DetailsThe foe is slammed with a long tail, vines, etc., to inflict damage. Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Poison Fang501001530DetailsThe user bites the foe with toxic fangs. It may also leave the foe badly poisoned. Scary Face--9010--DetailsThe user frightens the foe with a scary face to sharply reduce its Speed stat.Poison Tail501002510DetailsAn attack with a high critical-hit ratio. This tail attack may also poison the foe.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Switcheroo - HGSS Only--10010--DetailsThe user trades held items with the foe faster than the eye can follow. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+60
+85
+69
+65
+79
+80
+Max StatsHindering Nature
+Lv. 50
+120 - 167
+81 - 123
+66 - 108
+63 - 105
+75 - 117
+76 - 118
+Lv. 100
+230 - 324
+157 - 242
+128 - 213
+121 - 206
+146 - 231
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+120 - 167
+90 - 137
+74 - 121
+70 - 117
+84 - 131
+85 - 132
+Lv. 100
+230 - 324
+175 - 269
+143 - 237
+135 - 229
+163 - 257
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+120 - 167
+99 - 150
+81 - 133
+77 - 128
+92 - 144
+93 - 145
+Lv. 100
+230 - 324
+192 - 295
+157 - 260
+148 - 251
+179 - 282
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#023Ekans
+		
+
+
+
+
+
+
+
+#025Pikachu
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

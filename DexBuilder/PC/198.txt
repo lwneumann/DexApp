@@ -1,0 +1,237 @@
+{
+    "name": "Murkrow",
+    "jp_name": "Yamikarasu\u30e4\u30df\u30ab\u30e9\u30b9",
+    "number": " National: #198Sinnoh: #074 Johto: #213 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Insomnia",
+        "Super Luck"
+    ],
+    "classification": "Darkness Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "4.6lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "0",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+        "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost."
+    ],
+    "location": [
+        "Route 7, Route 16, Safari Zone",
+        "Route 7, Route 16, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Peck",
+            "Astonish"
+        ],
+        "5": [
+            "Pursuit"
+        ],
+        "11": [
+            "Haze"
+        ],
+        "15": [
+            "Wing Attack"
+        ],
+        "25": [
+            "Assurance"
+        ],
+        "31": [
+            "Taunt"
+        ],
+        "35": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "41": [
+            "Mean Look"
+        ],
+        "45": [
+            "Sucker Punch"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM49",
+        "TM51",
+        "TM58",
+        "TM63",
+        "TM66",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Icy Wind",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Whirlwind",
+        "Drill Peck",
+        "Mirror Move",
+        "Wing Attack",
+        "Sky Attack",
+        "Confuse Ray",
+        "Featherdance",
+        "Perish Song",
+        "Psycho Shift",
+        "Screech",
+        "Faint Attack",
+        "Brave Bird"
+    ],
+    "stats": [
+        "60",
+        "85",
+        "42",
+        "85",
+        "42",
+        "91"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "86 - 128",
+                "96 - 143",
+                "105 - 157"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "168 - 252",
+                "187 - 281",
+                "205 - 309"
+            ]
+        ]
+    }
+}

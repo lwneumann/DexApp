@@ -1,0 +1,245 @@
+{
+    "name": "Forretress",
+    "jp_name": "Foretosu\u30d5\u30a9\u30ec\u30c8\u30b9",
+    "number": " National: #205Johto: #094 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sturdy"
+    ],
+    "classification": "Bagworm Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "277.3lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+        "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away."
+    ],
+    "location": [
+        "Evolve Pineco",
+        "Evolve Pineco"
+    ],
+    "learnset": {
+        "0": [
+            "Toxic Spikes",
+            "Tackle",
+            "Protect",
+            "Selfdestruct",
+            "Bug Bite"
+        ],
+        "6": [
+            "Selfdestruct"
+        ],
+        "9": [
+            "Bug Bite"
+        ],
+        "12": [
+            "Take Down"
+        ],
+        "17": [
+            "Rapid Spin"
+        ],
+        "28": [
+            "Spikes"
+        ],
+        "31": [
+            "Mirror Shot"
+        ],
+        "33": [
+            "Payback"
+        ],
+        "38": [
+            "Explosion"
+        ],
+        "45": [
+            "Iron Defense"
+        ],
+        "55": [
+            "Double-edge"
+        ],
+        "62": [
+            "Magnet Rise"
+        ],
+        "67": [
+            "Zap Cannon"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM69",
+        "TM74",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Magnet Rise",
+        "Snore",
+        "Iron Defense",
+        "Rollout",
+        "Signal Beam",
+        "Pain Split",
+        "String Shot",
+        "Gravity",
+        "Block",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Reflect",
+        "Pin Missile",
+        "Flail",
+        "Swift",
+        "Counter",
+        "Sand Tomb",
+        "Revenge",
+        "Double-edge",
+        "Toxic Spikes",
+        "Power Trick"
+    ],
+    "stats": [
+        "75",
+        "90",
+        "140",
+        "60",
+        "60",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "130 - 172",
+                "145 - 192",
+                "159 - 211"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "256 - 341",
+                "285 - 379",
+                "313 - 416"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

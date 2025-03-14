@@ -1,0 +1,2335 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Diglett
+Digdaディグダ
+ National: #050Johto: #134 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Sand Veil & Arena Trap 
+
+
+
+Sand Veil: Raises the Pokémon’s evasion during a sandstorm by one level. 
+Arena Trap: The opponent cannot run nor switch. Flying-type Pokémon and Pokémon with the Levitate special ability are unaffected. If this Pokémon switches, the opponent is still trapped for that turn. The opponent may still switch by using Baton Pass. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Mole Pokťmon
+0'08"
+1.8lbs
+255
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Speed Point(s)
+Brown
+120
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*2
+*0
+*2
+*2
+*1
+*0.5
+*1
+*1
+*1
+*1
+*0.5
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Soft Sand - 5%
+
+GroundRattataRaticateEkansArbokPikachuRaichuSandshrewSandslashNidoran♀Nidoran♂NidorinoNidokingVulpixNinetalesDiglettDugtrioMeowthPersianPsyduckGolduckMankeyPrimeapeGrowlitheArcaninePonytaRapidashFarfetch'dSeelDewgongRhyhornRhydonTaurosEeveeVaporeonJolteonFlareonCyndaquilQuilavaTyphlosionSentretFurretMareepFlaaffyAmpharosAipomWooperQuagsireEspeonUmbreonGirafarigDunsparceSnubbullGranbullSneaselTeddiursaUrsaringSwinubPiloswineDelibirdHoundourHoundoomPhanpyDonphanStantlerSmeargleMiltankTorchicCombuskenBlazikenPoochyenaMightyenaZigzagoonLinooneSeedotNuzleafShiftrySlakothVigorothSlakingWhismurLoudredExploudSkittyDelcattyMawileElectrikeManectricWailmerWailordNumelCameruptTorkoalSpoinkGrumpigSpindaZangooseSeviperKecleonAbsolSphealSealeoWalreinChimcharMonfernoInfernapePiplupPrinplupEmpoleonBidoofBibarelShinxLuxioLuxrayPachirisuBuizelFloatzelAmbipomBunearyLopunnyGlameowPuruglyStunkySkuntankLucarioHippopotasHippowdonWeavileRhyperiorLeafeonGlaceonMamoswineDittoGround
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		A Pokťmon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.
+		
+
+
+SoulSilver
+
+		If a DIGLETT digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Diglett Cave
+		
+
+
+LeafGreen
+		
+
+		Diglett Cave
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Route 228
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 228
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 228
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 48, Vermillion City, Diglett's CaveSafari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 48, Vermillion City, Diglett's CaveSafari Zone (Special Items)
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Scratch4010035--Hard, pointed, and sharp claws rake the foe to inflict damage. —Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 4Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.7Astonish301001530The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.12Magnitude??10030--The user looses a ground-shaking quake affecting everyone in battle. Its power varies.15Mud-slap2010010100The user hurls mud in the foe's face to inflict damage and lower its accuracy. 18Dig8010010--The user burrows, then attacks on the second turn. It can also be used to exit dungeons.23Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.26Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.29Mud Bomb65851030The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.34Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.37Earthquake10010010--The user sets off an earthquake that hits all the Pokťmon in the battle. 40Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokťmon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Ancientpower60100510DetailsThe user attacks with a prehistoric power. It may also raise all the user's stats at once.Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Beat Up1010010--DetailsThe user gets all the party Pokťmon to attack the foe. The more party Pokťmon, the more damage.Uproar5010010--DetailsThe user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.Rock Slide75901030DetailsLarge boulders are hurled at the foe to inflict damage. It may also make the target flinch.Mud Bomb65851030DetailsThe user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Reversal - HGSS Only??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansFury Swipes188015--FRLGLv21 The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Diglett Cave
+		
+
+
+LeafGreen
+		
+
+		Diglett Cave
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Route 228
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Route 228
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 228
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 48, Vermillion City, Diglett's CaveSafari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 48, Vermillion City, Diglett's CaveSafari Zone (Special Items)
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Scratch4010035--Hard, pointed, and sharp claws rake the foe to inflict damage. —Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 4Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.7Astonish301001530The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.12Magnitude??10030--The user looses a ground-shaking quake affecting everyone in battle. Its power varies.15Mud-slap2010010100The user hurls mud in the foe's face to inflict damage and lower its accuracy. 18Dig8010010--The user burrows, then attacks on the second turn. It can also be used to exit dungeons.23Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.26Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.29Mud Bomb65851030The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.34Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.37Earthquake10010010--The user sets off an earthquake that hits all the Pokťmon in the battle. 40Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokťmon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Ancientpower60100510DetailsThe user attacks with a prehistoric power. It may also raise all the user's stats at once.Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Beat Up1010010--DetailsThe user gets all the party Pokťmon to attack the foe. The more party Pokťmon, the more damage.Uproar5010010--DetailsThe user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.Rock Slide75901030DetailsLarge boulders are hurled at the foe to inflict damage. It may also make the target flinch.Mud Bomb65851030DetailsThe user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Reversal - HGSS Only??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansFury Swipes188015--FRLGLv21 The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Scratch4010035--Hard, pointed, and sharp claws rake the foe to inflict damage. —Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 4Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.7Astonish301001530The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.12Magnitude??10030--The user looses a ground-shaking quake affecting everyone in battle. Its power varies.15Mud-slap2010010100The user hurls mud in the foe's face to inflict damage and lower its accuracy. 18Dig8010010--The user burrows, then attacks on the second turn. It can also be used to exit dungeons.23Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.26Earth Power901001010The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.29Mud Bomb65851030The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.34Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.37Earthquake10010010--The user sets off an earthquake that hits all the Pokťmon in the battle. 40Fissure??305--The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokťmon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Ancientpower60100510DetailsThe user attacks with a prehistoric power. It may also raise all the user's stats at once.Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Beat Up1010010--DetailsThe user gets all the party Pokťmon to attack the foe. The more party Pokťmon, the more damage.Uproar5010010--DetailsThe user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.Rock Slide75901030DetailsLarge boulders are hurled at the foe to inflict damage. It may also make the target flinch.Mud Bomb65851030DetailsThe user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Reversal - HGSS Only??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansFury Swipes188015--FRLGLv21 The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM26
+Earthquake
+
+
+100
+100
+10
+--
+The user sets off an earthquake that hits all the Pokťmon in the battle. TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM39
+Rock Tomb
+
+
+50
+80
+10
+100
+Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM65
+Shadow Claw
+
+
+70
+100
+15
+--
+The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.TM76
+Stealth Rock
+
+
+--
+--
+20
+--
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM80
+Rock Slide
+
+
+75
+90
+10
+30
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Ancientpower60100510DetailsThe user attacks with a prehistoric power. It may also raise all the user's stats at once.Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Beat Up1010010--DetailsThe user gets all the party Pokťmon to attack the foe. The more party Pokťmon, the more damage.Uproar5010010--DetailsThe user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.Rock Slide75901030DetailsLarge boulders are hurled at the foe to inflict damage. It may also make the target flinch.Mud Bomb65851030DetailsThe user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Reversal - HGSS Only??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansFury Swipes188015--FRLGLv21 The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Ancientpower60100510DetailsThe user attacks with a prehistoric power. It may also raise all the user's stats at once.Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Beat Up1010010--DetailsThe user gets all the party Pokťmon to attack the foe. The more party Pokťmon, the more damage.Uproar5010010--DetailsThe user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.Rock Slide75901030DetailsLarge boulders are hurled at the foe to inflict damage. It may also make the target flinch.Mud Bomb65851030DetailsThe user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Reversal - HGSS Only??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. 3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansFury Swipes188015--FRLGLv21 The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansFury Swipes188015--FRLGLv21 The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+10
+55
+25
+35
+45
+95
+Max StatsHindering Nature
+Lv. 50
+70 - 117
+54 - 96
+27 - 69
+36 - 78
+45 - 87
+90 - 132
+Lv. 100
+130 - 224
+103 - 188
+49 - 134
+67 - 152
+85 - 170
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+70 - 117
+60 - 107
+30 - 77
+40 - 87
+50 - 97
+100 - 147
+Lv. 100
+130 - 224
+115 - 209
+55 - 149
+75 - 169
+95 - 189
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+70 - 117
+66 - 117
+33 - 84
+44 - 95
+55 - 106
+110 - 161
+Lv. 100
+130 - 224
+126 - 229
+60 - 163
+82 - 185
+104 - 207
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#049Venomoth
+		
+
+
+
+
+
+
+
+#051Dugtrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,188 @@
+{
+    "name": "Feebas",
+    "jp_name": "Hinbass\u30d2\u30f3\u30d0\u30b9",
+    "number": " National: #349Sinnoh: #138 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim"
+    ],
+    "classification": "Fish Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "16.3lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "It is the shabbiest Pok\u00e9mon of all. It forms in schools and lives at the bottom of rivers."
+    ],
+    "location": [
+        "Transfer from Pok\u00e9Walker",
+        "Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Splash"
+        ],
+        "15": [
+            "Tackle"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift"
+    ],
+    "egg_moves": [
+        "Mirror Coat",
+        "Dragonbreath",
+        "Mud Sport",
+        "Hypnosis",
+        "Light Screen",
+        "Confuse Ray",
+        "Mist",
+        "Haze",
+        "Tickle"
+    ],
+    "stats": [
+        "20",
+        "15",
+        "20",
+        "10",
+        "55",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "80 - 127",
+                "80 - 127",
+                "80 - 127"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "13 - 55",
+                "15 - 62",
+                "16 - 68"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "150 - 244",
+                "150 - 244",
+                "150 - 244"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "22 - 107",
+                "25 - 119",
+                "27 - 130"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

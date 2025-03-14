@@ -1,0 +1,246 @@
+{
+    "name": "Rayquaza",
+    "jp_name": "Rekkuza\u30ec\u30c3\u30af\u30a6\u30b6",
+    "number": " National: #384",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Air Lock"
+    ],
+    "classification": "Sky High Pok\u00e9mon",
+    "height": "23'00\"",
+    "weight": "455.2lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0.25",
+        "4",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+    ],
+    "location": [
+        "Hidden Tower",
+        "Hidden Tower"
+    ],
+    "learnset": {
+        "0": [
+            "Twister"
+        ],
+        "5": [
+            "Scary Face"
+        ],
+        "15": [
+            "Crunch"
+        ],
+        "20": [
+            "Hyper Voice"
+        ],
+        "30": [
+            "Rest"
+        ],
+        "35": [
+            "Air Slash"
+        ],
+        "45": [
+            "Ancientpower"
+        ],
+        "50": [
+            "Outrage"
+        ],
+        "60": [
+            "Dragon Dance"
+        ],
+        "65": [
+            "Fly"
+        ],
+        "75": [
+            "Extremespeed"
+        ],
+        "80": [
+            "Hyper Beam"
+        ],
+        "90": [
+            "Dragon Pulse"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM50",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM65",
+        "TM68",
+        "TM71",
+        "TM72",
+        "TM73",
+        "TM74",
+        "TM75",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM02",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Tailwind",
+        "Headbutt"
+    ],
+    "stats": [
+        "105",
+        "150",
+        "90",
+        "150",
+        "90",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "165 - 212",
+                "165 - 212",
+                "165 - 212"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "320 - 414",
+                "320 - 414",
+                "320 - 414"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

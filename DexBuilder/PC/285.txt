@@ -1,0 +1,228 @@
+{
+    "name": "Shroomish",
+    "jp_name": "Kinokoko\u30ad\u30ce\u30b3\u30b3",
+    "number": " National: #285",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Effect Spore",
+        "Poison Heal"
+    ],
+    "classification": "Mushroom Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "9.9lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Kebia Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Plant"
+    ],
+    "flavor_text": [
+        "If it senses danger, it scatters spores from the top of its head to protect itself."
+    ],
+    "location": [
+        "Viridian Forest (Headbutt), Safari Zone (With Blocks After Levelled Up)",
+        "Viridian Forest (Headbutt), Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb"
+        ],
+        "5": [
+            "Tackle"
+        ],
+        "9": [
+            "Stun Spore"
+        ],
+        "13": [
+            "Leech Seed"
+        ],
+        "17": [
+            "Mega Drain"
+        ],
+        "21": [
+            "Headbutt"
+        ],
+        "25": [
+            "Poisonpowder"
+        ],
+        "29": [
+            "Worry Seed"
+        ],
+        "33": [
+            "Growth"
+        ],
+        "37": [
+            "Giga Drain"
+        ],
+        "41": [
+            "Seed Bomb"
+        ],
+        "45": [
+            "Spore"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM49",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Seed Bomb",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fake Tears",
+        "Swagger",
+        "Charm",
+        "False Swipe",
+        "Helping Hand",
+        "Worry Seed",
+        "Wake-up Slap",
+        "Seed Bomb"
+    ],
+    "stats": [
+        "60",
+        "40",
+        "60",
+        "40",
+        "60",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

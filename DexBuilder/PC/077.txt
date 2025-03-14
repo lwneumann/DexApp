@@ -1,0 +1,222 @@
+{
+    "name": "Ponyta",
+    "jp_name": "Ponyta\u30dd\u30cb\u30fc\u30bf",
+    "number": " National: #077Sinnoh: #090 Johto: #206 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Run Away",
+        "Flash Fire"
+    ],
+    "classification": "Fire Horse Pok\u0165mon",
+    "height": "3'03\"",
+    "weight": "66.1lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Shuca Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.",
+        "Its hind legs, which have hooves that are harder than diamond, kick back at any presence it senses behind it."
+    ],
+    "location": [
+        "Route 22, Route 26, Route 27, Route 28, Mt. Silver, Safari Zone (Special Items)",
+        "Route 22, Route 26, Route 27, Route 28, Mt. Silver, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Growl",
+            "Tackle"
+        ],
+        "6": [
+            "Tail Whip"
+        ],
+        "10": [
+            "Ember"
+        ],
+        "15": [
+            "Flame Wheel"
+        ],
+        "19": [
+            "Stomp"
+        ],
+        "24": [
+            "Fire Spin"
+        ],
+        "28": [
+            "Take Down"
+        ],
+        "33": [
+            "Agility"
+        ],
+        "37": [
+            "Fire Blast"
+        ],
+        "42": [
+            "Bounce"
+        ],
+        "46": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Heat Wave",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flame Wheel",
+        "Thrash",
+        "Double Kick",
+        "Hypnosis",
+        "Charm",
+        "Double-edge",
+        "Horn Drill",
+        "Morning Sun"
+    ],
+    "stats": [
+        "50",
+        "85",
+        "55",
+        "65",
+        "65",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

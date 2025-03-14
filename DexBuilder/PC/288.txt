@@ -1,0 +1,235 @@
+{
+    "name": "Vigoroth",
+    "jp_name": "Yarukimono\u30e4\u30eb\u30ad\u30e2\u30ce",
+    "number": " National: #288",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Vital Spirit"
+    ],
+    "classification": "Wild Monkey Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "102.5lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Focus Energy",
+            "Encore",
+            "Uproar"
+        ],
+        "7": [
+            "Encore"
+        ],
+        "13": [
+            "Uproar"
+        ],
+        "19": [
+            "Fury Swipes"
+        ],
+        "25": [
+            "Endure"
+        ],
+        "10": [
+            "The user endures any attack with at least"
+        ],
+        "31": [
+            "Slash"
+        ],
+        "43": [
+            "Focus Punch"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Uproar",
+        "Gunk Shot",
+        "Mud-slap",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Slash",
+        "Body Slam",
+        "Snore",
+        "Crush Claw",
+        "Curse",
+        "Sleep Talk",
+        "Hammer Arm",
+        "Night Slash"
+    ],
+    "stats": [
+        "80",
+        "80",
+        "80",
+        "55",
+        "55",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

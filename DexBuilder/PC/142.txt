@@ -1,0 +1,246 @@
+{
+    "name": "Aerodactyl",
+    "jp_name": "Ptera\u30d7\u30c6\u30e9",
+    "number": " National: #142Johto: #229 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Rock Head",
+        "Pressure"
+    ],
+    "classification": "Fossil Pok\u00e9mon",
+    "height": "5'11\"",
+    "weight": "130.1lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "8,960",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "1",
+        "2",
+        "1",
+        "0.5",
+        "0",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "A vicious Pok\u00e9mon from the distant past, it appears to have flown by spreading its wings and gliding.",
+        "This vicious Pok\u00e9mon is said to have flown in ancient skies while shrieking high-pitched cries."
+    ],
+    "location": [
+        "Revive Old Amber",
+        "Revive Old Amber"
+    ],
+    "learnset": {
+        "0": [
+            "Ice Fang",
+            "Fire Fang",
+            "Thunder Fang",
+            "Wing Attack",
+            "Supersonic",
+            "Bite",
+            "Scary Face"
+        ],
+        "9": [
+            "Roar"
+        ],
+        "17": [
+            "Agility"
+        ],
+        "25": [
+            "Ancientpower"
+        ],
+        "33": [
+            "Crunch"
+        ],
+        "41": [
+            "Take Down"
+        ],
+        "49": [
+            "Iron Head"
+        ],
+        "57": [
+            "Hyper Beam"
+        ],
+        "65": [
+            "Rock Slide"
+        ],
+        "73": [
+            "Giga Impact"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM59",
+        "TM66",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Twister",
+        "Tailwind",
+        "Sky Attack",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Whirlwind",
+        "Pursuit",
+        "Foresight",
+        "Steel Wing",
+        "Dragonbreath",
+        "Curse",
+        "Assurance"
+    ],
+    "stats": [
+        "80",
+        "105",
+        "65",
+        "60",
+        "75",
+        "130"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ]
+        ]
+    }
+}

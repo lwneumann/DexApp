@@ -1,0 +1,251 @@
+{
+    "name": "Houndoom",
+    "jp_name": "Herugaa\u30d8\u30eb\u30ac\u30fc",
+    "number": " National: #229Sinnoh: #177 Johto: #215 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Early Bird",
+        "Flash Fire"
+    ],
+    "classification": "Dark Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "77.2lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "0",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+        "Upon hearing its eerie howls, other Pok\u00e9mon get the shivers and head straight back to their nests."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Thunder Fang",
+            "Leer",
+            "Ember",
+            "Howl",
+            "Smog"
+        ],
+        "4": [
+            "Howl"
+        ],
+        "9": [
+            "Smog"
+        ],
+        "14": [
+            "Roar"
+        ],
+        "17": [
+            "Bite"
+        ],
+        "22": [
+            "Odor Sleuth"
+        ],
+        "28": [
+            "Beat Up"
+        ],
+        "32": [
+            "Fire Fang"
+        ],
+        "38": [
+            "Faint Attack"
+        ],
+        "60": [
+            "",
+            "Nasty Plot"
+        ],
+        "44": [
+            "Embargo"
+        ],
+        "48": [
+            "Flamethrower"
+        ],
+        "54": [
+            "Crunch"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM63",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Super Fang",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fire Spin",
+        "Rage",
+        "Pursuit",
+        "Counter",
+        "Spite",
+        "Reversal",
+        "Beat Up",
+        "Will-o-wisp",
+        "Fire Fang",
+        "Thunder Fang",
+        "Nasty Plot",
+        "Punishment",
+        "Feint"
+    ],
+    "stats": [
+        "75",
+        "90",
+        "50",
+        "110",
+        "80",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

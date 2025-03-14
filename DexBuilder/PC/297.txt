@@ -1,0 +1,259 @@
+{
+    "name": "Hariyama",
+    "jp_name": "Hariteyama\u30cf\u30ea\u30c6\u30e4\u30de",
+    "number": " National: #297",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Thick Fat",
+        "Guts"
+    ],
+    "classification": "Arm Thrust Pok\u00e9mon",
+    "height": "7'07\"",
+    "weight": "559.5lbs",
+    "capture_rate": "200",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "King's Rock",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It loves challenging others to tests of strength. It has the power to stop a train with a slap."
+    ],
+    "location": [
+        "Evolve Makuhita",
+        "Evolve Makuhita"
+    ],
+    "learnset": {
+        "0": [
+            "Brine",
+            "Tackle",
+            "Focus Energy",
+            "Sand-attack",
+            "Arm Thrust"
+        ],
+        "4": [
+            "Sand-attack"
+        ],
+        "7": [
+            "Arm Thrust"
+        ],
+        "10": [
+            "Vital Throw",
+            "The user endures any attack with at least"
+        ],
+        "70": [
+            ""
+        ],
+        "13": [
+            "Fake Out"
+        ],
+        "16": [
+            "Whirlwind"
+        ],
+        "19": [
+            "Knock Off"
+        ],
+        "22": [
+            "Smellingsalt"
+        ],
+        "27": [
+            "Belly Drum"
+        ],
+        "32": [
+            "Force Palm"
+        ],
+        "42": [
+            "Wake-up Slap"
+        ],
+        "47": [
+            "Endure"
+        ],
+        "52": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Knock Off",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Iron Head",
+        "Mud-slap",
+        "Superpower",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Faint Attack",
+        "Detect",
+        "Foresight",
+        "Helping Hand",
+        "Cross Chop",
+        "Revenge",
+        "Dynamicpunch",
+        "Counter",
+        "Wake-up Slap",
+        "Bullet Punch",
+        "Feint"
+    ],
+    "stats": [
+        "144",
+        "120",
+        "60",
+        "40",
+        "60",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "204 - 251",
+                "204 - 251",
+                "204 - 251"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "398 - 492",
+                "398 - 492",
+                "398 - 492"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

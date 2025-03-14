@@ -1,0 +1,255 @@
+{
+    "name": "Tangrowth",
+    "jp_name": "Mojanbo\u30e2\u30b8\u30e3\u30f3\u30dc",
+    "number": " National: #465Sinnoh: #182 Johto: #183 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Leaf Guard"
+    ],
+    "classification": "Vine Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "283.5lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "When it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines.",
+        "Its vines grow so profusely that, in the warm season, you can't even see its eyes."
+    ],
+    "location": [
+        "Evolve Tangela",
+        "Evolve Tangela"
+    ],
+    "learnset": {
+        "0": [
+            "Ingrain",
+            "Constrict"
+        ],
+        "5": [
+            "Sleep Powder"
+        ],
+        "8": [
+            "Absorb"
+        ],
+        "12": [
+            "Growth"
+        ],
+        "15": [
+            "Poisonpowder"
+        ],
+        "19": [
+            "Vine Whip"
+        ],
+        "22": [
+            "Bind"
+        ],
+        "26": [
+            "Mega Drain"
+        ],
+        "29": [
+            "Stun Spore"
+        ],
+        "33": [
+            "Ancientpower"
+        ],
+        "36": [
+            "Knock Off"
+        ],
+        "43": [
+            "Slam"
+        ],
+        "47": [
+            "Tickle"
+        ],
+        "54": [
+            "Power Whip"
+        ],
+        "57": [
+            "Block"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM36",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Knock Off",
+        "Snore",
+        "Synthesis",
+        "Ancientpower",
+        "Mud-slap",
+        "Seed Bomb",
+        "Pain Split",
+        "Worry Seed",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flail",
+        "Confusion",
+        "Mega Drain",
+        "Reflect",
+        "Amnesia",
+        "Leech Seed",
+        "Nature Power",
+        "Endeavor",
+        "Leaf Storm",
+        "Power Swap"
+    ],
+    "stats": [
+        "100",
+        "100",
+        "125",
+        "110",
+        "50",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

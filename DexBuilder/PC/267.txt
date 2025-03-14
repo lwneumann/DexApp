@@ -1,0 +1,221 @@
+{
+    "name": "Beautifly",
+    "jp_name": "Agehanto\u30a2\u30b2\u30cf\u30f3\u30c8",
+    "number": " National: #267Sinnoh: #050 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm"
+    ],
+    "classification": "Butterfly Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "62.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Shed Shell",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb"
+        ],
+        "10": [
+            "Absorb"
+        ],
+        "13": [
+            "Gust"
+        ],
+        "17": [
+            "Stun Spore"
+        ],
+        "20": [
+            "Morning Sun"
+        ],
+        "24": [
+            "Mega Drain"
+        ],
+        "27": [
+            "Whirlwind"
+        ],
+        "31": [
+            "Attract"
+        ],
+        "34": [
+            "Silver Wind"
+        ],
+        "38": [
+            "Giga Drain"
+        ],
+        "41": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM53",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Signal Beam",
+        "Twister",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "stats": [
+        "60",
+        "70",
+        "50",
+        "90",
+        "50",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

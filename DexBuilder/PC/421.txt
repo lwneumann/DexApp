@@ -1,0 +1,227 @@
+{
+    "name": "Cherrim",
+    "jp_name": "Cherimu\u30c1\u30a7\u30ea\u30e0",
+    "number": " National: #421Sinnoh: #059 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Flower Gift"
+    ],
+    "classification": "Blossom Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "20.5lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Miracle Seed",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Plant"
+    ],
+    "flavor_text": [
+        "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active."
+    ],
+    "location": [
+        "Evolve Cherubi",
+        "Evolve Cherubi"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growth"
+        ],
+        "7": [
+            "Growth"
+        ],
+        "10": [
+            "Leech Seed"
+        ],
+        "13": [
+            "Helping Hand"
+        ],
+        "19": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "22": [
+            "Sunny Day"
+        ],
+        "25": [
+            "Petal Dance"
+        ],
+        "30": [
+            "Worry Seed"
+        ],
+        "35": [
+            "Take Down"
+        ],
+        "43": [
+            "Solarbeam"
+        ],
+        "48": [
+            "Lucky Chant"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Rollout",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Razor Leaf",
+        "Sweet Scent",
+        "Tickle",
+        "Nature Power",
+        "Grasswhistle",
+        "Aromatherapy",
+        "Weather Ball"
+    ],
+    "stats": [
+        "70",
+        "60",
+        "70",
+        "87",
+        "78",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "82 - 125",
+                "92 - 139",
+                "101 - 152"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "161 - 245",
+                "179 - 273",
+                "196 - 300"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

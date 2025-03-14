@@ -1,0 +1,90 @@
+O - name
+O - jp_name
+O - number
+O - gender_ratio
+O - ability
+O - classification
+O - height
+O - weight
+O - capture_rate
+O - base_egg_steps
+O - experience_growth
+O - base_happiness
+O - effort_values_earned
+O - color
+O - safari_zone_flee_rate
+O - damage
+O - held_item
+O - egg_groups
+O - flavor_text
+O - location
+O - learnset
+O - egg_moves
+O - tutor_moves
+O - TMHM
+O - stats
+O - possible_stats
+O - Pokewalker
+(if like gender)
+
+SET ALL TO STR ""
+    next priot ev vals etc
+stat names -> add all stats as % as well
+Calc stat width -> round(100*(s/255))%
+Genderless -> gender or genderless 
+pokewalker -> [    
+        [courses],
+        [items]
+    ]
+OR [
+    [courses]
+]
+OR []
+
+Abilities = [
+    [Ability, Description],
+    ...
+]
+get from abilities file
+
+FOR KEYS THAT DONT HAVE ENTRIES
+pokewalker, egg_moves, tutor_moves
+CHECK KEYS TO POPULATE IF blah blah
+
+
+
+#####
+
+CLASSIFICATION Just first part
+
+EXPGROWTHs -> [0] - [1]
+
+GENDRATIO -> ♂: [0]% &emsp; ♀: [1]%
+
+held item None or []
+
+pokewalker -> [    
+        [courses],
+        [items]
+    ]
+(from dict)
+
+stat ranges get min and max
+
+Abilities = [
+    [Ability, Description],
+    ...
+]
+
+
+####
+ O - 332 - Cacturne back sprites
+ O - add padding again to the walls
+ X - Version Specific tutor moves...
+   -> Venmomoth, 54
+ X - pre evolution moves
+ X - 401 bide?
+ X - 413..
+
+
+az webapp up --runtime PYTHON:3.12 --sku B1 --logs --name <appName>

@@ -1,0 +1,240 @@
+{
+    "name": "Crobat",
+    "jp_name": "Kurobatto\u30af\u30ed\u30d0\u30c3\u30c8",
+    "number": " National: #169Sinnoh: #030 Johto: #039 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Inner Focus"
+    ],
+    "classification": "Bat Pok\u0165mon",
+    "height": "5'11\"",
+    "weight": "165.3lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "0.5",
+        "0",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+        "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest."
+    ],
+    "location": [
+        "Evolve Crobat",
+        "Evolve Crobat"
+    ],
+    "learnset": {
+        "0": [
+            "Cross Poison",
+            "Screech",
+            "Leech Life",
+            "Supersonic",
+            "Astonish"
+        ],
+        "5": [
+            "Supersonic"
+        ],
+        "9": [
+            "Astonish"
+        ],
+        "13": [
+            "Bite"
+        ],
+        "17": [
+            "Wing Attack"
+        ],
+        "21": [
+            "Confuse Ray"
+        ],
+        "27": [
+            "Air Cutter"
+        ],
+        "33": [
+            "Mean Look"
+        ],
+        "39": [
+            "Poison Fang"
+        ],
+        "45": [
+            "Haze"
+        ],
+        "51": [
+            "Air Slash"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM49",
+        "TM51",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM79",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Twister",
+        "Super Fang",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Quick Attack",
+        "Pursuit",
+        "Faint Attack",
+        "Gust",
+        "Whirlwind",
+        "Curse",
+        "Nasty Plot",
+        "Hypnosis",
+        "Zen Headbutt",
+        "Brave Bird"
+    ],
+    "stats": [
+        "85",
+        "90",
+        "80",
+        "70",
+        "80",
+        "130"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "145 - 192",
+                "145 - 192",
+                "145 - 192"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ]
+        ],
+        "100": [
+            [
+                "280 - 374",
+                "280 - 374",
+                "280 - 374"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ]
+        ]
+    }
+}

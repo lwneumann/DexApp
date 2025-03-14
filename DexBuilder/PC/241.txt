@@ -1,0 +1,254 @@
+{
+    "name": "Miltank",
+    "jp_name": "Miltank\u30df\u30eb\u30bf\u30f3\u30af",
+    "number": " National: #241Johto: #151 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Thick Fat",
+        "Scrappy"
+    ],
+    "classification": "Milk Cow Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "166.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Moomoo Milk",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+        "If it is around babies, the milk it produces contains much more nutrition than usual."
+    ],
+    "location": [
+        "Route 38, Route 39, Route 47",
+        "Route 38, Route 39, Route 47"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "3": [
+            "Growl"
+        ],
+        "5": [
+            "Defense Curl"
+        ],
+        "8": [
+            "Stomp"
+        ],
+        "11": [
+            "Milk Drink"
+        ],
+        "19": [
+            "Rollout"
+        ],
+        "24": [
+            "Body Slam"
+        ],
+        "29": [
+            "Zen Headbutt"
+        ],
+        "35": [
+            "Captivate"
+        ],
+        "48": [
+            "Heal Bell"
+        ],
+        "55": [
+            "Wake-up Slap"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM68",
+        "TM73",
+        "TM74",
+        "TM76",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Heal Bell",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Present",
+        "Reversal",
+        "Seismic Toss",
+        "Endure",
+        "Psych Up",
+        "Curse",
+        "Helping Hand",
+        "Sleep Talk",
+        "Dizzy Punch",
+        "Hammer Arm",
+        "Double-edge",
+        "Punishment"
+    ],
+    "stats": [
+        "95",
+        "80",
+        "105",
+        "40",
+        "70",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

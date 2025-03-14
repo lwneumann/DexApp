@@ -1,0 +1,241 @@
+{
+    "name": "Nuzleaf",
+    "jp_name": "Konohana\u30b3\u30ce\u30cf\u30ca",
+    "number": " National: #274",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Early Bird"
+    ],
+    "classification": "Wily Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "61.7lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "0",
+        "4",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Razor Leaf",
+            "Pound"
+        ],
+        "3": [
+            "Harden"
+        ],
+        "7": [
+            "Growth"
+        ],
+        "13": [
+            "Nature Power"
+        ],
+        "19": [
+            "Fake Out"
+        ],
+        "25": [
+            "Torment"
+        ],
+        "31": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "37": [
+            "Razor Wind"
+        ],
+        "43": [
+            "Swagger"
+        ],
+        "49": [
+            "Extrasensory"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM63",
+        "TM64",
+        "TM66",
+        "TM70",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Synthesis",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Worry Seed",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Leech Seed",
+        "Amnesia",
+        "Quick Attack",
+        "Razor Wind",
+        "Take Down",
+        "False Swipe",
+        "Worry Seed",
+        "Nasty Plot",
+        "Power Swap"
+    ],
+    "stats": [
+        "70",
+        "70",
+        "40",
+        "60",
+        "40",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

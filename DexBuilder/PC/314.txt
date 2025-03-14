@@ -1,0 +1,237 @@
+{
+    "name": "Illumise",
+    "jp_name": "Illumise\u30a4\u30eb\u30df\u30fc\u30bc",
+    "number": " National: #314",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Oblivious",
+        "Tinted Lens"
+    ],
+    "classification": "Firefly Pok\u0165mon",
+    "height": "2'00\"",
+    "weight": "39.0lbs",
+    "capture_rate": "150",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "Its fragrance attracts a swarm of VOLBEAT, so they draw over 200 patterns in the night sky."
+    ],
+    "location": [
+        "Bug Catching Contest, Safari Zone (Special Items)",
+        "Bug Catching Contest, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Sweet Scent"
+        ],
+        "9": [
+            "Charm"
+        ],
+        "13": [
+            "Moonlight"
+        ],
+        "17": [
+            "Quick Attack"
+        ],
+        "21": [
+            "Wish"
+        ],
+        "25": [
+            "Encore"
+        ],
+        "29": [
+            "Flatter"
+        ],
+        "33": [
+            "Helping Hand"
+        ],
+        "37": [
+            "Zen Headbutt"
+        ],
+        "41": [
+            "Bug Buzz"
+        ],
+        "45": [
+            "Covet"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM62",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ice Punch",
+        "Ominous Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Baton Pass",
+        "Silver Wind",
+        "Growth",
+        "Encore",
+        "Bug Buzz"
+    ],
+    "stats": [
+        "65",
+        "47",
+        "55",
+        "73",
+        "75",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "46 - 89",
+                "52 - 99",
+                "57 - 108"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "70 - 112",
+                "78 - 125",
+                "85 - 137"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "89 - 173",
+                "99 - 193",
+                "108 - 212"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "135 - 220",
+                "151 - 245",
+                "166 - 269"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

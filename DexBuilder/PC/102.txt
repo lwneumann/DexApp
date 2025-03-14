@@ -1,0 +1,234 @@
+{
+    "name": "Exeggcute",
+    "jp_name": "Tamatama\u30bf\u30de\u30bf\u30de",
+    "number": " National: #102Johto: #105 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Egg Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "5.5lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "4",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "Their shells are very durable. Even if they crack, they can survive without spilling their contents.",
+        "Using telepathy only they can employ, they always form a cluster of six EXEGGCUTE."
+    ],
+    "location": [
+        "Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town Cherrygrove City, Violet City, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate (Headbutt)",
+        "Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town Cherrygrove City, Violet City, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Barrage",
+            "Uproar",
+            "Hypnosis"
+        ],
+        "7": [
+            "Reflect"
+        ],
+        "11": [
+            "Leech Seed"
+        ],
+        "17": [
+            "Bullet Seed"
+        ],
+        "19": [
+            "Stun Spore"
+        ],
+        "21": [
+            "Poisonpowder"
+        ],
+        "23": [
+            "Sleep Powder"
+        ],
+        "27": [
+            "Confusion"
+        ],
+        "33": [
+            "Worry Seed"
+        ],
+        "43": [
+            "Solarbeam"
+        ],
+        "47": [
+            "Psychic"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM33",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM53",
+        "TM58",
+        "TM64",
+        "TM70",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM04"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Ancientpower",
+        "Rollout",
+        "Seed Bomb",
+        "Gravity",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Synthesis",
+        "Moonlight",
+        "Reflect",
+        "Ancientpower",
+        "Psych Up",
+        "Ingrain",
+        "Curse",
+        "Nature Power",
+        "Lucky Chant",
+        "Leaf Storm",
+        "Power Swap"
+    ],
+    "stats": [
+        "60",
+        "40",
+        "80",
+        "60",
+        "45",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

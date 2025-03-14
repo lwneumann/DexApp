@@ -1,0 +1,236 @@
+{
+    "name": "Marill",
+    "jp_name": "Mariru\u30de\u30ea\u30eb",
+    "number": " National: #183Sinnoh: #125 Johto: #132 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Thick Fat",
+        "Huge Power"
+    ],
+    "classification": "Aquamouse Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "18.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "2,560",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Fairy"
+    ],
+    "flavor_text": [
+        "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+        "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current."
+    ],
+    "location": [
+        "Mt. Mortar",
+        "Mt. Mortar"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "2": [
+            "Defense Curl"
+        ],
+        "7": [
+            "Tail Whip"
+        ],
+        "10": [
+            "Water Gun"
+        ],
+        "15": [
+            "Rollout"
+        ],
+        "18": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Aqua Ring"
+        ],
+        "27": [
+            "Double-edge"
+        ],
+        "32": [
+            "Rain Dance"
+        ],
+        "37": [
+            "Aqua Tail"
+        ],
+        "42": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Light Screen",
+        "Present",
+        "Amnesia",
+        "Future Sight",
+        "Belly Drum",
+        "Perish Song",
+        "Supersonic",
+        "Substitute",
+        "Aqua Jet",
+        "Superpower",
+        "Refresh",
+        "Body Slam"
+    ],
+    "stats": [
+        "70",
+        "20",
+        "50",
+        "20",
+        "50",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

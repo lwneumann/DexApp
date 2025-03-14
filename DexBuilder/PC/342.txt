@@ -1,0 +1,254 @@
+{
+    "name": "Crawdaunt",
+    "jp_name": "Shizarigar\u30b7\u30b6\u30ea\u30ac\u30fc",
+    "number": " National: #342",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Hyper Cutter",
+        "Shell Armor"
+    ],
+    "classification": "Rogue Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "72.3lbs",
+    "capture_rate": "155",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "flavor_text": [
+        "A brutish Pok\u00e9mon that loves to battle. It will crash itself into any foe that approaches its nest."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Bubble",
+            "Harden",
+            "Vicegrip",
+            "Leer"
+        ],
+        "7": [
+            "Harden"
+        ],
+        "10": [
+            "Vicegrip"
+        ],
+        "13": [
+            "Leer"
+        ],
+        "20": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Protect"
+        ],
+        "26": [
+            "Knock Off"
+        ],
+        "30": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "34": [
+            "Taunt"
+        ],
+        "39": [
+            "Night Slash"
+        ],
+        "44": [
+            "Crabhammer"
+        ],
+        "52": [
+            "Swords Dance"
+        ],
+        "57": [
+            "Crunch"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM72",
+        "TM75",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Ancientpower",
+        "Endeavor",
+        "Iron Defense",
+        "Mud-slap",
+        "Superpower"
+    ],
+    "egg_moves": [
+        "Mud Sport",
+        "Endeavor",
+        "Body Slam",
+        "Ancientpower",
+        "Knock Off",
+        "Superpower",
+        "Metal Claw",
+        "Dragon Dance"
+    ],
+    "stats": [
+        "63",
+        "120",
+        "85",
+        "90",
+        "55",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "123 - 170",
+                "123 - 170",
+                "123 - 170"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "236 - 330",
+                "236 - 330",
+                "236 - 330"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

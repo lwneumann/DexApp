@@ -1,0 +1,245 @@
+{
+    "name": "Totodile",
+    "jp_name": "Waninoko\u30ef\u30cb\u30ce\u30b3",
+    "number": " National: #158Johto: #007 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Torrent"
+    ],
+    "classification": "Big Jaw Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "20.9lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "flavor_text": [
+        "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+        "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves."
+    ],
+    "location": [
+        "Receive from Professor Elm",
+        "Receive from Professor Elm"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Leer"
+        ],
+        "6": [
+            "Water Gun"
+        ],
+        "8": [
+            "Rage"
+        ],
+        "13": [
+            "Bite"
+        ],
+        "15": [
+            "Scary Face"
+        ],
+        "20": [
+            "Ice Fang"
+        ],
+        "27": [
+            "Crunch"
+        ],
+        "29": [
+            "Slash"
+        ],
+        "34": [
+            "Screech"
+        ],
+        "36": [
+            "Thrash"
+        ],
+        "41": [
+            "Aqua Tail"
+        ],
+        "43": [
+            "Superpower"
+        ],
+        "48": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Ice Punch",
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Aqua Tail",
+        "Mud-slap",
+        "Superpower",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Thrash",
+        "Hydro Pump",
+        "Ancientpower",
+        "Rock Slide",
+        "Mud Sport",
+        "Water Sport",
+        "Dragon Claw",
+        "Ice Punch",
+        "Metal Claw",
+        "Dragon Dance",
+        "Aqua Jet"
+    ],
+    "stats": [
+        "50",
+        "65",
+        "64",
+        "44",
+        "48",
+        "43"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "62 - 104",
+                "69 - 116",
+                "75 - 127"
+            ],
+            [
+                "44 - 86",
+                "49 - 96",
+                "53 - 105"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "119 - 204",
+                "133 - 227",
+                "146 - 249"
+            ],
+            [
+                "83 - 168",
+                "93 - 187",
+                "102 - 205"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ]
+        ]
+    }
+}

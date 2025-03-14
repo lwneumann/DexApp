@@ -1,0 +1,156 @@
+{
+    "name": "Wurmple",
+    "jp_name": "Kemusso\u30b1\u30e0\u30c3\u30bd",
+    "number": " National: #265Sinnoh: #048 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shield Dust"
+    ],
+    "classification": "Worm Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "7.9lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It lives among the tall grass and in forests. It repels attacks by  raising up the spikes on its rear."
+    ],
+    "location": [
+        "Routes 1, 2, 3, 4, 12, 13, 14, 15, 18, 21, 22, Pallet Town, Viridian City, Pewter City, Fuchsia City (Headbutt), Bug Catching Contest",
+        "Routes 1, 2, 3, 4, 12, 13, 14, 15, 18, 21, 22, Pallet Town, Viridian City, Pewter City, Fuchsia City (Headbutt), Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "String Shot"
+        ],
+        "5": [
+            "Poison Sting"
+        ],
+        "15": [
+            "Bug Bite"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        ""
+    ],
+    "tutor_moves": [
+        "String Shot",
+        "Bug Bite"
+    ],
+    "stats": [
+        "45",
+        "45",
+        "35",
+        "20",
+        "30",
+        "20"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ]
+        ]
+    }
+}

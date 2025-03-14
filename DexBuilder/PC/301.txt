@@ -1,0 +1,222 @@
+{
+    "name": "Delcatty",
+    "jp_name": "Enekoro\u30a8\u30cd\u30b3\u30ed\u30ed",
+    "number": " National: #301",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Cute Charm",
+        "Normalize"
+    ],
+    "classification": "Prim Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "71.9lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Leppa Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground",
+        "Fairy"
+    ],
+    "flavor_text": [
+        "It dislikes dirty places. It often searches for a comfortable place in which to groom itself."
+    ],
+    "location": [
+        "Evolve Skitty",
+        "Evolve Skitty"
+    ],
+    "learnset": {
+        "0": [
+            "Fake Out",
+            "Attract",
+            "Sing",
+            "Doubleslap"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM57",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Sucker Punch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Rollout",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Helping Hand",
+        "Psych Up",
+        "Uproar",
+        "Fake Tears",
+        "Wish",
+        "Baton Pass",
+        "Substitute",
+        "Tickle",
+        "Last Resort",
+        "Fake Out",
+        "Zen Headbutt",
+        "Sucker Punch",
+        "Mud Bomb"
+    ],
+    "stats": [
+        "70",
+        "65",
+        "65",
+        "55",
+        "55",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

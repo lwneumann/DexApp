@@ -1,0 +1,257 @@
+{
+    "name": "Charizard",
+    "jp_name": "Rizardon\u30ea\u30b6\u30fc\u30c9\u30f3",
+    "number": " National: #006Johto: #236 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Flame Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "199.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "2",
+        "0.25",
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.25",
+        "4",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
+        "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies."
+    ],
+    "location": [
+        "Evolve Charmeleon",
+        "Evolve Charmeleon"
+    ],
+    "learnset": {
+        "0": [
+            "Dragon Claw",
+            "Shadow Claw",
+            "Air Slash",
+            "Scratch",
+            "Growl",
+            "Ember",
+            "Smokescreen"
+        ],
+        "7": [
+            "Ember"
+        ],
+        "10": [
+            "Smokescreen"
+        ],
+        "21": [
+            "Scary Face"
+        ],
+        "28": [
+            "Fire Fang"
+        ],
+        "32": [
+            "Slash"
+        ],
+        "36": [
+            "Wing Attack"
+        ],
+        "42": [
+            "Flamethrower"
+        ],
+        "49": [
+            "Fire Spin"
+        ],
+        "59": [
+            "Heat Wave"
+        ],
+        "66": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM02",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM47",
+        "TM50",
+        "TM51",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM61",
+        "TM65",
+        "TM68",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fire Punch",
+        "Fury Cutter",
+        "Ominous Wind",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Tailwind",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Belly Drum",
+        "Ancientpower",
+        "Rock Slide",
+        "Bite",
+        "Outrage",
+        "Beat Up",
+        "Swords Dance",
+        "Dragon Dance",
+        "Crunch",
+        "Dragon Rush",
+        "Metal Claw",
+        "Flare Blitz",
+        "Counter"
+    ],
+    "stats": [
+        "78",
+        "84",
+        "78",
+        "109",
+        "85",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "138 - 185",
+                "138 - 185",
+                "138 - 185"
+            ],
+            [
+                "80 - 122",
+                "89 - 136",
+                "97 - 149"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "102 - 144",
+                "114 - 161",
+                "125 - 177"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "266 - 360",
+                "266 - 360",
+                "266 - 360"
+            ],
+            [
+                "155 - 240",
+                "173 - 267",
+                "190 - 293"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "200 - 285",
+                "223 - 317",
+                "245 - 348"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

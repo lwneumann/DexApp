@@ -1,0 +1,1388 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Kakuna
+Kokoonコクーン
+ National: #014Johto: #028 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Shed Skin 
+
+
+
+Shed Skin: Every turn, it has a 1 in 3 chance of healing from a status condition (BURN, PARALYZE, SLEEP, POISON, FREEZE). 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Cocoon Pokémon
+2'00"
+22.0lbs
+120
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Defense Point(s)
+Yellow
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.25
+*1
+*0.25
+*0.5
+*1
+*2
+*2
+*0.5
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		While awaiting evolution, it hides from predators under leaves and in nooks of branches.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.
+		
+
+
+SoulSilver
+
+		From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+LeafGreen
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Eterna Forest LG Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest LG Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (LeafGreen Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansPoison Sting151003530  Lv. 1The foe is stabbed with a poisonous barb of some sort. It may also poison the target.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+LeafGreen
+		
+
+		Viridian Forest, Route 25, Pattern Bush
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Eterna Forest LG Inserted into DS
+
+
+Details
+
+
+
+Pearl
+		
+
+		Eterna Forest LG Inserted into DS
+
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (LeafGreen Inserted)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansPoison Sting151003530  Lv. 1The foe is stabbed with a poisonous barb of some sort. It may also poison the target.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansPoison Sting151003530  Lv. 1The foe is stabbed with a poisonous barb of some sort. It may also poison the target.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansPoison Sting151003530  Lv. 1The foe is stabbed with a poisonous barb of some sort. It may also poison the target.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansPoison Sting151003530  Lv. 1The foe is stabbed with a poisonous barb of some sort. It may also poison the target.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansPoison Sting151003530  Lv. 1The foe is stabbed with a poisonous barb of some sort. It may also poison the target.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+45
+25
+50
+25
+25
+35
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+27 - 69
+49 - 91
+27 - 69
+27 - 69
+36 - 78
+Lv. 100
+200 - 294
+49 - 134
+94 - 179
+49 - 134
+49 - 134
+67 - 152
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+30 - 77
+55 - 102
+30 - 77
+30 - 77
+40 - 87
+Lv. 100
+200 - 294
+55 - 149
+105 - 199
+55 - 149
+55 - 149
+75 - 169
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+33 - 84
+60 - 112
+33 - 84
+33 - 84
+44 - 95
+Lv. 100
+200 - 294
+60 - 163
+115 - 218
+60 - 163
+60 - 163
+82 - 185
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#013Weedle
+		
+
+
+
+
+
+
+
+#015Beedrill
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

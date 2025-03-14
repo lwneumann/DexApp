@@ -1,0 +1,2650 @@
+
+
+Images
+
+
+
+Normal
+Sunny Form
+Rainy Form
+Snowy Form
+ 
+Normal Sprite
+Shiny Sprite
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Castform
+Powarunポワルン
+ National: #351
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Forecast 
+
+
+
+Forecast: This Pokémon’s type and figure change with the weather. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Weather Pokťmon
+1'04"
+1.8lbs
+45
+6,400
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 HP Point(s)
+White
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*1
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+*0
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Mystic Water - 100%
+
+FairyPikachuRaichuClefairyClefableJigglypuffWigglytuffChanseyTogeticMarillAzumarillHoppipSkiploomJumpluffSnubbullGranbullBlisseyShroomishBreloomSkittyDelcattyMawilePlusleMinunRoseliaCastformSnoruntGlalieRoseradePachirisuCherubiCherrimTogekissFroslassPhioneManaphyDittoFairy
+
+IndeterminateGrimerMukGastlyHaunterGengarKoffingWeezingMisdreavusWobbuffetSlugmaMagcargoRaltsKirliaGardevoirGulpinSwalotCastformShuppetBanetteDuskullDusclopsChimechoShellosGastrodonDrifloonDrifblimMismagiusSpiritombGalladeDusknoirRotomDittoIndeterminate
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+Alternate Forms
+
+
+ 
+NormalSunny FormRainy FormSnowy FormNo WeatherSunny DayRain DanceHail
+These forms are obtained when a weather move is placed into effect
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		Its appearance changes with the weather. Recently, its molecules were found to be just like water.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		This Pokťmon can change its cells, taking different forms based on the temperature and humidity.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Obtained in Weather Research Institute
+		
+
+
+Sapphire
+		
+
+		Obtained in Weather Research Institute
+		
+
+
+Emerald
+		
+
+		Obtained in Weather Research Institute
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Trophy Garden
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Trophy Garden
+		
+
+Details
+
+
+Platinum
+		
+
+		Trophy Garden (Daily Pokťmon)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Transfer from PokťWalker
+		
+
+
+SoulSilver
+		
+
+		Transfer from PokťWalker
+		
+PokťWalker
+		
+
+		Treehouse
+		
+
+Details
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Water Gun4010025--The foe is blasted with a forceful shot of water. 10Ember401002510The foe is attacked with small flames. The target may also be left with a burn. 10Powder Snow401002510The user attacks with a chilling gust of powdery snow. It may also freeze the target.20Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.20Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 20Hail----10--The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.30Weather Ball5010010--An attack move that varies in power and type depending on the weather. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokťmon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Future Sight809015--DetailsTwo turns after this move is used, the foe is attacked with a hunk of psychic energy.Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Lucky Chant----30--DetailsThe user chants an incantation toward the sky, preventing the foe from landing critical hits.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Ominous Wind60100510DetailsThe user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Obtained in Weather Research Institute
+		
+
+
+Sapphire
+		
+
+		Obtained in Weather Research Institute
+		
+
+
+Emerald
+		
+
+		Obtained in Weather Research Institute
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Trophy Garden
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Trophy Garden
+		
+
+Details
+
+
+Platinum
+		
+
+		Trophy Garden (Daily Pokťmon)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Transfer from PokťWalker
+		
+
+
+SoulSilver
+		
+
+		Transfer from PokťWalker
+		
+PokťWalker
+		
+
+		Treehouse
+		
+
+Details
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Water Gun4010025--The foe is blasted with a forceful shot of water. 10Ember401002510The foe is attacked with small flames. The target may also be left with a burn. 10Powder Snow401002510The user attacks with a chilling gust of powdery snow. It may also freeze the target.20Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.20Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 20Hail----10--The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.30Weather Ball5010010--An attack move that varies in power and type depending on the weather. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokťmon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Future Sight809015--DetailsTwo turns after this move is used, the foe is attacked with a hunk of psychic energy.Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Lucky Chant----30--DetailsThe user chants an incantation toward the sky, preventing the foe from landing critical hits.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Ominous Wind60100510DetailsThe user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.10Water Gun4010025--The foe is blasted with a forceful shot of water. 10Ember401002510The foe is attacked with small flames. The target may also be left with a burn. 10Powder Snow401002510The user attacks with a chilling gust of powdery snow. It may also freeze the target.20Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.20Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. 20Hail----10--The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.30Weather Ball5010010--An attack move that varies in power and type depending on the weather. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokťmon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Future Sight809015--DetailsTwo turns after this move is used, the foe is attacked with a hunk of psychic energy.Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Lucky Chant----30--DetailsThe user chants an incantation toward the sky, preventing the foe from landing critical hits.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Ominous Wind60100510DetailsThe user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokťmon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokťmon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM37
+Sandstorm
+
+
+--
+--
+10
+--
+A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM72
+Avalanche
+
+
+60
+100
+10
+--
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokťmon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Future Sight809015--DetailsTwo turns after this move is used, the foe is attacked with a hunk of psychic energy.Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Lucky Chant----30--DetailsThe user chants an incantation toward the sky, preventing the foe from landing critical hits.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Ominous Wind60100510DetailsThe user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokťmon for three turns.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Future Sight809015--DetailsTwo turns after this move is used, the foe is attacked with a hunk of psychic energy.Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Lucky Chant----30--DetailsThe user chants an incantation toward the sky, preventing the foe from landing critical hits.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Ominous Wind60100510DetailsThe user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Future Sight809015--DetailsTwo turns after this move is used, the foe is attacked with a hunk of psychic energy.Psych Up----10--DetailsThe user hypnotizes itself into copying any stat change made by the foe. Lucky Chant----30--DetailsThe user chants an incantation toward the sky, preventing the foe from landing critical hits.Disable--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.Amnesia----20--DetailsThe user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.Ominous Wind60100510DetailsThe user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokťathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+70
+70
+70
+70
+70
+70
+Max StatsHindering Nature
+Lv. 50
+130 - 177
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+67 - 109
+Lv. 100
+250 - 344
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+130 - 177
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+75 - 122
+Lv. 100
+250 - 344
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+130 - 177
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+82 - 134
+Lv. 100
+250 - 344
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#350Milotic
+		
+
+
+
+
+
+
+
+#352Kecleon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,2916 @@
+
+
+Images
+
+
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Gastly
+Ghosゴース
+ National: #092Sinnoh: #069 Johto: #058 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Levitate 
+
+
+
+Levitate: Damage dealing Ground-type moves have no effect on this Pokémon. Cannot be trapped by Arena Trap ability. Takes no damage from Spikes. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Gas Pokémon
+4'03"
+0.2lbs
+190
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+70
+1 Sp. Attack Point(s)
+Purple
+120
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*0
+*1
+*1
+*1
+*0.5
+*1
+*0
+*0.25
+*2
+*1
+*2
+*0.25
+*1
+*2
+*1
+*2
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+IndeterminateGrimerMukGastlyHaunterGengarKoffingWeezingMisdreavusWobbuffetSlugmaMagcargoRaltsKirliaGardevoirGulpinSwalotCastformShuppetBanetteDuskullDusclopsChimechoShellosGastrodonDrifloonDrifblimMismagiusSpiritombGalladeDusknoirRotomDittoIndeterminate
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		This Pokémon's body is 95% made up of gases, which are blown away by strong gusts of wind.
+		
+
+
+Pearl
+		
+
+		A Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.
+		
+ 
+Platinum
+		
+
+		Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.
+		
+ 
+HeartGold 
+		With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.
+		
+
+
+SoulSilver
+
+		Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7
+		
+
+
+LeafGreen
+		
+
+		Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Lost Tower, Old Chateau
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Lost Tower, Old Chateau
+		
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (Night)Old Chateau, Lost Tower, Turnback Cave
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Sprout Tower, Bell TowerSafari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Sprout Tower, Bell TowerSafari Zone
+		
+
+Details
+
+PokéWalker
+		
+
+		Dim Cave, Scary Cave
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Lick201003030The foe is licked with a long tongue, causing damage. It may also paralyze the target.5Spite--10010--The user looses its grudge on the move last used by the foe by cutting 4 PP from it.8Mean Look----5--The user affixes the foe with a dark, arresting look. The target becomes unable to flee.12Curse----10--A move that works differently for the Ghost type than for all the other types. 15Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.19Confuse Ray--10010--The foe is exposed to a sinister ray that triggers confusion. 22Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.26Payback5010010--If the user can use this attack after the foe attacks, its power is doubled. 29Shadow Ball801001520The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.33Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.36Dark Pulse801001520The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.40Destiny Bond----5--When this move is used, if the user faints, the foe that landed the knockout hit also faints.43Nightmare--10015--A sleeping foe is shown a nightmare that inflicts some damage every turn. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Psywave??8015--DetailsThe foe is attacked with an odd, hot energy wave. The attack varies in intensity.Perish Song----5--DetailsAny Pokémon that hears this song faints in three turns, unless it switches out of battle.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Grudge----5--DetailsIf the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.Explosion2501005--DetailsThe user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.Fire Punch751001510DetailsThe foe is punched with a fiery fist. It may leave the target with a burn. Ice Punch751001510DetailsThe foe is punched with an icy fist. It may leave the target frozen. Thunderpunch751001510DetailsThe foe is punched with an electrified fist. It may leave the target with paralysis.Disable - HGSS Only--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+FireRed
+		
+
+		Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7
+		
+
+
+LeafGreen
+		
+
+		Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Lost Tower, Old Chateau
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Lost Tower, Old Chateau
+		
+
+Details
+
+
+Platinum
+		
+
+		Eterna Forest (Night)Old Chateau, Lost Tower, Turnback Cave
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Sprout Tower, Bell TowerSafari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Sprout Tower, Bell TowerSafari Zone
+		
+
+Details
+
+PokéWalker
+		
+
+		Dim Cave, Scary Cave
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Lick201003030The foe is licked with a long tongue, causing damage. It may also paralyze the target.5Spite--10010--The user looses its grudge on the move last used by the foe by cutting 4 PP from it.8Mean Look----5--The user affixes the foe with a dark, arresting look. The target becomes unable to flee.12Curse----10--A move that works differently for the Ghost type than for all the other types. 15Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.19Confuse Ray--10010--The foe is exposed to a sinister ray that triggers confusion. 22Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.26Payback5010010--If the user can use this attack after the foe attacks, its power is doubled. 29Shadow Ball801001520The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.33Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.36Dark Pulse801001520The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.40Destiny Bond----5--When this move is used, if the user faints, the foe that landed the knockout hit also faints.43Nightmare--10015--A sleeping foe is shown a nightmare that inflicts some damage every turn. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Psywave??8015--DetailsThe foe is attacked with an odd, hot energy wave. The attack varies in intensity.Perish Song----5--DetailsAny Pokémon that hears this song faints in three turns, unless it switches out of battle.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Grudge----5--DetailsIf the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.Explosion2501005--DetailsThe user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.Fire Punch751001510DetailsThe foe is punched with a fiery fist. It may leave the target with a burn. Ice Punch751001510DetailsThe foe is punched with an icy fist. It may leave the target frozen. Thunderpunch751001510DetailsThe foe is punched with an electrified fist. It may leave the target with paralysis.Disable - HGSS Only--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.—Lick201003030The foe is licked with a long tongue, causing damage. It may also paralyze the target.5Spite--10010--The user looses its grudge on the move last used by the foe by cutting 4 PP from it.8Mean Look----5--The user affixes the foe with a dark, arresting look. The target becomes unable to flee.12Curse----10--A move that works differently for the Ghost type than for all the other types. 15Night Shade??10015--The user makes the foe see a mirage. It inflicts damage matching the user's level.19Confuse Ray--10010--The foe is exposed to a sinister ray that triggers confusion. 22Sucker Punch801005--This move enables the user to attack first. It fails if the foe is not readying an attack, however.26Payback5010010--If the user can use this attack after the foe attacks, its power is doubled. 29Shadow Ball801001520The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.33Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.36Dark Pulse801001520The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.40Destiny Bond----5--When this move is used, if the user faints, the foe that landed the knockout hit also faints.43Nightmare--10015--A sleeping foe is shown a nightmare that inflicts some damage every turn. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Psywave??8015--DetailsThe foe is attacked with an odd, hot energy wave. The attack varies in intensity.Perish Song----5--DetailsAny Pokémon that hears this song faints in three turns, unless it switches out of battle.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Grudge----5--DetailsIf the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.Explosion2501005--DetailsThe user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.Fire Punch751001510DetailsThe foe is punched with a fiery fist. It may leave the target with a burn. Ice Punch751001510DetailsThe foe is punched with an icy fist. It may leave the target frozen. Thunderpunch751001510DetailsThe foe is punched with an electrified fist. It may leave the target with paralysis.Disable - HGSS Only--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM48
+Skill Swap
+
+
+--
+--
+10
+--
+The user employs its psychic power to exchange abilities with the foe. TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM64
+Explosion
+
+
+250
+100
+5
+--
+The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM92
+Trick Room
+
+
+--
+--
+5
+--
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fire Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with a fiery fist. It may leave the target with a burn. 
+Ice Punch
+
+
+75
+100
+15
+10
+
+The foe is punched with an icy fist. It may leave the target frozen. 
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Trick
+
+
+--
+100
+10
+--
+
+The user catches the foe off guard and swaps the foe's held item with its own. 
+Thunderpunch
+
+
+75
+100
+15
+10
+
+The foe is punched with an electrified fist. It may leave the target with paralysis.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Psywave??8015--DetailsThe foe is attacked with an odd, hot energy wave. The attack varies in intensity.Perish Song----5--DetailsAny Pokémon that hears this song faints in three turns, unless it switches out of battle.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Grudge----5--DetailsIf the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.Explosion2501005--DetailsThe user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.Fire Punch751001510DetailsThe foe is punched with a fiery fist. It may leave the target with a burn. Ice Punch751001510DetailsThe foe is punched with an icy fist. It may leave the target frozen. Thunderpunch751001510DetailsThe foe is punched with an electrified fist. It may leave the target with paralysis.Disable - HGSS Only--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Psywave??8015--DetailsThe foe is attacked with an odd, hot energy wave. The attack varies in intensity.Perish Song----5--DetailsAny Pokémon that hears this song faints in three turns, unless it switches out of battle.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Grudge----5--DetailsIf the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.Explosion2501005--DetailsThe user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.Fire Punch751001510DetailsThe foe is punched with a fiery fist. It may leave the target with a burn. Ice Punch751001510DetailsThe foe is punched with an icy fist. It may leave the target frozen. Thunderpunch751001510DetailsThe foe is punched with an electrified fist. It may leave the target with paralysis.Disable - HGSS Only--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Psywave??8015--DetailsThe foe is attacked with an odd, hot energy wave. The attack varies in intensity.Perish Song----5--DetailsAny Pokémon that hears this song faints in three turns, unless it switches out of battle.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Astonish301001530DetailsThe user attacks the foe while shouting in a startling fashion. It may also make the target flinch.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Grudge----5--DetailsIf the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.Explosion2501005--DetailsThe user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.Fire Punch751001510DetailsThe foe is punched with a fiery fist. It may leave the target with a burn. Ice Punch751001510DetailsThe foe is punched with an icy fist. It may leave the target frozen. Thunderpunch751001510DetailsThe foe is punched with an electrified fist. It may leave the target with paralysis.Disable - HGSS Only--8020--DetailsFor several turns, this move prevents the foe from using the move it last used.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+35
+30
+100
+35
+80
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+36 - 78
+31 - 73
+94 - 136
+36 - 78
+76 - 118
+Lv. 100
+170 - 264
+67 - 152
+58 - 143
+184 - 269
+67 - 152
+148 - 233
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+40 - 87
+35 - 82
+105 - 152
+40 - 87
+85 - 132
+Lv. 100
+170 - 264
+75 - 169
+65 - 159
+205 - 299
+75 - 169
+165 - 259
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+44 - 95
+38 - 90
+115 - 167
+44 - 95
+93 - 145
+Lv. 100
+170 - 264
+82 - 185
+71 - 174
+225 - 328
+82 - 185
+181 - 284
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#091Cloyster
+		
+
+
+
+
+
+
+
+#093Haunter
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,234 @@
+{
+    "name": "Larvitar",
+    "jp_name": "Yogirasu\u30e8\u30fc\u30ae\u30e9\u30b9",
+    "number": " National: #246Johto: #249 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Guts"
+    ],
+    "classification": "Rock Skin Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "158.7lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "0.5",
+        "0.5",
+        "4",
+        "0",
+        "4",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
+        "It is born deep underground. It can't emerge until it has entirely consumed the soil around it."
+    ],
+    "location": [
+        "Mt. Silver, Safari Zone",
+        "Mt. Silver, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Bite",
+            "Leer"
+        ],
+        "5": [
+            "Sandstorm"
+        ],
+        "10": [
+            "Screech"
+        ],
+        "14": [
+            "Rock Slide"
+        ],
+        "19": [
+            "Scary Face"
+        ],
+        "23": [
+            "Thrash"
+        ],
+        "28": [
+            "Dark Pulse"
+        ],
+        "32": [
+            "Payback"
+        ],
+        "37": [
+            "Crunch"
+        ],
+        "41": [
+            "Earthquake"
+        ],
+        "46": [
+            "Stone Edge"
+        ],
+        "50": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM66",
+        "TM69",
+        "TM71",
+        "TM76",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Stomp",
+        "Outrage",
+        "Focus Energy",
+        "Ancientpower",
+        "Dragon Dance",
+        "Curse",
+        "Iron Defense",
+        "Assurance",
+        "Iron Head"
+    ],
+    "stats": [
+        "50",
+        "64",
+        "50",
+        "45",
+        "50",
+        "41"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "62 - 104",
+                "69 - 116",
+                "75 - 127"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "41 - 83",
+                "46 - 93",
+                "50 - 102"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "119 - 204",
+                "133 - 227",
+                "146 - 249"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "78 - 162",
+                "87 - 181",
+                "95 - 199"
+            ]
+        ]
+    }
+}

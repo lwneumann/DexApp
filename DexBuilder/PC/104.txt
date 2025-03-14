@@ -1,0 +1,248 @@
+{
+    "name": "Cubone",
+    "jp_name": "Karakara\u30ab\u30e9\u30ab\u30e9",
+    "number": " National: #104Johto: #208 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rock Head",
+        "Lightningrod"
+    ],
+    "classification": "Lonely Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "14.3lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Thick Club",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.",
+        "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like."
+    ],
+    "location": [
+        "Rock Tunnel, Safari Zone",
+        "Rock Tunnel, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Growl"
+        ],
+        "3": [
+            "Tail Whip"
+        ],
+        "7": [
+            "Bone Club"
+        ],
+        "11": [
+            "Headbutt"
+        ],
+        "13": [
+            "Leer"
+        ],
+        "17": [
+            "Focus Energy"
+        ],
+        "21": [
+            "Bonemerang"
+        ],
+        "23": [
+            "Rage"
+        ],
+        "27": [
+            "False Swipe"
+        ],
+        "31": [
+            "Thrash"
+        ],
+        "37": [
+            "Bone Rush"
+        ],
+        "43": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Thunderpunch",
+        "Snore",
+        "Uproar",
+        "Earth Power",
+        "Endeavor",
+        "Iron Defense",
+        "Mud-slap",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rock Slide",
+        "Ancientpower",
+        "Belly Drum",
+        "Screech",
+        "Skull Bash",
+        "Perish Song",
+        "Swords Dance",
+        "Double Kick",
+        "Iron Head",
+        "Detect"
+    ],
+    "stats": [
+        "50",
+        "50",
+        "95",
+        "40",
+        "50",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

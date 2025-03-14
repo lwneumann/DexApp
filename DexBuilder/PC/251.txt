@@ -1,0 +1,248 @@
+{
+    "name": "Celebi",
+    "jp_name": "Serebii\u30bb\u30ec\u30d3\u30a3",
+    "number": " National: #251Johto: #256 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Natural Cure"
+    ],
+    "classification": "Time Travel Pok\u0165mon",
+    "height": "2'00\"",
+    "weight": "11.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "100",
+    "effort_values_earned": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "4",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Lum Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "This Pok\u0165mon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+        "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Leech Seed",
+            "Confusion",
+            "Recover",
+            "Heal Bell"
+        ],
+        "10": [
+            "Safeguard"
+        ],
+        "19": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "28": [
+            "Ancientpower"
+        ],
+        "37": [
+            "Baton Pass"
+        ],
+        "55": [
+            "Heal Block"
+        ],
+        "64": [
+            "Future Sight"
+        ],
+        "73": [
+            "Healing Wish"
+        ],
+        "82": [
+            "Leaf Storm"
+        ],
+        "91": [
+            "Perish Song"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM53",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM75",
+        "TM76",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "TM92",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Trick",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Synthesis",
+        "Uproar",
+        "Ancientpower",
+        "Earth Power",
+        "Mud-slap",
+        "Seed Bomb",
+        "Signal Beam",
+        "Worry Seed",
+        "Heal Bell",
+        "Base/Max Pok\u0165athlon Stats",
+        "Sp. Attack",
+        "100",
+        "Lv. 100",
+        "160 - 207",
+        "205 - 299",
+        "115 - 167",
+        "225 - 328"
+    ],
+    "stats": [
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

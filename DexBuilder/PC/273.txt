@@ -1,0 +1,208 @@
+{
+    "name": "Seedot",
+    "jp_name": "Taneboo\u30bf\u30cd\u30dc\u30fc",
+    "number": " National: #273",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Early Bird"
+    ],
+    "classification": "Acorn Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "8.8lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall."
+    ],
+    "location": [
+        "Viridian Forest (Headbutt), Safari Zone (With Blocks After Levelled Up)",
+        "Viridian Forest (Headbutt), Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "3": [
+            "Harden"
+        ],
+        "7": [
+            "Growth"
+        ],
+        "13": [
+            "Nature Power"
+        ],
+        "21": [
+            "Synthesis"
+        ],
+        "31": [
+            "Sunny Day"
+        ],
+        "43": [
+            "Explosion"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM64",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Spite",
+        "Synthesis",
+        "Rollout",
+        "Seed Bomb",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Leech Seed",
+        "Amnesia",
+        "Quick Attack",
+        "Razor Wind",
+        "Take Down",
+        "False Swipe",
+        "Worry Seed",
+        "Nasty Plot",
+        "Power Swap"
+    ],
+    "stats": [
+        "40",
+        "40",
+        "50",
+        "30",
+        "30",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

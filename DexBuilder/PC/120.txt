@@ -1,0 +1,234 @@
+{
+    "name": "Staryu",
+    "jp_name": "Hitodeman\u30d2\u30c8\u30c7\u30de\u30f3",
+    "number": " National: #120Johto: #169 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Illuminate",
+        "Natural Cure"
+    ],
+    "classification": "Starshape Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "76.0lbs",
+    "capture_rate": "225",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Stardust",
+            "50"
+        ],
+        [
+            "Star Piece",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 3"
+    ],
+    "flavor_text": [
+        "At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.",
+        "Even if its body is torn, it can regenerate as long as the glowing central core remains intact."
+    ],
+    "location": [
+        "Route 47 (Day), Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Cherrygrove City (Night)",
+        "Route 47 (Day), Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Route 47, Cherrygrove City (Night)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Harden"
+        ],
+        "6": [
+            "Water Gun"
+        ],
+        "10": [
+            "Rapid Spin"
+        ],
+        "15": [
+            "Recover"
+        ],
+        "19": [
+            "Camouflage"
+        ],
+        "24": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "28": [
+            "Bubblebeam"
+        ],
+        "33": [
+            "Minimize"
+        ],
+        "42": [
+            "Light Screen"
+        ],
+        "46": [
+            "Power Gem"
+        ],
+        "51": [
+            "Cosmic Power"
+        ],
+        "55": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM55",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM74",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Rollout",
+        "Signal Beam",
+        "Twister",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat"
+    ],
+    "stats": [
+        "30",
+        "45",
+        "55",
+        "70",
+        "55",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,3186 @@
+
+
+Images
+
+
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Jolteon
+Thundersサンダース
+ National: #135Sinnoh: #165 Johto: #186 
+ Male ♂:87.5%Female ♀:12.5%
+
+
+
+Ability: Volt Absorb 
+
+
+
+Volt Absorb: The Pokémon heals up to 1/4 of it’s maximum Hit Points when hit with Electric-type moves. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Lightning Pokémon
+2'07"
+54.0lbs
+45
+8,960
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Speed Point(s)
+Yellow
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*0.5
+*1
+*1
+*1
+*1
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+GroundRattataRaticateEkansArbokPikachuRaichuSandshrewSandslashNidoran♀Nidoran♂NidorinoNidokingVulpixNinetalesDiglettDugtrioMeowthPersianPsyduckGolduckMankeyPrimeapeGrowlitheArcaninePonytaRapidashFarfetch'dSeelDewgongRhyhornRhydonTaurosEeveeVaporeonJolteonFlareonCyndaquilQuilavaTyphlosionSentretFurretMareepFlaaffyAmpharosAipomWooperQuagsireEspeonUmbreonGirafarigDunsparceSnubbullGranbullSneaselTeddiursaUrsaringSwinubPiloswineDelibirdHoundourHoundoomPhanpyDonphanStantlerSmeargleMiltankTorchicCombuskenBlazikenPoochyenaMightyenaZigzagoonLinooneSeedotNuzleafShiftrySlakothVigorothSlakingWhismurLoudredExploudSkittyDelcattyMawileElectrikeManectricWailmerWailordNumelCameruptTorkoalSpoinkGrumpigSpindaZangooseSeviperKecleonAbsolSphealSealeoWalreinChimcharMonfernoInfernapePiplupPrinplupEmpoleonBidoofBibarelShinxLuxioLuxrayPachirisuBuizelFloatzelAmbipomBunearyLopunnyGlameowPuruglyStunkySkuntankLucarioHippopotasHippowdonWeavileRhyperiorLeafeonGlaceonMamoswineDittoGround
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles.
+		
+
+
+Pearl
+
+
+Platinum
+		
+
+		If agitated, it uses electricity to straighten out its fur and launch it in small bunches.
+		  
+HeartGold 
+		It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.
+		
+
+
+SoulSilver
+
+		Every hair on its body starts to stand sharply on end if it becomes charged with electricity.
+		
+ 
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+FireRed
+		
+
+		Evolve Eevee
+		
+
+
+LeafGreen
+		
+
+		Evolve Eevee
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+XD
+		
+
+		Evolve Eevee
+		
+
+
+Diamond
+		
+
+		Evolve from Eevee
+		
+
+
+Pearl
+		
+
+		Evolve from Eevee
+		
+
+Platinum
+		
+
+		Evolve Eevee
+		
+
+
+HeartGold
+		
+
+		Evolve Eevee
+		
+
+
+SoulSilver
+		
+
+		Evolve Eevee
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.78Discharge801001530A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Heal Bell
+
+
+--
+--
+5
+--
+
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Sapphire
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+Emerald
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+FireRed
+		
+
+		Evolve Eevee
+		
+
+
+LeafGreen
+		
+
+		Evolve Eevee
+		
+
+
+Colosseum
+		
+
+		Trade from FireRed/LeafGreen/XD
+		
+
+
+XD
+		
+
+		Evolve Eevee
+		
+
+
+Diamond
+		
+
+		Evolve from Eevee
+		
+
+
+Pearl
+		
+
+		Evolve from Eevee
+		
+
+Platinum
+		
+
+		Evolve Eevee
+		
+
+
+HeartGold
+		
+
+		Evolve Eevee
+		
+
+
+SoulSilver
+		
+
+		Evolve Eevee
+		 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.78Discharge801001530A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Heal Bell
+
+
+--
+--
+5
+--
+
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.78Discharge801001530A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Heal Bell
+
+
+--
+--
+5
+--
+
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tail Whip--10030--The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Helping Hand----20--A move that boosts the power of the ally's attack in a Double Battle. 8Sand-attack--10015--Sand is hurled in the foe's face, reducing its accuracy. 15Thundershock401003010A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.22Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.29Double Kick3010030--The foe is quickly kicked twice in succession using both feet. 36Pin Missile148520--Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.43Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.50Last Resort1301005--This move can be used only after the user has used all the other moves it knows in the battle.57Thunder Wave--10020--A weak electric charge is launched at the foe. It causes paralysis if it hits.64Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.71Thunder120701030A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.78Discharge801001530A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Heal Bell
+
+
+--
+--
+5
+--
+
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM28
+Dig
+
+
+80
+100
+10
+--
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM34
+Shock Wave
+
+
+60
+--
+20
+--
+The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Helping Hand
+
+
+--
+--
+20
+--
+
+A move that boosts the power of the ally's attack in a Double Battle. 
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Magnet Rise
+
+
+--
+--
+10
+--
+
+The user levitates using electrically generated magnetism for five turns. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Heal Bell
+
+
+--
+--
+5
+--
+
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Heal Bell
+
+
+--
+--
+5
+--
+
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Charm--10020--DetailsThe user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endure----10--DetailsThe user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.Curse----10--DetailsA move that works differently for the Ghost type than for all the other types. Tickle--10020--DetailsThe user tickles the foe into laughing, reducing its Attack and Defense stats. Wish----10--DetailsA self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.Yawn----10--DetailsThe user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.Fake Tears--10020--DetailsThe user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.Covet4010040--DetailsThe user endearingly approaches the foe, then steals the item the foe is holding. Detect - HGSS Only----5--DetailsIt enables the user to evade all attacks. Its chance of failing rises if it is used in succession.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansGrowl--10040--  Lv. 15The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.Bite601002530  Lv. 29The foe is bitten with viciously sharp fangs. It may make the target flinch. Baton Pass----40--  Lv. 36The user switches places with a party Pokémon in waiting, passing along any stat changes.Take Down908520--  Lv. 43A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.Trump Card??--5--  Lv. 57The fewer PP this move has, the more power it has for attack. 
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+65
+65
+60
+110
+95
+130
+Max StatsHindering Nature
+Lv. 50
+125 - 172
+63 - 105
+58 - 100
+103 - 145
+90 - 132
+121 - 163
+Lv. 100
+240 - 334
+121 - 206
+112 - 197
+202 - 287
+175 - 260
+238 - 323
+Max StatsNeutral Nature
+Lv. 50
+125 - 172
+70 - 117
+65 - 112
+115 - 162
+100 - 147
+135 - 182
+Lv. 100
+240 - 334
+135 - 229
+125 - 219
+225 - 319
+195 - 289
+265 - 359
+Max StatsBeneficial Nature
+Lv. 50
+125 - 172
+77 - 128
+71 - 123
+126 - 178
+110 - 161
+148 - 200
+Lv. 100
+240 - 334
+148 - 251
+137 - 240
+247 - 350
+214 - 317
+291 - 394
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#134Vaporeon
+		
+
+
+
+
+
+
+
+#136Flareon
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

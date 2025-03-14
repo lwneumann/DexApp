@@ -1,0 +1,259 @@
+{
+    "name": "Blaziken",
+    "jp_name": "Bashamo\u30d0\u30b7\u30e3\u30fc\u30e2",
+    "number": " National: #257",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Blaze Pok\u00e9mon",
+    "height": "6'3\"",
+    "weight": "114.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "0.25",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It can clear a 30-story building in a leap. Its fiery punches scorch its foes."
+    ],
+    "location": [
+        "Evolve Combusken",
+        "Evolve Combusken"
+    ],
+    "learnset": {
+        "0": [
+            "Fire Punch",
+            "Scratch",
+            "Growl",
+            "Focus Energy",
+            "Ember"
+        ],
+        "7": [
+            "Focus Energy"
+        ],
+        "13": [
+            "Ember"
+        ],
+        "16": [
+            "Double Kick"
+        ],
+        "17": [
+            "Peck"
+        ],
+        "21": [
+            "Sand-attack"
+        ],
+        "28": [
+            "Bulk Up"
+        ],
+        "32": [
+            "Quick Attack"
+        ],
+        "36": [
+            "Blaze Kick"
+        ],
+        "42": [
+            "Slash"
+        ],
+        "49": [
+            "Brave Bird"
+        ],
+        "59": [
+            "Sky Uppercut"
+        ],
+        "66": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM68",
+        "TM71",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Knock Off",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Heat Wave",
+        "Mud-slap",
+        "Superpower",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Counter",
+        "Reversal",
+        "Endure",
+        "Swagger",
+        "Rock Slide",
+        "Smellingsalt",
+        "Crush Claw",
+        "Baton Pass",
+        "Agility",
+        "Night Slash",
+        "Last Resort",
+        "Feint",
+        "Featherdance"
+    ],
+    "stats": [
+        "80",
+        "120",
+        "70",
+        "110",
+        "70",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

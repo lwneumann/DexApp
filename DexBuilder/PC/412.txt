@@ -1,0 +1,155 @@
+{
+    "name": "Burmy",
+    "jp_name": "Minomucchi\u30df\u30ce\u30e0\u30c3\u30c1",
+    "number": " National: #412Sinnoh: #045 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shed Skin"
+    ],
+    "classification": "Bagworm Pok\u00e9mon",
+    "height": "0'08\"",
+    "weight": "7.5lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It covers itself with a cloak to shelter from the cold. When it's hot, its cloak is thinner."
+    ],
+    "location": [
+        "Route 38 (Headbutt - Special Tree)",
+        "Route 38 (Headbutt - Special Tree)"
+    ],
+    "learnset": {
+        "0": [
+            "Protect"
+        ],
+        "10": [
+            "Tackle"
+        ],
+        "15": [
+            "Bug Bite"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        ""
+    ],
+    "tutor_moves": [
+        "String Shot",
+        "Bug Bite"
+    ],
+    "stats": [
+        "40",
+        "29",
+        "45",
+        "29",
+        "45",
+        "36"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "30 - 72",
+                "34 - 81",
+                "37 - 89"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "30 - 72",
+                "34 - 81",
+                "37 - 89"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 79",
+                "41 - 88",
+                "45 - 96"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "56 - 141",
+                "63 - 157",
+                "69 - 172"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "56 - 141",
+                "63 - 157",
+                "69 - 172"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "69 - 153",
+                "77 - 171",
+                "84 - 188"
+            ]
+        ]
+    }
+}

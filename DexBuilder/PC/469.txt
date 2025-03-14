@@ -1,0 +1,254 @@
+{
+    "name": "Yanmega",
+    "jp_name": "Megayanma\u30e1\u30ac\u30e4\u30f3\u30de",
+    "number": " National: #469Sinnoh: #184 Johto: #102 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Speed Boost",
+        "Tinted Lens"
+    ],
+    "classification": "Ogre Darner Pok\u00e9mon",
+    "height": "6'03\"",
+    "weight": "113.5lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Wide Lens",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "This six-legged Pok\u00e9mon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+        "The beat of its wings is so powerful that it accidentally dislodges full-grown trees when it takes off in flight."
+    ],
+    "location": [
+        "Evolve Yanma",
+        "Evolve Yanma"
+    ],
+    "learnset": {
+        "0": [
+            "Night Slash",
+            "Bug Bite",
+            "Tackle",
+            "Foresight",
+            "Quick Attack",
+            "Double Team"
+        ],
+        "6": [
+            "Quick Attack"
+        ],
+        "11": [
+            "Double Team"
+        ],
+        "20": [
+            "The foe is hit with a destructive shock wave that always inflicts"
+        ],
+        "17": [
+            "Detect"
+        ],
+        "22": [
+            "Supersonic"
+        ],
+        "27": [
+            "Uproar"
+        ],
+        "30": [
+            "Pursuit"
+        ],
+        "33": [
+            "Ancientpower"
+        ],
+        "38": [
+            "Feint"
+        ],
+        "43": [
+            "Slash"
+        ],
+        "46": [
+            "Screech"
+        ],
+        "49": [
+            "U-turn"
+        ],
+        "54": [
+            "Air Slash"
+        ],
+        "57": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM89",
+        "TM90",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Mud-slap",
+        "Signal Beam",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Whirlwind",
+        "Reversal",
+        "Leech Life",
+        "Signal Beam",
+        "Silver Wind",
+        "Feint",
+        "Faint Attack",
+        "Pursuit"
+    ],
+    "stats": [
+        "86",
+        "76",
+        "86",
+        "116",
+        "56",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "146 - 193",
+                "146 - 193",
+                "146 - 193"
+            ],
+            [
+                "72 - 115",
+                "81 - 128",
+                "89 - 140"
+            ],
+            [
+                "81 - 124",
+                "91 - 138",
+                "100 - 151"
+            ],
+            [
+                "108 - 151",
+                "121 - 168",
+                "133 - 184"
+            ],
+            [
+                "54 - 97",
+                "61 - 108",
+                "67 - 118"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "282 - 376",
+                "282 - 376",
+                "282 - 376"
+            ],
+            [
+                "141 - 225",
+                "157 - 251",
+                "172 - 276"
+            ],
+            [
+                "159 - 243",
+                "177 - 271",
+                "194 - 298"
+            ],
+            [
+                "213 - 297",
+                "237 - 331",
+                "260 - 364"
+            ],
+            [
+                "105 - 189",
+                "117 - 211",
+                "128 - 232"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

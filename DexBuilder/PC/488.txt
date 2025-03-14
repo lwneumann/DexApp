@@ -1,0 +1,223 @@
+{
+    "name": "Cresselia",
+    "jp_name": "Kureseria\u30af\u30ec\u30bb\u30ea\u30a2",
+    "number": " National: #488",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Lunar Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "188.7lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "100",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "Those who sleep holding CRESSELIA's feather are assured of joyful dreams. It is said to represent the crescent moon."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Confusion",
+            "Double Team"
+        ],
+        "11": [
+            "Safeguard"
+        ],
+        "20": [
+            "Mist"
+        ],
+        "29": [
+            "Aurora Beam"
+        ],
+        "38": [
+            "Future Sight"
+        ],
+        "47": [
+            "Slash"
+        ],
+        "57": [
+            "Moonlight"
+        ],
+        "66": [
+            "Psycho Cut"
+        ],
+        "75": [
+            "Psycho Shift"
+        ],
+        "84": [
+            "Lunar Dance"
+        ],
+        "93": [
+            "Psychic"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM48",
+        "TM53",
+        "TM57",
+        "TM58",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Gravity",
+        "Role Play"
+    ],
+    "stats": [
+        "120",
+        "70",
+        "120",
+        "75",
+        "130",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "180 - 227",
+                "180 - 227",
+                "180 - 227"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "350 - 444",
+                "350 - 444",
+                "350 - 444"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

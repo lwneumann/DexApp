@@ -1,0 +1,260 @@
+{
+    "name": "Empoleon",
+    "jp_name": "Enperuto\u30a8\u30f3\u30da\u30eb\u30c8",
+    "number": " National: #395Sinnoh: #009 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Torrent"
+    ],
+    "classification": "Emperor Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "186.3lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.25",
+        "2",
+        "0",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.25"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It avoids unnecessary disputes, but it will decimate anything that threatens its pride."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growl",
+            "Bubble"
+        ],
+        "4": [
+            "Growl"
+        ],
+        "8": [
+            "Bubble"
+        ],
+        "11": [
+            "Swords Dance"
+        ],
+        "15": [
+            "Peck"
+        ],
+        "16": [
+            "Metal Claw"
+        ],
+        "19": [
+            "Bubblebeam"
+        ],
+        "24": [
+            "Swagger"
+        ],
+        "28": [
+            "Fury Attack"
+        ],
+        "33": [
+            "Brine"
+        ],
+        "36": [
+            "Aqua Jet"
+        ],
+        "39": [
+            "Whirlpool"
+        ],
+        "46": [
+            "Mist"
+        ],
+        "52": [
+            "Drill Peck"
+        ],
+        "59": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM47",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM68",
+        "TM72",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM88",
+        "TM90",
+        "TM91",
+        "HM01",
+        "HM03",
+        "HM04",
+        " DPt",
+        "HGSS",
+        "HM06",
+        "HM07",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Snore",
+        "Iron Defense",
+        "Mud-slap",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Double Hit",
+        "Supersonic",
+        "Yawn",
+        "Mud Sport",
+        "Mud-slap",
+        "Snore",
+        "Flail",
+        "Agility",
+        "Aqua Ring",
+        "Hydro Pump",
+        "Featherdance"
+    ],
+    "stats": [
+        "84",
+        "86",
+        "88",
+        "111",
+        "101",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "144 - 191",
+                "144 - 191",
+                "144 - 191"
+            ],
+            [
+                "81 - 124",
+                "91 - 138",
+                "100 - 151"
+            ],
+            [
+                "83 - 126",
+                "93 - 140",
+                "102 - 154"
+            ],
+            [
+                "104 - 146",
+                "116 - 163",
+                "127 - 179"
+            ],
+            [
+                "95 - 137",
+                "106 - 153",
+                "116 - 168"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "278 - 372",
+                "278 - 372",
+                "278 - 372"
+            ],
+            [
+                "159 - 243",
+                "177 - 271",
+                "194 - 298"
+            ],
+            [
+                "162 - 247",
+                "181 - 275",
+                "199 - 302"
+            ],
+            [
+                "204 - 288",
+                "227 - 321",
+                "249 - 353"
+            ],
+            [
+                "186 - 270",
+                "207 - 301",
+                "227 - 331"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

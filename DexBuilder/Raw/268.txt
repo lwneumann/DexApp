@@ -1,0 +1,1383 @@
+
+
+Images
+
+
+ 
+D/P
+Pt/HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Cascoon
+Mayurudoマユルド
+ National: #268Sinnoh: #051 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shed Skin 
+
+
+
+Shed Skin: Every turn, it has a 1 in 3 chance of healing from a status condition (BURN, PARALYZE, SLEEP, POISON, FREEZE). 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Cocoon Pokémon
+2'04"
+25.4lbs
+120
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 Defense Point(s)
+Purple
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.5
+*1
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It is hot inside its cocoon. All the cells in its body create the energy for it to evolve.
+		
+
+
+Pearl
+		
+
+		Encased within its tough cocoon, it endures attacks. It never forgets the appearance of its foes.
+		
+ 
+Platinum
+		
+
+		It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.
+		
+ 
+HeartGold 
+		It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Petalburg Woods
+		
+
+
+Sapphire
+		
+
+		Petalburg Woods
+		
+
+
+Emerald
+		
+
+		Petalburg Woods
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Evolve from Wurmple
+		
+
+
+Pearl
+		
+
+		Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 205 North, Eterna Forest
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Poison Sting151003530  Lv. 5The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Petalburg Woods
+		
+
+
+Sapphire
+		
+
+		Petalburg Woods
+		
+
+
+Emerald
+		
+
+		Petalburg Woods
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Diamond
+		
+
+		Evolve from Wurmple
+		
+
+
+Pearl
+		
+
+		Eterna Forest, Sweet Honey Trees
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 205 North, Eterna Forest
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Poison Sting151003530  Lv. 5The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 7Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Poison Sting151003530  Lv. 5The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Poison Sting151003530  Lv. 5The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Poison Sting151003530  Lv. 5The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTackle359535--  Lv. 1A physical attack in which the user charges and slams into the foe with its whole body.String Shot--9540--  Lv. 1The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Poison Sting151003530  Lv. 5The foe is stabbed with a poisonous barb of some sort. It may also poison the target.Bug Bite6010020--  Pt Lv. 15The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Snore401001530  TutorAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+50
+35
+55
+25
+25
+15
+Max StatsHindering Nature
+Lv. 50
+110 - 157
+36 - 78
+54 - 96
+27 - 69
+27 - 69
+18 - 60
+Lv. 100
+210 - 304
+67 - 152
+103 - 188
+49 - 134
+49 - 134
+31 - 116
+Max StatsNeutral Nature
+Lv. 50
+110 - 157
+40 - 87
+60 - 107
+30 - 77
+30 - 77
+20 - 67
+Lv. 100
+210 - 304
+75 - 169
+115 - 209
+55 - 149
+55 - 149
+35 - 129
+Max StatsBeneficial Nature
+Lv. 50
+110 - 157
+44 - 95
+66 - 117
+33 - 84
+33 - 84
+22 - 73
+Lv. 100
+210 - 304
+82 - 185
+126 - 229
+60 - 163
+60 - 163
+38 - 141
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#267Beautifly
+		
+
+
+
+
+
+
+
+#269Dustox
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

@@ -1,0 +1,231 @@
+{
+    "name": "Huntail",
+    "jp_name": "Hanteeru\u30cf\u30f3\u30c6\u30fc\u30eb",
+    "number": " National: #367",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim"
+    ],
+    "classification": "Deep Sea Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "59.5lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Deep Sea Tooth",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1"
+    ],
+    "flavor_text": [
+        "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal."
+    ],
+    "location": [
+        "Evolve Clamperl",
+        "Evolve Clamperl"
+    ],
+    "learnset": {
+        "0": [
+            "Whirlpool"
+        ],
+        "6": [
+            "Bite"
+        ],
+        "10": [
+            "Screech"
+        ],
+        "15": [
+            "Water Pulse"
+        ],
+        "19": [
+            "Scary Face"
+        ],
+        "24": [
+            "Ice Fang"
+        ],
+        "28": [
+            "Brine"
+        ],
+        "33": [
+            "Baton Pass"
+        ],
+        "37": [
+            "Dive"
+        ],
+        "42": [
+            "Crunch"
+        ],
+        "46": [
+            "Aqua Tail"
+        ],
+        "51": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM49",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Sucker Punch",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Bounce",
+        "Mud-slap",
+        "Super Fang"
+    ],
+    "egg_moves": [
+        "Refresh",
+        "Mud Sport",
+        "Body Slam",
+        "Supersonic",
+        "Barrier",
+        "Confuse Ray",
+        "Aqua Ring",
+        "Muddy Water"
+    ],
+    "stats": [
+        "55",
+        "104",
+        "105",
+        "94",
+        "75",
+        "52"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "98 - 140",
+                "109 - 156",
+                "119 - 171"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "89 - 131",
+                "99 - 146",
+                "108 - 160"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "191 - 276",
+                "213 - 307",
+                "234 - 337"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "173 - 258",
+                "193 - 287",
+                "212 - 315"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ]
+        ]
+    }
+}

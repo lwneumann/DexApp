@@ -1,0 +1,237 @@
+{
+    "name": "Pupitar",
+    "jp_name": "Sanagirasu\u30b5\u30ca\u30ae\u30e9\u30b9",
+    "number": " National: #247Johto: #250 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shed Skin"
+    ],
+    "classification": "Hard Shell Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "335.1lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.5",
+        "4",
+        "0",
+        "4",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+        "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power."
+    ],
+    "location": [
+        "Mt. Silver",
+        "Mt. Silver"
+    ],
+    "learnset": {
+        "0": [
+            "Bite",
+            "Leer",
+            "Sandstorm",
+            "Screech"
+        ],
+        "5": [
+            "Sandstorm"
+        ],
+        "10": [
+            "Screech"
+        ],
+        "14": [
+            "Rock Slide"
+        ],
+        "19": [
+            "Scary Face"
+        ],
+        "23": [
+            "Thrash"
+        ],
+        "28": [
+            "Dark Pulse"
+        ],
+        "34": [
+            "Payback"
+        ],
+        "41": [
+            "Crunch"
+        ],
+        "47": [
+            "Earthquake"
+        ],
+        "54": [
+            "Stone Edge"
+        ],
+        "60": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM66",
+        "TM69",
+        "TM71",
+        "TM76",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Stomp",
+        "Outrage",
+        "Focus Energy",
+        "Ancientpower",
+        "Dragon Dance",
+        "Curse",
+        "Iron Defense",
+        "Assurance",
+        "Iron Head"
+    ],
+    "stats": [
+        "70",
+        "84",
+        "70",
+        "65",
+        "70",
+        "51"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "80 - 122",
+                "89 - 136",
+                "97 - 149"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "50 - 92",
+                "56 - 103",
+                "61 - 113"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "155 - 240",
+                "173 - 267",
+                "190 - 293"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "96 - 180",
+                "107 - 201",
+                "117 - 221"
+            ]
+        ]
+    }
+}

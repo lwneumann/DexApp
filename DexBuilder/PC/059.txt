@@ -1,0 +1,211 @@
+{
+    "name": "Arcanine",
+    "jp_name": "Windie\u30a6\u30a4\u30f3\u30c7\u30a3",
+    "number": " National: #059Johto: #130 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Intimidate",
+        "Flash Fire"
+    ],
+    "classification": "Legendary Pok\u00e9mon",
+    "height": "6'03\"",
+    "weight": "341.7lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Rawst Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "This legendary Chinese Pok\u00e9mon is considered magnificent. Many people are enchanted by its grand mane.",
+        "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it."
+    ],
+    "location": [
+        "Evolve Growlithe",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Thunder Fang",
+            "Bite",
+            "Roar",
+            "Fire Fang",
+            "Odor Sleuth"
+        ],
+        "39": [
+            "Extremespeed"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM50",
+        "TM58",
+        "TM59",
+        "TM61",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Iron Head",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Body Slam",
+        "Safeguard",
+        "Crunch",
+        "Thrash",
+        "Fire Spin",
+        "Howl",
+        "Heat Wave",
+        "Double-edge",
+        "Flare Blitz",
+        "Morning Sun"
+    ],
+    "stats": [
+        "90",
+        "110",
+        "80",
+        "100",
+        "80",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

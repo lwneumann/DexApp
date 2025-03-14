@@ -1,0 +1,223 @@
+{
+    "name": "Shuckle",
+    "jp_name": "Tsubotsubo\u30c4\u30dc\u30c4\u30dc",
+    "number": " National: #213Johto: #168 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sturdy",
+        "Gluttony"
+    ],
+    "classification": "Mold Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "45.2lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "0.5",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Berry Juice",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "The berries it stores in its vase-like shell decompose and become a gooey liquid.",
+        "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+    ],
+    "location": [
+        "Cianwood City, Vermillion City, Safari Zone (Special Items)",
+        "Cianwood City, Vermillion City, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Withdraw",
+            "Constrict"
+        ],
+        "9": [
+            "Encore"
+        ],
+        "14": [
+            "Safeguard"
+        ],
+        "22": [
+            "Wrap"
+        ],
+        "27": [
+            "Rest"
+        ],
+        "35": [
+            "Gastro Acid"
+        ],
+        "40": [
+            "Bug Bite"
+        ],
+        "48": [
+            "Power Trick"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM20",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM69",
+        "TM70",
+        "TM71",
+        "TM74",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Gastro Acid",
+        "Mud-slap",
+        "Rollout",
+        "String Shot",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Sweet Scent",
+        "Knock Off",
+        "Helping Hand",
+        "Acupressure",
+        "Sand Tomb",
+        "Mud-slap"
+    ],
+    "stats": [
+        "20",
+        "10",
+        "230",
+        "10",
+        "230",
+        "5"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "80 - 127",
+                "80 - 127",
+                "80 - 127"
+            ],
+            [
+                "13 - 55",
+                "15 - 62",
+                "16 - 68"
+            ],
+            [
+                "211 - 253",
+                "235 - 282",
+                "258 - 310"
+            ],
+            [
+                "13 - 55",
+                "15 - 62",
+                "16 - 68"
+            ],
+            [
+                "211 - 253",
+                "235 - 282",
+                "258 - 310"
+            ],
+            [
+                "9 - 51",
+                "10 - 57",
+                "11 - 62"
+            ]
+        ],
+        "100": [
+            [
+                "150 - 244",
+                "150 - 244",
+                "150 - 244"
+            ],
+            [
+                "22 - 107",
+                "25 - 119",
+                "27 - 130"
+            ],
+            [
+                "418 - 503",
+                "465 - 559",
+                "511 - 614"
+            ],
+            [
+                "22 - 107",
+                "25 - 119",
+                "27 - 130"
+            ],
+            [
+                "418 - 503",
+                "465 - 559",
+                "511 - 614"
+            ],
+            [
+                "13 - 98",
+                "15 - 109",
+                "16 - 119"
+            ]
+        ]
+    }
+}

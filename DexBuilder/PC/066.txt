@@ -1,0 +1,241 @@
+{
+    "name": "Machop",
+    "jp_name": "Wanrikie\u30ef\u30f3\u30ea\u30ad\u30fc",
+    "number": " National: #066Sinnoh: #040 Johto: #142 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Guts",
+        "No Guard"
+    ],
+    "classification": "Superpower Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "43.0lbs",
+    "capture_rate": "180",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+        "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long."
+    ],
+    "location": [
+        "Mt. Mortar, The Cliff Cave, Rock Tunnel, Safari Zone",
+        "Mt. Mortar, The Cliff Cave, Rock Tunnel, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Leer"
+        ],
+        "7": [
+            "Focus Energy"
+        ],
+        "10": [
+            "Karate Chop"
+        ],
+        "13": [
+            "Foresight"
+        ],
+        "22": [
+            "Revenge"
+        ],
+        "25": [
+            "Vital Throw"
+        ],
+        "70": [
+            ""
+        ],
+        "31": [
+            "Submission"
+        ],
+        "34": [
+            "Wake-up Slap"
+        ],
+        "37": [
+            "Cross Chop"
+        ],
+        "43": [
+            "Scary Face"
+        ],
+        "46": [
+            "Dynamicpunch"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Mud-slap",
+        "Superpower",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Light Screen",
+        "Meditate",
+        "Rolling Kick",
+        "Encore",
+        "Smellingsalt",
+        "Counter",
+        "Rock Slide",
+        "Close Combat",
+        "Fire Punch",
+        "Thunderpunch",
+        "Ice Punch",
+        "Bullet Punch",
+        "Power Trick"
+    ],
+    "stats": [
+        "70",
+        "80",
+        "50",
+        "35",
+        "35",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

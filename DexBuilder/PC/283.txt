@@ -1,0 +1,211 @@
+{
+    "name": "Surskit",
+    "jp_name": "Ametama\u30a2\u30e1\u30bf\u30de",
+    "number": " National: #283",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim"
+    ],
+    "classification": "Pond Skater Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "3.7lbs",
+    "capture_rate": "200",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Bug"
+    ],
+    "flavor_text": [
+        "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Bubble"
+        ],
+        "7": [
+            "Quick Attack"
+        ],
+        "13": [
+            "Sweet Scent"
+        ],
+        "19": [
+            "Water Sport"
+        ],
+        "25": [
+            "Bubblebeam"
+        ],
+        "31": [
+            "Agility"
+        ],
+        "37": [
+            "Mist",
+            "Haze"
+        ],
+        "43": [
+            "Baton Pass"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "String Shot",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Foresight",
+        "Mud Shot",
+        "Psybeam",
+        "Hydro Pump",
+        "Mind Reader",
+        "Signal Beam",
+        "Bug Bite"
+    ],
+    "stats": [
+        "40",
+        "30",
+        "32",
+        "50",
+        "52",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "33 - 75",
+                "37 - 84",
+                "40 - 92"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "62 - 146",
+                "69 - 163",
+                "75 - 179"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

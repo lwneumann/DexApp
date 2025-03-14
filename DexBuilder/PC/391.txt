@@ -1,0 +1,251 @@
+{
+    "name": "Monferno",
+    "jp_name": "Moukazaru\u30e2\u30a6\u30ab\u30b6\u30eb",
+    "number": " National: #391Sinnoh: #005 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Playful Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "48.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "0.25",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "A bigger fire on its tail and a brighter blue pattern on its face means its rank in its pack is higher."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Leer",
+            "Ember"
+        ],
+        "7": [
+            "Ember"
+        ],
+        "9": [
+            "Taunt"
+        ],
+        "14": [
+            "Mach Punch"
+        ],
+        "16": [
+            "Fury Swipes"
+        ],
+        "19": [
+            "Flame Wheel"
+        ],
+        "26": [
+            "Feint"
+        ],
+        "29": [
+            "Torment"
+        ],
+        "36": [
+            "Close Combat"
+        ],
+        "39": [
+            "Fire Spin"
+        ],
+        "46": [
+            "Slack Off"
+        ],
+        "49": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Endeavor",
+        "Gunk Shot",
+        "Heat Wave",
+        "Mud-slap",
+        "Rollout",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Double Kick",
+        "Encore",
+        "Heat Wave",
+        "Focus Energy",
+        "Helping Hand",
+        "Fake Out",
+        "Blaze Kick",
+        "Counter",
+        "Assist"
+    ],
+    "stats": [
+        "64",
+        "78",
+        "52",
+        "78",
+        "52",
+        "81"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "124 - 171",
+                "124 - 171",
+                "124 - 171"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ],
+            [
+                "77 - 119",
+                "86 - 133",
+                "94 - 146"
+            ]
+        ],
+        "100": [
+            [
+                "238 - 332",
+                "238 - 332",
+                "238 - 332"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ],
+            [
+                "150 - 234",
+                "167 - 261",
+                "183 - 287"
+            ]
+        ]
+    }
+}

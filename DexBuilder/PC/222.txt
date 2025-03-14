@@ -1,0 +1,253 @@
+{
+    "name": "Corsola",
+    "jp_name": "Saniigo\u30b5\u30cb\u30fc\u30b4",
+    "number": " National: #222Johto: #173 ",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Hustle",
+        "Natural Cure"
+    ],
+    "classification": "Coral Pok\u0137mon",
+    "height": "2'00\"",
+    "weight": "11.0lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.25",
+        "1",
+        "2",
+        "4",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Hard Stone",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "flavor_text": [
+        "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
+        "In a south-sea nation, the people live in communities that are built on groups of these Pok\u0137mon."
+    ],
+    "location": [
+        "Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave",
+        "Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "4": [
+            "Harden"
+        ],
+        "8": [
+            "Bubble"
+        ],
+        "13": [
+            "Recover"
+        ],
+        "16": [
+            "Refresh"
+        ],
+        "20": [
+            "Rock Blast"
+        ],
+        "25": [
+            "Bubblebeam"
+        ],
+        "28": [
+            "Lucky Chant"
+        ],
+        "32": [
+            "Ancientpower"
+        ],
+        "37": [
+            "Aqua Ring"
+        ],
+        "40": [
+            "Spike Cannon"
+        ],
+        "44": [
+            "Power Gem"
+        ],
+        "53": [
+            "Earth Power"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM64",
+        "TM69",
+        "TM71",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Sucker Punch",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rock Slide",
+        "Screech",
+        "Mist",
+        "Amnesia",
+        "Barrier",
+        "Ingrain",
+        "Confuse Ray",
+        "Icicle Spear",
+        "Nature Power",
+        "Aqua Ring",
+        "Curse"
+    ],
+    "stats": [
+        "55",
+        "55",
+        "85",
+        "65",
+        "85",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

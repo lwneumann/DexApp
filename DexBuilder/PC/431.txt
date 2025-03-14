@@ -1,0 +1,242 @@
+{
+    "name": "Glameow",
+    "jp_name": "Nyaruma\u30cb\u30e3\u30eb\u30de\u30fc",
+    "number": " National: #431Sinnoh: #076 ",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Limber",
+        "Own Tempo"
+    ],
+    "classification": "Catty Pok\u0165mon",
+    "height": "1'08\"",
+    "weight": "8.6lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Cheri Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "When it's happy, GLAMEOW demonstrates beautiful movements of its tail, like a dancing ribbon."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Fake Out"
+        ],
+        "5": [
+            "Scratch"
+        ],
+        "8": [
+            "Growl"
+        ],
+        "13": [
+            "Hypnosis"
+        ],
+        "17": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "20": [
+            "Fury Swipes"
+        ],
+        "25": [
+            "Charm"
+        ],
+        "29": [
+            "Assist"
+        ],
+        "32": [
+            "Captivate"
+        ],
+        "37": [
+            "Slash"
+        ],
+        "41": [
+            "Sucker Punch"
+        ],
+        "45": [
+            "Attract"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM58",
+        "TM65",
+        "TM66",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Sucker Punch",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Bite",
+        "Tail Whip",
+        "Quick Attack",
+        "Sand-attack",
+        "Fake Tears",
+        "Assurance",
+        "Flail"
+    ],
+    "stats": [
+        "49",
+        "55",
+        "42",
+        "42",
+        "37",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "109 - 156",
+                "109 - 156",
+                "109 - 156"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "37 - 80",
+                "42 - 89",
+                "46 - 97"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "208 - 302",
+                "208 - 302",
+                "208 - 302"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "71 - 155",
+                "79 - 173",
+                "86 - 190"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

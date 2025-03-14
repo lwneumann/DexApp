@@ -1,0 +1,240 @@
+{
+    "name": "Treecko",
+    "jp_name": "Kimori\u30ad\u30e2\u30ea",
+    "number": " National: #252",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Wood Gecko Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "11.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above."
+    ],
+    "location": [
+        "Receive from Steven Stone in Silph Co.",
+        "Receive from Steven Stone in Silph Co."
+    ],
+    "learnset": {
+        "0": [
+            "Pound",
+            "Leer"
+        ],
+        "6": [
+            "Absorb"
+        ],
+        "11": [
+            "Quick Attack"
+        ],
+        "16": [
+            "Pursuit"
+        ],
+        "21": [
+            "Screech"
+        ],
+        "26": [
+            "Mega Drain"
+        ],
+        "31": [
+            "Agility"
+        ],
+        "36": [
+            "Slam"
+        ],
+        "41": [
+            "Detect"
+        ],
+        "46": [
+            "Giga Drain"
+        ],
+        "51": [
+            "Energy Ball"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Synthesis",
+        "Endeavor",
+        "Mud-slap",
+        "Seed Bomb",
+        "Worry Seed",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Mud Sport",
+        "Endeavor",
+        "Leech Seed",
+        "Dragonbreath",
+        "Crush Claw",
+        "Worry Seed",
+        "Double Kick",
+        "Grasswhistle",
+        "Synthesis",
+        "Magical Leaf",
+        "Leaf Storm",
+        "Razor Wind"
+    ],
+    "stats": [
+        "40",
+        "45",
+        "35",
+        "65",
+        "55",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "name": "Piplup",
+    "jp_name": "Pochama\u30dd\u30c3\u30c1\u30e3\u30de",
+    "number": " National: #393Sinnoh: #007 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Torrent"
+    ],
+    "classification": "Penguin Pok\u00e9mon",
+    "height": "1'03\"",
+    "weight": "11.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Pound"
+        ],
+        "4": [
+            "Growl"
+        ],
+        "8": [
+            "Bubble"
+        ],
+        "11": [
+            "Water Sport"
+        ],
+        "15": [
+            "Peck"
+        ],
+        "18": [
+            "Bubblebeam"
+        ],
+        "25": [
+            "Fury Attack"
+        ],
+        "29": [
+            "Brine"
+        ],
+        "32": [
+            "Whirlpool"
+        ],
+        "36": [
+            "Mist"
+        ],
+        "39": [
+            "Drill Peck"
+        ],
+        "43": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM76",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM01",
+        "HM03",
+        " DPt",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Mud-slap",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Double Hit",
+        "Supersonic",
+        "Yawn",
+        "Mud Sport",
+        "Mud-slap",
+        "Snore",
+        "Flail",
+        "Agility",
+        "Aqua Ring",
+        "Hydro Pump",
+        "Featherdance"
+    ],
+    "stats": [
+        "53",
+        "51",
+        "53",
+        "61",
+        "56",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "113 - 160",
+                "113 - 160",
+                "113 - 160"
+            ],
+            [
+                "50 - 92",
+                "56 - 103",
+                "61 - 113"
+            ],
+            [
+                "52 - 94",
+                "58 - 105",
+                "63 - 115"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ],
+            [
+                "54 - 97",
+                "61 - 108",
+                "67 - 118"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "216 - 310",
+                "216 - 310",
+                "216 - 310"
+            ],
+            [
+                "96 - 180",
+                "107 - 201",
+                "117 - 221"
+            ],
+            [
+                "99 - 184",
+                "111 - 205",
+                "122 - 225"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ],
+            [
+                "105 - 189",
+                "117 - 211",
+                "128 - 232"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

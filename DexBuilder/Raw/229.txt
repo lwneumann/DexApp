@@ -1,0 +1,2883 @@
+
+
+Images
+
+
+ 
+Male
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+ 
+Female
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Houndoom
+Herugaaヘルガー
+ National: #229Sinnoh: #177 Johto: #215 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Early Bird & Flash Fire 
+
+
+
+Early Bird: SLEEP conditions lasts for half as long, rounding down. For example, half of three turns is 1.5, which rounds down to one turn. When the number of turns to sleep is one, half of this rounded down is zero, and the Pokémon wakes up instantly. 
+Flash Fire: Activates when user is hit by a damaging Fire-type move (including Fire-type Hidden Power). Once activated, user’s Fire-type moves deal 1.5 times damage. While this ability is in effect, this Pokémon is immune to damage from Fire-type attacks and Fire-type Hidden Power (accuracy and effect from these moves are ignored). For Fire-type Pokémon with this ability, Will-O-Wisp activates this ability without having an effect. If a non-Fire-type Pokémon has this ability, Will-O-Wisp will activate the ability and will have an effect. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Dark Pokémon
+4'07"
+77.2lbs
+45
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,250,000 PointsSlow
+35
+2 Sp. Attack Point(s)
+Black
+90
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*2
+*1
+*0.5
+*0.5
+*2
+*1
+*2
+*1
+*0
+*1
+*2
+*0.5
+*1
+*0.5
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+GroundRattataRaticateEkansArbokPikachuRaichuSandshrewSandslashNidoran♀Nidoran♂NidorinoNidokingVulpixNinetalesDiglettDugtrioMeowthPersianPsyduckGolduckMankeyPrimeapeGrowlitheArcaninePonytaRapidashFarfetch'dSeelDewgongRhyhornRhydonTaurosEeveeVaporeonJolteonFlareonCyndaquilQuilavaTyphlosionSentretFurretMareepFlaaffyAmpharosAipomWooperQuagsireEspeonUmbreonGirafarigDunsparceSnubbullGranbullSneaselTeddiursaUrsaringSwinubPiloswineDelibirdHoundourHoundoomPhanpyDonphanStantlerSmeargleMiltankTorchicCombuskenBlazikenPoochyenaMightyenaZigzagoonLinooneSeedotNuzleafShiftrySlakothVigorothSlakingWhismurLoudredExploudSkittyDelcattyMawileElectrikeManectricWailmerWailordNumelCameruptTorkoalSpoinkGrumpigSpindaZangooseSeviperKecleonAbsolSphealSealeoWalreinChimcharMonfernoInfernapePiplupPrinplupEmpoleonBidoofBibarelShinxLuxioLuxrayPachirisuBuizelFloatzelAmbipomBunearyLopunnyGlameowPuruglyStunkySkuntankLucarioHippopotasHippowdonWeavileRhyperiorLeafeonGlaceonMamoswineDittoGround
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		Long ago, people imagined its eerie howls to be the call of the grim reaper.
+		
+
+
+Pearl
+
+
+Platinum
+		
+
+		The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.
+		  
+HeartGold 
+		If you are burned by the flames it shoots from its mouth, the pain will never go away.
+		
+
+
+SoulSilver
+
+		Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+Emerald
+		
+
+		Evolve Houndour
+		
+
+
+FireRed
+		
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+LeafGreen
+		
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+Colosseum
+		
+
+		Snagged from Cipher Peon Nella in Realgam Tower Colosseum
+		
+
+
+XD
+		
+
+		Evolve Houndour
+		
+
+
+Diamond
+		
+
+		Transfer from GBA Games, Trade with Pearl
+		
+
+
+Pearl
+		
+
+		Routes 214 & 215
+		
+
+Details
+
+
+Platinum
+		
+
+		Evolve Houndour
+		
+
+
+HeartGold
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Ember401002510The foe is attacked with small flames. The target may also be left with a burn. —Howl----40--The user howls loudly to raise its spirit, boosting its Attack stat. —Smog20702040The foe is attacked with a discharge of filthy gases. It may also poison the target.4Howl----40--The user howls loudly to raise its spirit, boosting its Attack stat. 9Smog20702040The foe is attacked with a discharge of filthy gases. It may also poison the target.14Roar--10020--The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.17Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 22Odor Sleuth----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.28Beat Up1010010--The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.32Fire Fang65951510The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.38Faint Attack60--20--The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.44Embargo--10015--It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.48Flamethrower951001510The foe is scorched with an intense blast of fire. The target may also be left with a burn.54Crunch801001520The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.60Nasty Plot----20--The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Fire Spin157015--DetailsThe foe becomes trapped within a fierce vortex of fire that rages for two to five turns.Rage2010020--DetailsWhile this move is in use, it gains attack power each time the user is hit in battle. Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Fire Fang65951510DetailsThe user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.Thunder Fang65951510DetailsThe user bites with electrified fangs. It may also make the foe flinch or become paralyzed.Nasty Plot----20--DetailsThe user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.Punishment??1005--DetailsThis attack's power increases the more the foe has powered up with stat changes. Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+Emerald
+		
+
+		Evolve Houndour
+		
+
+
+FireRed
+		
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+LeafGreen
+		
+
+		Trade from Emerald/Colosseum/XD
+		
+
+
+Colosseum
+		
+
+		Snagged from Cipher Peon Nella in Realgam Tower Colosseum
+		
+
+
+XD
+		
+
+		Evolve Houndour
+		
+
+
+Diamond
+		
+
+		Transfer from GBA Games, Trade with Pearl
+		
+
+
+Pearl
+		
+
+		Routes 214 & 215
+		
+
+Details
+
+
+Platinum
+		
+
+		Evolve Houndour
+		
+
+
+HeartGold
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Safari Zone (Special Items)
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Ember401002510The foe is attacked with small flames. The target may also be left with a burn. —Howl----40--The user howls loudly to raise its spirit, boosting its Attack stat. —Smog20702040The foe is attacked with a discharge of filthy gases. It may also poison the target.4Howl----40--The user howls loudly to raise its spirit, boosting its Attack stat. 9Smog20702040The foe is attacked with a discharge of filthy gases. It may also poison the target.14Roar--10020--The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.17Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 22Odor Sleuth----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.28Beat Up1010010--The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.32Fire Fang65951510The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.38Faint Attack60--20--The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.44Embargo--10015--It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.48Flamethrower951001510The foe is scorched with an intense blast of fire. The target may also be left with a burn.54Crunch801001520The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.60Nasty Plot----20--The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Fire Spin157015--DetailsThe foe becomes trapped within a fierce vortex of fire that rages for two to five turns.Rage2010020--DetailsWhile this move is in use, it gains attack power each time the user is hit in battle. Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Fire Fang65951510DetailsThe user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.Thunder Fang65951510DetailsThe user bites with electrified fangs. It may also make the foe flinch or become paralyzed.Nasty Plot----20--DetailsThe user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.Punishment??1005--DetailsThis attack's power increases the more the foe has powered up with stat changes. Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Thunder Fang65951510The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.—Leer--10030--The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.—Ember401002510The foe is attacked with small flames. The target may also be left with a burn. —Howl----40--The user howls loudly to raise its spirit, boosting its Attack stat. —Smog20702040The foe is attacked with a discharge of filthy gases. It may also poison the target.4Howl----40--The user howls loudly to raise its spirit, boosting its Attack stat. 9Smog20702040The foe is attacked with a discharge of filthy gases. It may also poison the target.14Roar--10020--The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.17Bite601002530The foe is bitten with viciously sharp fangs. It may make the target flinch. 22Odor Sleuth----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.28Beat Up1010010--The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.32Fire Fang65951510The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.38Faint Attack60--20--The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.44Embargo--10015--It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.48Flamethrower951001510The foe is scorched with an intense blast of fire. The target may also be left with a burn.54Crunch801001520The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.60Nasty Plot----20--The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Fire Spin157015--DetailsThe foe becomes trapped within a fierce vortex of fire that rages for two to five turns.Rage2010020--DetailsWhile this move is in use, it gains attack power each time the user is hit in battle. Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Fire Fang65951510DetailsThe user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.Thunder Fang65951510DetailsThe user bites with electrified fangs. It may also make the foe flinch or become paralyzed.Nasty Plot----20--DetailsThe user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.Punishment??1005--DetailsThis attack's power increases the more the foe has powered up with stat changes. Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM05
+Roar
+
+
+--
+100
+20
+--
+The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM12
+Taunt
+
+
+--
+100
+20
+--
+The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM23
+Iron Tail
+
+
+100
+75
+15
+30
+The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM41
+Torment
+
+
+--
+100
+15
+--
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM49
+Snatch
+
+
+--
+--
+10
+--
+The user steals the effects of any healing or stat- changing move the foe attempts to use.TM50
+Overheat
+
+
+140
+90
+5
+100
+The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM61
+Will-o-wisp
+
+
+--
+75
+15
+--
+The user shoots a sinister, bluish white flame at the foe to inflict a burn. TM63
+Embargo
+
+
+--
+100
+15
+--
+It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.TM66
+Payback
+
+
+50
+100
+10
+--
+If the user can use this attack after the foe attacks, its power is doubled. TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM79
+Dark Pulse
+
+
+80
+100
+15
+20
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Sucker Punch
+
+
+80
+100
+5
+--
+
+This move enables the user to attack first. It fails if the foe is not readying an attack, however.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Spite
+
+
+--
+100
+10
+--
+
+The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Fire Spin157015--DetailsThe foe becomes trapped within a fierce vortex of fire that rages for two to five turns.Rage2010020--DetailsWhile this move is in use, it gains attack power each time the user is hit in battle. Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Fire Fang65951510DetailsThe user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.Thunder Fang65951510DetailsThe user bites with electrified fangs. It may also make the foe flinch or become paralyzed.Nasty Plot----20--DetailsThe user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.Punishment??1005--DetailsThis attack's power increases the more the foe has powered up with stat changes. Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Super Fang
+
+
+??
+90
+10
+--
+
+The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Role Play
+
+
+--
+--
+10
+--
+
+The user mimics the foe completely, copying the foe's natural ability. 
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Fire Spin157015--DetailsThe foe becomes trapped within a fierce vortex of fire that rages for two to five turns.Rage2010020--DetailsWhile this move is in use, it gains attack power each time the user is hit in battle. Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Fire Fang65951510DetailsThe user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.Thunder Fang65951510DetailsThe user bites with electrified fangs. It may also make the foe flinch or become paralyzed.Nasty Plot----20--DetailsThe user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.Punishment??1005--DetailsThis attack's power increases the more the foe has powered up with stat changes. Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Fire Spin157015--DetailsThe foe becomes trapped within a fierce vortex of fire that rages for two to five turns.Rage2010020--DetailsWhile this move is in use, it gains attack power each time the user is hit in battle. Pursuit4010020--DetailsAn attack move that inflicts double damage if used on a foe that is switching out of battle.Counter??10020--DetailsA retaliation move that counters any physical attack, inflicting double the damage taken.Spite--10010--DetailsThe user looses its grudge on the move last used by the foe by cutting 4 PP from it.Reversal??10015--DetailsAn all-out attack that becomes more powerful the less HP the user has. Beat Up1010010--DetailsThe user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.Will-o-wisp--7515--DetailsThe user shoots a sinister, bluish white flame at the foe to inflict a burn. Fire Fang65951510DetailsThe user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.Thunder Fang65951510DetailsThe user bites with electrified fangs. It may also make the foe flinch or become paralyzed.Nasty Plot----20--DetailsThe user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.Punishment??1005--DetailsThis attack's power increases the more the foe has powered up with stat changes. Feint - HGSS Only5010010--DetailsAn attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+75
+90
+50
+110
+80
+95
+Max StatsHindering Nature
+Lv. 50
+135 - 182
+85 - 127
+49 - 91
+103 - 145
+76 - 118
+90 - 132
+Lv. 100
+260 - 354
+166 - 251
+94 - 179
+202 - 287
+148 - 233
+175 - 260
+Max StatsNeutral Nature
+Lv. 50
+135 - 182
+95 - 142
+55 - 102
+115 - 162
+85 - 132
+100 - 147
+Lv. 100
+260 - 354
+185 - 279
+105 - 199
+225 - 319
+165 - 259
+195 - 289
+Max StatsBeneficial Nature
+Lv. 50
+135 - 182
+104 - 156
+60 - 112
+126 - 178
+93 - 145
+110 - 161
+Lv. 100
+260 - 354
+203 - 306
+115 - 218
+247 - 350
+181 - 284
+214 - 317
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#228Houndour
+		
+
+
+
+
+
+
+
+#230Kingdra
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

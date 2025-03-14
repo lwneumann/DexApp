@@ -1,0 +1,244 @@
+{
+    "name": "Vulpix",
+    "jp_name": "Rokon\u30ed\u30b3\u30f3",
+    "number": " National: #037Johto: #127 ",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Flash Fire"
+    ],
+    "classification": "Fox Pok\u0165mon",
+    "height": "2'00\"",
+    "weight": "22.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Rawst Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+        "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes."
+    ],
+    "location": [
+        "Trade from DPt, SS",
+        "Route 7, Route 8, Route 37, Route 36, Route 37, Route 48"
+    ],
+    "learnset": {
+        "0": [
+            "Ember"
+        ],
+        "4": [
+            "Tail Whip"
+        ],
+        "7": [
+            "Roar"
+        ],
+        "11": [
+            "Quick Attack"
+        ],
+        "14": [
+            "Will-o-wisp"
+        ],
+        "17": [
+            "Confuse Ray"
+        ],
+        "21": [
+            "Imprison"
+        ],
+        "24": [
+            "Flamethrower"
+        ],
+        "27": [
+            "Safeguard"
+        ],
+        "31": [
+            "Payback"
+        ],
+        "34": [
+            "Fire Spin"
+        ],
+        "37": [
+            "Captivate"
+        ],
+        "41": [
+            "Grudge"
+        ],
+        "44": [
+            "Extrasensory"
+        ],
+        "47": [
+            "Fire Blast"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM66",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Heat Wave",
+        "Pain Split",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Faint Attack",
+        "Hypnosis",
+        "Flail",
+        "Spite",
+        "Disable",
+        "Howl",
+        "Psych Up",
+        "Heat Wave",
+        "Flare Blitz",
+        "Extrasensory",
+        "Energy Ball",
+        "Power Swap"
+    ],
+    "stats": [
+        "38",
+        "41",
+        "40",
+        "50",
+        "65",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "98 - 145",
+                "98 - 145",
+                "98 - 145"
+            ],
+            [
+                "41 - 83",
+                "46 - 93",
+                "50 - 102"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "186 - 280",
+                "186 - 280",
+                "186 - 280"
+            ],
+            [
+                "78 - 162",
+                "87 - 181",
+                "95 - 199"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

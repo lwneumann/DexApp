@@ -1,0 +1,237 @@
+{
+    "name": "Glalie",
+    "jp_name": "Onigoori\u30aa\u30cb\u30b4\u30fc\u30ea",
+    "number": " National: #362Sinnoh: #207 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Inner Focus",
+        "Ice Body"
+    ],
+    "classification": "Face Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "565.5lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Babiri Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "flavor_text": [
+        "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes."
+    ],
+    "location": [
+        "Evolve Snorunt",
+        "Evolve Snorunt"
+    ],
+    "learnset": {
+        "0": [
+            "Powder Snow",
+            "Leer",
+            "Double Team",
+            "Bite"
+        ],
+        "4": [
+            "Double Team"
+        ],
+        "10": [
+            "Bite"
+        ],
+        "13": [
+            "Icy Wind"
+        ],
+        "19": [
+            "Headbutt"
+        ],
+        "22": [
+            "Protect"
+        ],
+        "28": [
+            "Ice Fang"
+        ],
+        "31": [
+            "Crunch"
+        ],
+        "37": [
+            "Ice Beam"
+        ],
+        "40": [
+            "Hail"
+        ],
+        "51": [
+            "Blizzard"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM72",
+        "TM74",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Iron Head",
+        "Rollout",
+        "Signal Beam",
+        "Super Fang",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Block",
+        "Spikes",
+        "Rollout",
+        "Disable",
+        "Bide",
+        "Weather Ball"
+    ],
+    "stats": [
+        "80",
+        "80",
+        "80",
+        "80",
+        "80",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

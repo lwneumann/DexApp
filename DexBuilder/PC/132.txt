@@ -1,0 +1,159 @@
+{
+    "name": "Ditto",
+    "jp_name": "Metamon\u30e1\u30bf\u30e2\u30f3",
+    "number": " National: #132Johto: #092 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Limber"
+    ],
+    "classification": "Transform Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "8.8lbs",
+    "capture_rate": "35",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Quick Powder",
+            "50"
+        ],
+        [
+            "Metal Powder",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        ""
+    ],
+    "flavor_text": [
+        "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
+        "Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise."
+    ],
+    "location": [
+        "Route 35, Route 47, Cerulean Cave, Safari Zone",
+        "Route 35, Route 47, Cerulean Cave, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Transform"
+        ]
+    },
+    "TMHM": [
+        "set.",
+        "tack",
+        "48",
+        "- 90",
+        " 175",
+        " 100",
+        " 195",
+        " 110",
+        " 214"
+    ],
+    "stats": [
+        "48",
+        "48",
+        "48",
+        "48",
+        "48",
+        "48"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "108 - 155",
+                "108 - 155",
+                "108 - 155"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ]
+        ],
+        "100": [
+            [
+                "206 - 300",
+                "206 - 300",
+                "206 - 300"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ]
+        ]
+    }
+}

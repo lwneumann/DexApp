@@ -1,0 +1,247 @@
+{
+    "name": "Skarmory",
+    "jp_name": "Eamudo\u30a8\u30a2\u30fc\u30e0\u30c9",
+    "number": " National: #227Johto: #203 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye",
+        "Sturdy"
+    ],
+    "classification": "Armor Bird Pok\u00e9mon",
+    "height": "5'07\"",
+    "weight": "112.0lbs",
+    "capture_rate": "25",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "1",
+        "1",
+        "0",
+        "0",
+        "0.5",
+        "0.5",
+        "0.25",
+        "1",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+        "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns."
+    ],
+    "location": [
+        "Trade from DPt, SS",
+        "Route 45"
+    ],
+    "learnset": {
+        "0": [
+            "Leer",
+            "Peck"
+        ],
+        "6": [
+            "Sand-attack"
+        ],
+        "9": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "12": [
+            "Agility"
+        ],
+        "17": [
+            "Fury Attack"
+        ],
+        "20": [
+            "Feint"
+        ],
+        "23": [
+            "Air Cutter"
+        ],
+        "28": [
+            "Spikes"
+        ],
+        "31": [
+            "Metal Sound"
+        ],
+        "34": [
+            "Steel Wing"
+        ],
+        "39": [
+            "Air Slash"
+        ],
+        "42": [
+            "Slash"
+        ],
+        "45": [
+            "Night Slash"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM66",
+        "TM70",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM90",
+        "TM91",
+        "HM01",
+        "HM02",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Icy Wind",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Iron Defense",
+        "Mud-slap",
+        "Twister",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Drill Peck",
+        "Pursuit",
+        "Whirlwind",
+        "Sky Attack",
+        "Curse",
+        "Brave Bird",
+        "Assurance",
+        "Guard Swap"
+    ],
+    "stats": [
+        "65",
+        "80",
+        "140",
+        "40",
+        "70",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "130 - 172",
+                "145 - 192",
+                "159 - 211"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "256 - 341",
+                "285 - 379",
+                "313 - 416"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "name": "Kirlia",
+    "jp_name": "Kirlia\u30ad\u30eb\u30ea\u30a2",
+    "number": " National: #281Sinnoh: #158 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Synchronize",
+        "Trace"
+    ],
+    "classification": "Emotion Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "44.5lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "It has a psychic power that enables it to distort the space around it and see into the future."
+    ],
+    "location": [
+        "Evolve Ralts",
+        "Evolve Ralts"
+    ],
+    "learnset": {
+        "0": [
+            "Growl",
+            "Confusion",
+            "Double Team",
+            "Teleport"
+        ],
+        "6": [
+            "Confusion"
+        ],
+        "10": [
+            "Double Team"
+        ],
+        "12": [
+            "Teleport"
+        ],
+        "17": [
+            "Lucky Chant"
+        ],
+        "22": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "25": [
+            "Calm Mind"
+        ],
+        "31": [
+            "Psychic"
+        ],
+        "36": [
+            "Imprison"
+        ],
+        "39": [
+            "Future Sight"
+        ],
+        "45": [
+            "Charm"
+        ],
+        "50": [
+            "Hypnosis"
+        ],
+        "53": [
+            "Dream Eater"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Pain Split",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Disable",
+        "Will-o-wisp",
+        "Mean Look",
+        "Memento",
+        "Destiny Bond",
+        "Grudge",
+        "Shadow Sneak",
+        "Confuse Ray",
+        "Encore"
+    ],
+    "stats": [
+        "38",
+        "35",
+        "35",
+        "65",
+        "55",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "98 - 145",
+                "98 - 145",
+                "98 - 145"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "186 - 280",
+                "186 - 280",
+                "186 - 280"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

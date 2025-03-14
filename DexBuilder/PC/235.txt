@@ -1,0 +1,181 @@
+{
+    "name": "Smeargle",
+    "jp_name": "Doburu\u30c9\u30fc\u30d6\u30eb",
+    "number": " National: #235Johto: #159 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Own Tempo",
+        "Technician"
+    ],
+    "classification": "Painter Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "127.9lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+        "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back."
+    ],
+    "location": [
+        "Ruins of Alph, Safari Zone",
+        "Ruins of Alph, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Sketch"
+        ],
+        "11": [
+            "Sketch"
+        ],
+        "21": [
+            "Sketch"
+        ],
+        "31": [
+            "Sketch"
+        ],
+        "41": [
+            "Sketch"
+        ],
+        "51": [
+            "Sketch"
+        ],
+        "61": [
+            "Sketch"
+        ],
+        "71": [
+            "Sketch"
+        ],
+        "81": [
+            "Sketch"
+        ],
+        "91": [
+            "Sketch"
+        ]
+    },
+    "TMHM": [
+        "ars.",
+        "tack",
+        "35",
+        "- 78",
+        " 125",
+        "- 72",
+        " 189",
+        " 106",
+        " 273"
+    ],
+    "stats": [
+        "55",
+        "20",
+        "35",
+        "20",
+        "45",
+        "75"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ]
+        ]
+    }
+}

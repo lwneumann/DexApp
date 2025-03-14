@@ -1,0 +1,245 @@
+{
+    "name": "Pikachu",
+    "jp_name": "Pikachuu\u30d4\u30ab\u30c1\u30e5\u30a6",
+    "number": " National: #025Sinnoh: #104 Johto: #022 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Static"
+    ],
+    "classification": "Mouse Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "13.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "2,560",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Oran Berry",
+            "50"
+        ],
+        [
+            "Light Ball",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground",
+        "Fairy"
+    ],
+    "flavor_text": [
+        "This intelligent Pok\u00e9mon roasts hard berries with electricity to make them tender enough to eat.",
+        "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose."
+    ],
+    "location": [
+        "Viridian Forest",
+        "Viridian Forest"
+    ],
+    "learnset": {
+        "0": [
+            "Thundershock",
+            "Growl"
+        ],
+        "5": [
+            "Tail Whip"
+        ],
+        "10": [
+            "Thunder Wave"
+        ],
+        "13": [
+            "Quick Attack"
+        ],
+        "18": [
+            "Double Team"
+        ],
+        "21": [
+            "Slam"
+        ],
+        "26": [
+            "Thunderbolt"
+        ],
+        "29": [
+            "Feint"
+        ],
+        "34": [
+            "Agility"
+        ],
+        "37": [
+            "Discharge"
+        ],
+        "42": [
+            "Light Screen"
+        ],
+        "45": [
+            "Thunder"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Knock Off",
+        "Thunderpunch",
+        "Helping Hand",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Rollout",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Reversal",
+        "Bide",
+        "Present",
+        "Encore",
+        "Doubleslap",
+        "Wish",
+        "Charge",
+        "Fake Out",
+        "Thunderpunch",
+        "Tickle",
+        "Flail"
+    ],
+    "stats": [
+        "35",
+        "55",
+        "30",
+        "50",
+        "40",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "95 - 142",
+                "95 - 142",
+                "95 - 142"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "180 - 274",
+                "180 - 274",
+                "180 - 274"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

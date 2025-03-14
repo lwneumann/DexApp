@@ -1,0 +1,231 @@
+{
+    "name": "Suicune",
+    "jp_name": "Suikun\u30b9\u30a4\u30af\u30f3",
+    "number": " National: #245Johto: #245 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Aurora Pok\u0165mon",
+    "height": "6'07\"",
+    "weight": "412.3lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+        "This Pok\u0165mon races across the land. It is said that north winds will somehow blow whenever it appears."
+    ],
+    "location": [
+        "Route 25",
+        "Route 25"
+    ],
+    "learnset": {
+        "0": [
+            "Bite",
+            "Leer"
+        ],
+        "8": [
+            "Bubblebeam"
+        ],
+        "15": [
+            "Rain Dance"
+        ],
+        "22": [
+            "Gust"
+        ],
+        "29": [
+            "Aurora Beam"
+        ],
+        "36": [
+            "Mist"
+        ],
+        "50": [
+            "Ice Fang"
+        ],
+        "57": [
+            "Tailwind"
+        ],
+        "64": [
+            "Extrasensory"
+        ],
+        "71": [
+            "Hydro Pump"
+        ],
+        "78": [
+            "Calm Mind"
+        ],
+        "85": [
+            "Blizzard"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM72",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HGSS",
+        "HM06",
+        "HM07",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Iron Head",
+        "Mud-slap",
+        "Signal Beam",
+        "Tailwind",
+        "Headbutt",
+        "Base/Max Pok\u0165athlon Stats",
+        "Sp. Attack",
+        "85",
+        "Lv. 100",
+        "160 - 207",
+        "235 - 329",
+        "104 - 156",
+        "192 - 295"
+    ],
+    "stats": [
+        "100",
+        "75",
+        "115",
+        "90",
+        "115",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

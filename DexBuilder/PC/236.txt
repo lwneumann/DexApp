@@ -1,0 +1,192 @@
+{
+    "name": "Tyrogue",
+    "jp_name": "Baruki\u30d0\u30eb\u30ad\u30fc",
+    "number": " National: #236Johto: #145 ",
+    "gender_ratio": [
+        "100",
+        "0"
+    ],
+    "ability": [
+        "Guts",
+        "Steadfast"
+    ],
+    "classification": "Scuffle Pok\u00e9mon",
+    "height": "2'04\"",
+    "weight": "16.3lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+        "Even though it is small, it can't be ignored because it will slug any handy target without warning."
+    ],
+    "location": [
+        "Receive from Karate King in Mt. Mortar",
+        "Receive from Karate King in Mt. Mortar"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Helping Hand",
+            "Fake Out",
+            "Foresight"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Mud-slap",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Rapid Spin",
+        "Hi Jump Kick",
+        "Mach Punch",
+        "Mind Reader",
+        "Helping Hand",
+        "Counter",
+        "Vacuum Wave",
+        "Bullet Punch"
+    ],
+    "stats": [
+        "35",
+        "35",
+        "35",
+        "35",
+        "35",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "95 - 142",
+                "95 - 142",
+                "95 - 142"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "180 - 274",
+                "180 - 274",
+                "180 - 274"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

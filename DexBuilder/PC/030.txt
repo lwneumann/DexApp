@@ -1,0 +1,229 @@
+{
+    "name": "Nidorina",
+    "jp_name": "Nidorina\u30cb\u30c9\u30ea\u30fc\u30ca",
+    "number": " National: #030Johto: #096 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Poison Point",
+        "Rivalry"
+    ],
+    "classification": "Poison Pin Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "44.1lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+        "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight."
+    ],
+    "location": [
+        "Route 13, Route 14, Route 15, Safari Zone",
+        "Route 13, Route 14, Route 15, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Growl",
+            "Scratch"
+        ],
+        "7": [
+            "Tail Whip"
+        ],
+        "9": [
+            "Double Kick"
+        ],
+        "13": [
+            "Poison Sting"
+        ],
+        "20": [
+            "Fury Swipes"
+        ],
+        "23": [
+            "Bite"
+        ],
+        "28": [
+            "Helping Hand"
+        ],
+        "35": [
+            "Toxic Spikes"
+        ],
+        "38": [
+            "Flatter"
+        ],
+        "43": [
+            "Crunch"
+        ],
+        "50": [
+            "Captivate"
+        ],
+        "58": [
+            "Poison Fang"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM34",
+        "TM36",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM65",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Mud-slap",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Supersonic",
+        "Disable",
+        "Take Down",
+        "Focus Energy",
+        "Charm",
+        "Counter",
+        "Beat Up",
+        "Pursuit",
+        "Skull Bash"
+    ],
+    "stats": [
+        "70",
+        "62",
+        "67",
+        "55",
+        "55",
+        "56"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "60 - 102",
+                "67 - 114",
+                "73 - 125"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "54 - 97",
+                "61 - 108",
+                "67 - 118"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "116 - 200",
+                "129 - 223",
+                "141 - 245"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "105 - 189",
+                "117 - 211",
+                "128 - 232"
+            ]
+        ]
+    }
+}

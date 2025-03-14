@@ -1,0 +1,3220 @@
+
+
+Images
+
+
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Noctowl
+Yorunozukuヨルノズク
+ National: #164Sinnoh: #107 Johto: #016 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Insomnia & Keen Eye 
+
+
+
+Insomnia: The Pokémon cannot be under the SLEEP condition while having this ability. 
+Keen Eye: Opponent cannot lower this Pokémon’s accuracy. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Owl Pokémon
+5'03"
+89.9lbs
+90
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+2 HP Point(s)
+Brown
+60
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*2
+*0.5
+*2
+*1
+*1
+*0
+*1
+*1
+*0.5
+*2
+*0
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+FlyingPidgeyPidgeottoPidgeotSpearowFearowZubatGolbatFarfetch'dDoduoDodrioAerodactylHoothootNoctowlCrobatTogeticNatuXatuMurkrowSkarmoryTaillowSwellowWingullPelipperSwabluAltariaStarlyStaraviaStaraptorHonchkrowChatotTogekissDittoFlying
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.
+		
+
+
+Pearl
+		
+
+		If it flips its head upside down, it's a sign that it is engaged in very complex thinking.
+		
+ 
+Platinum
+		
+
+		Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.
+		
+ 
+HeartGold 
+		Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.
+		
+
+
+SoulSilver
+
+		When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/Colosseum
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/Colosseum
+		
+
+
+Emerald
+		
+
+		Evolve Hoothoot
+		
+
+
+FireRed
+		
+
+		Trade from Emerald/Colosseum
+		
+
+
+LeafGreen
+		
+
+		Trade from Emerald/Colosseum
+		
+
+
+Colosseum
+		
+
+		Snagged from Rider Nover in Pyrite Town
+		
+
+
+XD
+		
+
+		/Emerald/Colosseum
+		
+
+
+Diamond
+		
+
+		Routes 210-North, 211-East, 216 & 217, Lake Acuity Surroundings, Mt. Coronet, Safari Game, Lake Valor, Turnback Cave (Night) 
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 210-North, 211-East, 216 & 217, Lake Acuity Surroundings, Mt. Coronet, Safari Game, Lake Valor, Spring Path (Night)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 210, Route 211 West, Great Marsh, Mt. Coronet Top (Night)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 2, Route 8, Route 13, Route 14, Route 15, Route 43, Route 47, Viridian ForestIlex Forest, Viridian Forest (Headbutt)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 2, Route 8, Route 13, Route 14, Route 15, Route 31, Route 43, Route 47, Viridian ForestIlex Forest, Viridian Forest (Headbutt)
+		
+
+Details
+
+PokéWalker
+		
+
+		Quiet Cave
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.9Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.13Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.9Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 13Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Sky Attack
+
+
+140
+90
+5
+30
+
+A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/Colosseum
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/Colosseum
+		
+
+
+Emerald
+		
+
+		Evolve Hoothoot
+		
+
+
+FireRed
+		
+
+		Trade from Emerald/Colosseum
+		
+
+
+LeafGreen
+		
+
+		Trade from Emerald/Colosseum
+		
+
+
+Colosseum
+		
+
+		Snagged from Rider Nover in Pyrite Town
+		
+
+
+XD
+		
+
+		/Emerald/Colosseum
+		
+
+
+Diamond
+		
+
+		Routes 210-North, 211-East, 216 & 217, Lake Acuity Surroundings, Mt. Coronet, Safari Game, Lake Valor, Turnback Cave (Night) 
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 210-North, 211-East, 216 & 217, Lake Acuity Surroundings, Mt. Coronet, Safari Game, Lake Valor, Spring Path (Night)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 210, Route 211 West, Great Marsh, Mt. Coronet Top (Night)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 2, Route 8, Route 13, Route 14, Route 15, Route 43, Route 47, Viridian ForestIlex Forest, Viridian Forest (Headbutt)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 2, Route 8, Route 13, Route 14, Route 15, Route 31, Route 43, Route 47, Viridian ForestIlex Forest, Viridian Forest (Headbutt)
+		
+
+Details
+
+PokéWalker
+		
+
+		Quiet Cave
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.9Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.13Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.9Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 13Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Sky Attack
+
+
+140
+90
+5
+30
+
+A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.9Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.13Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.9Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 13Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Sky Attack
+
+
+140
+90
+5
+30
+
+A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Sky Attack14090530A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Foresight----40--Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.—Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.5Hypnosis--7020--The user employs hypnotic suggestion to make the target fall into a deep sleep.9Peck3510035--The foe is jabbed with a sharply pointed beak or horn. 13Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.17Reflect----20--A wondrous wall of light is put up to suppress damage from physical attacks for five turns.22Confusion501002510The foe is hit by a weak telekinetic force. It may also leave the foe confused.27Take Down908520--A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.32Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.37Zen Headbutt80901520The user focuses its willpower to its head and rams the foe. It may also make the target flinch.42Extrasensory801003010The user attacks with an odd, unseeable power. It may also make the foe flinch.47Psycho Shift--9010--Using its psychic power of suggestion, the user transfers its status problems to the target.52Roost----10--The user lands and rests its body. It restores the user's HP by up to half of its max HP.57Dream Eater10010015--An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Sky Attack
+
+
+140
+90
+5
+30
+
+A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM85
+Dream Eater
+
+
+100
+100
+15
+--
+An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.HM05 DPt
+Defog
+
+
+--
+--
+15
+--
+It reduces the foe's evasion stat. It also removes spikes, light screens, etc.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Heat Wave
+
+
+100
+90
+10
+10
+
+The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Sky Attack
+
+
+140
+90
+5
+30
+
+A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Sky Attack
+
+
+140
+90
+5
+30
+
+A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Wing Attack6010035--DetailsThe foe is struck with large, imposing wings spread wide to inflict damage. Whirlwind--10020--DetailsThe foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.Sky Attack14090530DetailsA second-turn attack move with a high critical-hit ratio. It may also make the target flinch.Featherdance--10015--DetailsThe user covers the foe with a mass of down that sharply lowers the Attack stat.Agility----30--DetailsThe user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.Night Shade??10015--DetailsThe user makes the foe see a mirage. It inflicts damage matching the user's level.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+50
+50
+76
+96
+70
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+49 - 91
+49 - 91
+72 - 115
+90 - 133
+67 - 109
+Lv. 100
+310 - 404
+94 - 179
+94 - 179
+141 - 225
+177 - 261
+130 - 215
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+55 - 102
+55 - 102
+81 - 128
+101 - 148
+75 - 122
+Lv. 100
+310 - 404
+105 - 199
+105 - 199
+157 - 251
+197 - 291
+145 - 239
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+60 - 112
+60 - 112
+89 - 140
+111 - 162
+82 - 134
+Lv. 100
+310 - 404
+115 - 218
+115 - 218
+172 - 276
+216 - 320
+159 - 262
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#163Hoothoot
+		
+
+
+
+
+
+
+
+#165Ledyba
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

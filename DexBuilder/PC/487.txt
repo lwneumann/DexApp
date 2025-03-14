@@ -1,0 +1,243 @@
+{
+    "name": "Giratina",
+    "jp_name": "Giratina\u30ae\u30e9\u30c6\u30a3\u30ca",
+    "number": " National: #487Sinnoh: #210 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure  (Altered Forme)",
+        "Levitate (Origin Forme)"
+    ],
+    "classification": "Renegade Pok\u00e9mon",
+    "height": "14'09\"",
+    "weight": "1653.5lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "0",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "This Pok\u00e9mon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange."
+    ],
+    "location": [
+        "Sinjoh Ruins",
+        "Sinjoh Ruins"
+    ],
+    "learnset": {
+        "0": [
+            "Dragonbreath",
+            "Scary Face"
+        ],
+        "6": [
+            "Ominous Wind"
+        ],
+        "10": [
+            "Ancientpower"
+        ],
+        "15": [
+            "Slash"
+        ],
+        "19": [
+            "Shadow Sneak"
+        ],
+        "24": [
+            "Destiny Bond"
+        ],
+        "28": [
+            "Dragon Claw"
+        ],
+        "33": [
+            "Earth Power"
+        ],
+        "37": [
+            "Aura Sphere"
+        ],
+        "90": [
+            ""
+        ],
+        "42": [
+            "Shadow Claw"
+        ],
+        "46": [
+            "Shadow Force"
+        ]
+    },
+    "TMHM": [
+        "TM02",
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM47",
+        "TM53",
+        "TM57",
+        "TM58",
+        "TM59",
+        "TM61",
+        "TM62",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM73",
+        "TM77",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM02",
+        "HM04",
+        " DPt",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Icy Wind",
+        "Ominous Wind",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Outrage",
+        "Twister",
+        "Pain Split",
+        "Tailwind",
+        "Gravity",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "stats": [
+        "150",
+        "100",
+        "120",
+        "100",
+        "120",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "210 - 257",
+                "210 - 257",
+                "210 - 257"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "410 - 504",
+                "410 - 504",
+                "410 - 504"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

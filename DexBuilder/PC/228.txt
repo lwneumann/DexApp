@@ -1,0 +1,247 @@
+{
+    "name": "Houndour",
+    "jp_name": "Deribiru\u30c7\u30eb\u30d3\u30eb",
+    "number": " National: #228Sinnoh: #176 Johto: #214 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Early Bird",
+        "Flash Fire"
+    ],
+    "classification": "Dark Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "23.8lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "0",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+        "To corner prey, they check each other's location using barks that only they can understand."
+    ],
+    "location": [
+        "Route 7, Safari Zone (Special Items)",
+        "Route 7, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Leer",
+            "Ember"
+        ],
+        "4": [
+            "Howl"
+        ],
+        "9": [
+            "Smog"
+        ],
+        "14": [
+            "Roar"
+        ],
+        "17": [
+            "Bite"
+        ],
+        "22": [
+            "Odor Sleuth"
+        ],
+        "27": [
+            "Beat Up"
+        ],
+        "30": [
+            "Fire Fang"
+        ],
+        "35": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "40": [
+            "Embargo"
+        ],
+        "43": [
+            "Flamethrower"
+        ],
+        "48": [
+            "Crunch"
+        ],
+        "53": [
+            "Nasty Plot"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM49",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM63",
+        "TM66",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Super Fang",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fire Spin",
+        "Rage",
+        "Pursuit",
+        "Counter",
+        "Spite",
+        "Reversal",
+        "Beat Up",
+        "Will-o-wisp",
+        "Fire Fang",
+        "Thunder Fang",
+        "Nasty Plot",
+        "Punishment",
+        "Feint"
+    ],
+    "stats": [
+        "45",
+        "60",
+        "30",
+        "80",
+        "50",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

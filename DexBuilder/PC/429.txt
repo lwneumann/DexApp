@@ -1,0 +1,222 @@
+{
+    "name": "Mismagius",
+    "jp_name": "Muumajii\u30e0\u30a6\u30de\u30fc\u30b8",
+    "number": " National: #429Sinnoh: #073 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Magical Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "9.7lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+    ],
+    "location": [
+        "Evolve Misdreavus",
+        "Evolve Misdreavus"
+    ],
+    "learnset": {
+        "0": [
+            "Lucky Chant",
+            "Magical Leaf",
+            "Growl",
+            "Spite",
+            "Astonish"
+        ],
+        "60": [
+            ""
+        ],
+        "10": [
+            "The user looses its grudge on the move last used by the foe by cutting"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM53",
+        "TM57",
+        "TM58",
+        "TM61",
+        "TM63",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Trick",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Pain Split",
+        "Heal Bell",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Screech",
+        "Destiny Bond",
+        "Psych Up",
+        "Imprison",
+        "Memento",
+        "Sucker Punch",
+        "Shadow Sneak",
+        "Curse",
+        "Spite",
+        "Ominous Wind",
+        "Nasty Plot"
+    ],
+    "stats": [
+        "60",
+        "60",
+        "60",
+        "105",
+        "105",
+        "105"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "name": "Pidgeotto",
+    "jp_name": "Pidgeon\u30d4\u30b8\u30e7\u30f3",
+    "number": " National: #017Johto: #011 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye",
+        "Tangled Feet"
+    ],
+    "classification": "Bird Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "66.1lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+        "It renders its prey immobile using  well-developed claws, then carries the prey more than 60 miles to its nest."
+    ],
+    "location": [
+        "Route 2, Route 8, Route 13, Route 14, Route 15, Route 25, Route 37, Route 37, Route 43, Viridian Forest",
+        "Route 2, Route 8, Route 13, Route 14, Route 15, Route 25, Route 37, Route 37, Route 43, Viridian Forest"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Sand-attack",
+            "Gust"
+        ],
+        "5": [
+            "Sand-attack"
+        ],
+        "9": [
+            "Gust"
+        ],
+        "13": [
+            "Quick Attack"
+        ],
+        "17": [
+            "Whirlwind"
+        ],
+        "22": [
+            "Twister"
+        ],
+        "27": [
+            "Featherdance"
+        ],
+        "32": [
+            "Agility"
+        ],
+        "37": [
+            "Wing Attack"
+        ],
+        "42": [
+            "Roost"
+        ],
+        "47": [
+            "Tailwind"
+        ],
+        "52": [
+            "Mirror Move"
+        ],
+        "57": [
+            "Air Slash"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Faint Attack",
+        "Foresight",
+        "Steel Wing",
+        "Air Cutter",
+        "Air Slash",
+        "Brave Bird",
+        "Uproar"
+    ],
+    "stats": [
+        "63",
+        "60",
+        "55",
+        "50",
+        "50",
+        "71"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "123 - 170",
+                "123 - 170",
+                "123 - 170"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "68 - 110",
+                "76 - 123",
+                "83 - 135"
+            ]
+        ],
+        "100": [
+            [
+                "236 - 330",
+                "236 - 330",
+                "236 - 330"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "132 - 216",
+                "147 - 241",
+                "161 - 265"
+            ]
+        ]
+    }
+}

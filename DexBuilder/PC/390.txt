@@ -1,0 +1,244 @@
+{
+    "name": "Chimchar",
+    "jp_name": "Hikozaru\u30d2\u30b3\u30b6\u30eb",
+    "number": " National: #390Sinnoh: #004 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Chimp Pok\u00e9mon",
+    "height": "1'07\"",
+    "weight": "14.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Leer"
+        ],
+        "7": [
+            "Ember"
+        ],
+        "9": [
+            "Taunt"
+        ],
+        "15": [
+            "Fury Swipes"
+        ],
+        "17": [
+            "Flame Wheel"
+        ],
+        "23": [
+            "Nasty Plot"
+        ],
+        "25": [
+            "Torment"
+        ],
+        "31": [
+            "Facade"
+        ],
+        "33": [
+            "Fire Spin"
+        ],
+        "39": [
+            "Slack Off"
+        ],
+        "41": [
+            "Flamethrower"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Endeavor",
+        "Gunk Shot",
+        "Heat Wave",
+        "Mud-slap",
+        "Rollout",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Double Kick",
+        "Encore",
+        "Heat Wave",
+        "Focus Energy",
+        "Helping Hand",
+        "Fake Out",
+        "Blaze Kick",
+        "Counter",
+        "Assist"
+    ],
+    "stats": [
+        "44",
+        "58",
+        "44",
+        "58",
+        "44",
+        "61"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "104 - 151",
+                "104 - 151",
+                "104 - 151"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "44 - 86",
+                "49 - 96",
+                "53 - 105"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "44 - 86",
+                "49 - 96",
+                "53 - 105"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ]
+        ],
+        "100": [
+            [
+                "198 - 292",
+                "198 - 292",
+                "198 - 292"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "83 - 168",
+                "93 - 187",
+                "102 - 205"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "83 - 168",
+                "93 - 187",
+                "102 - 205"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ]
+        ]
+    }
+}

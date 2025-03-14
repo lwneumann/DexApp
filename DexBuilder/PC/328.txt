@@ -1,0 +1,225 @@
+{
+    "name": "Trapinch",
+    "jp_name": "Nakuraa\u30ca\u30c3\u30af\u30e9\u30fc",
+    "number": " National: #328",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Hyper Cutter",
+        "Arena Trap"
+    ],
+    "classification": "Ant Pit Pok\u00e9mon",
+    "height": "2'04\"",
+    "weight": "33.1lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Soft Sand",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Bite"
+        ],
+        "9": [
+            "Sand-attack"
+        ],
+        "17": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "25": [
+            "Sand Tomb"
+        ],
+        "33": [
+            "Crunch"
+        ],
+        "41": [
+            "Dig"
+        ],
+        "49": [
+            "Sandstorm"
+        ],
+        "57": [
+            "Hyper Beam"
+        ],
+        "65": [
+            "Earth Power"
+        ],
+        "73": [
+            "Earthquake"
+        ],
+        "81": [
+            "Feint"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Snore",
+        "Earth Power",
+        "Mud-slap",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Focus Energy",
+        "Quick Attack",
+        "Gust",
+        "Flail",
+        "Fury Cutter",
+        "Mud Shot"
+    ],
+    "stats": [
+        "45",
+        "100",
+        "45",
+        "45",
+        "45",
+        "10"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "13 - 55",
+                "15 - 62",
+                "16 - 68"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "22 - 107",
+                "25 - 119",
+                "27 - 130"
+            ]
+        ]
+    }
+}

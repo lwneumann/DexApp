@@ -1,0 +1,226 @@
+{
+    "name": "Manaphy",
+    "jp_name": "Manaphy\u30de\u30ca\u30d5\u30a3",
+    "number": " National: #490Sinnoh: #151 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Hydration"
+    ],
+    "classification": "Seafaring Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "3.1lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "2,560",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Fairy"
+    ],
+    "flavor_text": [
+        "It starts its life with a wondrous power that permits it to bond with any kind of Pok\u00e9mon."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Tail Glow",
+            "Bubble",
+            "Water Sport"
+        ],
+        "9": [
+            "Charm"
+        ],
+        "16": [
+            "Supersonic"
+        ],
+        "24": [
+            "Bubblebeam"
+        ],
+        "31": [
+            "Acid Armor"
+        ],
+        "39": [
+            "Whirlpool"
+        ],
+        "46": [
+            "Water Pulse"
+        ],
+        "54": [
+            "Aqua Ring"
+        ],
+        "61": [
+            "Dive"
+        ],
+        "69": [
+            "Rain Dance"
+        ],
+        "76": [
+            "Heart Swap"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM53",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Knock Off",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Ancientpower",
+        "Bounce",
+        "Mud-slap",
+        "Signal Beam",
+        "Heal Bell"
+    ],
+    "stats": [
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

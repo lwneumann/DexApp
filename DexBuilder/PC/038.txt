@@ -1,0 +1,211 @@
+{
+    "name": "Ninetales",
+    "jp_name": "Kyukon\u30ad\u30e5\u30a6\u30b3\u30f3",
+    "number": " National: #038Johto: #128 ",
+    "gender_ratio": [
+        "25",
+        "75"
+    ],
+    "ability": [
+        "Flash Fire"
+    ],
+    "classification": "Fox Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "44.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Rawst Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+        "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Evolve Vulpix"
+    ],
+    "learnset": {
+        "0": [
+            "Nasty Plot",
+            "Ember",
+            "Quick Attack",
+            "Confuse Ray",
+            "Safeguard"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM66",
+        "TM68",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Heat Wave",
+        "Pain Split",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Faint Attack",
+        "Hypnosis",
+        "Flail",
+        "Spite",
+        "Disable",
+        "Howl",
+        "Psych Up",
+        "Heat Wave",
+        "Flare Blitz",
+        "Extrasensory",
+        "Energy Ball",
+        "Power Swap"
+    ],
+    "stats": [
+        "73",
+        "76",
+        "75",
+        "81",
+        "100",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "133 - 180",
+                "133 - 180",
+                "133 - 180"
+            ],
+            [
+                "72 - 115",
+                "81 - 128",
+                "89 - 140"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "77 - 119",
+                "86 - 133",
+                "94 - 146"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "256 - 350",
+                "256 - 350",
+                "256 - 350"
+            ],
+            [
+                "141 - 225",
+                "157 - 251",
+                "172 - 276"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "150 - 234",
+                "167 - 261",
+                "183 - 287"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

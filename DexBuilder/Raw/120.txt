@@ -1,0 +1,2656 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Staryu
+Hitodemanヒトデマン
+ National: #120Johto: #169 
+Staryu is Genderless
+
+
+
+Ability: Illuminate & Natural Cure 
+
+
+
+Illuminate: Raises the likelihood of meeting wild Pokémon. 
+Natural Cure: The Pokémon’s status (BURN, PARALYZE, SLEEP, POISON, FREEZE) is healed when withdrawn from battle. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Starshape Pokémon
+2'07"
+76.0lbs
+225
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,250,000 PointsSlow
+70
+1 Speed Point(s)
+Brown
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*0.5
+*2
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+  Stardust - 50%Star Piece - 5%
+
+Water 3DittoWater 3
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		If its body is torn, it can grow back if the red core remains. The core flashes at midnight.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.
+		
+
+
+SoulSilver
+
+		Even if its body is torn, it can regenerate as long as the glowing central core remains intact.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Lilycove City (Fish)
+		
+
+
+Sapphire
+		
+
+		Lilycove City (Fish)
+		
+
+
+Emerald
+		
+
+		Lilycove City (Fish)
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald/LeafGreen
+		
+
+
+LeafGreen
+		
+
+		Pallet Town, Vermilion City, Cinnabar Island, One Island, Icefall Cave, Five Island
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/LeafGreen
+		
+
+
+Diamond
+		
+
+		Canalave City, Sunyshore City (Fish w/ Super Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Canalave City, Sunyshore City (Fish w/ Super Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Canalave City, Sunyshore City (Fish With Super Rod)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 47 (Day)Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Cherrygrove City (Night)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 47 (Day)Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Route 47, Cherrygrove City (Night)
+		
+
+Details
+
+PokéWalker
+		
+
+		Beautiful Beach, Beyond the Sea
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 6Water Gun4010025--The foe is blasted with a forceful shot of water. 10Rapid Spin2010040--A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.15Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 19Camouflage----20--The user's type is changed depending on its environment, such as at water's edge, in grass, or in a cave.24Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 28Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.33Minimize----20--The user compresses its body to make itself look smaller. The user's evasion stat is boosted.37Gyro Ball??1005--The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.42Light Screen----30--A wondrous wall of light is put up to suppress damage from special attacks for five turns.46Power Gem7010020--The user attacks with a ray of light that sparkles as if it were made of gemstones. 51Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.55Hydro Pump120805--The foe is blasted by a huge volume of water launched under great pressure. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Lilycove City (Fish)
+		
+
+
+Sapphire
+		
+
+		Lilycove City (Fish)
+		
+
+
+Emerald
+		
+
+		Lilycove City (Fish)
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald/LeafGreen
+		
+
+
+LeafGreen
+		
+
+		Pallet Town, Vermilion City, Cinnabar Island, One Island, Icefall Cave, Five Island
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/LeafGreen
+		
+
+
+Diamond
+		
+
+		Canalave City, Sunyshore City (Fish w/ Super Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Canalave City, Sunyshore City (Fish w/ Super Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Canalave City, Sunyshore City (Fish With Super Rod)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 47 (Day)Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Cherrygrove City (Night)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 47 (Day)Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Route 47, Cherrygrove City (Night)
+		
+
+Details
+
+PokéWalker
+		
+
+		Beautiful Beach, Beyond the Sea
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 6Water Gun4010025--The foe is blasted with a forceful shot of water. 10Rapid Spin2010040--A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.15Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 19Camouflage----20--The user's type is changed depending on its environment, such as at water's edge, in grass, or in a cave.24Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 28Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.33Minimize----20--The user compresses its body to make itself look smaller. The user's evasion stat is boosted.37Gyro Ball??1005--The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.42Light Screen----30--A wondrous wall of light is put up to suppress damage from special attacks for five turns.46Power Gem7010020--The user attacks with a ray of light that sparkles as if it were made of gemstones. 51Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.55Hydro Pump120805--The foe is blasted by a huge volume of water launched under great pressure. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Tackle359535--A physical attack in which the user charges and slams into the foe with its whole body.—Harden----30--The user stiffens all the muscles in its body to raise its Defense stat. 6Water Gun4010025--The foe is blasted with a forceful shot of water. 10Rapid Spin2010040--A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.15Recover----10--A self-healing move. The user restores its own HP by up to half of its max HP. 19Camouflage----20--The user's type is changed depending on its environment, such as at water's edge, in grass, or in a cave.24Swift60--20--Star-shaped rays are shot at the foe. This attack never misses. 28Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.33Minimize----20--The user compresses its body to make itself look smaller. The user's evasion stat is boosted.37Gyro Ball??1005--The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.42Light Screen----30--A wondrous wall of light is put up to suppress damage from special attacks for five turns.46Power Gem7010020--The user attacks with a ray of light that sparkles as if it were made of gemstones. 51Cosmic Power----20--The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.55Hydro Pump120805--The foe is blasted by a huge volume of water launched under great pressure. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM16
+Light Screen
+
+
+--
+--
+30
+--
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM24
+Thunderbolt
+
+
+95
+100
+15
+10
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.TM25
+Thunder
+
+
+120
+70
+10
+30
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM33
+Reflect
+
+
+--
+--
+20
+--
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM67
+Recycle
+
+
+--
+--
+10
+--
+The user recycles a held item that has been used in battle so it can be used again.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM74
+Gyro Ball
+
+
+??
+100
+5
+--
+The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.TM91
+Flash Cannon
+
+
+80
+100
+10
+10
+The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Rollout
+
+
+30
+90
+20
+--
+
+The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. 
+Twister
+
+
+40
+100
+20
+20
+
+The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Pain Split
+
+
+--
+--
+20
+--
+
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.
+Gravity
+
+
+--
+--
+5
+--
+
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Magic Coat
+
+
+--
+--
+15
+--
+
+A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+30
+45
+55
+70
+55
+85
+Max StatsHindering Nature
+Lv. 50
+90 - 137
+45 - 87
+54 - 96
+67 - 109
+54 - 96
+81 - 123
+Lv. 100
+170 - 264
+85 - 170
+103 - 188
+130 - 215
+103 - 188
+157 - 242
+Max StatsNeutral Nature
+Lv. 50
+90 - 137
+50 - 97
+60 - 107
+75 - 122
+60 - 107
+90 - 137
+Lv. 100
+170 - 264
+95 - 189
+115 - 209
+145 - 239
+115 - 209
+175 - 269
+Max StatsBeneficial Nature
+Lv. 50
+90 - 137
+55 - 106
+66 - 117
+82 - 134
+66 - 117
+99 - 150
+Lv. 100
+170 - 264
+104 - 207
+126 - 229
+159 - 262
+126 - 229
+192 - 295
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#119Seaking
+		
+
+
+
+
+
+
+
+#121Starmie
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

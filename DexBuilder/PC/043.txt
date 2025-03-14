@@ -1,0 +1,217 @@
+{
+    "name": "Oddish",
+    "jp_name": "Nazonokusa\u30ca\u30be\u30ce\u30af\u30b5",
+    "number": " National: #043Johto: #083 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll"
+    ],
+    "classification": "Weed Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "12.0lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+        "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+    ],
+    "location": [
+        "Route 5, Route 6, Route 24, Route 25, Ilex Forest, Safari Zone",
+        "Route 5, Route 6, Route 24, Route 25, Ilex Forest, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb"
+        ],
+        "5": [
+            "Sweet Scent"
+        ],
+        "9": [
+            "Acid"
+        ],
+        "13": [
+            "Poisonpowder"
+        ],
+        "15": [
+            "Stun Spore"
+        ],
+        "17": [
+            "Sleep Powder"
+        ],
+        "21": [
+            "Mega Drain"
+        ],
+        "25": [
+            "Lucky Chant"
+        ],
+        "33": [
+            "Moonlight"
+        ],
+        "37": [
+            "Giga Drain"
+        ],
+        "41": [
+            "Petal Dance"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Gastro Acid",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Swords Dance",
+        "Razor Leaf",
+        "Flail",
+        "Synthesis",
+        "Charm",
+        "Ingrain",
+        "Tickle",
+        "Teeter Dance"
+    ],
+    "stats": [
+        "45",
+        "50",
+        "55",
+        "75",
+        "65",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

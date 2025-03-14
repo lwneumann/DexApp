@@ -1,0 +1,223 @@
+{
+    "name": "Lotad",
+    "jp_name": "Hassuboo\u30cf\u30b9\u30dc\u30fc",
+    "number": " National: #270",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Rain Dish"
+    ],
+    "classification": "Water Weed Pok\u0137mon",
+    "height": "1'08\"",
+    "weight": "5.7lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Plant"
+    ],
+    "flavor_text": [
+        "Its leaf grew too large for it to live on land. That is how it began to live floating in the water."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Astonish"
+        ],
+        "3": [
+            "Growl"
+        ],
+        "5": [
+            "Absorb"
+        ],
+        "7": [
+            "Nature Power"
+        ],
+        "11": [
+            "Mist"
+        ],
+        "19": [
+            "Mega Drain"
+        ],
+        "25": [
+            "Bubblebeam"
+        ],
+        "31": [
+            "Zen Headbutt"
+        ],
+        "37": [
+            "Rain Dance"
+        ],
+        "45": [
+            "Energy Ball"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Seed Bomb",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Synthesis",
+        "Razor Leaf",
+        "Sweet Scent",
+        "Leech Seed",
+        "Flail",
+        "Water Gun",
+        "Tickle",
+        "Counter"
+    ],
+    "stats": [
+        "40",
+        "30",
+        "30",
+        "40",
+        "50",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

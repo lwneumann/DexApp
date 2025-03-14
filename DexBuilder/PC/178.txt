@@ -1,0 +1,253 @@
+{
+    "name": "Xatu",
+    "jp_name": "Neiteio\u30cd\u30a4\u30c6\u30a3\u30aa",
+    "number": " National: #178Johto: #162 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Synchronize",
+        "Early Bird"
+    ],
+    "classification": "Mystic Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "33.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+        "In South America, it is said that its right eye sees the future and its left eye views the past."
+    ],
+    "location": [
+        "Evolve Natu",
+        "Evolve Natu"
+    ],
+    "learnset": {
+        "0": [
+            "Peck",
+            "Leer"
+        ],
+        "9": [
+            "Teleport"
+        ],
+        "12": [
+            "Lucky Chant"
+        ],
+        "17": [
+            "Miracle Eye"
+        ],
+        "20": [
+            "Me First"
+        ],
+        "23": [
+            "Confuse Ray"
+        ],
+        "27": [
+            "Tailwind"
+        ],
+        "30": [
+            "Wish"
+        ],
+        "37": [
+            "Psycho Shift"
+        ],
+        "42": [
+            "Future Sight"
+        ],
+        "47": [
+            "Ominous Wind"
+        ],
+        "54": [
+            "Power Swap",
+            "Guard Swap"
+        ],
+        "59": [
+            "Psychic"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM48",
+        "TM51",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "TM92",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Trick",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Signal Beam",
+        "Twister",
+        "Pain Split",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Haze",
+        "Drill Peck",
+        "Quick Attack",
+        "Faint Attack",
+        "Steel Wing",
+        "Psych Up",
+        "Featherdance",
+        "Refresh",
+        "Zen Headbutt",
+        "Sucker Punch"
+    ],
+    "stats": [
+        "65",
+        "75",
+        "70",
+        "95",
+        "70",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

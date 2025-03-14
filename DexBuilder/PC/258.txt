@@ -1,0 +1,228 @@
+{
+    "name": "Mudkip",
+    "jp_name": "Mizugorou\u30df\u30ba\u30b4\u30ed\u30a6",
+    "number": " National: #258",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Torrent"
+    ],
+    "classification": "Mud Fish Pok\u00e9mon",
+    "height": "1'4\"",
+    "weight": "16.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "flavor_text": [
+        "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river."
+    ],
+    "location": [
+        "Receive from Steven Stone in Silph Co.",
+        "Receive from Steven Stone in Silph Co."
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growl"
+        ],
+        "6": [
+            "Mud-slap"
+        ],
+        "10": [
+            "Water Gun"
+        ],
+        "19": [
+            "Foresight"
+        ],
+        "24": [
+            "Mud Sport"
+        ],
+        "28": [
+            "Take Down"
+        ],
+        "33": [
+            "Whirlpool"
+        ],
+        "37": [
+            "Protect"
+        ],
+        "42": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Ancientpower",
+        "Aqua Tail",
+        "Endeavor",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Refresh",
+        "Uproar",
+        "Curse",
+        "Stomp",
+        "Ice Ball",
+        "Mirror Coat",
+        "Counter",
+        "Ancientpower",
+        "Whirlpool",
+        "Bite",
+        "Double-edge",
+        "Mud Bomb",
+        "Yawn",
+        "Sludge"
+    ],
+    "stats": [
+        "50",
+        "70",
+        "50",
+        "50",
+        "50",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,3942 @@
+
+
+Images
+
+
+
+D/P
+Pt/HGSS
+
+Land Forme
+Sky Forme
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Shaymin
+Sheimiシェイミ
+ National: #492
+Shaymin is Genderless
+Land FormeSky Forme 
+
+
+Ability: Natural Cure  (Land Forme) & Serene Grace (Sky Forme)
+
+
+
+Natural Cure: The Pokémon’s status (BURN, PARALYZE, SLEEP, POISON, FREEZE) is healed when withdrawn from battle. 
+Serene Grace: The chances of a move having an effect doubles. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Gratitude Pokémon
+0'08"
+4.6lbs
+45
+30,720
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+100
+3 HP Point(s)
+Green
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*0.5
+*0.5
+*0.5
+*2
+*1
+*2
+*0.5
+*2
+*1
+*2
+*1
+*1
+*1
+*1
+*1
+
+
+
+		Damage Taken Sky Forme
+
+
+
+*1
+*2
+*0.5
+*1
+*0.25
+*4
+*0.5
+*2
+*0
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Lum Berry - 100%
+Shaymin cannot breed
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+Alternate Forms
+
+
+ 
+Land FormeSky FormeAll TimesWhen FrozenGracidea5am to 8pm
+Shaymin can only change its form through the Gracidea item during certain hours of the day
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It lives in flower patches and avoids detection by curling up to look like a flowering plant.
+		
+
+
+Pearl
+		
+
+		It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.
+		
+ 
+Platinum
+		
+
+		The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.
+		
+ 
+HeartGold 
+		The blooming of Gracidea flowers confers the power of flight upon it. Feelings  of gratitude are the message it delivers.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Flower Paradise
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Flower Paradise
+		
+
+Details
+
+
+Platinum
+		
+
+		Flower Paradise
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Trade from DPt
+		
+
+
+SoulSilver
+		
+
+		Trade from DPt
+		
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Grasswhistle--5515--The user plays a pleasant melody that lulls the foe into a deep sleep. 91Lucky Chant----30--The user chants an incantation toward the sky, preventing the foe from landing critical hits.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Healing Wish----10--The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Sky Forme Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Flower Paradise
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Flower Paradise
+		
+
+Details
+
+
+Platinum
+		
+
+		Flower Paradise
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Trade from DPt
+		
+
+
+SoulSilver
+		
+
+		Trade from DPt
+		
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Grasswhistle--5515--The user plays a pleasant melody that lulls the foe into a deep sleep. 91Lucky Chant----30--The user chants an incantation toward the sky, preventing the foe from landing critical hits.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Healing Wish----10--The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Sky Forme Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Defense Curl----40--The user curls up to conceal weak spots and raise its Defense stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Grasswhistle--5515--The user plays a pleasant melody that lulls the foe into a deep sleep. 91Lucky Chant----30--The user chants an incantation toward the sky, preventing the foe from landing critical hits.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Healing Wish----10--The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Sky Forme Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Synthesis----5--The user restores its own HP. The amount of HP regained varies with the weather.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Aromatherapy----5--The user releases a soothing scent that heals all status problems affecting the user's party.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Healing Wish----10--The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.Sky Forme Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Sky Forme Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 10Magical Leaf60--20--The user scatters curious leaves that chase the foe. This attack will not miss.19Leech Seed--9010--A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.28Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.37Sweet Scent--10020--A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.46Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.55Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.64Air Slash75952030The user attacks with a blade of air that slices even the sky. It may also make the target flinch.73Energy Ball801001010The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.82Sweet Kiss--7510--The user kisses the foe with a sweet, angelic cuteness that causes confusion. 91Leaf Storm140905100A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.100Seed Flare12085540The user generates a shock wave from within its body. It may also lower the target's Sp. Def.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+--
+25
+--
+The user creates a protective field that prevents status problems for five turns.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Ominous Wind
+
+
+60
+100
+5
+10
+
+The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Zen Headbutt
+
+
+80
+90
+15
+20
+
+The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Last Resort
+
+
+130
+100
+5
+--
+
+This move can be used only after the user has used all the other moves it knows in the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Earth Power
+
+
+90
+100
+10
+10
+
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Form
+Tailwind
+
+
+--
+--
+30
+--
+
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Headbutt
+
+
+70
+100
+15
+30
+
+The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéthlon Stats - Land Forme
+SpeedPowerTechniqueStaminaJump
+
+Base/Max Pokéthlon Stats - Sky Forme
+SpeedPowerTechniqueStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+100
+100
+100
+100
+100
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+94 - 136
+Lv. 100
+310 - 404
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+184 - 269
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+105 - 152
+Lv. 100
+310 - 404
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+205 - 299
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+115 - 167
+Lv. 100
+310 - 404
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+225 - 328
+
+Stats - Sky Forme
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+100
+103
+75
+120
+75
+127
+Max StatsHindering Nature
+Lv. 50
+160 - 207
+97 - 139
+72 - 114
+112 - 154
+72 - 114
+118 - 161
+Lv. 100
+310 - 404
+189 - 274
+139 - 224
+220 - 305
+139 - 224
+233 - 317
+Max StatsNeutral Nature
+Lv. 50
+160 - 207
+108 - 155
+80 - 127
+125 - 172
+80 - 127
+132 - 179
+Lv. 100
+310 - 404
+211 - 305
+155 - 249
+245 - 339
+155 - 249
+259 - 353
+Max StatsBeneficial Nature
+Lv. 50
+160 - 207
+118 - 170
+88 - 139
+137 - 189
+88 - 139
+145 - 196
+Lv. 100
+310 - 404
+232 - 335
+170 - 273
+269 - 372
+170 - 273
+284 - 388
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#491Darkrai
+		
+
+
+
+
+
+
+
+#493Arceus
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

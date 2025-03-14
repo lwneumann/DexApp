@@ -1,0 +1,239 @@
+{
+    "name": "Weezing",
+    "jp_name": "Matadogas\u30de\u30bf\u30c9\u30ac\u30b9",
+    "number": " National: #110Johto: #116 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Poison Gas Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "21.0lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Smoke Ball",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "If one of the twin KOFFING inflates, the other one deflates. It constantly mixes its poisonous gases.",
+        "Top-grade perfume is made using its internal poison gases by diluting them to the highest level."
+    ],
+    "location": [
+        "Safari Zone",
+        "Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Gas",
+            "Tackle",
+            "Smog",
+            "Smokescreen"
+        ],
+        "6": [
+            "Smog"
+        ],
+        "10": [
+            "Smokescreen"
+        ],
+        "15": [
+            "Assurance"
+        ],
+        "19": [
+            "Selfdestruct"
+        ],
+        "24": [
+            "Sludge"
+        ],
+        "28": [
+            "Haze"
+        ],
+        "33": [
+            "Double Hit"
+        ],
+        "40": [
+            "Explosion"
+        ],
+        "48": [
+            "Sludge Bomb"
+        ],
+        "55": [
+            "Destiny Bond"
+        ],
+        "63": [
+            "Memento"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM61",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM74",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Rollout",
+        "Pain Split"
+    ],
+    "egg_moves": [
+        "Screech",
+        "Psywave",
+        "Psybeam",
+        "Destiny Bond",
+        "Pain Split",
+        "Will-o-wisp",
+        "Grudge",
+        "Spite",
+        "Curse"
+    ],
+    "stats": [
+        "65",
+        "90",
+        "120",
+        "85",
+        "70",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

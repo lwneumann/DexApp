@@ -1,0 +1,252 @@
+{
+    "name": "Electivire",
+    "jp_name": "Elekible\u30a8\u30ec\u30ad\u30d6\u30eb",
+    "number": " National: #466Sinnoh: #199 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Motor Drive"
+    ],
+    "classification": "Thunderbolt Pok\u00e9mon",
+    "height": "5'11\"",
+    "weight": "305.6lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Electirizer",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "As its electric charge amplifies, blue sparks begin to crackle between its horns."
+    ],
+    "location": [
+        "Evolve Electabuzz",
+        "Evolve Electabuzz"
+    ],
+    "learnset": {
+        "0": [
+            "Fire Punch",
+            "Quick Attack",
+            "Leer",
+            "Thundershock"
+        ],
+        "7": [
+            "Thundershock"
+        ],
+        "16": [
+            "Swift"
+        ],
+        "60": [
+            "",
+            ""
+        ],
+        "19": [
+            "Shock Wave"
+        ],
+        "25": [
+            "Light Screen"
+        ],
+        "28": [
+            "Thunderpunch"
+        ],
+        "37": [
+            "Discharge"
+        ],
+        "43": [
+            "Thunderbolt"
+        ],
+        "52": [
+            "Screech"
+        ],
+        "58": [
+            "Thunder"
+        ],
+        "67": [
+            "Giga Impact"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM12",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Helping Hand",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Mud-slap",
+        "Signal Beam",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Karate Chop",
+        "Barrier",
+        "Rolling Kick",
+        "Meditate",
+        "Cross Chop",
+        "Fire Punch",
+        "Ice Punch",
+        "Dynamicpunch",
+        "Feint"
+    ],
+    "stats": [
+        "75",
+        "123",
+        "67",
+        "95",
+        "85",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "115 - 157",
+                "128 - 175",
+                "140 - 192"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "225 - 310",
+                "251 - 345",
+                "276 - 379"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

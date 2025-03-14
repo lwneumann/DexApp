@@ -1,0 +1,246 @@
+{
+    "name": "Nosepass",
+    "jp_name": "Nosepass\u30ce\u30ba\u30d1\u30b9",
+    "number": " National: #299Sinnoh: #155 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sturdy",
+        "Magnet Pull"
+    ],
+    "classification": "Compass Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "213.8lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Hard Stone",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "If two of these meet, they cannot get too close because their noses repel each other."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "7": [
+            "Harden"
+        ],
+        "13": [
+            "Rock Throw"
+        ],
+        "19": [
+            "Block"
+        ],
+        "25": [
+            "Thunder Wave"
+        ],
+        "31": [
+            "Rock Slide"
+        ],
+        "37": [
+            "Sandstorm"
+        ],
+        "43": [
+            "Rest"
+        ],
+        "49": [
+            "Power Gem"
+        ],
+        "55": [
+            "Discharge"
+        ],
+        "61": [
+            "Stone Edge"
+        ],
+        "67": [
+            "Zap Cannon"
+        ],
+        "73": [
+            "Lock-on"
+        ],
+        "79": [
+            "Earth Power"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM37",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM64",
+        "TM69",
+        "TM71",
+        "TM73",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Magnet Rise",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Defense",
+        "Mud-slap",
+        "Rollout",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Magnitude",
+        "Rollout",
+        "Explosion",
+        "Double-edge",
+        "Block",
+        "Head Smash"
+    ],
+    "stats": [
+        "30",
+        "45",
+        "135",
+        "45",
+        "90",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "126 - 168",
+                "140 - 187",
+                "154 - 205"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "247 - 332",
+                "275 - 369",
+                "302 - 405"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

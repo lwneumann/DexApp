@@ -1,0 +1,261 @@
+{
+    "name": "Mime Jr.",
+    "jp_name": "Manene\u30de\u30cd\u30cd",
+    "number": " National: #439Sinnoh: #094 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Soundproof",
+        "Filter"
+    ],
+    "classification": "Mime Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "28.6lbs",
+    "capture_rate": "145",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Leppa Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!"
+    ],
+    "location": [
+        "Breed Mr. Mime, Transfer from Pok\u00e9Walker",
+        "Breed Mr. Mime, Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Tickle",
+            "Barrier",
+            "Confusion"
+        ],
+        "4": [
+            "Copycat"
+        ],
+        "8": [
+            "Meditate"
+        ],
+        "11": [
+            "Encore"
+        ],
+        "15": [
+            "Doubleslap"
+        ],
+        "18": [
+            "Mimic"
+        ],
+        "22": [
+            "Light Screen",
+            "Reflect"
+        ],
+        "25": [
+            "Psybeam"
+        ],
+        "29": [
+            "Substitute"
+        ],
+        "32": [
+            "Recycle"
+        ],
+        "36": [
+            "Trick"
+        ],
+        "39": [
+            "Psychic"
+        ],
+        "43": [
+            "Role Play"
+        ],
+        "46": [
+            "Baton Pass"
+        ],
+        "50": [
+            "Safeguard"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Trick",
+        "Helping Hand",
+        "Snore",
+        "Uproar",
+        "Mud-slap",
+        "Signal Beam",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Future Sight",
+        "Hypnosis",
+        "Mimic",
+        "Psych Up",
+        "Fake Out",
+        "Trick",
+        "Confuse Ray",
+        "Wake-up Slap",
+        "Teeter Dance",
+        "Healing Wish",
+        "Charm",
+        "Nasty Plot"
+    ],
+    "stats": [
+        "20",
+        "25",
+        "45",
+        "70",
+        "90",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "80 - 127",
+                "80 - 127",
+                "80 - 127"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "150 - 244",
+                "150 - 244",
+                "150 - 244"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

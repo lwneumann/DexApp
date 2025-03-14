@@ -1,0 +1,212 @@
+{
+    "name": "Pichu",
+    "jp_name": "Pichu\u30d4\u30c1\u30e5\u30fc",
+    "number": " National: #172Sinnoh: #103 Johto: #021 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Static"
+    ],
+    "classification": "Tiny Mouse Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "4.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "2,560",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Oran Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+        "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself."
+    ],
+    "location": [
+        "Ilex Forest",
+        "Ilex Forest"
+    ],
+    "learnset": {
+        "0": [
+            "Thundershock",
+            "Charm"
+        ],
+        "5": [
+            "Tail Whip"
+        ],
+        "10": [
+            "Thunder Wave"
+        ],
+        "13": [
+            "Sweet Kiss"
+        ],
+        "18": [
+            "Nasty Plot"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Mud-slap",
+        "Rollout",
+        "Signal Beam",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Reversal",
+        "Bide",
+        "Present",
+        "Encore",
+        "Doubleslap",
+        "Wish",
+        "Charge",
+        "Fake Out",
+        "Thunderpunch",
+        "Tickle",
+        "Flail",
+        "Volt Tackle"
+    ],
+    "stats": [
+        "20",
+        "40",
+        "15",
+        "35",
+        "35",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "80 - 127",
+                "80 - 127",
+                "80 - 127"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "150 - 244",
+                "150 - 244",
+                "150 - 244"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

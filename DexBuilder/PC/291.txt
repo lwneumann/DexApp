@@ -1,0 +1,235 @@
+{
+    "name": "Ninjask",
+    "jp_name": "Tekkanin\u30c6\u30c3\u30ab\u30cb\u30f3",
+    "number": " National: #291",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Speed Boost"
+    ],
+    "classification": "Ninja Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "26.5lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible."
+    ],
+    "location": [
+        "Evolve Nincada",
+        "Evolve Nincada"
+    ],
+    "learnset": {
+        "0": [
+            "Bug Bite",
+            "Scratch",
+            "Harden",
+            "Leech Life",
+            "Sand-attack"
+        ],
+        "5": [
+            "Leech Life"
+        ],
+        "9": [
+            "Sand-attack"
+        ],
+        "14": [
+            "Fury Swipes"
+        ],
+        "19": [
+            "Mind Reader"
+        ],
+        "20": [
+            "Double Team",
+            "Fury Cutter",
+            "Screech"
+        ],
+        "25": [
+            "Swords Dance"
+        ],
+        "31": [
+            "Slash"
+        ],
+        "38": [
+            "Agility"
+        ],
+        "45": [
+            "Baton Pass"
+        ],
+        "52": [
+            "X-scissor"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM54",
+        "TM58",
+        "TM62",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Mud-slap",
+        "String Shot",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Endure",
+        "Faint Attack",
+        "Gust",
+        "Silver Wind",
+        "Bug Buzz",
+        "Night Slash",
+        "Bug Bite"
+    ],
+    "stats": [
+        "61",
+        "90",
+        "45",
+        "50",
+        "50",
+        "160"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "121 - 168",
+                "121 - 168",
+                "121 - 168"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "148 - 190",
+                "165 - 212",
+                "181 - 233"
+            ]
+        ],
+        "100": [
+            [
+                "232 - 326",
+                "232 - 326",
+                "232 - 326"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "292 - 377",
+                "325 - 419",
+                "357 - 460"
+            ]
+        ]
+    }
+}

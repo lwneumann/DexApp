@@ -1,0 +1,223 @@
+{
+    "name": "Chingling",
+    "jp_name": "Riishan\u30ea\u30fc\u30b7\u30e3\u30f3",
+    "number": " National: #433Sinnoh: #082 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Bell Pok\u00e9mon",
+    "height": "0'08\"",
+    "weight": "1.3lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Colbur Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "It emits high-frequency cries that  people can't hear. Once it starts, it can cry for an awfully long time."
+    ],
+    "location": [
+        "Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Diglett's Cave, Mt. Moon, Cerulean Cave, Rock Tunnel, Seafoam Islands, Victory Road, Tohjo Falls, Safari Zone (Special Items)",
+        "Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Diglett's Cave, Mt. Moon, Cerulean Cave, Rock Tunnel, Seafoam Islands, Victory Road, Tohjo Falls, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Wrap"
+        ],
+        "6": [
+            "Growl"
+        ],
+        "9": [
+            "Astonish"
+        ],
+        "14": [
+            "Confusion"
+        ],
+        "17": [
+            "Uproar"
+        ],
+        "22": [
+            "Last Resort"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM48",
+        "TM49",
+        "TM57",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Knock Off",
+        "Trick",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Rollout",
+        "Signal Beam",
+        "Gravity",
+        "Magic Coat",
+        "Heal Bell"
+    ],
+    "egg_moves": [
+        "Disable",
+        "Curse",
+        "Hypnosis",
+        "Dream Eater",
+        "Wish",
+        "Future Sight",
+        "Recover"
+    ],
+    "stats": [
+        "45",
+        "30",
+        "50",
+        "65",
+        "50",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

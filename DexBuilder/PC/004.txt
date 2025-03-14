@@ -1,0 +1,227 @@
+{
+    "name": "Charmander",
+    "jp_name": "Hitokage\u30d2\u30c8\u30ab\u30b2",
+    "number": " National: #004Johto: #234 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Lizard Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "18.7lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+        "The flame on its tail indicates CHARMANDER's life force. If it is healthy, the flame burns brightly."
+    ],
+    "location": [
+        "Receive from Professor Oak",
+        "Receive from Professor Oak"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Growl"
+        ],
+        "7": [
+            "Ember"
+        ],
+        "10": [
+            "Smokescreen"
+        ],
+        "19": [
+            "Scary Face"
+        ],
+        "25": [
+            "Fire Fang"
+        ],
+        "28": [
+            "Slash"
+        ],
+        "34": [
+            "Flamethrower"
+        ],
+        "37": [
+            "Fire Spin"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM02",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Belly Drum",
+        "Ancientpower",
+        "Rock Slide",
+        "Bite",
+        "Outrage",
+        "Beat Up",
+        "Swords Dance",
+        "Dragon Dance",
+        "Crunch",
+        "Dragon Rush",
+        "Metal Claw",
+        "Flare Blitz",
+        "Counter"
+    ],
+    "stats": [
+        "39",
+        "52",
+        "43",
+        "60",
+        "50",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "99 - 146",
+                "99 - 146",
+                "99 - 146"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "188 - 282",
+                "188 - 282",
+                "188 - 282"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

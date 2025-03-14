@@ -1,0 +1,235 @@
+{
+    "name": "Chikorita",
+    "jp_name": "Chikorita\u30c1\u30b3\u30ea\u30fc\u30bf",
+    "number": " National: #152Johto: #001 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Leaf Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "14.1lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sunrays.",
+        "Its pleasantly aromatic leaf has the ability to check humidity and temperature."
+    ],
+    "location": [
+        "Receive from Professor Elm",
+        "Receive from Professor Elm"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growl"
+        ],
+        "6": [
+            "Razor Leaf"
+        ],
+        "9": [
+            "Poisonpowder"
+        ],
+        "12": [
+            "Synthesis"
+        ],
+        "17": [
+            "Reflect"
+        ],
+        "20": [
+            "Magical Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "28": [
+            "Sweet Scent"
+        ],
+        "31": [
+            "Light Screen"
+        ],
+        "34": [
+            "Body Slam"
+        ],
+        "39": [
+            "Safeguard"
+        ],
+        "42": [
+            "Aromatherapy"
+        ],
+        "45": [
+            "Solarbeam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Snore",
+        "Synthesis",
+        "Ancientpower",
+        "Mud-slap",
+        "Seed Bomb",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Vine Whip",
+        "Leech Seed",
+        "Counter",
+        "Ancientpower",
+        "Flail",
+        "Nature Power",
+        "Ingrain",
+        "Grasswhistle",
+        "Leaf Storm",
+        "Aromatherapy",
+        "Wring Out",
+        "Body Slam"
+    ],
+    "stats": [
+        "45",
+        "49",
+        "65",
+        "49",
+        "65",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "48 - 90",
+                "54 - 101",
+                "59 - 111"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "92 - 177",
+                "103 - 197",
+                "113 - 216"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

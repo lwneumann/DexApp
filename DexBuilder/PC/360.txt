@@ -1,0 +1,156 @@
+{
+    "name": "Wynaut",
+    "jp_name": "Sonano\u30bd\u30fc\u30ca\u30ce",
+    "number": " National: #360",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shadow Tag"
+    ],
+    "classification": "Bright Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "30.9lbs",
+    "capture_rate": "125",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It tends to move in a pack. Individuals squash against one another to toughen their spirits."
+    ],
+    "location": [
+        "Breed Wobbuffet",
+        "Breed Wobbuffet"
+    ],
+    "learnset": {
+        "0": [
+            "Splash",
+            "Charm",
+            "Encore"
+        ],
+        "15": [
+            "Safeguard",
+            "Destiny Bond"
+        ]
+    },
+    "TMHM": [
+        "nts.",
+        "tack",
+        "48",
+        "- 90",
+        " 130",
+        "- 75",
+        " 195",
+        " 110",
+        " 159"
+    ],
+    "stats": [
+        "95",
+        "23",
+        "48",
+        "23",
+        "48",
+        "23"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "155 - 202",
+                "155 - 202",
+                "155 - 202"
+            ],
+            [
+                "25 - 67",
+                "28 - 75",
+                "30 - 82"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "25 - 67",
+                "28 - 75",
+                "30 - 82"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "25 - 67",
+                "28 - 75",
+                "30 - 82"
+            ]
+        ],
+        "100": [
+            [
+                "300 - 394",
+                "300 - 394",
+                "300 - 394"
+            ],
+            [
+                "45 - 130",
+                "51 - 145",
+                "56 - 159"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "45 - 130",
+                "51 - 145",
+                "56 - 159"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "45 - 130",
+                "51 - 145",
+                "56 - 159"
+            ]
+        ]
+    }
+}

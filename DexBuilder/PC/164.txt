@@ -1,0 +1,242 @@
+{
+    "name": "Noctowl",
+    "jp_name": "Yorunozuku\u30e8\u30eb\u30ce\u30ba\u30af",
+    "number": " National: #164Sinnoh: #107 Johto: #016 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Insomnia",
+        "Keen Eye"
+    ],
+    "classification": "Owl Pok\u00e9mon",
+    "height": "5'03\"",
+    "weight": "89.9lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+        "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
+    ],
+    "location": [
+        "Route 2, Route 8, Route 13, Route 14, Route 15, Route 43, Route 47, Viridian Forest, Ilex Forest, Viridian Forest (Headbutt)",
+        "Route 2, Route 8, Route 13, Route 14, Route 15, Route 31, Route 43, Route 47, Viridian Forest, Ilex Forest, Viridian Forest (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Sky Attack",
+            "Tackle",
+            "Growl",
+            "Foresight",
+            "Hypnosis"
+        ],
+        "5": [
+            "Hypnosis"
+        ],
+        "9": [
+            "Peck"
+        ],
+        "13": [
+            "Uproar"
+        ],
+        "17": [
+            "Reflect"
+        ],
+        "22": [
+            "Confusion"
+        ],
+        "27": [
+            "Take Down"
+        ],
+        "32": [
+            "Air Slash"
+        ],
+        "37": [
+            "Zen Headbutt"
+        ],
+        "42": [
+            "Extrasensory"
+        ],
+        "47": [
+            "Psycho Shift"
+        ],
+        "52": [
+            "Roost"
+        ],
+        "57": [
+            "Dream Eater"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM62",
+        "TM67",
+        "TM68",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM88",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind",
+        "Sky Attack"
+    ],
+    "egg_moves": [
+        "Mirror Move",
+        "Supersonic",
+        "Faint Attack",
+        "Wing Attack",
+        "Whirlwind",
+        "Sky Attack",
+        "Featherdance",
+        "Agility",
+        "Night Shade"
+    ],
+    "stats": [
+        "100",
+        "50",
+        "50",
+        "76",
+        "96",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "72 - 115",
+                "81 - 128",
+                "89 - 140"
+            ],
+            [
+                "90 - 133",
+                "101 - 148",
+                "111 - 162"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "141 - 225",
+                "157 - 251",
+                "172 - 276"
+            ],
+            [
+                "177 - 261",
+                "197 - 291",
+                "216 - 320"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

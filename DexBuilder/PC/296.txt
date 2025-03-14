@@ -1,0 +1,245 @@
+{
+    "name": "Makuhita",
+    "jp_name": "Makunoshita\u30de\u30af\u30ce\u30b7\u30bf",
+    "number": " National: #296",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Thick Fat",
+        "Guts"
+    ],
+    "classification": "Guts Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "190.5lbs",
+    "capture_rate": "180",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit."
+    ],
+    "location": [
+        "Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Diglett's Cave, Mt. Moon, Cerulean Cave, Rock Tunnel, Seafoam Islands, Victory Road, Tohjo Falls",
+        "Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Diglett's Cave, Mt. Moon, Cerulean Cave, Rock Tunnel, Seafoam Islands, Victory Road, Tohjo Falls"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Focus Energy"
+        ],
+        "4": [
+            "Sand-attack"
+        ],
+        "7": [
+            "Arm Thrust"
+        ],
+        "10": [
+            "Vital Throw",
+            "The user endures any attack with at least"
+        ],
+        "70": [
+            ""
+        ],
+        "13": [
+            "Fake Out"
+        ],
+        "16": [
+            "Whirlwind"
+        ],
+        "19": [
+            "Knock Off"
+        ],
+        "22": [
+            "Smellingsalt"
+        ],
+        "25": [
+            "Belly Drum"
+        ],
+        "28": [
+            "Force Palm"
+        ],
+        "34": [
+            "Wake-up Slap"
+        ],
+        "37": [
+            "Endure"
+        ],
+        "40": [
+            "Close Combat"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Knock Off",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Mud-slap",
+        "Superpower",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Faint Attack",
+        "Detect",
+        "Foresight",
+        "Helping Hand",
+        "Cross Chop",
+        "Revenge",
+        "Dynamicpunch",
+        "Counter",
+        "Wake-up Slap",
+        "Bullet Punch",
+        "Feint"
+    ],
+    "stats": [
+        "72",
+        "60",
+        "30",
+        "20",
+        "30",
+        "25"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "132 - 179",
+                "132 - 179",
+                "132 - 179"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ]
+        ],
+        "100": [
+            [
+                "254 - 348",
+                "254 - 348",
+                "254 - 348"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ]
+        ]
+    }
+}

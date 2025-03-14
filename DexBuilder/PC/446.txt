@@ -1,0 +1,248 @@
+{
+    "name": "Munchlax",
+    "jp_name": "Gonbe\u30b4\u30f3\u30d9",
+    "number": " National: #446Sinnoh: #112 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Pickup",
+        "Thick Fat"
+    ],
+    "classification": "Big Eater Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "231.0lbs",
+    "capture_rate": "50",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Leftovers",
+            "100"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing."
+    ],
+    "location": [
+        "Breed Snorlax, Transfer from Pok\u00e9Walker",
+        "Breed Snorlax, Transfer from Pok\u00e9Walker"
+    ],
+    "learnset": {
+        "0": [
+            "Metronome",
+            "Odor Sleuth",
+            "Tackle"
+        ],
+        "4": [
+            "Defense Curl"
+        ],
+        "9": [
+            "Amnesia"
+        ],
+        "12": [
+            "Lick"
+        ],
+        "17": [
+            "Recycle"
+        ],
+        "20": [
+            "Screech"
+        ],
+        "25": [
+            "Stockpile"
+        ],
+        "28": [
+            "Swallow"
+        ],
+        "33": [
+            "Body Slam"
+        ],
+        "41": [
+            "Rollout"
+        ],
+        "49": [
+            "Last Resort"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM67",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Uproar",
+        "Gunk Shot",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Lick",
+        "Charm",
+        "Double-edge",
+        "Curse",
+        "Substitute",
+        "Whirlwind",
+        "Pursuit",
+        "Zen Headbutt",
+        "Counter"
+    ],
+    "stats": [
+        "135",
+        "85",
+        "40",
+        "40",
+        "85",
+        "5"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "195 - 242",
+                "195 - 242",
+                "195 - 242"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "9 - 51",
+                "10 - 57",
+                "11 - 62"
+            ]
+        ],
+        "100": [
+            [
+                "380 - 474",
+                "380 - 474",
+                "380 - 474"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "13 - 98",
+                "15 - 109",
+                "16 - 119"
+            ]
+        ]
+    }
+}

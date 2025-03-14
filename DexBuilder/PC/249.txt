@@ -1,0 +1,251 @@
+{
+    "name": "Lugia",
+    "jp_name": "Lugia\u30eb\u30ae\u30a2",
+    "number": " National: #249Johto: #252 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Diving Pok\u00e9mon",
+    "height": "17'10\"",
+    "weight": "476.2lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "White",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+        "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm."
+    ],
+    "location": [
+        "Whirl Islands",
+        "Whirl Islands"
+    ],
+    "learnset": {
+        "0": [
+            "Whirlwind",
+            "Weather Ball"
+        ],
+        "9": [
+            "Gust"
+        ],
+        "15": [
+            "Dragon Rush"
+        ],
+        "23": [
+            "Extrasensory"
+        ],
+        "29": [
+            "Rain Dance"
+        ],
+        "37": [
+            "Hydro Pump"
+        ],
+        "43": [
+            "Aeroblast"
+        ],
+        "57": [
+            "Ancientpower"
+        ],
+        "65": [
+            "Safeguard"
+        ],
+        "71": [
+            "Recover"
+        ],
+        "79": [
+            "Future Sight"
+        ],
+        "93": [
+            "Calm Mind"
+        ],
+        "99": [
+            "Sky Attack"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM37",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM47",
+        "TM48",
+        "TM51",
+        "TM55",
+        "TM57",
+        "TM58",
+        "TM59",
+        "TM68",
+        "TM70",
+        "TM72",
+        "TM73",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM02",
+        "HM03",
+        "HM04",
+        " DPt",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Dive",
+        "Icy Wind",
+        "Ominous Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Signal Beam",
+        "Twister",
+        "Tailwind",
+        "Sky Attack",
+        "Headbutt"
+    ],
+    "stats": [
+        "106",
+        "90",
+        "130",
+        "90",
+        "154",
+        "110"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "166 - 213",
+                "166 - 213",
+                "166 - 213"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "143 - 185",
+                "159 - 206",
+                "174 - 226"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ]
+        ],
+        "100": [
+            [
+                "322 - 416",
+                "322 - 416",
+                "322 - 416"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "281 - 366",
+                "313 - 407",
+                "344 - 447"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ]
+        ]
+    }
+}

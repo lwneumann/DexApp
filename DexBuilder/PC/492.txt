@@ -1,0 +1,232 @@
+{
+    "name": "Shaymin",
+    "jp_name": "Sheimi\u30b7\u30a7\u30a4\u30df",
+    "number": " National: #492",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Natural Cure  (Land Forme)",
+        "Serene Grace (Sky Forme)"
+    ],
+    "classification": "Gratitude Pok\u00e9mon",
+    "height": "0'08\"",
+    "weight": "4.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "100",
+    "effort_values_earned": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Lum Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": null,
+    "flavor_text": [
+        "The blooming of Gracidea flowers confers the power of flight upon it. Feelings  of gratitude are the message it delivers."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Growth",
+            "Growth"
+        ],
+        "10": [
+            "Magical Leaf",
+            "Magical Leaf"
+        ],
+        "60": [
+            "",
+            ""
+        ],
+        "19": [
+            "Leech Seed",
+            "Leech Seed"
+        ],
+        "28": [
+            "Synthesis",
+            "Quick Attack"
+        ],
+        "37": [
+            "Sweet Scent",
+            "Sweet Scent"
+        ],
+        "55": [
+            "Worry Seed",
+            "Worry Seed"
+        ],
+        "64": [
+            "Aromatherapy",
+            "Air Slash"
+        ],
+        "73": [
+            "Energy Ball",
+            "Energy Ball"
+        ],
+        "82": [
+            "Sweet Kiss",
+            "Sweet Kiss"
+        ],
+        "91": [
+            "Healing Wish",
+            "Leaf Storm"
+        ],
+        "100": [
+            "Seed Flare",
+            "Seed Flare"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Synthesis",
+        "Earth Power",
+        "Endeavor",
+        "Mud-slap",
+        "Seed Bomb",
+        "Tailwind",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "stats": [
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "97 - 139",
+                "108 - 155",
+                "118 - 170"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "118 - 161",
+                "132 - 179",
+                "145 - 196"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "189 - 274",
+                "211 - 305",
+                "232 - 335"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "233 - 317",
+                "259 - 353",
+                "284 - 388"
+            ]
+        ]
+    }
+}

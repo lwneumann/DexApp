@@ -1,0 +1,226 @@
+{
+    "name": "Lileep",
+    "jp_name": "Ririira\u30ea\u30ea\u30fc\u30e9",
+    "number": " National: #345",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Suction Cups"
+    ],
+    "classification": "Sea Lily Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "52.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "7,680",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Big Root",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 3"
+    ],
+    "flavor_text": [
+        "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times."
+    ],
+    "location": [
+        "Revive Root Fossil",
+        "Revive Root Fossil"
+    ],
+    "learnset": {
+        "0": [
+            "Astonish",
+            "Constrict"
+        ],
+        "8": [
+            "Acid"
+        ],
+        "15": [
+            "Ingrain"
+        ],
+        "22": [
+            "Confuse Ray"
+        ],
+        "29": [
+            "Amnesia"
+        ],
+        "36": [
+            "Gastro Acid"
+        ],
+        "43": [
+            "Ancientpower"
+        ],
+        "50": [
+            "Energy Ball"
+        ],
+        "57": [
+            "Stockpile",
+            "Swallow"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM69",
+        "TM70",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Synthesis",
+        "Ancientpower",
+        "Earth Power",
+        "Gastro Acid",
+        "Mud-slap",
+        "Seed Bomb",
+        "Pain Split",
+        "String Shot",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Barrier",
+        "Recover",
+        "Mirror Coat",
+        "Rock Slide",
+        "Wring Out",
+        "Tickle",
+        "Curse"
+    ],
+    "stats": [
+        "66",
+        "41",
+        "77",
+        "61",
+        "87",
+        "23"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "126 - 173",
+                "126 - 173",
+                "126 - 173"
+            ],
+            [
+                "41 - 83",
+                "46 - 93",
+                "50 - 102"
+            ],
+            [
+                "73 - 116",
+                "82 - 129",
+                "90 - 141"
+            ],
+            [
+                "59 - 101",
+                "66 - 113",
+                "72 - 124"
+            ],
+            [
+                "82 - 125",
+                "92 - 139",
+                "101 - 152"
+            ],
+            [
+                "25 - 67",
+                "28 - 75",
+                "30 - 82"
+            ]
+        ],
+        "100": [
+            [
+                "242 - 336",
+                "242 - 336",
+                "242 - 336"
+            ],
+            [
+                "78 - 162",
+                "87 - 181",
+                "95 - 199"
+            ],
+            [
+                "143 - 227",
+                "159 - 253",
+                "174 - 278"
+            ],
+            [
+                "114 - 198",
+                "127 - 221",
+                "139 - 243"
+            ],
+            [
+                "161 - 245",
+                "179 - 273",
+                "196 - 300"
+            ],
+            [
+                "45 - 130",
+                "51 - 145",
+                "56 - 159"
+            ]
+        ]
+    }
+}

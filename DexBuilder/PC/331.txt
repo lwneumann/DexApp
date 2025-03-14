@@ -1,0 +1,254 @@
+{
+    "name": "Cacnea",
+    "jp_name": "Sabonea\u30b5\u30dc\u30cd\u30a2",
+    "number": " National: #331",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sand Veil"
+    ],
+    "classification": "Cactus Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "113.1lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Sticky Barb",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Plant",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It lives in arid locations. Its yellow flowers bloom once a year."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Sting",
+            "Leer"
+        ],
+        "5": [
+            "Absorb"
+        ],
+        "9": [
+            "Growth"
+        ],
+        "13": [
+            "Leech Seed"
+        ],
+        "17": [
+            "Sand-attack"
+        ],
+        "21": [
+            "Pin Missile"
+        ],
+        "25": [
+            "Ingrain"
+        ],
+        "29": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "33": [
+            "Spikes"
+        ],
+        "37": [
+            "Sucker Punch"
+        ],
+        "41": [
+            "Payback"
+        ],
+        "45": [
+            "Needle Arm"
+        ],
+        "49": [
+            "Cotton Spore"
+        ],
+        "53": [
+            "Sandstorm"
+        ],
+        "57": [
+            "Destiny Bond"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM37",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM66",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM79",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Snore",
+        "Spite",
+        "Synthesis",
+        "Mud-slap",
+        "Seed Bomb",
+        "Worry Seed",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Grasswhistle",
+        "Acid",
+        "Teeter Dance",
+        "Dynamicpunch",
+        "Counter",
+        "Low Kick",
+        "Smellingsalt",
+        "Magical Leaf",
+        "Seed Bomb",
+        "Nasty Plot"
+    ],
+    "stats": [
+        "50",
+        "85",
+        "40",
+        "85",
+        "40",
+        "35"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ]
+        ]
+    }
+}

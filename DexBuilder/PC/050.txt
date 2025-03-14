@@ -1,0 +1,225 @@
+{
+    "name": "Diglett",
+    "jp_name": "Digda\u30c7\u30a3\u30b0\u30c0",
+    "number": " National: #050Johto: #134 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sand Veil",
+        "Arena Trap"
+    ],
+    "classification": "Mole Pok\u0165mon",
+    "height": "0'08\"",
+    "weight": "1.8lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Soft Sand",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+        "If a DIGLETT digs through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+    ],
+    "location": [
+        "Route 48, Vermillion City, Diglett's Cave, Safari Zone (Special Items)",
+        "Route 48, Vermillion City, Diglett's Cave, Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Sand-attack"
+        ],
+        "4": [
+            "Growl"
+        ],
+        "7": [
+            "Astonish"
+        ],
+        "15": [
+            "Mud-slap"
+        ],
+        "18": [
+            "Dig"
+        ],
+        "23": [
+            "Sucker Punch"
+        ],
+        "26": [
+            "Earth Power"
+        ],
+        "29": [
+            "Mud Bomb"
+        ],
+        "34": [
+            "Slash"
+        ],
+        "37": [
+            "Earthquake"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM58",
+        "TM65",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Snore",
+        "Earth Power",
+        "Mud-slap"
+    ],
+    "egg_moves": [
+        "Faint Attack",
+        "Screech",
+        "Ancientpower",
+        "Pursuit",
+        "Beat Up",
+        "Uproar",
+        "Rock Slide",
+        "Mud Bomb",
+        "Astonish",
+        "Reversal"
+    ],
+    "stats": [
+        "10",
+        "55",
+        "25",
+        "35",
+        "45",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "70 - 117",
+                "70 - 117",
+                "70 - 117"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "130 - 224",
+                "130 - 224",
+                "130 - 224"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

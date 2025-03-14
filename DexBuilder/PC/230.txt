@@ -1,0 +1,241 @@
+{
+    "name": "Kingdra",
+    "jp_name": "Kingdra\u30ad\u30f3\u30b0\u30c9\u30e9",
+    "number": " National: #230Johto: #192 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Sniper"
+    ],
+    "classification": "Dragon Pok\u0165mon",
+    "height": "5'11\"",
+    "weight": "336.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.25",
+        "0.25",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Dragon Scale",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+        "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes."
+    ],
+    "location": [
+        "Evolve Seadra",
+        "Evolve Seadra"
+    ],
+    "learnset": {
+        "0": [
+            "Yawn",
+            "Bubble",
+            "Smokescreen",
+            "Leer",
+            "Water Gun"
+        ],
+        "4": [
+            "Smokescreen"
+        ],
+        "8": [
+            "Leer"
+        ],
+        "11": [
+            "Water Gun"
+        ],
+        "14": [
+            "Focus Energy"
+        ],
+        "18": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Agility"
+        ],
+        "26": [
+            "Twister"
+        ],
+        "30": [
+            "Brine"
+        ],
+        "40": [
+            "Hydro Pump"
+        ],
+        "48": [
+            "Dragon Dance"
+        ],
+        "57": [
+            "Dragon Pulse"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM59",
+        "TM68",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Iron Head",
+        "Outrage",
+        "Signal Beam",
+        "Twister",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flail",
+        "Aurora Beam",
+        "Octazooka",
+        "Disable",
+        "Splash",
+        "Dragon Rage",
+        "Dragonbreath",
+        "Signal Beam",
+        "Razor Wind",
+        "Muddy Water"
+    ],
+    "stats": [
+        "75",
+        "95",
+        "95",
+        "95",
+        "95",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "name": "Psyduck",
+    "jp_name": "Koduck\u30b3\u30c0\u30c3\u30af",
+    "number": " National: #054Sinnoh: #043 Johto: #140 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Damp",
+        "Cloud Nine"
+    ],
+    "classification": "Duck Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "43.0lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+        "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
+    ],
+    "location": [
+        "Route 6, Route 35, Ilex Forest, Cerulean Cave, Seafoam Islands, Safari Zone",
+        "Route 6, Route 35, Ilex Forest, Cerulean Cave, Seafoam Islands, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Water Sport",
+            "Scratch"
+        ],
+        "5": [
+            "Tail Whip"
+        ],
+        "9": [
+            "Water Gun"
+        ],
+        "14": [
+            "Disable"
+        ],
+        "18": [
+            "Confusion"
+        ],
+        "22": [
+            "Water Pulse"
+        ],
+        "27": [
+            "Fury Swipes"
+        ],
+        "31": [
+            "Screech"
+        ],
+        "35": [
+            "Psych Up"
+        ],
+        "40": [
+            "Zen Headbutt"
+        ],
+        "44": [
+            "Amnesia"
+        ],
+        "48": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM31",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM70",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Ice Punch",
+        "Icy Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Mud-slap",
+        "Signal Beam",
+        "Worry Seed",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Hypnosis",
+        "Psybeam",
+        "Foresight",
+        "Light Screen",
+        "Future Sight",
+        "Psychic",
+        "Cross Chop",
+        "Refresh",
+        "Confuse Ray",
+        "Yawn",
+        "Mud Bomb",
+        "Encore"
+    ],
+    "stats": [
+        "50",
+        "52",
+        "48",
+        "65",
+        "50",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "51 - 93",
+                "57 - 104",
+                "62 - 114"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "98 - 182",
+                "109 - 203",
+                "119 - 223"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

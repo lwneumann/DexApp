@@ -1,0 +1,264 @@
+{
+    "name": "Kangaskhan",
+    "jp_name": "Garura\u30ac\u30eb\u30fc\u30e9",
+    "number": " National: #115Johto: #210 ",
+    "gender_ratio": [
+        "0",
+        "100"
+    ],
+    "ability": [
+        "Early Bird",
+        "Scrappy"
+    ],
+    "classification": "Parent Pok\u00e9mon",
+    "height": "7'03\"",
+    "weight": "176.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "150",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
+        "To protect its young, it will never give up during battle, no matter how badly wounded it is."
+    ],
+    "location": [
+        "Rock Tunnel, Safari Zone",
+        "Rock Tunnel, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Comet Punch",
+            "Leer"
+        ],
+        "7": [
+            "Fake Out"
+        ],
+        "10": [
+            "Tail Whip",
+            "The user endures any attack with at least"
+        ],
+        "13": [
+            "Bite"
+        ],
+        "19": [
+            "Mega Punch"
+        ],
+        "22": [
+            "Rage"
+        ],
+        "25": [
+            "Dizzy Punch"
+        ],
+        "31": [
+            "Crunch"
+        ],
+        "34": [
+            "Endure"
+        ],
+        "37": [
+            "Outrage"
+        ],
+        "43": [
+            "Double Hit"
+        ],
+        "46": [
+            "Sucker Punch"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM65",
+        "TM68",
+        "TM72",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Helping Hand",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Aqua Tail",
+        "Endeavor",
+        "Mud-slap",
+        "Outrage",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Stomp",
+        "Foresight",
+        "Focus Energy",
+        "Safeguard",
+        "Disable",
+        "Counter",
+        "Crush Claw",
+        "Substitute",
+        "Double-edge",
+        "Endeavor",
+        "Hammer Arm"
+    ],
+    "stats": [
+        "105",
+        "95",
+        "80",
+        "40",
+        "80",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "165 - 212",
+                "165 - 212",
+                "165 - 212"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "320 - 414",
+                "320 - 414",
+                "320 - 414"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

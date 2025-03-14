@@ -1,0 +1,2282 @@
+
+
+Images
+
+
+ 
+D/P/Pt
+HGSS
+ 
+Male
+Female
+Male
+Female
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Doduo
+Dodoドードー
+ National: #084Johto: #204 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Run Away & Early Bird 
+
+
+
+Run Away: Except for trainer battles, can always run from battle. Cannot run during Mean Look or Block or when the opponent is trapping with the Arena Trap, Magnet Pull, or Shadow Tag ability. 
+Early Bird: SLEEP conditions lasts for half as long, rounding down. For example, half of three turns is 1.5, which rounds down to one turn. When the number of turns to sleep is one, half of this rounded down is zero, and the Pokémon wakes up instantly. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Twin Bird Pokémon
+4'07"
+86.0lbs
+190
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Attack Point(s)
+Brown
+90
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*1
+*1
+*2
+*0.5
+*2
+*1
+*1
+*0
+*1
+*1
+*0.5
+*2
+*0
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Sharp Beak - 5%
+
+FlyingPidgeyPidgeottoPidgeotSpearowFearowZubatGolbatFarfetch'dDoduoDodrioAerodactylHoothootNoctowlCrobatTogeticNatuXatuMurkrowSkarmoryTaillowSwellowWingullPelipperSwabluAltariaStarlyStaraviaStaraptorHonchkrowChatotTogekissDittoFlying
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		The brains in its two heads appear to communicate emotions to each other with a telepathic power.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		By alternately raising and lowering its two heads, it balances itself to be more stable while running.
+		
+
+
+SoulSilver
+
+		It races through grassy plains with powerful strides, leaving footprints up to four inches deep.
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Safari Zone Entrance, Left & Mach Bike Areas
+		
+
+
+Sapphire
+		
+
+		Safari Zone Entrance, Left & Mach Bike Areas
+		
+
+
+Emerald
+		
+
+		Safari Zone Entrance, Left & Mach Bike Areas
+		
+
+
+FireRed
+		
+
+		Routes 16, 17 & 18 & Safari Zone Areas 1 & 3
+		
+
+
+LeafGreen
+		
+
+		Routes 16, 17 & 18 & Safari Zone Areas 1 & 3
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Swarm in Route 201
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Swarm in Route 201
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 201 - (Swarm)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone
+		
+
+Details
+
+PokéWalker
+		
+
+		Refreshing Field
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Peck3510035--The foe is jabbed with a sharply pointed beak or horn. —Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.10Rage2010020--While this move is in use, it gains attack power each time the user is hit in battle. 14Fury Attack158520--The foe is jabbed repeatedly with a horn or beak two to five times in a row. 19Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.23Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.28Acupressure----30--The user applies pressure to stress points, sharply boosting one of its stats.32Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.37Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.41Drill Peck8010020--A corkscrewing attack with the sharp beak acting as a drill. 46Endeavor??1005--An attack move that cuts down the foe's HP to equal the user's HP. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Brave Bird12010015--DetailsThe user tucks in its wings and charges from a low altitude. The user also takes serious damage.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTri Attack801001020RSEFRLGLv21 Lv21 The user strikes with a simultaneous three- beam attack. May also paralyze, burn, or freeze the target.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Safari Zone Entrance, Left & Mach Bike Areas
+		
+
+
+Sapphire
+		
+
+		Safari Zone Entrance, Left & Mach Bike Areas
+		
+
+
+Emerald
+		
+
+		Safari Zone Entrance, Left & Mach Bike Areas
+		
+
+
+FireRed
+		
+
+		Routes 16, 17 & 18 & Safari Zone Areas 1 & 3
+		
+
+
+LeafGreen
+		
+
+		Routes 16, 17 & 18 & Safari Zone Areas 1 & 3
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen
+		
+
+
+Diamond
+		
+
+		Swarm in Route 201
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Swarm in Route 201
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 201 - (Swarm)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone
+		
+
+Details
+
+PokéWalker
+		
+
+		Refreshing Field
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Peck3510035--The foe is jabbed with a sharply pointed beak or horn. —Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.10Rage2010020--While this move is in use, it gains attack power each time the user is hit in battle. 14Fury Attack158520--The foe is jabbed repeatedly with a horn or beak two to five times in a row. 19Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.23Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.28Acupressure----30--The user applies pressure to stress points, sharply boosting one of its stats.32Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.37Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.41Drill Peck8010020--A corkscrewing attack with the sharp beak acting as a drill. 46Endeavor??1005--An attack move that cuts down the foe's HP to equal the user's HP. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Brave Bird12010015--DetailsThe user tucks in its wings and charges from a low altitude. The user also takes serious damage.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTri Attack801001020RSEFRLGLv21 Lv21 The user strikes with a simultaneous three- beam attack. May also paralyze, burn, or freeze the target.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Peck3510035--The foe is jabbed with a sharply pointed beak or horn. —Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.5Quick Attack4010030--The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.10Rage2010020--While this move is in use, it gains attack power each time the user is hit in battle. 14Fury Attack158520--The foe is jabbed repeatedly with a horn or beak two to five times in a row. 19Pursuit4010020--An attack move that inflicts double damage if used on a foe that is switching out of battle.23Uproar5010010--The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.28Acupressure----30--The user applies pressure to stress points, sharply boosting one of its stats.32Double Hit359010--The user slams the foe with a long tail, vines, etc. The target is hit twice in a row.37Agility----30--The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.41Drill Peck8010020--A corkscrewing attack with the sharp beak acting as a drill. 46Endeavor??1005--An attack move that cuts down the foe's HP to equal the user's HP. TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Brave Bird12010015--DetailsThe user tucks in its wings and charges from a low altitude. The user also takes serious damage.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTri Attack801001020RSEFRLGLv21 Lv21 The user strikes with a simultaneous three- beam attack. May also paralyze, burn, or freeze the target.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM47
+Steel Wing
+
+
+70
+90
+25
+10
+The foe is hit with wings of steel. It may also raise the user's Defense stat. TM51
+Roost
+
+
+--
+--
+10
+--
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM88
+Pluck
+
+
+60
+100
+20
+--
+The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM02
+Fly
+
+
+90
+95
+15
+--
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Air Cutter
+
+
+55
+95
+25
+--
+
+The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Brave Bird12010015--DetailsThe user tucks in its wings and charges from a low altitude. The user also takes serious damage.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTri Attack801001020RSEFRLGLv21 Lv21 The user strikes with a simultaneous three- beam attack. May also paralyze, burn, or freeze the target.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Quick Attack4010030--DetailsThe user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Faint Attack60--20--DetailsThe user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Endeavor??1005--DetailsAn attack move that cuts down the foe's HP to equal the user's HP. Mirror Move----20--DetailsThe user counters the foe by mimicking the move last used by the foe.Brave Bird12010015--DetailsThe user tucks in its wings and charges from a low altitude. The user also takes serious damage.3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTri Attack801001020RSEFRLGLv21 Lv21 The user strikes with a simultaneous three- beam attack. May also paralyze, burn, or freeze the target.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+3rd Gen Only  MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansTri Attack801001020RSEFRLGLv21 Lv21 The user strikes with a simultaneous three- beam attack. May also paralyze, burn, or freeze the target.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+85
+45
+35
+35
+75
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+81 - 123
+45 - 87
+36 - 78
+36 - 78
+72 - 114
+Lv. 100
+180 - 274
+157 - 242
+85 - 170
+67 - 152
+67 - 152
+139 - 224
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+90 - 137
+50 - 97
+40 - 87
+40 - 87
+80 - 127
+Lv. 100
+180 - 274
+175 - 269
+95 - 189
+75 - 169
+75 - 169
+155 - 249
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+99 - 150
+55 - 106
+44 - 95
+44 - 95
+88 - 139
+Lv. 100
+180 - 274
+192 - 295
+104 - 207
+82 - 185
+82 - 185
+170 - 273
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#083Farfetch'd
+		
+
+
+
+
+
+
+
+#085Dodrio
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

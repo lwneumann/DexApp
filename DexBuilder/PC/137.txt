@@ -1,0 +1,229 @@
+{
+    "name": "Porygon",
+    "jp_name": "Porygon\u30dd\u30ea\u30b4\u30f3",
+    "number": " National: #137Sinnoh: #192 Johto: #220 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Trace",
+        "Download"
+    ],
+    "classification": "Virtual Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "80.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "It is a manmade Pok\u00e9mon. Since it doesn't breathe, people are eager to try it in any environment.",
+        "A manmade Pok\u00e9mon that came about as a result of research. It is programmed with only basic motions."
+    ],
+    "location": [
+        "Celadon Game Corner",
+        "Celadon Game Corner"
+    ],
+    "learnset": {
+        "0": [
+            "Conversion",
+            "Tackle",
+            "Conversion",
+            "Sharpen"
+        ],
+        "2": [
+            ""
+        ],
+        "7": [
+            "Psybeam"
+        ],
+        "12": [
+            "Agility"
+        ],
+        "18": [
+            "Recover"
+        ],
+        "23": [
+            "Magnet Rise"
+        ],
+        "29": [
+            "Signal Beam"
+        ],
+        "34": [
+            "Recycle"
+        ],
+        "40": [
+            "Discharge"
+        ],
+        "45": [
+            "Lock-on"
+        ],
+        "51": [
+            "Tri Attack"
+        ],
+        "56": [
+            "Magic Coat"
+        ],
+        "62": [
+            "Zap Cannon"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM46",
+        "TM57",
+        "TM58",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Signal Beam",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat"
+    ],
+    "stats": [
+        "65",
+        "60",
+        "70",
+        "85",
+        "75",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

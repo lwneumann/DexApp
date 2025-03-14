@@ -1,0 +1,226 @@
+{
+    "name": "Torchic",
+    "jp_name": "Achamo\u30a2\u30c1\u30e3\u30e2",
+    "number": " National: #255",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Chick Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "5.5lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle."
+    ],
+    "location": [
+        "Receive from Steven Stone in Silph Co.",
+        "Receive from Steven Stone in Silph Co."
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Growl"
+        ],
+        "7": [
+            "Focus Energy"
+        ],
+        "10": [
+            "Ember"
+        ],
+        "16": [
+            "Peck"
+        ],
+        "19": [
+            "Sand-attack"
+        ],
+        "25": [
+            "Fire Spin"
+        ],
+        "28": [
+            "Quick Attack"
+        ],
+        "34": [
+            "Slash"
+        ],
+        "37": [
+            "Mirror Move"
+        ],
+        "43": [
+            "Flamethrower"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Heat Wave",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Counter",
+        "Reversal",
+        "Endure",
+        "Swagger",
+        "Rock Slide",
+        "Smellingsalt",
+        "Crush Claw",
+        "Baton Pass",
+        "Agility",
+        "Night Slash",
+        "Last Resort",
+        "Feint",
+        "Featherdance"
+    ],
+    "stats": [
+        "45",
+        "60",
+        "40",
+        "70",
+        "50",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "105 - 152",
+                "105 - 152",
+                "105 - 152"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "200 - 294",
+                "200 - 294",
+                "200 - 294"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

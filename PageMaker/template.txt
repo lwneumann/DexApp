@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "PRIOR" %}
+{% set next = "NEXT" %}
+{% set number = "NUMBER" %}
+{% set name = "ENNAME" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (JPNAME) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = HASFEM %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"FLAVOR1"
+{% endblock %}
+{% block flavor_2 %}
+"FLAVOR2"
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+CLASSIFICATION
+{% endblock %}
+{% block p_height %}
+HEIGHT
+{% endblock %}
+{% block p_weight %}
+WEIGHT
+{% endblock %}
+{% block p_capture_rate %}
+CAPRATE
+{% endblock %}
+{% block p_egg_steps %}
+EGGSTEP
+{% endblock %}
+{% block p_egg_groups %}
+EGGGROUP
+{% endblock %}
+{% block exp_growth %}
+EXPGROWTH
+{% endblock %}
+{% block safarizone %}
+SAFZONE
+{% endblock %}
+{% block color %}
+COLOR
+{% endblock %}
+{% block base_happiness %}
+BASEHAPP
+{% endblock %}
+{% block gender_ratio %}
+GENDRATIO
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = HASHELDITEM %}
+{% set held_items = THEHELDITEMS %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = DAMAGE %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = LOCATIONS %}
+{% set has_pokewalker = HASPOKEWALKER %}
+{% set has_items = POKEITEMS %}
+{% set pokewalker = POKEWALKERINF %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = STHP %}
+{% set hp_width = STwHP %}
+{% set hprange50 = "HPRANGE50" %}
+{% set hprange100 = "HPRANGE100" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = STAATT %}
+{% set att_width = STwAATT %}
+{% set attrange50 = "AATTRANGE50" %}
+{% set attrange100 = "AATTRANGE100" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = STDEEF %}
+{% set def_width = STwDEEF %}
+{% set defrange50 = "DEEFRANGE50" %}
+{% set defrange100 = "DEEFRANGE100" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = STSPATT %}
+{% set spatt_width = STwSPATT %}
+{% set spattrange50 = "SPATTRANGE50" %}
+{% set spattrange100 = "SPATTRANGE100" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = STSPDEF %}
+{% set spdef_width = STwSPDEF %}
+{% set spdefrange50 = "SPDEFRANGE50" %}
+{% set spdefrange100 = "SPDEFRANGE100" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = STSPED %}
+{% set spd_width = STwSPED %}
+{% set spdrange50 = "SPEDRANGE50" %}
+{% set spdrange100 = "SPEDRANGE100" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = STATSUM %}
+{% set statsumwidth = STATwSUM %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = EVSPREAD %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = ABILITIES %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = LEARNEDMOVES %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = TMHMLIST %}
+{% set has_TMHM = HASTMHMMOVES %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = THETUTORMOVES %}
+{% set has_tutor_moves = HASTUTORMOVES %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = THEEGGMOVES %}
+{% set has_egg_moves = HASEGGMOVES %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

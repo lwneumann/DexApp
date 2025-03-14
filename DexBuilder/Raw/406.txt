@@ -1,0 +1,2376 @@
+
+
+Images
+
+
+ 
+D/P
+Pt/HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Budew
+Subomiスボミー
+ National: #406Sinnoh: #026 
+ Male ♂:50%Female ♀:50%
+ 
+
+
+Ability: Natural Cure & Poison Point 
+
+
+
+Natural Cure: The Pokémon’s status (BURN, PARALYZE, SLEEP, POISON, FREEZE) is healed when withdrawn from battle. 
+Poison Point: The opponent has a 30% chance of being induced with POISON when using an attack, that requires physical contact, against this Pokémon. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Bud Pokémon
+0'08"
+2.6lbs
+255
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+70
+1 Sp. Attack Point(s)
+Green
+120
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*0.5
+*0.5
+*0.25
+*2
+*0.5
+*1
+*1
+*2
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Poison Barb - 5%
+Budew cannot breed
+
+
+
+Evolutionary Chain
+
+
+
+
+
+To get Budew, you will need to breed while holding the Rose Incense
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.
+		
+
+
+Pearl
+		
+
+		It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.
+		
+ 
+Platinum
+		
+
+		Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.
+		
+ 
+HeartGold 
+		When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 204 & 212, Eterna Forest, Safari GameBreed Roselia/Roserade with Rose Incense Attached
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 204 & 212, Eterna Forest, Safari GameBreed Roselia/Roserade with Rose Incense Attached
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 204, Route 205 North, Route 208, Eterna Forest
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Ilex Forest, Viridian ForestSafari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Ilex Forest, Viridian ForestSafari Zone (Special Items)
+		
+
+Details
+
+PokéWalker
+		
+
+		Sinnoh Field
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Absorb2010025--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.4Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 7Water Sport----15--The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.10Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.13Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.16Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Spikes----20--DetailsThe user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Pin Missile148520--DetailsSharp pins are shot at the foe in rapid succession. They hit two to five times in a row.Cotton Spore--8540--DetailsThe user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.Sleep Powder--7515--DetailsThe user scatters a big cloud of sleep- inducing dust around the foe. Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Leaf Storm140905100DetailsA storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Extrasensory801003010DetailsThe user attacks with an odd, unseeable power. It may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 204 & 212, Eterna Forest, Safari GameBreed Roselia/Roserade with Rose Incense Attached
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 204 & 212, Eterna Forest, Safari GameBreed Roselia/Roserade with Rose Incense Attached
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 204, Route 205 North, Route 208, Eterna Forest
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Ilex Forest, Viridian ForestSafari Zone (Special Items)
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Ilex Forest, Viridian ForestSafari Zone (Special Items)
+		
+
+Details
+
+PokéWalker
+		
+
+		Sinnoh Field
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Absorb2010025--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.4Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 7Water Sport----15--The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.10Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.13Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.16Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Spikes----20--DetailsThe user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Pin Missile148520--DetailsSharp pins are shot at the foe in rapid succession. They hit two to five times in a row.Cotton Spore--8540--DetailsThe user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.Sleep Powder--7515--DetailsThe user scatters a big cloud of sleep- inducing dust around the foe. Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Leaf Storm140905100DetailsA storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Extrasensory801003010DetailsThe user attacks with an odd, unseeable power. It may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Absorb2010025--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.4Growth----40--The user's body is forced to grow all at once. It raises the Sp. Atk stat. 7Water Sport----15--The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.10Stun Spore--7530--The user scatters a cloud of paralyzing powder. It may paralyze the target.13Mega Drain4010015--A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.16Worry Seed--10010--A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Spikes----20--DetailsThe user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Pin Missile148520--DetailsSharp pins are shot at the foe in rapid succession. They hit two to five times in a row.Cotton Spore--8540--DetailsThe user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.Sleep Powder--7515--DetailsThe user scatters a big cloud of sleep- inducing dust around the foe. Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Leaf Storm140905100DetailsA storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Extrasensory801003010DetailsThe user attacks with an odd, unseeable power. It may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM19
+Giga Drain
+
+
+60
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM22
+Solarbeam
+
+
+120
+100
+10
+--
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM30
+Shadow Ball
+
+
+80
+100
+15
+20
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+80
+100
+10
+10
+The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM77
+Psych Up
+
+
+--
+--
+10
+--
+The user hypnotizes itself into copying any stat change made by the foe. TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Synthesis
+
+
+--
+--
+5
+--
+
+The user restores its own HP. The amount of HP regained varies with the weather.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Spikes----20--DetailsThe user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Pin Missile148520--DetailsSharp pins are shot at the foe in rapid succession. They hit two to five times in a row.Cotton Spore--8540--DetailsThe user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.Sleep Powder--7515--DetailsThe user scatters a big cloud of sleep- inducing dust around the foe. Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Leaf Storm140905100DetailsA storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Extrasensory801003010DetailsThe user attacks with an odd, unseeable power. It may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Worry Seed
+
+
+--
+100
+10
+--
+
+A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Spikes----20--DetailsThe user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Pin Missile148520--DetailsSharp pins are shot at the foe in rapid succession. They hit two to five times in a row.Cotton Spore--8540--DetailsThe user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.Sleep Powder--7515--DetailsThe user scatters a big cloud of sleep- inducing dust around the foe. Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Leaf Storm140905100DetailsA storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Extrasensory801003010DetailsThe user attacks with an odd, unseeable power. It may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Spikes----20--DetailsThe user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.Synthesis----5--DetailsThe user restores its own HP. The amount of HP regained varies with the weather.Pin Missile148520--DetailsSharp pins are shot at the foe in rapid succession. They hit two to five times in a row.Cotton Spore--8540--DetailsThe user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.Sleep Powder--7515--DetailsThe user scatters a big cloud of sleep- inducing dust around the foe. Razor Leaf559525--DetailsSharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.Mind Reader----5--DetailsThe user senses the foe's movements with its mind to ensure its next attack does not miss.Leaf Storm140905100DetailsA storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.Extrasensory801003010DetailsThe user attacks with an odd, unseeable power. It may also make the foe flinch.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+40
+30
+35
+50
+70
+55
+Max StatsHindering Nature
+Lv. 50
+100 - 147
+31 - 73
+36 - 78
+49 - 91
+67 - 109
+54 - 96
+Lv. 100
+190 - 284
+58 - 143
+67 - 152
+94 - 179
+130 - 215
+103 - 188
+Max StatsNeutral Nature
+Lv. 50
+100 - 147
+35 - 82
+40 - 87
+55 - 102
+75 - 122
+60 - 107
+Lv. 100
+190 - 284
+65 - 159
+75 - 169
+105 - 199
+145 - 239
+115 - 209
+Max StatsBeneficial Nature
+Lv. 50
+100 - 147
+38 - 90
+44 - 95
+60 - 112
+82 - 134
+66 - 117
+Lv. 100
+190 - 284
+71 - 174
+82 - 185
+115 - 218
+159 - 262
+126 - 229
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#405Luxray
+		
+
+
+
+
+
+
+
+#407Roserade
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

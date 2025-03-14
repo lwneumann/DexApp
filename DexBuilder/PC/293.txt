@@ -1,0 +1,227 @@
+{
+    "name": "Whismur",
+    "jp_name": "Gonyonyo\u30b4\u30cb\u30e7\u30cb\u30e7",
+    "number": " National: #293",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Soundproof"
+    ],
+    "classification": "Whisper Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "35.9lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Chesto Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Monster",
+        "Ground"
+    ],
+    "flavor_text": [
+        "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine."
+    ],
+    "location": [
+        "Route 6, Route 9, Route 10, Route 13, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 42, Route 43, Route 44, Route 45, Route 47, Ruins of Alph, Mt. Silver",
+        "Route 6, Route 9, Route 10, Route 13, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 32, Route 35, Route 42, Route 43, Route 44, Route 45, Route 47, Ruins of Alph, Mt. Silver"
+    ],
+    "learnset": {
+        "0": [
+            "Pound"
+        ],
+        "5": [
+            "Uproar"
+        ],
+        "11": [
+            "Astonish"
+        ],
+        "15": [
+            "Howl"
+        ],
+        "21": [
+            "Supersonic"
+        ],
+        "25": [
+            "Stomp"
+        ],
+        "31": [
+            "Screech"
+        ],
+        "35": [
+            "Roar"
+        ],
+        "41": [
+            "Rest",
+            "Sleep Talk"
+        ],
+        "45": [
+            "Hyper Voice"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM30",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Uproar",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Take Down",
+        "Snore",
+        "Swagger",
+        "Extrasensory",
+        "Smellingsalt",
+        "Smokescreen",
+        "Endeavor",
+        "Hammer Arm"
+    ],
+    "stats": [
+        "64",
+        "51",
+        "23",
+        "51",
+        "23",
+        "28"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "124 - 171",
+                "124 - 171",
+                "124 - 171"
+            ],
+            [
+                "50 - 92",
+                "56 - 103",
+                "61 - 113"
+            ],
+            [
+                "25 - 67",
+                "28 - 75",
+                "30 - 82"
+            ],
+            [
+                "50 - 92",
+                "56 - 103",
+                "61 - 113"
+            ],
+            [
+                "25 - 67",
+                "28 - 75",
+                "30 - 82"
+            ],
+            [
+                "29 - 72",
+                "33 - 80",
+                "36 - 88"
+            ]
+        ],
+        "100": [
+            [
+                "238 - 332",
+                "238 - 332",
+                "238 - 332"
+            ],
+            [
+                "96 - 180",
+                "107 - 201",
+                "117 - 221"
+            ],
+            [
+                "45 - 130",
+                "51 - 145",
+                "56 - 159"
+            ],
+            [
+                "96 - 180",
+                "107 - 201",
+                "117 - 221"
+            ],
+            [
+                "45 - 130",
+                "51 - 145",
+                "56 - 159"
+            ],
+            [
+                "54 - 139",
+                "61 - 155",
+                "67 - 170"
+            ]
+        ]
+    }
+}

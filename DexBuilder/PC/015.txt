@@ -1,0 +1,228 @@
+{
+    "name": "Beedrill",
+    "jp_name": "Spear\u30b9\u30d4\u30a2\u30fc",
+    "number": " National: #015Johto: #029 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm"
+    ],
+    "classification": "Poison Bee Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "65.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Poison Barb",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+        "It has three poison barbs. The barb on its tail secretes the most powerful poison."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Route 2, Viridian Forest, Ilex Forest (Headbutt), Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Fury Attack"
+        ],
+        "10": [
+            "Fury Attack"
+        ],
+        "13": [
+            "Focus Energy"
+        ],
+        "16": [
+            "Twineedle"
+        ],
+        "19": [
+            "Rage"
+        ],
+        "22": [
+            "Pursuit"
+        ],
+        "25": [
+            "Toxic Spikes"
+        ],
+        "28": [
+            "Pin Missile"
+        ],
+        "31": [
+            "Agility"
+        ],
+        "34": [
+            "Assurance"
+        ],
+        "37": [
+            "Poison Jab"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM54",
+        "TM58",
+        "TM62",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Knock Off",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Endeavor",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite"
+    ],
+    "stats": [
+        "65",
+        "80",
+        "40",
+        "45",
+        "80",
+        "75"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ]
+        ]
+    }
+}

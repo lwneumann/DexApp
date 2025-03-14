@@ -1,0 +1,233 @@
+{
+    "name": "Shiftry",
+    "jp_name": "Daatingu\u30c0\u30fc\u30c6\u30f3\u30b0",
+    "number": " National: #275",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Early Bird"
+    ],
+    "classification": "Wickid Pok\u00e9mon",
+    "height": "4'03\"",
+    "weight": "131.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "0",
+        "4",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds."
+    ],
+    "location": [
+        "Evolve Nuzleaf",
+        "Evolve Nuzleaf"
+    ],
+    "learnset": {
+        "0": [
+            "Faint Attack",
+            "Whirlwind",
+            "Nasty Plot",
+            "Razor Leaf"
+        ],
+        "60": [
+            ""
+        ],
+        "49": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM62",
+        "TM63",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM77",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Fury Cutter",
+        "Icy Wind",
+        "Knock Off",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Synthesis",
+        "Bounce",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Twister",
+        "Tailwind",
+        "Worry Seed",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Leech Seed",
+        "Amnesia",
+        "Quick Attack",
+        "Razor Wind",
+        "Take Down",
+        "False Swipe",
+        "Worry Seed",
+        "Nasty Plot",
+        "Power Swap"
+    ],
+    "stats": [
+        "90",
+        "100",
+        "60",
+        "90",
+        "60",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

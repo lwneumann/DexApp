@@ -1,0 +1,222 @@
+{
+    "name": "Venonat",
+    "jp_name": "Kongpang\u30b3\u30f3\u30d1\u30f3",
+    "number": " National: #048Johto: #109 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Compoundeyes",
+        "Tinted Lens"
+    ],
+    "classification": "Insect Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "66.1lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+        "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light."
+    ],
+    "location": [
+        "Route 24, Route 25, Route 43, Route 43, Lake of Rage (Headbutt), Bug Catching Contest",
+        "Route 24, Route 25, Route 43, Bug Catching Contest, Route 43, Lake of Rage (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Disable",
+            "Foresight"
+        ],
+        "5": [
+            "Supersonic"
+        ],
+        "11": [
+            "Confusion"
+        ],
+        "13": [
+            "Poisonpowder"
+        ],
+        "17": [
+            "Leech Life"
+        ],
+        "23": [
+            "Stun Spore"
+        ],
+        "25": [
+            "Psybeam"
+        ],
+        "29": [
+            "Sleep Powder"
+        ],
+        "35": [
+            "Signal Beam"
+        ],
+        "37": [
+            "Zen Headbutt"
+        ],
+        "41": [
+            "Poison Fang"
+        ],
+        "47": [
+            "Psychic"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM58",
+        "TM70",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Signal Beam",
+        "String Shot",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "Baton Pass",
+        "Screech",
+        "Giga Drain",
+        "Signal Beam",
+        "Agility",
+        "Morning Sun",
+        "Toxic Spikes",
+        "Bug Bite"
+    ],
+    "stats": [
+        "60",
+        "55",
+        "50",
+        "40",
+        "55",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

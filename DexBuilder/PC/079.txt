@@ -1,0 +1,258 @@
+{
+    "name": "Slowpoke",
+    "jp_name": "Yadon\u30e4\u30c9\u30f3",
+    "number": " National: #079Johto: #080 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Oblivious",
+        "Own Tempo"
+    ],
+    "classification": "Dopey Pok\u0165mon",
+    "height": "3'11\"",
+    "weight": "79.4lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Pink",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Lagging Tail",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "flavor_text": [
+        "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
+        "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on."
+    ],
+    "location": [
+        "Slowpoke Well, Tohjo Falls, Safari Zone",
+        "Slowpoke Well, Tohjo Falls, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Curse",
+            "Yawn",
+            "Tackle"
+        ],
+        "6": [
+            "Growl"
+        ],
+        "11": [
+            "Water Gun"
+        ],
+        "15": [
+            "Confusion"
+        ],
+        "20": [
+            "Disable"
+        ],
+        "25": [
+            "Headbutt"
+        ],
+        "29": [
+            "Water Pulse"
+        ],
+        "34": [
+            "Zen Headbutt"
+        ],
+        "39": [
+            "Slack Off"
+        ],
+        "43": [
+            "Amnesia"
+        ],
+        "48": [
+            "Psychic"
+        ],
+        "53": [
+            "Rain Dance"
+        ],
+        "57": [
+            "Psych Up"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM48",
+        "TM55",
+        "TM58",
+        "TM67",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92",
+        "HM03",
+        "HM04",
+        "HGSS"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Trick",
+        "Zen Headbutt",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Mud-slap",
+        "Signal Beam",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Safeguard",
+        "Belly Drum",
+        "Future Sight",
+        "Stomp",
+        "Mud Sport",
+        "Sleep Talk",
+        "Snore",
+        "Me First",
+        "Block",
+        "Zen Headbutt"
+    ],
+    "stats": [
+        "90",
+        "65",
+        "65",
+        "40",
+        "40",
+        "15"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "150 - 197",
+                "150 - 197",
+                "150 - 197"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ]
+        ],
+        "100": [
+            [
+                "290 - 384",
+                "290 - 384",
+                "290 - 384"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ]
+        ]
+    }
+}

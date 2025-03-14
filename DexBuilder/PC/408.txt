@@ -1,0 +1,240 @@
+{
+    "name": "Cranidos",
+    "jp_name": "Zugaidosu\u30ba\u30ac\u30a4\u30c9\u30b9",
+    "number": " National: #408Sinnoh: #036 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Mold Breaker"
+    ],
+    "classification": "Head Butt Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "69.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "7,680",
+    "experience_growth": [
+        "600,000",
+        "Erratic"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster"
+    ],
+    "flavor_text": [
+        "CRANIDOS toughen up their already rock-hard heads by headbutting one another."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Headbutt",
+            "Leer"
+        ],
+        "6": [
+            "Focus Energy"
+        ],
+        "10": [
+            "Pursuit"
+        ],
+        "15": [
+            "Take Down"
+        ],
+        "19": [
+            "Scary Face"
+        ],
+        "24": [
+            "Assurance"
+        ],
+        "28": [
+            "Ancientpower"
+        ],
+        "33": [
+            "Zen Headbutt"
+        ],
+        "37": [
+            "Screech"
+        ],
+        "43": [
+            "Head Smash"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM66",
+        "TM69",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Spite",
+        "Uproar",
+        "Ancientpower",
+        "Earth Power",
+        "Endeavor",
+        "Iron Head",
+        "Mud-slap",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Thrash",
+        "Double-edge",
+        "Leer",
+        "Slam",
+        "Stomp",
+        "Whirlwind",
+        "Hammer Arm",
+        "Curse"
+    ],
+    "stats": [
+        "67",
+        "125",
+        "40",
+        "30",
+        "30",
+        "58"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "127 - 174",
+                "127 - 174",
+                "127 - 174"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ]
+        ],
+        "100": [
+            [
+                "244 - 338",
+                "244 - 338",
+                "244 - 338"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ]
+        ]
+    }
+}

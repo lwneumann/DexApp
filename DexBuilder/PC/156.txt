@@ -1,0 +1,234 @@
+{
+    "name": "Quilava",
+    "jp_name": "Magumarashi\u30de\u30b0\u30de\u30e9\u30b7",
+    "number": " National: #156Johto: #005 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Volcano Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "41.9lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+        "This Pok\u00e9mon is fully covered by nonflammable fur. It can withstand any kind of fire attack."
+    ],
+    "location": [
+        "Evolve Cyndaquil",
+        "Evolve Cyndaquil"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Leer",
+            "Smokescreen"
+        ],
+        "6": [
+            "Smokescreen"
+        ],
+        "10": [
+            "Ember"
+        ],
+        "13": [
+            "Quick Attack"
+        ],
+        "20": [
+            "Flame Wheel"
+        ],
+        "24": [
+            "Defense Curl"
+        ],
+        "31": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "35": [
+            "Lava Plume"
+        ],
+        "42": [
+            "Flamethrower"
+        ],
+        "46": [
+            "Rollout"
+        ],
+        "53": [
+            "Double-edge"
+        ],
+        "57": [
+            "Eruption"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fury Swipes",
+        "Quick Attack",
+        "Reversal",
+        "Thrash",
+        "Foresight",
+        "Covet",
+        "Howl",
+        "Crush Claw",
+        "Double-edge",
+        "Double Kick",
+        "Flare Blitz",
+        "Extrasensory"
+    ],
+    "stats": [
+        "58",
+        "64",
+        "58",
+        "80",
+        "65",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "118 - 165",
+                "118 - 165",
+                "118 - 165"
+            ],
+            [
+                "62 - 104",
+                "69 - 116",
+                "75 - 127"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "226 - 320",
+                "226 - 320",
+                "226 - 320"
+            ],
+            [
+                "119 - 204",
+                "133 - 227",
+                "146 - 249"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

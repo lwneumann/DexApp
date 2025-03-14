@@ -1,0 +1,236 @@
+{
+    "name": "Regirock",
+    "jp_name": "Rejirock\u30ec\u30b8\u30ed\u30c3\u30af",
+    "number": " National: #377",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Clear Body"
+    ],
+    "classification": "Rock Peak Pok\u0165mon",
+    "height": "5'07\"",
+    "weight": "507.1lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "The same rocks that form its body have been found in ground layers around the world."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Explosion",
+            "Stomp"
+        ],
+        "9": [
+            "Rock Throw"
+        ],
+        "17": [
+            "Curse"
+        ],
+        "25": [
+            "Superpower"
+        ],
+        "33": [
+            "Ancientpower"
+        ],
+        "41": [
+            "Iron Defense"
+        ],
+        "49": [
+            "Charge Beam"
+        ],
+        "57": [
+            "Lock-on"
+        ],
+        "65": [
+            "Zap Cannon"
+        ],
+        "73": [
+            "Stone Edge"
+        ],
+        "81": [
+            "Hammer Arm"
+        ],
+        "89": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM52",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM64",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Gravity",
+        "Block",
+        "Headbutt",
+        "Base/Max Pok\u0165athlon Stats",
+        "Sp. Attack",
+        "50",
+        "Lv. 100",
+        "140 - 187",
+        "405 - 499",
+        "60 - 112",
+        "115 - 218"
+    ],
+    "stats": [
+        "80",
+        "100",
+        "200",
+        "50",
+        "100",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "184 - 226",
+                "205 - 252",
+                "225 - 277"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "364 - 449",
+                "405 - 499",
+                "445 - 548"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

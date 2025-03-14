@@ -1,0 +1,241 @@
+{
+    "name": "Darkrai",
+    "jp_name": "Darkrai\u30c0\u30fc\u30af\u30e9\u30a4",
+    "number": " National: #491",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Bad Dreams"
+    ],
+    "classification": "Pitch-Black Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "111.3lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "30,720",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "0",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Black",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "It chases people and Pok\u00e9mon from its territory by causing them to experience deep, nightmarish slumbers."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Ominous Wind",
+            "Disable"
+        ],
+        "11": [
+            "Quick Attack"
+        ],
+        "20": [
+            "Hypnosis"
+        ],
+        "29": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "38": [
+            "Nightmare"
+        ],
+        "47": [
+            "Double Team"
+        ],
+        "57": [
+            "Haze"
+        ],
+        "66": [
+            "Dark Void"
+        ],
+        "75": [
+            "Nasty Plot"
+        ],
+        "84": [
+            "Dream Eater"
+        ],
+        "93": [
+            "Dark Pulse"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM36",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM46",
+        "TM49",
+        "TM52",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM61",
+        "TM63",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM75",
+        "TM77",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM85",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Icy Wind",
+        "Knock Off",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Trick",
+        "Last Resort",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "stats": [
+        "70",
+        "90",
+        "90",
+        "135",
+        "90",
+        "125"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "126 - 168",
+                "140 - 187",
+                "154 - 205"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "247 - 332",
+                "275 - 369",
+                "302 - 405"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ]
+        ]
+    }
+}

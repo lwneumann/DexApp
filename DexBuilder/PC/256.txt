@@ -1,0 +1,245 @@
+{
+    "name": "Combusken",
+    "jp_name": "Wakashamo\u30ef\u30ab\u30b7\u30e3\u30e2",
+    "number": " National: #256",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Young Fowl Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "43.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "0.25",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power."
+    ],
+    "location": [
+        "Evolve Torchic",
+        "Evolve Torchic"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Growl",
+            "Focus Energy",
+            "Ember"
+        ],
+        "7": [
+            "Focus Energy"
+        ],
+        "13": [
+            "Ember"
+        ],
+        "16": [
+            "Double Kick"
+        ],
+        "17": [
+            "Peck"
+        ],
+        "21": [
+            "Sand-attack"
+        ],
+        "28": [
+            "Bulk Up"
+        ],
+        "32": [
+            "Quick Attack"
+        ],
+        "39": [
+            "Slash"
+        ],
+        "43": [
+            "Mirror Move"
+        ],
+        "50": [
+            "Sky Uppercut"
+        ],
+        "54": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Heat Wave",
+        "Mud-slap",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Counter",
+        "Reversal",
+        "Endure",
+        "Swagger",
+        "Rock Slide",
+        "Smellingsalt",
+        "Crush Claw",
+        "Baton Pass",
+        "Agility",
+        "Night Slash",
+        "Last Resort",
+        "Feint",
+        "Featherdance"
+    ],
+    "stats": [
+        "60",
+        "85",
+        "60",
+        "85",
+        "60",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

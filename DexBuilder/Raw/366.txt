@@ -1,0 +1,2088 @@
+
+
+Images
+
+
+ 
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Clamperl
+Paaruruパールル
+ National: #366
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Shell Armor 
+
+
+
+Shell Armor: Opponent’s moves cannot Critical Hit. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Bivalve Pokémon
+1'04"
+115.7lbs
+255
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+600,000 PointsErratic
+70
+1 Defense Point(s)
+Blue
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*0.5
+*2
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Big Pearl - 5%
+
+Water 1SquirtleWartortleBlastoisePsyduckGolduckPoliwagPoliwhirlPoliwrathSlowpokeSlowbroSeelDewgongHorseaSeadraLaprasOmanyteOmastarKabutoKabutopsDratiniDragonairDragoniteTotodileCroconawFeraligatrMarillAzumarillPolitoedWooperQuagsireSlowkingCorsolaRemoraidOctilleryDelibirdMantineKingdraMudkipMarshtompSwampertLotadLombreLudicoloWingullPelipperSurskitMasquerainCorphishCrawdauntFeebasMiloticSphealSealeoWalreinClamperlHuntailGorebyssRelicanthPiplupPrinplupEmpoleonBidoofBibarelBuizelFloatzelShellosGastrodonPhioneManaphyDittoWater 1
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.
+		
+
+
+Pearl
+
+
+Platinum
+
+ 
+HeartGold 
+		When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Underwater Routes 124 & 126
+		
+
+
+Sapphire
+		
+
+		Underwater Routes 124 & 126
+		
+
+
+Emerald
+		
+
+		Underwater Routes 124 & 126
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum
+		
+
+
+Diamond
+		
+
+		Routes 219 & 221 (Fish w/ Super Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 219 & 221 (Fish w/ Super Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Trade from D/P
+		
+
+
+HeartGold
+		
+
+		Route 19
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 19
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Clamp357510--The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns.—Water Gun4010025--The foe is blasted with a forceful shot of water. —Whirlpool157015--Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.—Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Mud Sport----15--DetailsThe user covers itself with mud. It weakens Electric- type moves while the user is in the battle.Body Slam851001530DetailsThe user drops onto the foe with its full body weight. It may leave the foe paralyzed.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Barrier----30--DetailsThe user throws up a sturdy wall that sharply raises its Defense stat. Confuse Ray--10010--DetailsThe foe is exposed to a sinister ray that triggers confusion. Aqua Ring----20--DetailsThe user envelops itself in a veil made of water. It regains some HP on every turn.Muddy Water - HGSS Only95851030DetailsThe user attacks by shooting out muddy water. It may also lower the foe's accuracy.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Underwater Routes 124 & 126
+		
+
+
+Sapphire
+		
+
+		Underwater Routes 124 & 126
+		
+
+
+Emerald
+		
+
+		Underwater Routes 124 & 126
+		
+
+
+FireRed
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+LeafGreen
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+Colosseum
+		
+
+		Trade from Ruby/Sapphire/Emerald
+		
+
+
+XD
+		
+
+		Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum
+		
+
+
+Diamond
+		
+
+		Routes 219 & 221 (Fish w/ Super Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 219 & 221 (Fish w/ Super Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Trade from D/P
+		
+
+
+HeartGold
+		
+
+		Route 19
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 19
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Clamp357510--The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns.—Water Gun4010025--The foe is blasted with a forceful shot of water. —Whirlpool157015--Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.—Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Mud Sport----15--DetailsThe user covers itself with mud. It weakens Electric- type moves while the user is in the battle.Body Slam851001530DetailsThe user drops onto the foe with its full body weight. It may leave the foe paralyzed.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Barrier----30--DetailsThe user throws up a sturdy wall that sharply raises its Defense stat. Confuse Ray--10010--DetailsThe foe is exposed to a sinister ray that triggers confusion. Aqua Ring----20--DetailsThe user envelops itself in a veil made of water. It regains some HP on every turn.Muddy Water - HGSS Only95851030DetailsThe user attacks by shooting out muddy water. It may also lower the foe's accuracy.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Clamp357510--The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns.—Water Gun4010025--The foe is blasted with a forceful shot of water. —Whirlpool157015--Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.—Iron Defense----15--The user hardens its body's surface like iron, sharply raising its Defense stat.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Mud Sport----15--DetailsThe user covers itself with mud. It weakens Electric- type moves while the user is in the battle.Body Slam851001530DetailsThe user drops onto the foe with its full body weight. It may leave the foe paralyzed.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Barrier----30--DetailsThe user throws up a sturdy wall that sharply raises its Defense stat. Confuse Ray--10010--DetailsThe foe is exposed to a sinister ray that triggers confusion. Aqua Ring----20--DetailsThe user envelops itself in a veil made of water. It regains some HP on every turn.Muddy Water - HGSS Only95851030DetailsThe user attacks by shooting out muddy water. It may also lower the foe's accuracy.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM07
+Hail
+
+
+--
+--
+10
+--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Iron Defense
+
+
+--
+--
+15
+--
+
+The user hardens its body's surface like iron, sharply raising its Defense stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Mud Sport----15--DetailsThe user covers itself with mud. It weakens Electric- type moves while the user is in the battle.Body Slam851001530DetailsThe user drops onto the foe with its full body weight. It may leave the foe paralyzed.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Barrier----30--DetailsThe user throws up a sturdy wall that sharply raises its Defense stat. Confuse Ray--10010--DetailsThe foe is exposed to a sinister ray that triggers confusion. Aqua Ring----20--DetailsThe user envelops itself in a veil made of water. It regains some HP on every turn.Muddy Water - HGSS Only95851030DetailsThe user attacks by shooting out muddy water. It may also lower the foe's accuracy.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Refresh----20--DetailsThe user rests to cure itself of a poisoning, burn, or paralysis. Mud Sport----15--DetailsThe user covers itself with mud. It weakens Electric- type moves while the user is in the battle.Body Slam851001530DetailsThe user drops onto the foe with its full body weight. It may leave the foe paralyzed.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Barrier----30--DetailsThe user throws up a sturdy wall that sharply raises its Defense stat. Confuse Ray--10010--DetailsThe foe is exposed to a sinister ray that triggers confusion. Aqua Ring----20--DetailsThe user envelops itself in a veil made of water. It regains some HP on every turn.Muddy Water - HGSS Only95851030DetailsThe user attacks by shooting out muddy water. It may also lower the foe's accuracy.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+64
+85
+74
+55
+32
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+62 - 104
+81 - 123
+71 - 113
+54 - 96
+33 - 75
+Lv. 100
+180 - 274
+119 - 204
+157 - 242
+137 - 222
+103 - 188
+62 - 146
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+69 - 116
+90 - 137
+79 - 126
+60 - 107
+37 - 84
+Lv. 100
+180 - 274
+133 - 227
+175 - 269
+153 - 247
+115 - 209
+69 - 163
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+75 - 127
+99 - 150
+86 - 138
+66 - 117
+40 - 92
+Lv. 100
+180 - 274
+146 - 249
+192 - 295
+168 - 271
+126 - 229
+75 - 179
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#365Walrein
+		
+
+
+
+
+
+
+
+#367Huntail
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

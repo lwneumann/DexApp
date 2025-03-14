@@ -1,0 +1,246 @@
+{
+    "name": "Mantine",
+    "jp_name": "Mantain\u30de\u30f3\u30bf\u30a4\u30f3",
+    "number": " National: #226Sinnoh: #141 Johto: #202 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Water Absorb"
+    ],
+    "classification": "Kite Pok\u00e9mon",
+    "height": "6'11\"",
+    "weight": "485.0lbs",
+    "capture_rate": "25",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1"
+    ],
+    "flavor_text": [
+        "As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers.",
+        "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed."
+    ],
+    "location": [
+        "Route 41",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Psybeam",
+            "Bullet Seed",
+            "Signal Beam",
+            "Tackle",
+            "Bubble",
+            "Supersonic",
+            "Bubblebeam"
+        ],
+        "4": [
+            "Supersonic"
+        ],
+        "10": [
+            "Bubblebeam"
+        ],
+        "13": [
+            "Headbutt"
+        ],
+        "19": [
+            "Agility"
+        ],
+        "22": [
+            "Wing Attack"
+        ],
+        "28": [
+            "Water Pulse"
+        ],
+        "31": [
+            "Take Down"
+        ],
+        "37": [
+            "Confuse Ray"
+        ],
+        "40": [
+            "Bounce"
+        ],
+        "46": [
+            "Aqua Ring"
+        ],
+        "49": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM09",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        " DPt",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Dive",
+        "Icy Wind",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Bounce",
+        "Gunk Shot",
+        "Iron Head",
+        "Mud-slap",
+        "Seed Bomb",
+        "Signal Beam",
+        "String Shot",
+        "Tailwind",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Twister",
+        "Hydro Pump",
+        "Haze",
+        "Slam",
+        "Mud Sport",
+        "Rock Slide",
+        "Mirror Coat",
+        "Water Sport",
+        "Splash"
+    ],
+    "stats": [
+        "65",
+        "40",
+        "70",
+        "80",
+        "140",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "125 - 172",
+                "125 - 172",
+                "125 - 172"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "130 - 172",
+                "145 - 192",
+                "159 - 211"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "240 - 334",
+                "240 - 334",
+                "240 - 334"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "256 - 341",
+                "285 - 379",
+                "313 - 416"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

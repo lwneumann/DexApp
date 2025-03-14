@@ -1,0 +1,245 @@
+{
+    "name": "Relicanth",
+    "jp_name": "Jiransu\u30b8\u30fc\u30e9\u30f3\u30b9",
+    "number": " National: #369",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Rock Head"
+    ],
+    "classification": "Longevity Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "51.6lbs",
+    "capture_rate": "25",
+    "base_egg_steps": "10,240",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.25",
+        "1",
+        "2",
+        "4",
+        "0.5",
+        "2",
+        "0.5",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Deep Sea Scale",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "flavor_text": [
+        "Discovered by chance during deep-sea explorations, it has not changed since ancient times."
+    ],
+    "location": [
+        "Route 12",
+        "Route 12"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Harden"
+        ],
+        "8": [
+            "Water Gun"
+        ],
+        "15": [
+            "Rock Tomb"
+        ],
+        "22": [
+            "Yawn"
+        ],
+        "29": [
+            "Take Down"
+        ],
+        "36": [
+            "Mud Sport"
+        ],
+        "43": [
+            "Ancientpower"
+        ],
+        "50": [
+            "Double-edge"
+        ],
+        "57": [
+            "Dive"
+        ],
+        "64": [
+            "Rest"
+        ],
+        "71": [
+            "Hydro Pump"
+        ],
+        "78": [
+            "Head Smash"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM04",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM76",
+        "TM77",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Ancientpower",
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Magnitude",
+        "Skull Bash",
+        "Water Sport",
+        "Amnesia",
+        "Sleep Talk",
+        "Rock Slide",
+        "Aqua Tail",
+        "Snore",
+        "Mud-slap",
+        "Muddy Water"
+    ],
+    "stats": [
+        "100",
+        "90",
+        "130",
+        "45",
+        "65",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "160 - 207",
+                "160 - 207",
+                "160 - 207"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "310 - 404",
+                "310 - 404",
+                "310 - 404"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

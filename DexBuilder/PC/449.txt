@@ -1,0 +1,210 @@
+{
+    "name": "Hippopotas",
+    "jp_name": "Hippopotasu\u30d2\u30dd\u30dd\u30bf\u30b9",
+    "number": " National: #449Sinnoh: #122 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sand Stream"
+    ],
+    "classification": "Hippo Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "109.1lbs",
+    "capture_rate": "140",
+    "base_egg_steps": "7,680",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Sand-attack"
+        ],
+        "7": [
+            "Bite"
+        ],
+        "13": [
+            "Yawn"
+        ],
+        "19": [
+            "Take Down",
+            "Dig"
+        ],
+        "25": [
+            "Sand Tomb"
+        ],
+        "31": [
+            "Crunch"
+        ],
+        "37": [
+            "Earthquake"
+        ],
+        "44": [
+            "Double-edge"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Earth Power",
+        "Mud-slap",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Stockpile",
+        "Swallow",
+        "Spit Up",
+        "Curse",
+        "Slack Off",
+        "Body Slam",
+        "Sand Tomb",
+        "Revenge"
+    ],
+    "stats": [
+        "68",
+        "72",
+        "78",
+        "38",
+        "42",
+        "32"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "128 - 175",
+                "128 - 175",
+                "128 - 175"
+            ],
+            [
+                "69 - 111",
+                "77 - 124",
+                "84 - 136"
+            ],
+            [
+                "74 - 117",
+                "83 - 130",
+                "91 - 143"
+            ],
+            [
+                "38 - 81",
+                "43 - 90",
+                "47 - 99"
+            ],
+            [
+                "42 - 84",
+                "47 - 94",
+                "51 - 103"
+            ],
+            [
+                "33 - 75",
+                "37 - 84",
+                "40 - 92"
+            ]
+        ],
+        "100": [
+            [
+                "246 - 340",
+                "246 - 340",
+                "246 - 340"
+            ],
+            [
+                "134 - 218",
+                "149 - 243",
+                "163 - 267"
+            ],
+            [
+                "144 - 229",
+                "161 - 255",
+                "177 - 280"
+            ],
+            [
+                "72 - 157",
+                "81 - 175",
+                "89 - 192"
+            ],
+            [
+                "80 - 164",
+                "89 - 183",
+                "97 - 201"
+            ],
+            [
+                "62 - 146",
+                "69 - 163",
+                "75 - 179"
+            ]
+        ]
+    }
+}

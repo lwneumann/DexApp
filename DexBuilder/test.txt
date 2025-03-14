@@ -1,0 +1,160 @@
+{
+    "name": "Weedle",
+    "jp_name": "Beedle\u30d3\u30fc\u30c9\u30eb",
+    "number": " National: #013Johto: #027 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Shield Dust"
+    ],
+    "classification": "Hairy Bug Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "7.1lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "1",
+        "0.25",
+        "0.5",
+        "1",
+        "2",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+        "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats."
+    ],
+    "location": [
+        "Bug Catching Contest",
+        "Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian Forest, Ilex Forest (Headbutt), Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Sting",
+            "String Shot"
+        ],
+        "15": [
+            "Bug Bite"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        "",
+        "--",
+        "\u00a0",
+        "40",
+        " 147",
+        " 152",
+        "- 87",
+        " 159",
+        "- 90",
+        " 152",
+        ""
+    ],
+    "stats": [
+        "40",
+        "35",
+        "30",
+        "20",
+        "20",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

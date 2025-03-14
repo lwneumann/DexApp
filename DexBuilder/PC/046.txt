@@ -1,0 +1,237 @@
+{
+    "name": "Paras",
+    "jp_name": "Paras\u30d1\u30e9\u30b9",
+    "number": " National: #046Johto: #070 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Effect Spore",
+        "Dry Skin"
+    ],
+    "classification": "Mushroom Pok\u0165mon",
+    "height": "1'00\"",
+    "weight": "11.9lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "4",
+        "0.5",
+        "0.5",
+        "0.25",
+        "2",
+        "0.5",
+        "2",
+        "0.25",
+        "4",
+        "1",
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Tiny Mushroom",
+            "50"
+        ],
+        [
+            "Big Mushroom",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Bug",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
+        "As its body grows, large mushrooms named tochukaso start sprouting out of its back."
+    ],
+    "location": [
+        "Ilex Forest, Mt. Moon, Bug Catching Contest, Safari Zone",
+        "Ilex Forest, Mt. Moon, Bug Catching Contest"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch"
+        ],
+        "6": [
+            "Stun Spore",
+            "Poisonpowder"
+        ],
+        "11": [
+            "Leech Life"
+        ],
+        "17": [
+            "Spore"
+        ],
+        "22": [
+            "Slash"
+        ],
+        "27": [
+            "Growth"
+        ],
+        "33": [
+            "Giga Drain"
+        ],
+        "38": [
+            "Aromatherapy"
+        ],
+        "43": [
+            "X-scissor"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM53",
+        "TM54",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Synthesis",
+        "Seed Bomb",
+        "String Shot",
+        "Worry Seed",
+        "Bug Bite"
+    ],
+    "egg_moves": [
+        "False Swipe",
+        "Screech",
+        "Counter",
+        "Psybeam",
+        "Flail",
+        "Sweet Scent",
+        "Light Screen",
+        "Pursuit",
+        "Metal Claw",
+        "Bug Bite",
+        "Cross Poison",
+        "Agility"
+    ],
+    "stats": [
+        "35",
+        "70",
+        "55",
+        "45",
+        "55",
+        "25"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "95 - 142",
+                "95 - 142",
+                "95 - 142"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ]
+        ],
+        "100": [
+            [
+                "180 - 274",
+                "180 - 274",
+                "180 - 274"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ]
+        ]
+    }
+}

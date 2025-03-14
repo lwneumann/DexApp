@@ -1,0 +1,214 @@
+{
+    "name": "Starmie",
+    "jp_name": "Starmie\u30b9\u30bf\u30fc\u30df\u30fc",
+    "number": " National: #121Johto: #170 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Illuminate",
+        "Natural Cure"
+    ],
+    "classification": "Mysterious Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "176.0lbs",
+    "capture_rate": "60",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Stardust",
+            "50"
+        ],
+        [
+            "Star Piece",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 3"
+    ],
+    "flavor_text": [
+        "The middle section of its body is called the core. It glows in a different color each time it is seen.",
+        "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape."
+    ],
+    "location": [
+        "Evolve Staryu",
+        "Evolve Staryu"
+    ],
+    "learnset": {
+        "0": [
+            "Water Gun",
+            "Rapid Spin",
+            "Recover",
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "28": [
+            "Confuse Ray"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM29",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM55",
+        "TM58",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM72",
+        "TM73",
+        "TM74",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM91",
+        "TM92",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Trick",
+        "Snore",
+        "Swift",
+        "Rollout",
+        "Signal Beam",
+        "Twister",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat"
+    ],
+    "stats": [
+        "60",
+        "75",
+        "85",
+        "100",
+        "85",
+        "115"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ]
+        ]
+    }
+}

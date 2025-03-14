@@ -1,0 +1,221 @@
+{
+    "name": "Entei",
+    "jp_name": "Entei\u30a8\u30f3\u30c6\u30a4",
+    "number": " National: #244Johto: #244 ",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Pressure"
+    ],
+    "classification": "Volcano Pok\u00e9mon",
+    "height": "6'11\"",
+    "weight": "436.5lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        1,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land.",
+        "A Pok\u00e9mon that races across the land. It is said that one is born every time a new volcano appears."
+    ],
+    "location": [
+        "Roaming Johto",
+        "Roaming Johto"
+    ],
+    "learnset": {
+        "0": [
+            "Bite",
+            "Leer"
+        ],
+        "8": [
+            "Ember"
+        ],
+        "15": [
+            "Roar"
+        ],
+        "22": [
+            "Fire Spin"
+        ],
+        "29": [
+            "Stomp"
+        ],
+        "36": [
+            "Flamethrower"
+        ],
+        "43": [
+            "Swagger"
+        ],
+        "50": [
+            "Fire Fang"
+        ],
+        "57": [
+            "Lava Plume"
+        ],
+        "64": [
+            "Extrasensory"
+        ],
+        "71": [
+            "Fire Blast"
+        ],
+        "78": [
+            "Calm Mind"
+        ],
+        "85": [
+            "Eruption"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM68",
+        "TM70",
+        "TM71",
+        "TM77",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Iron Head",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "stats": [
+        "115",
+        "115",
+        "85",
+        "90",
+        "75",
+        "100"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "175 - 222",
+                "175 - 222",
+                "175 - 222"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ]
+        ],
+        "100": [
+            [
+                "340 - 434",
+                "340 - 434",
+                "340 - 434"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "name": "Alakazam",
+    "jp_name": "Fudin\u30d5\u30fc\u30c7\u30a3\u30f3",
+    "number": " National: #065Sinnoh: #022 Johto: #091 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Synchronize",
+        "Inner Focus"
+    ],
+    "classification": "Psi Pok\u00e9mon",
+    "height": "4'11\"",
+    "weight": "106.0lbs",
+    "capture_rate": "50",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Twisted Spoon",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+        "Its brain cells multiply continually until it dies. As a result, it remembers everything."
+    ],
+    "location": [
+        "Evolve Kadabra",
+        "Evolve Kadabra"
+    ],
+    "learnset": {
+        "0": [
+            "Teleport",
+            "Kinesis",
+            "Confusion"
+        ],
+        "16": [
+            "Confusion"
+        ],
+        "18": [
+            "Disable"
+        ],
+        "22": [
+            "Miracle Eye"
+        ],
+        "24": [
+            "Psybeam"
+        ],
+        "28": [
+            "Reflect"
+        ],
+        "30": [
+            "Recover"
+        ],
+        "34": [
+            "Psycho Cut"
+        ],
+        "36": [
+            "Calm Mind"
+        ],
+        "40": [
+            "Psychic"
+        ],
+        "42": [
+            "Future Sight"
+        ],
+        "46": [
+            "Trick"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM49",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM60",
+        "TM63",
+        "TM67",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Knock Off",
+        "Trick",
+        "Thunderpunch",
+        "Zen Headbutt",
+        "Snore",
+        "Signal Beam",
+        "Gravity",
+        "Role Play",
+        "Magic Coat",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Encore",
+        "Barrier",
+        "Knock Off",
+        "Fire Punch",
+        "Thunderpunch",
+        "Ice Punch",
+        "Power Trick",
+        "Guard Swap"
+    ],
+    "stats": [
+        "55",
+        "50",
+        "45",
+        "135",
+        "85",
+        "120"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "126 - 168",
+                "140 - 187",
+                "154 - 205"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "112 - 154",
+                "125 - 172",
+                "137 - 189"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "247 - 332",
+                "275 - 369",
+                "302 - 405"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "220 - 305",
+                "245 - 339",
+                "269 - 372"
+            ]
+        ]
+    }
+}

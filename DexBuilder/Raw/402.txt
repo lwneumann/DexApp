@@ -1,0 +1,3032 @@
+
+
+Images
+
+
+ 
+D/P
+PtHGSS
+ 
+Male
+Female
+Male
+Female
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Kricketune
+Korotokkuコロトック
+ National: #402Sinnoh: #016 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Swarm 
+
+
+
+Swarm: When HP is below 1/3rd, Bug’s power increases to 1.5 times. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Cricket Pokémon
+3'03"
+56.2lbs
+45
+3,840
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,059,860 PointsMedium Slow
+70
+2 Attack Point(s)
+Red
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*2
+*1
+*1
+*0.5
+*1
+*0.5
+*1
+*0.5
+*2
+*1
+*1
+*2
+*1
+*1
+*1
+*1
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+Metronome - 5%
+
+BugCaterpieMetapodButterfreeWeedleKakunaBeedrillParasParasectVenonatVenomothScytherPinsirLedybaLedianSpinarakAriadosYanmaPinecoForretressGligarScizorShuckleHeracrossWurmpleSilcoonBeautiflyCascoonDustoxSurskitMasquerainNincadaNinjaskVolbeatIllumiseTrapinchVibravaFlygonKricketotKricketuneBurmyWormadamMothimCombeeVespiquenSkorupiDrapionYanmegaGliscorShellosGastrodonDittoBug
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.
+		
+
+
+Pearl
+		
+
+		It signals its emotions with its melodies. Scientists are studying these melodic patterns.
+		
+ 
+Platinum
+		
+
+		There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.
+		
+ 
+HeartGold 
+		By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.
+		
+
+
+SoulSilver
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 206, 210-South, 212, 214 & 215, Trophy Garden (Morning & Night)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 206, 210-South, 212, 214 & 215, Trophy Garden (Morning & Night)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 206, Lake Valor Lakefront, Trophy Garden
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.30Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 34Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.38Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.34Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 38Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.42Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.46Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.50Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HGSS TM & HM AttacksHGSS TM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06Toxic--8510--A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.TM11Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. TM12Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21Frustration??10020--A full-power attack that grows more powerful the less the user likes its Trainer.TM27Return??10020--A full-power attack that grows more powerful the more the user likes its Trainer.TM31Brick Break7510015--The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40Aerial Ace60--20--The user confounds the foe with speed, then slashes. The attack lands without fail.TM42Facade7010020--An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43Secret Power701002030The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68Giga Impact150905--The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70Flash--10020--The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82Sleep Talk----10--While it is asleep, the user randomly uses one of the moves it knows. TM83Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90Substitute----10--The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01Cut509530--The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04Strength8010015--The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06Rock Smash401001550The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Diamond
+		
+
+		Routes 206, 210-South, 212, 214 & 215, Trophy Garden (Morning & Night)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 206, 210-South, 212, 214 & 215, Trophy Garden (Morning & Night)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 206, Lake Valor Lakefront, Trophy Garden
+		
+
+Details
+
+
+
+HeartGold
+		
+
+		Bug Catching Contest
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Bug Catching Contest
+		
+
+Details
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.30Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 34Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.38Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.34Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 38Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.42Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.46Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.50Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HGSS TM & HM AttacksHGSS TM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06Toxic--8510--A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.TM11Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. TM12Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21Frustration??10020--A full-power attack that grows more powerful the less the user likes its Trainer.TM27Return??10020--A full-power attack that grows more powerful the more the user likes its Trainer.TM31Brick Break7510015--The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40Aerial Ace60--20--The user confounds the foe with speed, then slashes. The attack lands without fail.TM42Facade7010020--An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43Secret Power701002030The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68Giga Impact150905--The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70Flash--10020--The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82Sleep Talk----10--While it is asleep, the user randomly uses one of the moves it knows. TM83Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90Substitute----10--The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01Cut509530--The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04Strength8010015--The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06Rock Smash401001550The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.30Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 34Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.38Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.34Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 38Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.42Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.46Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.50Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HGSS TM & HM AttacksHGSS TM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06Toxic--8510--A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.TM11Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. TM12Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21Frustration??10020--A full-power attack that grows more powerful the less the user likes its Trainer.TM27Return??10020--A full-power attack that grows more powerful the more the user likes its Trainer.TM31Brick Break7510015--The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40Aerial Ace60--20--The user confounds the foe with speed, then slashes. The attack lands without fail.TM42Facade7010020--An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43Secret Power701002030The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68Giga Impact150905--The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70Flash--10020--The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82Sleep Talk----10--While it is asleep, the user randomly uses one of the moves it knows. TM83Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90Substitute----10--The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01Cut509530--The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04Strength8010015--The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06Rock Smash401001550The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Growl--10040--The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.—Bide??--10--The user endures attacks for two turns, then strikes back to cause double the damage taken.10Fury Cutter109520--The foe is slashed with scythes or claws. Its power increases if it hits in succession.14Leech Life2010015--A blood-draining attack. The user's HP is restored by half the damage taken by the target.18Sing--5515--A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.22Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.26Slash7010020--The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.30X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.34Screech--8540--An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 38Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.42Night Slash7010015--The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.46Bug Buzz901001010The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.50Perish Song----5--Any Pokémon that hears this song faints in three turns, unless it switches out of battle.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HGSS TM & HM AttacksHGSS TM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06Toxic--8510--A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.TM11Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. TM12Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21Frustration??10020--A full-power attack that grows more powerful the less the user likes its Trainer.TM27Return??10020--A full-power attack that grows more powerful the more the user likes its Trainer.TM31Brick Break7510015--The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40Aerial Ace60--20--The user confounds the foe with speed, then slashes. The attack lands without fail.TM42Facade7010020--An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43Secret Power701002030The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68Giga Impact150905--The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70Flash--10020--The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82Sleep Talk----10--While it is asleep, the user randomly uses one of the moves it knows. TM83Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90Substitute----10--The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01Cut509530--The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04Strength8010015--The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06Rock Smash401001550The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM31
+Brick Break
+
+
+75
+100
+15
+--
+The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40
+Aerial Ace
+
+
+60
+--
+20
+--
+The user confounds the foe with speed, then slashes. The attack lands without fail.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62
+Silver Wind
+
+
+60
+100
+5
+10
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68
+Giga Impact
+
+
+150
+90
+5
+--
+The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+--
+30
+--
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81
+X-scissor
+
+
+80
+100
+15
+--
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01
+Cut
+
+
+50
+95
+30
+--
+The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04
+Strength
+
+
+80
+100
+15
+--
+The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06
+Rock Smash
+
+
+40
+100
+15
+50
+The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.HGSS TM & HM AttacksHGSS TM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM06Toxic--8510--A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM10Hidden Power??10015--A unique attack that varies in type and intensity depending on the Pokémon using it.TM11Sunny Day----5--The user intensifies the sun for five turns, powering up Fire-type moves. TM12Taunt--10020--The foe is taunted into a rage that allows it to use only attack moves for two to four turns.TM15Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17Protect----10--It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18Rain Dance----5--The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21Frustration??10020--A full-power attack that grows more powerful the less the user likes its Trainer.TM27Return??10020--A full-power attack that grows more powerful the more the user likes its Trainer.TM31Brick Break7510015--The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.TM32Double Team----15--By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM40Aerial Ace60--20--The user confounds the foe with speed, then slashes. The attack lands without fail.TM42Facade7010020--An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43Secret Power701002030The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44Rest----10--The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45Attract--10015--If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM54False Swipe4010040--A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.TM58Endure----10--The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM62Silver Wind60100510The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.TM68Giga Impact150905--The user charges at the foe using every bit of its power. The user must rest on the next turn.TM70Flash--10020--The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.TM75Swords Dance----30--A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.TM78Captivate--10020--If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM81X-scissor8010015--The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.TM82Sleep Talk----10--While it is asleep, the user randomly uses one of the moves it knows. TM83Natural Gift??10015--The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87Swagger--9015--The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90Substitute----10--The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM01Cut509530--The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.HM04Strength8010015--The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.HM06Rock Smash401001550The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Fury Cutter
+
+
+10
+95
+20
+--
+
+The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Knock Off
+
+
+20
+100
+20
+--
+
+The user slaps down the foe's held item, preventing the item from being used during the battle.
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Uproar
+
+
+50
+100
+10
+--
+
+The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
+Endeavor
+
+
+??
+100
+5
+--
+
+An attack move that cuts down the foe's HP to equal the user's HP. 
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Bug Bite
+
+
+60
+100
+20
+--
+
+The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Pre-Evolution MovesAttack NameTypeCat.Att.Acc.PPEffect % MeansBug Bite6010020--  Pt Lv. 16The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+77
+85
+51
+55
+51
+65
+Max StatsHindering Nature
+Lv. 50
+137 - 184
+81 - 123
+50 - 92
+54 - 96
+50 - 92
+63 - 105
+Lv. 100
+264 - 358
+157 - 242
+96 - 180
+103 - 188
+96 - 180
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+137 - 184
+90 - 137
+56 - 103
+60 - 107
+56 - 103
+70 - 117
+Lv. 100
+264 - 358
+175 - 269
+107 - 201
+115 - 209
+107 - 201
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+137 - 184
+99 - 150
+61 - 113
+66 - 117
+61 - 113
+77 - 128
+Lv. 100
+264 - 358
+192 - 295
+117 - 221
+126 - 229
+117 - 221
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#401Kricketot
+		
+
+
+
+
+
+
+
+#403Shinx
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

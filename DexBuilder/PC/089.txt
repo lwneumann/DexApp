@@ -1,0 +1,253 @@
+{
+    "name": "Muk",
+    "jp_name": "Betbeton\u30d9\u30c8\u30d9\u30c8\u30f3",
+    "number": " National: #089Johto: #118 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Stench",
+        "Sticky Hold"
+    ],
+    "classification": "Sludge Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "66.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Nugget",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Indeterminate"
+    ],
+    "flavor_text": [
+        "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+        "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest."
+    ],
+    "location": [
+        "Route 16, Route 17, Route 18, Celadon City",
+        "Route 16, Route 17, Route 18, Celadon City"
+    ],
+    "learnset": {
+        "0": [
+            "Poison Gas",
+            "Pound",
+            "Harden",
+            "Mud-slap"
+        ],
+        "4": [
+            "Harden"
+        ],
+        "7": [
+            "Mud-slap"
+        ],
+        "12": [
+            "Disable"
+        ],
+        "17": [
+            "Minimize"
+        ],
+        "20": [
+            "Sludge"
+        ],
+        "23": [
+            "Mud Bomb"
+        ],
+        "33": [
+            "Screech"
+        ],
+        "36": [
+            "Sludge Bomb"
+        ],
+        "44": [
+            "Acid Armor"
+        ],
+        "54": [
+            "Gunk Shot"
+        ],
+        "65": [
+            "Memento"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM19",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM28",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM36",
+        "TM38",
+        "TM39",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM64",
+        "TM66",
+        "TM68",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Ice Punch",
+        "Thunderpunch",
+        "Snore",
+        "Gunk Shot",
+        "Mud-slap",
+        "Pain Split",
+        "Block"
+    ],
+    "egg_moves": [
+        "Haze",
+        "Mean Look",
+        "Lick",
+        "Imprison",
+        "Curse",
+        "Shadow Punch",
+        "Explosion",
+        "Shadow Sneak",
+        "Stockpile",
+        "Swallow",
+        "Spit Up"
+    ],
+    "stats": [
+        "105",
+        "105",
+        "75",
+        "65",
+        "100",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "165 - 212",
+                "165 - 212",
+                "165 - 212"
+            ],
+            [
+                "99 - 141",
+                "110 - 157",
+                "121 - 172"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "320 - 414",
+                "320 - 414",
+                "320 - 414"
+            ],
+            [
+                "193 - 278",
+                "215 - 309",
+                "236 - 339"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

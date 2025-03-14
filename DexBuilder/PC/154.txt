@@ -1,0 +1,245 @@
+{
+    "name": "Meganium",
+    "jp_name": "Meganium\u30e1\u30ac\u30cb\u30a6\u30e0",
+    "number": " National: #154Johto: #003 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Herb Pok\u00e9mon",
+    "height": "5'11\"",
+    "weight": "221.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Plant"
+    ],
+    "flavor_text": [
+        "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+        "MEGANIUM's breath has the power to revive dead grass and plants. It can make them healthy again."
+    ],
+    "location": [
+        "Evolve Bayleef",
+        "Evolve Bayleef"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Growl",
+            "Razor Leaf",
+            "Poisonpowder"
+        ],
+        "6": [
+            "Razor Leaf"
+        ],
+        "9": [
+            "Poisonpowder"
+        ],
+        "12": [
+            "Synthesis"
+        ],
+        "18": [
+            "Reflect"
+        ],
+        "22": [
+            "Magical Leaf"
+        ],
+        "60": [
+            "",
+            "Aromatherapy"
+        ],
+        "32": [
+            "Petal Dance"
+        ],
+        "34": [
+            "Sweet Scent"
+        ],
+        "40": [
+            "Light Screen"
+        ],
+        "46": [
+            "Body Slam"
+        ],
+        "54": [
+            "Safeguard"
+        ],
+        "66": [
+            "Solarbeam"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM32",
+        "TM33",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Snore",
+        "Synthesis",
+        "Ancientpower",
+        "Mud-slap",
+        "Outrage",
+        "Seed Bomb",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Vine Whip",
+        "Leech Seed",
+        "Counter",
+        "Ancientpower",
+        "Flail",
+        "Nature Power",
+        "Ingrain",
+        "Grasswhistle",
+        "Leaf Storm",
+        "Aromatherapy",
+        "Wring Out",
+        "Body Slam"
+    ],
+    "stats": [
+        "80",
+        "82",
+        "100",
+        "83",
+        "100",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "78 - 120",
+                "87 - 134",
+                "95 - 147"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "79 - 121",
+                "88 - 135",
+                "96 - 148"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "152 - 236",
+                "169 - 263",
+                "185 - 289"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "153 - 238",
+                "171 - 265",
+                "188 - 291"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

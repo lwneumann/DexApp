@@ -1,0 +1,234 @@
+{
+    "name": "Horsea",
+    "jp_name": "Tattsu\u30bf\u30c3\u30c4\u30fc",
+    "number": " National: #116Johto: #190 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim",
+        "Sniper"
+    ],
+    "classification": "Dragon Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "18.0lbs",
+    "capture_rate": "225",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Dragon Scale",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 1",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its well-developed dorsal fin.",
+        "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward."
+    ],
+    "location": [
+        "Whirl Islands, Seafoam Islands",
+        "Whirl Islands, Seafoam Islands"
+    ],
+    "learnset": {
+        "0": [
+            "Bubble"
+        ],
+        "4": [
+            "Smokescreen"
+        ],
+        "8": [
+            "Leer"
+        ],
+        "11": [
+            "Water Gun"
+        ],
+        "14": [
+            "Focus Energy"
+        ],
+        "18": [
+            "Bubblebeam"
+        ],
+        "23": [
+            "Agility"
+        ],
+        "26": [
+            "Twister"
+        ],
+        "30": [
+            "Brine"
+        ],
+        "35": [
+            "Hydro Pump"
+        ],
+        "38": [
+            "Dragon Dance"
+        ],
+        "42": [
+            "Dragon Pulse"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM58",
+        "TM59",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Snore",
+        "Swift",
+        "Bounce",
+        "Outrage",
+        "Signal Beam",
+        "Twister",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flail",
+        "Aurora Beam",
+        "Octazooka",
+        "Disable",
+        "Splash",
+        "Dragon Rage",
+        "Dragonbreath",
+        "Signal Beam",
+        "Razor Wind",
+        "Muddy Water"
+    ],
+    "stats": [
+        "30",
+        "40",
+        "70",
+        "70",
+        "25",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

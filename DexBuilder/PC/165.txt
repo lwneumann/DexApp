@@ -1,0 +1,239 @@
+{
+    "name": "Ledyba",
+    "jp_name": "Rediba\u30ec\u30c7\u30a3\u30d0",
+    "number": " National: #165Johto: #030 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swarm",
+        "Early Bird"
+    ],
+    "classification": "Five Star Pok\u0137mon",
+    "height": "3'03\"",
+    "weight": "23.8lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "0.25",
+        "2",
+        "0.25",
+        "1",
+        "0",
+        "2",
+        "1",
+        "0.5",
+        "4",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+        "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Route 2, Route 30, Route 31, Route 37, Route 37, Routes 1, 2, 12, 13, 14, 15, 18, 21, 22, 26, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 47 & 48, New Bark Town, Cherrygrove City National Park, Ecruteak City, Safari Zone Gate, Pallet Town, Viridian City, Viridian Forest, Fuchsia City (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "6": [
+            "Supersonic"
+        ],
+        "9": [
+            "Comet Punch"
+        ],
+        "14": [
+            "Light Screen",
+            "Reflect",
+            "Safeguard"
+        ],
+        "17": [
+            "Mach Punch"
+        ],
+        "22": [
+            "Baton Pass"
+        ],
+        "25": [
+            "Silver Wind"
+        ],
+        "30": [
+            "Agility"
+        ],
+        "33": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "38": [
+            "Double-edge"
+        ],
+        "41": [
+            "Bug Buzz"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM33",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM51",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM62",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM89",
+        "TM90"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ice Punch",
+        "Knock Off",
+        "Ominous Wind",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Rollout",
+        "String Shot",
+        "Tailwind",
+        "Bug Bite",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Psybeam",
+        "Bide",
+        "Silver Wind",
+        "Bug Buzz",
+        "Screech",
+        "Encore",
+        "Knock Off",
+        "Bug Bite"
+    ],
+    "stats": [
+        "40",
+        "20",
+        "30",
+        "40",
+        "80",
+        "55"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ]
+        ]
+    }
+}

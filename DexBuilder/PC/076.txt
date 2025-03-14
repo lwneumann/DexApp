@@ -1,0 +1,245 @@
+{
+    "name": "Golem",
+    "jp_name": "Gorounya\u30b4\u30ed\u30fc\u30cb\u30e3",
+    "number": " National: #076Sinnoh: #033 Johto: #036 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Rock Head",
+        "Sturdy"
+    ],
+    "classification": "Megaton Pok\u0137mon",
+    "height": "4'07\"",
+    "weight": "662lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "0.5",
+        "4",
+        "0",
+        "4",
+        "2",
+        "2",
+        "0.25",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Everstone",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.",
+        "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain."
+    ],
+    "location": [
+        "Evolve Graveler",
+        "Evolve Graveler"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Defense Curl",
+            "Mud Sport",
+            "Rock Polish"
+        ],
+        "4": [
+            "Mud Sport"
+        ],
+        "8": [
+            "Rock Polish"
+        ],
+        "11": [
+            "Rock Throw"
+        ],
+        "18": [
+            "Selfdestruct"
+        ],
+        "22": [
+            "Rollout"
+        ],
+        "27": [
+            "Rock Blast"
+        ],
+        "33": [
+            "Earthquake"
+        ],
+        "38": [
+            "Explosion"
+        ],
+        "44": [
+            "Double-edge"
+        ],
+        "49": [
+            "Stone Edge"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM37",
+        "TM38",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM64",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM74",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Snore",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Block",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Mega Punch",
+        "Rock Slide",
+        "Block",
+        "Hammer Arm",
+        "Flail",
+        "Curse"
+    ],
+    "stats": [
+        "80",
+        "110",
+        "130",
+        "55",
+        "65",
+        "45"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "name": "Pidgey",
+    "jp_name": "Poppo\u30dd\u30c3\u30dd",
+    "number": " National: #016Johto: #010 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye",
+        "Tangled Feet"
+    ],
+    "classification": "Tiny Bird Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "4.0lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+        "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand."
+    ],
+    "location": [
+        "Route 1, Route 2, Route 5, Route 6, Route 25, Route 29, Route 30, Route 31, Route 37, Route 35, Route 36, Route 37, National Park, Viridian Forest, Safari Zone",
+        "Route 1, Route 2, Route 5, Route 6, Route 25, Route 29, Route 30, Route 31, Route 37, Route 35, Route 36, Route 37, National Park, Viridian Forest, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "5": [
+            "Sand-attack"
+        ],
+        "9": [
+            "Gust"
+        ],
+        "13": [
+            "Quick Attack"
+        ],
+        "17": [
+            "Whirlwind"
+        ],
+        "21": [
+            "Twister"
+        ],
+        "25": [
+            "Featherdance"
+        ],
+        "29": [
+            "Agility"
+        ],
+        "33": [
+            "Wing Attack"
+        ],
+        "37": [
+            "Roost"
+        ],
+        "41": [
+            "Tailwind"
+        ],
+        "45": [
+            "Mirror Move"
+        ],
+        "49": [
+            "Air Slash"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Uproar",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Faint Attack",
+        "Foresight",
+        "Steel Wing",
+        "Air Cutter",
+        "Air Slash",
+        "Brave Bird",
+        "Uproar"
+    ],
+    "stats": [
+        "40",
+        "45",
+        "40",
+        "35",
+        "35",
+        "56"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "54 - 97",
+                "61 - 108",
+                "67 - 118"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "105 - 189",
+                "117 - 211",
+                "128 - 232"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "name": "Registeel",
+    "jp_name": "Rejisteel\u30ec\u30b8\u30b9\u30c1\u30eb",
+    "number": " National: #379",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Clear Body"
+    ],
+    "classification": "Iron Pok\u0165mon",
+    "height": "6'03\"",
+    "weight": "451.9lbs",
+    "capture_rate": "3",
+    "base_egg_steps": "20,480",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "35",
+    "effort_values_earned": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+    ],
+    "color": "Gray",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "0",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": null,
+    "flavor_text": [
+        "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow."
+    ],
+    "location": [
+        "Trade from DPt",
+        "Trade from DPt"
+    ],
+    "learnset": {
+        "0": [
+            "Explosion",
+            "Stomp"
+        ],
+        "9": [
+            "Metal Claw"
+        ],
+        "17": [
+            "Curse"
+        ],
+        "25": [
+            "Superpower"
+        ],
+        "33": [
+            "Ancientpower"
+        ],
+        "41": [
+            "Iron Defense",
+            "Amnesia"
+        ],
+        "49": [
+            "Charge Beam"
+        ],
+        "57": [
+            "Lock-on"
+        ],
+        "65": [
+            "Zap Cannon"
+        ],
+        "73": [
+            "Iron Head",
+            "Flash Cannon"
+        ],
+        "81": [
+            "Hammer Arm"
+        ],
+        "89": [
+            "Hyper Beam"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM52",
+        "TM56",
+        "TM57",
+        "TM58",
+        "TM64",
+        "TM65",
+        "TM68",
+        "TM69",
+        "TM73",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Ice Punch",
+        "Thunderpunch",
+        "Snore",
+        "Ancientpower",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-slap",
+        "Rollout",
+        "Superpower",
+        "Gravity",
+        "Block",
+        "Headbutt",
+        "Base/Max Pok\u0165athlon Stats",
+        "Sp. Attack",
+        "50",
+        "Lv. 100",
+        "140 - 187",
+        "305 - 399",
+        "88 - 139",
+        "115 - 218"
+    ],
+    "stats": [
+        "80",
+        "75",
+        "150",
+        "75",
+        "150",
+        "50"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "140 - 187",
+                "140 - 187",
+                "140 - 187"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "139 - 181",
+                "155 - 202",
+                "170 - 222"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ]
+        ],
+        "100": [
+            [
+                "270 - 364",
+                "270 - 364",
+                "270 - 364"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "274 - 359",
+                "305 - 399",
+                "335 - 438"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ]
+        ]
+    }
+}

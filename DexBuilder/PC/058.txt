@@ -1,0 +1,235 @@
+{
+    "name": "Growlithe",
+    "jp_name": "Gardie\u30ac\u30fc\u30c7\u30a3",
+    "number": " National: #058Johto: #129 ",
+    "gender_ratio": [
+        "75",
+        "25"
+    ],
+    "ability": [
+        "Intimidate",
+        "Flash Fire"
+    ],
+    "classification": "Puppy Pok\u00e9mon",
+    "height": "2'04\"",
+    "weight": "41.9lbs",
+    "capture_rate": "190",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": [
+        [
+            "Rawst Berry",
+            "100"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+        "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm."
+    ],
+    "location": [
+        "Route 7, Route 8, Route 37, Route 36, Route 37, Route 48",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Bite",
+            "Roar"
+        ],
+        "6": [
+            "Ember"
+        ],
+        "9": [
+            "Leer"
+        ],
+        "14": [
+            "Odor Sleuth"
+        ],
+        "17": [
+            "Helping Hand"
+        ],
+        "20": [
+            "Flame Wheel"
+        ],
+        "28": [
+            "Fire Fang"
+        ],
+        "31": [
+            "Take Down"
+        ],
+        "34": [
+            "Flamethrower"
+        ],
+        "39": [
+            "Agility"
+        ],
+        "42": [
+            "Crunch"
+        ],
+        "45": [
+            "Heat Wave"
+        ],
+        "48": [
+            "Flare Blitz"
+        ]
+    },
+    "TMHM": [
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM50",
+        "TM58",
+        "TM61",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Body Slam",
+        "Safeguard",
+        "Crunch",
+        "Thrash",
+        "Fire Spin",
+        "Howl",
+        "Heat Wave",
+        "Double-edge",
+        "Flare Blitz",
+        "Morning Sun"
+    ],
+    "stats": [
+        "55",
+        "70",
+        "45",
+        "70",
+        "50",
+        "60"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ]
+        ]
+    }
+}

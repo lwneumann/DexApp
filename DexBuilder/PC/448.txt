@@ -1,0 +1,261 @@
+{
+    "name": "Lucario",
+    "jp_name": "Rukario\u30eb\u30ab\u30ea\u30aa",
+    "number": " National: #448Sinnoh: #116 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Steadfast",
+        "Inner Focus"
+    ],
+    "classification": "Aura Pok\u00e9mon",
+    "height": "4'00\"",
+    "weight": "119.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "0",
+        "2",
+        "1",
+        "1",
+        "0.25",
+        "0.25",
+        "0.5",
+        "0.5",
+        "0.25",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground",
+        "HumanShape"
+    ],
+    "flavor_text": [
+        "It's said that no foe can remain invisible to LUCARIO, since it can detect auras. Even foes it could not otherwise see."
+    ],
+    "location": [
+        "Evolve Riolu",
+        "Evolve Riolu"
+    ],
+    "learnset": {
+        "0": [
+            "Dark Pulse",
+            "Quick Attack",
+            "Foresight",
+            "Detect",
+            "Metal Claw"
+        ],
+        "11": [
+            "Force Palm"
+        ],
+        "15": [
+            "Feint"
+        ],
+        "19": [
+            "Bone Rush"
+        ],
+        "24": [
+            "Metal Sound"
+        ],
+        "29": [
+            "Me First"
+        ],
+        "33": [
+            "Swords Dance"
+        ],
+        "37": [
+            "Aura Sphere"
+        ],
+        "90": [
+            ""
+        ],
+        "42": [
+            "Close Combat"
+        ],
+        "47": [
+            "Dragon Pulse"
+        ],
+        "51": [
+            "Extremespeed"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM29",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM59",
+        "TM60",
+        "TM65",
+        "TM66",
+        "TM68",
+        "TM71",
+        "TM75",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "TM91",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Ice Punch",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Zen Headbutt",
+        "Helping Hand",
+        "Magnet Rise",
+        "Snore",
+        "Swift",
+        "Iron Defense",
+        "Mud-slap",
+        "Role Play",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Cross Chop",
+        "Detect",
+        "Bite",
+        "Mind Reader",
+        "Sky Uppercut",
+        "Hi Jump Kick",
+        "Agility",
+        "Vacuum Wave",
+        "Crunch",
+        "Low Kick",
+        "Iron Defense",
+        "Blaze Kick",
+        "Bullet Punch",
+        "Follow Me"
+    ],
+    "stats": [
+        "70",
+        "110",
+        "70",
+        "115",
+        "70",
+        "90"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "108 - 150",
+                "120 - 167",
+                "132 - 183"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ],
+            [
+                "85 - 127",
+                "95 - 142",
+                "104 - 156"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "211 - 296",
+                "235 - 329",
+                "258 - 361"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ],
+            [
+                "166 - 251",
+                "185 - 279",
+                "203 - 306"
+            ]
+        ]
+    }
+}

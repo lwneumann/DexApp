@@ -1,0 +1,228 @@
+{
+    "name": "Charmeleon",
+    "jp_name": "Rizard\u30ea\u30b6\u30fc\u30c9",
+    "number": " National: #005Johto: #235 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Blaze"
+    ],
+    "classification": "Flame Pok\u00e9mon",
+    "height": "3'07\"",
+    "weight": "41.9lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "It is very hotheaded by nature, so it constantly seeks opponents. It calms down only when it wins.",
+        "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws."
+    ],
+    "location": [
+        "Evolve Charmander",
+        "Evolve Charmander"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Growl",
+            "Ember"
+        ],
+        "7": [
+            "Ember"
+        ],
+        "10": [
+            "Smokescreen"
+        ],
+        "21": [
+            "Scary Face"
+        ],
+        "28": [
+            "Fire Fang"
+        ],
+        "32": [
+            "Slash"
+        ],
+        "39": [
+            "Flamethrower"
+        ],
+        "43": [
+            "Fire Spin"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM02",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM50",
+        "TM56",
+        "TM58",
+        "TM61",
+        "TM65",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Belly Drum",
+        "Ancientpower",
+        "Rock Slide",
+        "Bite",
+        "Outrage",
+        "Beat Up",
+        "Swords Dance",
+        "Dragon Dance",
+        "Crunch",
+        "Dragon Rush",
+        "Metal Claw",
+        "Flare Blitz",
+        "Counter"
+    ],
+    "stats": [
+        "58",
+        "64",
+        "58",
+        "80",
+        "65",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "118 - 165",
+                "118 - 165",
+                "118 - 165"
+            ],
+            [
+                "62 - 104",
+                "69 - 116",
+                "75 - 127"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "226 - 320",
+                "226 - 320",
+                "226 - 320"
+            ],
+            [
+                "119 - 204",
+                "133 - 227",
+                "146 - 249"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "name": "Sandslash",
+    "jp_name": "Sandpan\u30b5\u30f3\u30c9\u30d1\u30f3",
+    "number": " National: #028Johto: #049 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Sand Veil"
+    ],
+    "classification": "Mouse Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "65.0lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Quick Claw",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+        "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day."
+    ],
+    "location": [
+        "Route 26, Route 27, Mt. Moon, Safari Zone",
+        "Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Defense Curl",
+            "Sand-attack"
+        ],
+        "3": [
+            "Defense Curl"
+        ],
+        "7": [
+            "Sand-attack"
+        ],
+        "9": [
+            "Poison Sting"
+        ],
+        "13": [
+            "Rapid Spin"
+        ],
+        "15": [
+            "Swift"
+        ],
+        "60": [
+            ""
+        ],
+        "19": [
+            "Fury Swipes"
+        ],
+        "21": [
+            "Rollout"
+        ],
+        "22": [
+            "Crush Claw"
+        ],
+        "28": [
+            "Fury Cutter"
+        ],
+        "33": [
+            "Sand Tomb"
+        ],
+        "40": [
+            "Slash"
+        ],
+        "52": [
+            "Sandstorm"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM52",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM68",
+        "TM71",
+        "TM74",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06",
+        "HM08"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Swift",
+        "Earth Power",
+        "Mud-slap",
+        "Rollout",
+        "Super Fang",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Flail",
+        "Safeguard",
+        "Counter",
+        "Rapid Spin",
+        "Rock Slide",
+        "Metal Claw",
+        "Swords Dance",
+        "Crush Claw",
+        "Night Slash",
+        "Mud Shot"
+    ],
+    "stats": [
+        "75",
+        "100",
+        "110",
+        "45",
+        "55",
+        "65"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "94 - 136",
+                "105 - 152",
+                "115 - 167"
+            ],
+            [
+                "103 - 145",
+                "115 - 162",
+                "126 - 178"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "184 - 269",
+                "205 - 299",
+                "225 - 328"
+            ],
+            [
+                "202 - 287",
+                "225 - 319",
+                "247 - 350"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ]
+        ]
+    }
+}

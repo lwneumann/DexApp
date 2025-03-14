@@ -1,0 +1,224 @@
+{
+    "name": "Slakoth",
+    "jp_name": "Namakero\u30ca\u30de\u30b1\u30ed",
+    "number": " National: #287",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Truant"
+    ],
+    "classification": "Slacker Pok\u00e9mon",
+    "height": "2'07\"",
+    "weight": "52.9lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "The way SLAKOTH lolls around makes anyone who watches it feel like doing the same."
+    ],
+    "location": [
+        "Route 25 (Headbutt)",
+        "Route 25 (Headbutt)"
+    ],
+    "learnset": {
+        "0": [
+            "Scratch",
+            "Yawn"
+        ],
+        "7": [
+            "Encore"
+        ],
+        "13": [
+            "Slack Off"
+        ],
+        "19": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "25": [
+            "Amnesia"
+        ],
+        "31": [
+            "Covet"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM30",
+        "TM31",
+        "TM32",
+        "TM34",
+        "TM35",
+        "TM38",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Sucker Punch",
+        "Thunderpunch",
+        "Snore",
+        "Gunk Shot",
+        "Mud-slap",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Pursuit",
+        "Slash",
+        "Body Slam",
+        "Snore",
+        "Crush Claw",
+        "Curse",
+        "Sleep Talk",
+        "Hammer Arm",
+        "Night Slash"
+    ],
+    "stats": [
+        "60",
+        "60",
+        "60",
+        "35",
+        "35",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "36 - 78",
+                "40 - 87",
+                "44 - 95"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "67 - 152",
+                "75 - 169",
+                "82 - 185"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

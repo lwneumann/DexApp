@@ -1,0 +1,228 @@
+{
+    "name": "Sunkern",
+    "jp_name": "Himanattsu\u30d2\u30de\u30ca\u30c3\u30c4",
+    "number": " National: #191Johto: #103 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Chlorophyll",
+        "Solar Power"
+    ],
+    "classification": "Seed Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "4.0lbs",
+    "capture_rate": "235",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Coba Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Plant"
+    ],
+    "flavor_text": [
+        "It may plummet from the sky. If attacked by a SPEAROW, it will violently shake its leaves.",
+        "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else."
+    ],
+    "location": [
+        "Route 24, National Park, Safari Zone",
+        "Route 24, National Park, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb",
+            "Growth"
+        ],
+        "5": [
+            "Mega Drain"
+        ],
+        "9": [
+            "Ingrain"
+        ],
+        "13": [
+            "Grasswhistle"
+        ],
+        "17": [
+            "Leech Seed"
+        ],
+        "25": [
+            "Worry Seed"
+        ],
+        "29": [
+            "Razor Leaf"
+        ],
+        "33": [
+            "Synthesis"
+        ],
+        "37": [
+            "Sunny Day"
+        ],
+        "41": [
+            "Giga Drain"
+        ],
+        "45": [
+            "Seed Bomb"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM27",
+        "TM32",
+        "TM36",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM58",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01"
+    ],
+    "tutor_moves": [
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Endeavor",
+        "Seed Bomb",
+        "Worry Seed"
+    ],
+    "egg_moves": [
+        "Grasswhistle",
+        "Encore",
+        "Leech Seed",
+        "Nature Power",
+        "Curse",
+        "Helping Hand",
+        "Ingrain",
+        "Sweet Scent"
+    ],
+    "stats": [
+        "30",
+        "30",
+        "30",
+        "30",
+        "30",
+        "30"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "90 - 137",
+                "90 - 137",
+                "90 - 137"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ]
+        ],
+        "100": [
+            [
+                "170 - 264",
+                "170 - 264",
+                "170 - 264"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ]
+        ]
+    }
+}

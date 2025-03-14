@@ -1,0 +1,2719 @@
+
+
+Images
+
+
+ 
+D/P
+Pt
+HGSS
+ 
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+Normal Sprite
+Shiny Sprite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Jp. Name
+No.
+Gender Ratio
+Type
+
+
+Remoraid
+Teppouoテッポウオ
+ National: #223Sinnoh: #132 Johto: #174 
+ Male ♂:50%Female ♀:50%
+
+
+
+Ability: Hustle & Sniper 
+
+
+
+Hustle: Damage from physical attacks is 1.5 times, but average accuracy is only 80%. 
+Sniper: Power of critical-hit moves is tripled instead of doubled. 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Jet Pokémon
+2'00"
+26.5lbs
+190
+5,120
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Colour
+Safari Zone Flee Rate
+
+
+1,000,000 PointsMedium Fast
+70
+1 Sp. Attack Point(s)
+Gray
+0
+
+
+
+
+
+		Damage Taken
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*1
+*0.5
+*0.5
+*2
+*2
+*0.5
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+No Hold Item
+
+Water 1SquirtleWartortleBlastoisePsyduckGolduckPoliwagPoliwhirlPoliwrathSlowpokeSlowbroSeelDewgongHorseaSeadraLaprasOmanyteOmastarKabutoKabutopsDratiniDragonairDragoniteTotodileCroconawFeraligatrMarillAzumarillPolitoedWooperQuagsireSlowkingCorsolaRemoraidOctilleryDelibirdMantineKingdraMudkipMarshtompSwampertLotadLombreLudicoloWingullPelipperSurskitMasquerainCorphishCrawdauntFeebasMiloticSphealSealeoWalreinClamperlHuntailGorebyssRelicanthPiplupPrinplupEmpoleonBidoofBibarelBuizelFloatzelShellosGastrodonPhioneManaphyDittoWater 1
+
+Water 2GoldeenSeakingMagikarpGyaradosChinchouLanturnQwilfishRemoraidOctilleryCarvanhaSharpedoWailmerWailordBarboachWhiscashRelicanthLuvdiscFinneonLumineonDittoWater 2
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+
+
+Flavour Text
+
+
+
+
+		Diamond
+ 
+		It squirts water forcefully from its mouth to shoot down flying prey.
+		
+
+
+Pearl
+		
+
+		It clings to MANTINE to feed on the big Pokémon's scraps. This is an adaptation to avoid foes.
+		
+ 
+Platinum
+		
+
+		It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.
+		
+ 
+HeartGold 
+		It has superb accuracy. The water it shoots out can strike moving prey from more than 300 feet away.
+		
+
+
+SoulSilver
+
+		Using its dorsal fin as a suction pad, it clings to a MANTINE's underside to scavenge for leftovers. 
+		
+ 
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+Emerald
+		
+
+		Safari Zone Extention (Fish)
+		
+
+
+FireRed
+		
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+LeafGreen
+		
+
+		Five Isle Meadow, Green Path, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Water Labyrinth, Water Path (Fish)
+		
+
+
+Colosseum
+		
+
+		Snagged from Miror B. Peon Reath in Pyrite Hill
+		
+
+
+XD
+		
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+Diamond
+		
+
+		Routes 213, 222, 223, 224 & 230, Sunyshore City, Pastoria City, Victory Road (Fish w/ Good Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 213, 222, 223, 224 & 230, Sunyshore City, Pastoria City, Victory Road (Fish w/ Good Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 212 South, Route 213, Route 222, Route 223, Route 224, Route 230, Pastoria City, Sunyshore City, Pokemon League (Fish With Good Rod)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 44
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 44
+		
+
+Details
+
+PokéWalker
+		
+
+		White Lake, Beyond the Sea
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Water Gun4010025--The foe is blasted with a forceful shot of water. 6Lock-on----5--The user takes sure aim at the foe. It ensures the next attack does not fail to hit the target.10Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 14Aurora Beam651002010The foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.19Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.23Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.27Bullet Seed1010030--The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.32Water Pulse601002020The user attacks the foe with a pulsing blast of water. It may also confuse the foe.36Signal Beam751001510The user attacks with a sinister beam of light. It may also confuse the target. 40Ice Beam951001010The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.45Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Aurora Beam651002010DetailsThe foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.Octazooka65851050DetailsThe user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Thunder Wave--10020--DetailsA weak electric charge is launched at the foe. It causes paralysis if it hits.Rock Blast258010--DetailsThe user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.Snore401001530DetailsAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Water Spout - HGSS Only1501005--DetailsThe user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+Location (In-Depth Details)
+
+
+
+
+Game
+
+
+Location
+
+
+
+Ruby
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+Sapphire
+		
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+Emerald
+		
+
+		Safari Zone Extention (Fish)
+		
+
+
+FireRed
+		
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+LeafGreen
+		
+
+		Five Isle Meadow, Green Path, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Water Labyrinth, Water Path (Fish)
+		
+
+
+Colosseum
+		
+
+		Snagged from Miror B. Peon Reath in Pyrite Hill
+		
+
+
+XD
+		
+
+		Trade from Emerald/LeafGreen/Colosseum
+		
+
+
+Diamond
+		
+
+		Routes 213, 222, 223, 224 & 230, Sunyshore City, Pastoria City, Victory Road (Fish w/ Good Rod)
+		
+
+Details
+
+
+
+Pearl
+		
+
+		Routes 213, 222, 223, 224 & 230, Sunyshore City, Pastoria City, Victory Road (Fish w/ Good Rod)
+		
+
+Details
+
+
+Platinum
+		
+
+		Route 212 South, Route 213, Route 222, Route 223, Route 224, Route 230, Pastoria City, Sunyshore City, Pokemon League (Fish With Good Rod)
+
+
+Details
+
+
+
+HeartGold
+		
+
+		Route 44
+		
+
+Details
+
+
+
+SoulSilver
+		
+
+		Route 44
+		
+
+Details
+
+PokéWalker
+		
+
+		White Lake, Beyond the Sea
+		
+
+Details
+
+ 
+Trainer Locations 
+Details
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Water Gun4010025--The foe is blasted with a forceful shot of water. 6Lock-on----5--The user takes sure aim at the foe. It ensures the next attack does not fail to hit the target.10Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 14Aurora Beam651002010The foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.19Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.23Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.27Bullet Seed1010030--The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.32Water Pulse601002020The user attacks the foe with a pulsing blast of water. It may also confuse the foe.36Signal Beam751001510The user attacks with a sinister beam of light. It may also confuse the target. 40Ice Beam951001010The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.45Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Aurora Beam651002010DetailsThe foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.Octazooka65851050DetailsThe user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Thunder Wave--10020--DetailsA weak electric charge is launched at the foe. It causes paralysis if it hits.Rock Blast258010--DetailsThe user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.Snore401001530DetailsAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Water Spout - HGSS Only1501005--DetailsThe user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Diamond/Pearl/Platinum/HeartGold/SoulSilver Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %—Water Gun4010025--The foe is blasted with a forceful shot of water. 6Lock-on----5--The user takes sure aim at the foe. It ensures the next attack does not fail to hit the target.10Psybeam651002010The foe is attacked with a peculiar ray. It may also leave the target confused. 14Aurora Beam651002010The foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.19Bubblebeam651002010A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.23Focus Energy----30--The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.27Bullet Seed1010030--The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.32Water Pulse601002020The user attacks the foe with a pulsing blast of water. It may also confuse the foe.36Signal Beam751001510The user attacks with a sinister beam of light. It may also confuse the target. 40Ice Beam951001010The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.45Hyper Beam150905--The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Aurora Beam651002010DetailsThe foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.Octazooka65851050DetailsThe user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Thunder Wave--10020--DetailsA weak electric charge is launched at the foe. It causes paralysis if it hits.Rock Blast258010--DetailsThe user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.Snore401001530DetailsAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Water Spout - HGSS Only1501005--DetailsThe user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+TM & HM AttacksTM/HM #Attack NameTypeCat.Att.Acc.PPEffect %TM03
+Water Pulse
+
+
+60
+100
+20
+20
+The user attacks the foe with a pulsing blast of water. It may also confuse the foe.TM06
+Toxic
+
+
+--
+85
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+10
+100
+30
+--
+The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.TM10
+Hidden Power
+
+
+??
+100
+15
+--
+A unique attack that varies in type and intensity depending on the Pokémon using it.TM11
+Sunny Day
+
+
+--
+--
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. TM13
+Ice Beam
+
+
+95
+100
+10
+10
+The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.TM14
+Blizzard
+
+
+120
+70
+5
+10
+A howling blizzard is summoned to strike the foe. It may also freeze the target solid.TM15
+Hyper Beam
+
+
+150
+90
+5
+--
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.TM17
+Protect
+
+
+--
+--
+10
+--
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.TM18
+Rain Dance
+
+
+--
+--
+5
+--
+The user summons a heavy rain that falls for five turns, powering up Water- type moves.TM21
+Frustration
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the less the user likes its Trainer.TM27
+Return
+
+
+??
+100
+20
+--
+A full-power attack that grows more powerful the more the user likes its Trainer.TM29
+Psychic
+
+
+90
+100
+10
+10
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.TM32
+Double Team
+
+
+--
+--
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. TM35
+Flamethrower
+
+
+95
+100
+15
+10
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.TM38
+Fire Blast
+
+
+120
+85
+5
+10
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.TM42
+Facade
+
+
+70
+100
+20
+--
+An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.TM43
+Secret Power
+
+
+70
+100
+20
+30
+The user attacks with a secret power. Its added effects vary depending on the user's environment.TM44
+Rest
+
+
+--
+--
+10
+--
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.TM46
+Thief
+
+
+40
+100
+10
+--
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.TM55
+Brine
+
+
+65
+100
+10
+--
+If the foe's HP is down to about half, this attack will hit with double the power.TM57
+Charge Beam
+
+
+50
+90
+10
+70
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.TM58
+Endure
+
+
+--
+--
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM73
+Thunder Wave
+
+
+--
+100
+20
+--
+A weak electric charge is launched at the foe. It causes paralysis if it hits.TM78
+Captivate
+
+
+--
+100
+20
+--
+If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.TM82
+Sleep Talk
+
+
+--
+--
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows. TM83
+Natural Gift
+
+
+??
+100
+15
+--
+The user draws power to attack by using its held Berry. The Berry determines its type and power.TM87
+Swagger
+
+
+--
+90
+15
+--
+The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.TM90
+Substitute
+
+
+--
+--
+10
+--
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.HM03
+Surf
+
+
+95
+100
+15
+--
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.HM05 HGSS
+Whirlpool
+
+
+15
+70
+15
+--
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.HM07
+Waterfall
+
+
+80
+100
+15
+20
+The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.Platinum/HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+Dive
+
+
+80
+100
+10
+--
+
+A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
+Icy Wind
+
+
+55
+95
+15
+100
+
+The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Snore
+
+
+40
+100
+15
+30
+
+An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Swift
+
+
+60
+--
+20
+--
+
+Star-shaped rays are shot at the foe. This attack never misses. 
+Bounce
+
+
+85
+85
+5
+30
+
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+Gunk Shot
+
+
+120
+70
+5
+30
+
+The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Mud-slap
+
+
+20
+100
+10
+100
+
+The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Seed Bomb
+
+
+80
+100
+15
+--
+
+The user slams a barrage of hard- shelled seeds down on the foe from above.
+Signal Beam
+
+
+75
+100
+15
+10
+
+The user attacks with a sinister beam of light. It may also confuse the target. HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Aurora Beam651002010DetailsThe foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.Octazooka65851050DetailsThe user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Thunder Wave--10020--DetailsA weak electric charge is launched at the foe. It causes paralysis if it hits.Rock Blast258010--DetailsThe user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.Snore401001530DetailsAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Water Spout - HGSS Only1501005--DetailsThe user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+HeartGold/SoulSilver Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %
+String Shot
+
+
+--
+95
+40
+--
+
+The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Aurora Beam651002010DetailsThe foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.Octazooka65851050DetailsThe user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Thunder Wave--10020--DetailsA weak electric charge is launched at the foe. It causes paralysis if it hits.Rock Blast258010--DetailsThe user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.Snore401001530DetailsAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Water Spout - HGSS Only1501005--DetailsThe user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Aurora Beam651002010DetailsThe foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.Octazooka65851050DetailsThe user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.Supersonic--5520--DetailsThe user generates odd sound waves from its body. It may confuse the target.Haze----30--DetailsThe user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.Screech--8540--DetailsAn earsplitting screech is emitted to sharply reduce the foe's Defense stat. Thunder Wave--10020--DetailsA weak electric charge is launched at the foe. It causes paralysis if it hits.Rock Blast258010--DetailsThe user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.Snore401001530DetailsAn attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.Flail??10015--DetailsThe user flails about aimlessly to attack. It becomes more powerful the less HP the user has.Water Spout - HGSS Only1501005--DetailsThe user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Base/Max Pokéathlon Stats
+SpeedPowerSkillStaminaJump
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats
+35
+65
+35
+65
+35
+65
+Max StatsHindering Nature
+Lv. 50
+95 - 142
+63 - 105
+36 - 78
+63 - 105
+36 - 78
+63 - 105
+Lv. 100
+180 - 274
+121 - 206
+67 - 152
+121 - 206
+67 - 152
+121 - 206
+Max StatsNeutral Nature
+Lv. 50
+95 - 142
+70 - 117
+40 - 87
+70 - 117
+40 - 87
+70 - 117
+Lv. 100
+180 - 274
+135 - 229
+75 - 169
+135 - 229
+75 - 169
+135 - 229
+Max StatsBeneficial Nature
+Lv. 50
+95 - 142
+77 - 128
+44 - 95
+77 - 128
+44 - 95
+77 - 128
+Lv. 100
+180 - 274
+148 - 251
+82 - 185
+148 - 251
+82 - 185
+148 - 251
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		<--- 
+		
+
+
+
+
+#222Corsola
+		
+
+
+
+
+
+
+
+#224Octillery
+		
+
+
+
+
+		---> 
+		
+
+
+
+
+

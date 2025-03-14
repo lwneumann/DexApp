@@ -1,0 +1,235 @@
+{
+    "name": "Wooper",
+    "jp_name": "Upaa\u30a6\u30d1\u30fc",
+    "number": " National: #194Johto: #056 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Damp",
+        "Water Absorb"
+    ],
+    "classification": "Water Fish Pok\u00e9mon",
+    "height": "1'04\"",
+    "weight": "18.7lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "120",
+    "damage": [
+        "1",
+        "0.5",
+        "1",
+        "0",
+        "4",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 1",
+        "Ground"
+    ],
+    "flavor_text": [
+        "This Pok\u00e9mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+        "When it walks around on the ground, it coats its body with a slimy, poisonous film."
+    ],
+    "location": [
+        "Route 32, Ruins of Alph, Union Cave, Cliff's Edge Gate, The Cliff Cave, Safari Zone",
+        "Route 32, Ruins of Alph, Union Cave, Cliff's Edge Gate, The Cliff Cave, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Water Gun",
+            "Tail Whip"
+        ],
+        "5": [
+            "Mud Sport"
+        ],
+        "9": [
+            "Mud Shot"
+        ],
+        "15": [
+            "Slam"
+        ],
+        "19": [
+            "Mud Bomb"
+        ],
+        "23": [
+            "Amnesia"
+        ],
+        "29": [
+            "Yawn"
+        ],
+        "33": [
+            "Earthquake"
+        ],
+        "37": [
+            "Rain Dance"
+        ],
+        "43": [
+            "Mist",
+            "Haze"
+        ],
+        "47": [
+            "Muddy Water"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM58",
+        "TM70",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Ice Punch",
+        "Icy Wind",
+        "Snore",
+        "Ancientpower",
+        "Aqua Tail",
+        "Earth Power",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Body Slam",
+        "Ancientpower",
+        "Safeguard",
+        "Curse",
+        "Mud Sport",
+        "Stockpile",
+        "Swallow",
+        "Spit Up",
+        "Counter",
+        "Encore",
+        "Double Kick",
+        "Recover"
+    ],
+    "stats": [
+        "55",
+        "45",
+        "45",
+        "25",
+        "25",
+        "15"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "115 - 162",
+                "115 - 162",
+                "115 - 162"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "27 - 69",
+                "30 - 77",
+                "33 - 84"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ]
+        ],
+        "100": [
+            [
+                "220 - 314",
+                "220 - 314",
+                "220 - 314"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "49 - 134",
+                "55 - 149",
+                "60 - 163"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "name": "Lanturn",
+    "jp_name": "Rantern\u30e9\u30f3\u30bf\u30fc\u30f3",
+    "number": " National: #171Johto: #177 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Volt Absorb",
+        "Illuminate"
+    ],
+    "classification": "Light Pok\u0137mon",
+    "height": "3'11\"",
+    "weight": "50.0lbs",
+    "capture_rate": "75",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.25"
+    ],
+    "held_item": [
+        [
+            "Deep Sea Scale",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Water 2"
+    ],
+    "flavor_text": [
+        "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+        "It blinds prey with an intense burst of light. With the prey incapacitated, the Pok\u0137mon swallows it in a single gulp."
+    ],
+    "location": [
+        "Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island",
+        "Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island"
+    ],
+    "learnset": {
+        "0": [
+            "Bubble",
+            "Supersonic",
+            "Thunder Wave"
+        ],
+        "6": [
+            "Thunder Wave"
+        ],
+        "12": [
+            "Water Gun"
+        ],
+        "17": [
+            "Confuse Ray"
+        ],
+        "20": [
+            "Spark"
+        ],
+        "23": [
+            "Take Down"
+        ],
+        "27": [
+            "Stockpile",
+            "Swallow"
+        ],
+        "30": [
+            "Bubblebeam"
+        ],
+        "35": [
+            "Signal Beam"
+        ],
+        "40": [
+            "Discharge"
+        ],
+        "47": [
+            "Aqua Ring"
+        ],
+        "52": [
+            "Hydro Pump"
+        ],
+        "57": [
+            "Charge"
+        ]
+    },
+    "TMHM": [
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM24",
+        "TM25",
+        "TM27",
+        "TM32",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HGSS",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Icy Wind",
+        "Sucker Punch",
+        "Snore",
+        "Aqua Tail",
+        "Bounce",
+        "Signal Beam",
+        "Heal Bell"
+    ],
+    "egg_moves": [
+        "Flail",
+        "Screech",
+        "Amnesia",
+        "Psybeam",
+        "Whirlpool",
+        "Agility",
+        "Mist"
+    ],
+    "stats": [
+        "125",
+        "58",
+        "58",
+        "76",
+        "76",
+        "67"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "185 - 232",
+                "185 - 232",
+                "185 - 232"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "56 - 99",
+                "63 - 110",
+                "69 - 121"
+            ],
+            [
+                "72 - 115",
+                "81 - 128",
+                "89 - 140"
+            ],
+            [
+                "72 - 115",
+                "81 - 128",
+                "89 - 140"
+            ],
+            [
+                "64 - 107",
+                "72 - 119",
+                "79 - 130"
+            ]
+        ],
+        "100": [
+            [
+                "360 - 454",
+                "360 - 454",
+                "360 - 454"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "108 - 193",
+                "121 - 215",
+                "133 - 236"
+            ],
+            [
+                "141 - 225",
+                "157 - 251",
+                "172 - 276"
+            ],
+            [
+                "141 - 225",
+                "157 - 251",
+                "172 - 276"
+            ],
+            [
+                "125 - 209",
+                "139 - 233",
+                "152 - 256"
+            ]
+        ]
+    }
+}

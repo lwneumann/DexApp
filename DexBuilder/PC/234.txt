@@ -1,0 +1,251 @@
+{
+    "name": "Stantler",
+    "jp_name": "Odoshishi\u30aa\u30c9\u30b7\u30b7",
+    "number": " National: #234Johto: #131 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Intimidate",
+        "Frisk"
+    ],
+    "classification": "Big Horn Pok\u00e9mon",
+    "height": "4'07\"",
+    "weight": "157.0lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+        "Those who stare at its antlers will gradually lose control of their senses and be unable to stand."
+    ],
+    "location": [
+        "Route 37, Route 36, Route 37, Safari Zone",
+        "Route 37, Route 36, Route 37, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "3": [
+            "Leer"
+        ],
+        "7": [
+            "Astonish"
+        ],
+        "10": [
+            "Hypnosis"
+        ],
+        "13": [
+            "Stomp"
+        ],
+        "16": [
+            "Sand-attack"
+        ],
+        "21": [
+            "Take Down"
+        ],
+        "23": [
+            "Confuse Ray"
+        ],
+        "27": [
+            "Calm Mind"
+        ],
+        "33": [
+            "Role Play"
+        ],
+        "38": [
+            "Zen Headbutt"
+        ],
+        "43": [
+            "Imprison"
+        ],
+        "49": [
+            "Captivate"
+        ],
+        "53": [
+            "Me First"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM05",
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM24",
+        "TM25",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM34",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM48",
+        "TM53",
+        "TM57",
+        "TM58",
+        "TM68",
+        "TM70",
+        "TM73",
+        "TM77",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Sucker Punch",
+        "Zen Headbutt",
+        "Last Resort",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Uproar",
+        "Bounce",
+        "Mud-slap",
+        "Signal Beam",
+        "Gravity",
+        "Role Play",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Spite",
+        "Disable",
+        "Bite",
+        "Swagger",
+        "Psych Up",
+        "Extrasensory",
+        "Thrash",
+        "Double Kick",
+        "Zen Headbutt",
+        "Megahorn"
+    ],
+    "stats": [
+        "73",
+        "95",
+        "62",
+        "85",
+        "65",
+        "85"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "133 - 180",
+                "133 - 180",
+                "133 - 180"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "60 - 102",
+                "67 - 114",
+                "73 - 125"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ]
+        ],
+        "100": [
+            [
+                "256 - 350",
+                "256 - 350",
+                "256 - 350"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "116 - 200",
+                "129 - 223",
+                "141 - 245"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ]
+        ]
+    }
+}

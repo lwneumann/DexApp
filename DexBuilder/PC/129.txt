@@ -1,0 +1,159 @@
+{
+    "name": "Magikarp",
+    "jp_name": "Koiking\u30b3\u30a4\u30ad\u30f3\u30b0",
+    "number": " National: #129Sinnoh: #023 Johto: #076 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Swift Swim"
+    ],
+    "classification": "Fish Pok\u0165mon",
+    "height": "2'11\"",
+    "weight": "22.0lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "1,280",
+    "experience_growth": [
+        "1,250,000",
+        "Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Red",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Water 2",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "An underpowered, pathetic Pok\u0165mon. It may jump high on rare occasions, but usually not more than seven feet.",
+        "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump."
+    ],
+    "location": [
+        "Route 6, Route 9, Route 10, Route 12, Route 13, Route 19, Route 20, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 40, Route 41, Route 42, Route 43, Route 44, Route 45, Route 47, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Olivine City, Cianwood City, Blackthorn City, Ruins of Alph, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Mt. Silver, Dragon's Den, Lake of Rage, Cliff's Edge Gate, Pallet Town, Viridian City, Cerulean City, Vermillion City, Fuchsia City, Cinnabar Island, Cerulean Cave, Seafoam Islands, Tohjo Falls, Safari Zone",
+        "Route 6, Route 9, Route 10, Route 12, Route 13, Route 19, Route 20, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 40, Route 41, Route 42, Route 43, Route 44, Route 45, Route 47, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Olivine City, Cianwood City, Blackthorn City, Ruins of Alph, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Mt. Silver, Dragon's Den, Lake of Rage, Cliff's Edge Gate, Pallet Town, Viridian City, Cerulean City, Vermillion City, Fuchsia City, Cinnabar Island, Cerulean Cave, Seafoam Islands, Tohjo Falls, Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Splash"
+        ],
+        "15": [
+            "Tackle"
+        ]
+    },
+    "TMHM": [
+        "ct %",
+        "",
+        "HP",
+        "10",
+        "- 55",
+        " 188",
+        " 107",
+        " 129",
+        "- 73",
+        " 152",
+        ""
+    ],
+    "stats": [
+        "20",
+        "10",
+        "55",
+        "15",
+        "20",
+        "80"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "80 - 127",
+                "80 - 127",
+                "80 - 127"
+            ],
+            [
+                "13 - 55",
+                "15 - 62",
+                "16 - 68"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "18 - 60",
+                "20 - 67",
+                "22 - 73"
+            ],
+            [
+                "22 - 64",
+                "25 - 72",
+                "27 - 79"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ]
+        ],
+        "100": [
+            [
+                "150 - 244",
+                "150 - 244",
+                "150 - 244"
+            ],
+            [
+                "22 - 107",
+                "25 - 119",
+                "27 - 130"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "31 - 116",
+                "35 - 129",
+                "38 - 141"
+            ],
+            [
+                "40 - 125",
+                "45 - 139",
+                "49 - 152"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ]
+        ]
+    }
+}

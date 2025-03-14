@@ -1,0 +1,223 @@
+{
+    "name": "Spearow",
+    "jp_name": "Onisuzume\u30aa\u30cb\u30b9\u30ba\u30e1",
+    "number": " National: #021Johto: #013 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Keen Eye"
+    ],
+    "classification": "Tiny Bird Pok\u00e9mon",
+    "height": "1'00\"",
+    "weight": "4.4lbs",
+    "capture_rate": "255",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Flying"
+    ],
+    "flavor_text": [
+        "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+        "Very protective of its territory, it flaps its short wings busily to dart around at high speed."
+    ],
+    "location": [
+        "Route 3, Route 4, Route 7, Route 9, Route 10, Route 22, Route 33, Route 42, Route 46, Route 47, Routes 7, 11, 16, 33, 42, 44, 45 & 46, Azalea Town, Vemillion City & Azalea Town (Headbutt), Safari Zone",
+        "Route 3, Route 4, Route 7, Route 9, Route 10, Route 22, Route 33, Route 42, Route 46, Route 47, Routes 7, 11, 16, 33, 42, 44, 45 & 46, Azalea Town, Vemillion City & Azalea Town (Headbutt), Safari Zone"
+    ],
+    "learnset": {
+        "0": [
+            "Peck",
+            "Growl"
+        ],
+        "5": [
+            "Leer"
+        ],
+        "9": [
+            "Fury Attack"
+        ],
+        "13": [
+            "Pursuit"
+        ],
+        "17": [
+            "Aerial Ace"
+        ],
+        "60": [
+            ""
+        ],
+        "21": [
+            "Mirror Move"
+        ],
+        "25": [
+            "Agility"
+        ],
+        "29": [
+            "Assurance"
+        ],
+        "33": [
+            "Roost"
+        ],
+        "37": [
+            "Drill Peck"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM27",
+        "TM32",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM58",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM88",
+        "TM89",
+        "TM90",
+        "HM02",
+        " DPt"
+    ],
+    "tutor_moves": [
+        "Air Cutter",
+        "Ominous Wind",
+        "Snore",
+        "Swift",
+        "Heat Wave",
+        "Mud-slap",
+        "Twister",
+        "Tailwind"
+    ],
+    "egg_moves": [
+        "Faint Attack",
+        "False Swipe",
+        "Scary Face",
+        "Quick Attack",
+        "Tri Attack",
+        "Astonish",
+        "Sky Attack",
+        "Whirlwind",
+        "Uproar",
+        "Featherdance"
+    ],
+    "stats": [
+        "40",
+        "60",
+        "30",
+        "31",
+        "31",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "100 - 147",
+                "100 - 147",
+                "100 - 147"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "31 - 73",
+                "35 - 82",
+                "38 - 90"
+            ],
+            [
+                "32 - 74",
+                "36 - 83",
+                "39 - 91"
+            ],
+            [
+                "32 - 74",
+                "36 - 83",
+                "39 - 91"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "190 - 284",
+                "190 - 284",
+                "190 - 284"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "58 - 143",
+                "65 - 159",
+                "71 - 174"
+            ],
+            [
+                "60 - 144",
+                "67 - 161",
+                "73 - 177"
+            ],
+            [
+                "60 - 144",
+                "67 - 161",
+                "73 - 177"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

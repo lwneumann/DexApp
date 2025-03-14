@@ -1,0 +1,245 @@
+{
+    "name": "Squirtle",
+    "jp_name": "Zenigame\u30bc\u30cb\u30ac\u30e1",
+    "number": " National: #007Johto: #237 ",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Torrent"
+    ],
+    "classification": "Tiny Turtle Pok\u00e9mon",
+    "height": "1'08\"",
+    "weight": "19.8lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "color": "Blue",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "0.5",
+        "0.5",
+        "2",
+        "2",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0.5"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "flavor_text": [
+        "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+        "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out."
+    ],
+    "location": [
+        "Receive from Professor Oak",
+        "Receive from Professor Oak"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle"
+        ],
+        "4": [
+            "Tail Whip"
+        ],
+        "7": [
+            "Bubble"
+        ],
+        "10": [
+            "Withdraw"
+        ],
+        "13": [
+            "Water Gun"
+        ],
+        "16": [
+            "Bite"
+        ],
+        "19": [
+            "Rapid Spin"
+        ],
+        "22": [
+            "Protect"
+        ],
+        "25": [
+            "Water Pulse"
+        ],
+        "28": [
+            "Aqua Tail"
+        ],
+        "31": [
+            "Skull Bash"
+        ],
+        "34": [
+            "Iron Defense"
+        ],
+        "37": [
+            "Rain Dance"
+        ],
+        "40": [
+            "Hydro Pump"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM03",
+        "TM06",
+        "TM07",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM55",
+        "TM56",
+        "TM58",
+        "TM74",
+        "TM78",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM03",
+        "HM04",
+        "HGSS",
+        "HM06",
+        "HM07"
+    ],
+    "tutor_moves": [
+        "Dive",
+        "Ice Punch",
+        "Icy Wind",
+        "Zen Headbutt",
+        "Snore",
+        "Aqua Tail",
+        "Iron Defense",
+        "Mud-slap",
+        "Rollout",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Mirror Coat",
+        "Haze",
+        "Mist",
+        "Foresight",
+        "Flail",
+        "Refresh",
+        "Mud Sport",
+        "Yawn",
+        "Muddy Water",
+        "Fake Out",
+        "Aqua Ring",
+        "Aqua Jet",
+        "Water Spout"
+    ],
+    "stats": [
+        "44",
+        "48",
+        "65",
+        "50",
+        "64",
+        "43"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "104 - 151",
+                "104 - 151",
+                "104 - 151"
+            ],
+            [
+                "47 - 90",
+                "53 - 100",
+                "58 - 110"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "62 - 104",
+                "69 - 116",
+                "75 - 127"
+            ],
+            [
+                "43 - 85",
+                "48 - 95",
+                "52 - 104"
+            ]
+        ],
+        "100": [
+            [
+                "198 - 292",
+                "198 - 292",
+                "198 - 292"
+            ],
+            [
+                "90 - 175",
+                "101 - 195",
+                "111 - 214"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "119 - 204",
+                "133 - 227",
+                "146 - 249"
+            ],
+            [
+                "81 - 166",
+                "91 - 185",
+                "100 - 203"
+            ]
+        ]
+    }
+}

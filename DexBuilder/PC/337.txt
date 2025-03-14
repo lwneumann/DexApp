@@ -1,0 +1,231 @@
+{
+    "name": "Lunatone",
+    "jp_name": "Runatoon\u30eb\u30ca\u30c8\u30fc\u30f3",
+    "number": " National: #337",
+    "gender_ratio": "Genderless",
+    "ability": [
+        "Levitate"
+    ],
+    "classification": "Meteorite Pok\u00e9mon",
+    "height": "3'03\"",
+    "weight": "370.4lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "6,400",
+    "experience_growth": [
+        "800,000",
+        "Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Yellow",
+    "safari_zone_flee_rate": "60",
+    "damage": [
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0.5",
+        "2",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "2",
+        "2"
+    ],
+    "held_item": [
+        [
+            "Moon Stone",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Mineral"
+    ],
+    "flavor_text": [
+        "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep."
+    ],
+    "location": [
+        "Safari Zone (Special Items)",
+        "Safari Zone (Special Items)"
+    ],
+    "learnset": {
+        "0": [
+            "Tackle",
+            "Harden",
+            "Confusion"
+        ],
+        "9": [
+            "Rock Throw"
+        ],
+        "12": [
+            "Hypnosis"
+        ],
+        "20": [
+            "Rock Polish"
+        ],
+        "31": [
+            "Embargo"
+        ],
+        "34": [
+            "Cosmic Power"
+        ],
+        "42": [
+            "Heal Block"
+        ],
+        "45": [
+            "Psychic"
+        ],
+        "53": [
+            "Future Sight"
+        ],
+        "56": [
+            "Explosion"
+        ]
+    },
+    "TMHM": [
+        "TM04",
+        "TM06",
+        "TM10",
+        "TM13",
+        "TM14",
+        "TM15",
+        "TM16",
+        "TM17",
+        "TM18",
+        "TM20",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM29",
+        "TM30",
+        "TM32",
+        "TM33",
+        "TM37",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM48",
+        "TM57",
+        "TM58",
+        "TM63",
+        "TM64",
+        "TM67",
+        "TM68",
+        "TM69",
+        "TM70",
+        "TM71",
+        "TM74",
+        "TM76",
+        "TM77",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM85",
+        "TM86",
+        "TM87",
+        "TM90",
+        "TM92"
+    ],
+    "tutor_moves": [
+        "Zen Headbutt",
+        "Helping Hand",
+        "Snore",
+        "Swift",
+        "Ancientpower",
+        "Earth Power",
+        "Iron Head",
+        "Rollout",
+        "Signal Beam",
+        "Pain Split",
+        "Gravity",
+        "Magic Coat"
+    ],
+    "stats": [
+        "70",
+        "55",
+        "65",
+        "95",
+        "85",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "130 - 177",
+                "130 - 177",
+                "130 - 177"
+            ],
+            [
+                "54 - 96",
+                "60 - 107",
+                "66 - 117"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "250 - 344",
+                "250 - 344",
+                "250 - 344"
+            ],
+            [
+                "103 - 188",
+                "115 - 209",
+                "126 - 229"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

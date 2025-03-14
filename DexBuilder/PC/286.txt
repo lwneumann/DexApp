@@ -1,0 +1,251 @@
+{
+    "name": "Breloom",
+    "jp_name": "Kinogassa\u30ad\u30ce\u30ac\u30c3\u30b5",
+    "number": " National: #286",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Effect Spore",
+        "Poison Heal"
+    ],
+    "classification": "Mushroom Pok\u00e9mon",
+    "height": "3'11\"",
+    "weight": "86.4lbs",
+    "capture_rate": "90",
+    "base_egg_steps": "3,840",
+    "experience_growth": [
+        "1,640,000",
+        "Fluctuating"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "90",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "4",
+        "2",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "0.5",
+        "1"
+    ],
+    "held_item": [
+        [
+            "Kebia Berry",
+            "5"
+        ]
+    ],
+    "egg_groups": [
+        "Fairy",
+        "Plant"
+    ],
+    "flavor_text": [
+        "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores."
+    ],
+    "location": [
+        "Safari Zone (With Blocks After Levelled Up)",
+        "Safari Zone (With Blocks After Levelled Up)"
+    ],
+    "learnset": {
+        "0": [
+            "Absorb",
+            "Tackle",
+            "Stun Spore",
+            "Leech Seed"
+        ],
+        "5": [
+            "Tackle"
+        ],
+        "9": [
+            "Stun Spore"
+        ],
+        "13": [
+            "Leech Seed"
+        ],
+        "17": [
+            "Mega Drain"
+        ],
+        "21": [
+            "Headbutt"
+        ],
+        "23": [
+            "Mach Punch"
+        ],
+        "29": [
+            "Force Palm"
+        ],
+        "33": [
+            "Sky Uppercut"
+        ],
+        "37": [
+            "Mind Reader"
+        ],
+        "41": [
+            "Seed Bomb"
+        ],
+        "45": [
+            "Dynamicpunch"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM08",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM15",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM39",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM49",
+        "TM52",
+        "TM53",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM68",
+        "TM70",
+        "TM71",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Thunderpunch",
+        "Vacuum Wave",
+        "Helping Hand",
+        "Snore",
+        "Synthesis",
+        "Mud-slap",
+        "Seed Bomb",
+        "Superpower",
+        "Worry Seed",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Fake Tears",
+        "Swagger",
+        "Charm",
+        "False Swipe",
+        "Helping Hand",
+        "Worry Seed",
+        "Wake-up Slap",
+        "Seed Bomb"
+    ],
+    "stats": [
+        "60",
+        "130",
+        "80",
+        "60",
+        "60",
+        "70"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "121 - 163",
+                "135 - 182",
+                "148 - 200"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "58 - 100",
+                "65 - 112",
+                "71 - 123"
+            ],
+            [
+                "67 - 109",
+                "75 - 122",
+                "82 - 134"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "238 - 323",
+                "265 - 359",
+                "291 - 394"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "112 - 197",
+                "125 - 219",
+                "137 - 240"
+            ],
+            [
+                "130 - 215",
+                "145 - 239",
+                "159 - 262"
+            ]
+        ]
+    }
+}

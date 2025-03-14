@@ -1,0 +1,241 @@
+{
+    "name": "Teddiursa",
+    "jp_name": "Himeguma\u30d2\u30e1\u30b0\u30de",
+    "number": " National: #216Johto: #198 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Pickup",
+        "Quick Feet"
+    ],
+    "classification": "Little Bear Pok\u00e9mon",
+    "height": "2'00\"",
+    "weight": "19.4lbs",
+    "capture_rate": "120",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,000,000",
+        "Medium Fast"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "color": "Brown",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Ground"
+    ],
+    "flavor_text": [
+        "If it finds honey, its crescent mark glows. It always licks its paws because they're soaked with honey.",
+        "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+    ],
+    "location": [
+        "Trade from DPt, SS",
+        "Route 45, Mt. Silver"
+    ],
+    "learnset": {
+        "0": [
+            "Covet",
+            "Scratch",
+            "Leer",
+            "Lick",
+            "Fake Tears"
+        ],
+        "8": [
+            "Fury Swipes"
+        ],
+        "15": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "22": [
+            "Sweet Scent"
+        ],
+        "29": [
+            "Slash"
+        ],
+        "36": [
+            "Charm"
+        ],
+        "43": [
+            "Rest",
+            "Snore"
+        ],
+        "50": [
+            "Thrash"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM05",
+        "TM06",
+        "TM08",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM56",
+        "TM58",
+        "TM65",
+        "TM66",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM82",
+        "TM83",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Thunderpunch",
+        "Last Resort",
+        "Snore",
+        "Swift",
+        "Gunk Shot",
+        "Mud-slap",
+        "Rollout",
+        "Seed Bomb",
+        "Superpower",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Take Down",
+        "Seismic Toss",
+        "Counter",
+        "Metal Claw",
+        "Fake Tears",
+        "Yawn",
+        "Sleep Talk",
+        "Cross Chop",
+        "Double-edge",
+        "Close Combat",
+        "Night Slash",
+        "Belly Drum"
+    ],
+    "stats": [
+        "60",
+        "80",
+        "50",
+        "50",
+        "50",
+        "40"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "120 - 167",
+                "120 - 167",
+                "120 - 167"
+            ],
+            [
+                "76 - 118",
+                "85 - 132",
+                "93 - 145"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "49 - 91",
+                "55 - 102",
+                "60 - 112"
+            ],
+            [
+                "40 - 82",
+                "45 - 92",
+                "49 - 101"
+            ]
+        ],
+        "100": [
+            [
+                "230 - 324",
+                "230 - 324",
+                "230 - 324"
+            ],
+            [
+                "148 - 233",
+                "165 - 259",
+                "181 - 284"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "94 - 179",
+                "105 - 199",
+                "115 - 218"
+            ],
+            [
+                "76 - 161",
+                "85 - 179",
+                "93 - 196"
+            ]
+        ]
+    }
+}

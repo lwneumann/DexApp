@@ -1,0 +1,247 @@
+{
+    "name": "Grovyle",
+    "jp_name": "Jupitol\u30b8\u30e5\u30d7\u30c8\u30eb",
+    "number": " National: #253",
+    "gender_ratio": [
+        "87.5",
+        "12.5"
+    ],
+    "ability": [
+        "Overgrow"
+    ],
+    "classification": "Wood Gecko Pok\u00e9mon",
+    "height": "2'11\"",
+    "weight": "47.6lbs",
+    "capture_rate": "45",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+    ],
+    "color": "Green",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "2",
+        "0.5",
+        "0.5",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "0.5",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "flavor_text": [
+        "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility."
+    ],
+    "location": [
+        "Evolve Treecko",
+        "Evolve Treecko"
+    ],
+    "learnset": {
+        "0": [
+            "Pound",
+            "Leer",
+            "Absorb",
+            "Quick Attack"
+        ],
+        "6": [
+            "Absorb"
+        ],
+        "11": [
+            "Quick Attack"
+        ],
+        "16": [
+            "Fury Cutter"
+        ],
+        "17": [
+            "Pursuit"
+        ],
+        "23": [
+            "Screech"
+        ],
+        "29": [
+            "Leaf Blade"
+        ],
+        "35": [
+            "Agility"
+        ],
+        "41": [
+            "Slam"
+        ],
+        "47": [
+            "Detect"
+        ],
+        "53": [
+            "False Swipe"
+        ],
+        "59": [
+            "Leaf Storm"
+        ]
+    },
+    "TMHM": [
+        "TM01",
+        "TM06",
+        "TM09",
+        "TM10",
+        "TM11",
+        "TM17",
+        "TM19",
+        "TM20",
+        "TM21",
+        "TM22",
+        "TM23",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM39",
+        "TM40",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM53",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM60",
+        "TM70",
+        "TM75",
+        "TM78",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM86",
+        "TM87",
+        "TM90",
+        "HM01",
+        "HM04",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Thunderpunch",
+        "Snore",
+        "Swift",
+        "Synthesis",
+        "Endeavor",
+        "Mud-slap",
+        "Seed Bomb",
+        "Worry Seed",
+        "Low Kick",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Crunch",
+        "Mud Sport",
+        "Endeavor",
+        "Leech Seed",
+        "Dragonbreath",
+        "Crush Claw",
+        "Worry Seed",
+        "Double Kick",
+        "Grasswhistle",
+        "Synthesis",
+        "Magical Leaf",
+        "Leaf Storm",
+        "Razor Wind"
+    ],
+    "stats": [
+        "50",
+        "65",
+        "45",
+        "85",
+        "65",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "110 - 157",
+                "110 - 157",
+                "110 - 157"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "81 - 123",
+                "90 - 137",
+                "99 - 150"
+            ],
+            [
+                "63 - 105",
+                "70 - 117",
+                "77 - 128"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "210 - 304",
+                "210 - 304",
+                "210 - 304"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "157 - 242",
+                "175 - 269",
+                "192 - 295"
+            ],
+            [
+                "121 - 206",
+                "135 - 229",
+                "148 - 251"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}

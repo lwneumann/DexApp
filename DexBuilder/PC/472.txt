@@ -1,0 +1,261 @@
+{
+    "name": "Gliscor",
+    "jp_name": "Glion\u30b0\u30e9\u30a4\u30aa\u30f3",
+    "number": " National: #472Sinnoh: #154 ",
+    "gender_ratio": [
+        "50",
+        "50"
+    ],
+    "ability": [
+        "Hyper Cutter",
+        "Sand Veil"
+    ],
+    "classification": "Fang Scorp Pok\u00e9mon",
+    "height": "6'07\"",
+    "weight": "93.5lbs",
+    "capture_rate": "30",
+    "base_egg_steps": "5,120",
+    "experience_growth": [
+        "1,059,860",
+        "Medium Slow"
+    ],
+    "base_happiness": "70",
+    "effort_values_earned": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+    ],
+    "color": "Purple",
+    "safari_zone_flee_rate": "0",
+    "damage": [
+        "1",
+        "1",
+        "2",
+        "0",
+        "1",
+        "4",
+        "0.5",
+        "0.5",
+        "0",
+        "1",
+        "1",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "held_item": null,
+    "egg_groups": [
+        "Bug"
+    ],
+    "flavor_text": [
+        "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest."
+    ],
+    "location": [
+        "Evolve Gligar",
+        "Trade from DPt, HG"
+    ],
+    "learnset": {
+        "0": [
+            "Thunder Fang",
+            "Ice Fang",
+            "Fire Fang",
+            "Poison Jab",
+            "Sand-attack",
+            "Harden",
+            "Knock Off"
+        ],
+        "5": [
+            "Sand-attack"
+        ],
+        "9": [
+            "Harden"
+        ],
+        "12": [
+            "Knock Off"
+        ],
+        "16": [
+            "Quick Attack"
+        ],
+        "20": [
+            "Fury Cutter"
+        ],
+        "23": [
+            "Faint Attack"
+        ],
+        "60": [
+            ""
+        ],
+        "27": [
+            "Screech"
+        ],
+        "31": [
+            "Night Slash"
+        ],
+        "34": [
+            "Swords Dance"
+        ],
+        "38": [
+            "U-turn"
+        ],
+        "42": [
+            "X-scissor"
+        ]
+    },
+    "TMHM": [
+        "TM06",
+        "TM10",
+        "TM11",
+        "TM12",
+        "TM15",
+        "TM17",
+        "TM18",
+        "TM21",
+        "TM23",
+        "TM26",
+        "TM27",
+        "TM28",
+        "TM31",
+        "TM32",
+        "TM36",
+        "TM37",
+        "TM39",
+        "TM40",
+        "TM41",
+        "TM42",
+        "TM43",
+        "TM44",
+        "TM45",
+        "TM46",
+        "TM47",
+        "TM51",
+        "TM54",
+        "TM56",
+        "TM58",
+        "TM66",
+        "TM68",
+        "TM69",
+        "TM71",
+        "TM75",
+        "TM76",
+        "TM78",
+        "TM79",
+        "TM80",
+        "TM81",
+        "TM82",
+        "TM83",
+        "TM84",
+        "TM87",
+        "TM89",
+        "TM90",
+        "HM01",
+        "HM04",
+        " DPt",
+        "HM06"
+    ],
+    "tutor_moves": [
+        "Fury Cutter",
+        "Knock Off",
+        "Snore",
+        "Swift",
+        "Aqua Tail",
+        "Earth Power",
+        "Mud-slap",
+        "Tailwind",
+        "Sky Attack",
+        "Headbutt"
+    ],
+    "egg_moves": [
+        "Metal Claw",
+        "Wing Attack",
+        "Razor Wind",
+        "Counter",
+        "Sand Tomb",
+        "Agility",
+        "Baton Pass",
+        "Double-edge",
+        "Feint",
+        "Night Slash",
+        "Cross Poison",
+        "Power Trick"
+    ],
+    "stats": [
+        "75",
+        "95",
+        "125",
+        "45",
+        "75",
+        "95"
+    ],
+    "possible_stats": {
+        "50": [
+            [
+                "135 - 182",
+                "135 - 182",
+                "135 - 182"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ],
+            [
+                "117 - 159",
+                "130 - 177",
+                "143 - 194"
+            ],
+            [
+                "45 - 87",
+                "50 - 97",
+                "55 - 106"
+            ],
+            [
+                "72 - 114",
+                "80 - 127",
+                "88 - 139"
+            ],
+            [
+                "90 - 132",
+                "100 - 147",
+                "110 - 161"
+            ]
+        ],
+        "100": [
+            [
+                "260 - 354",
+                "260 - 354",
+                "260 - 354"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ],
+            [
+                "229 - 314",
+                "255 - 349",
+                "280 - 383"
+            ],
+            [
+                "85 - 170",
+                "95 - 189",
+                "104 - 207"
+            ],
+            [
+                "139 - 224",
+                "155 - 249",
+                "170 - 273"
+            ],
+            [
+                "175 - 260",
+                "195 - 289",
+                "214 - 317"
+            ]
+        ]
+    }
+}
