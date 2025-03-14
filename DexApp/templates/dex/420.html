@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "419" %}
+{% set next = "421" %}
+{% set number = "420" %}
+{% set name = "Cherubi" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (チェリンボ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+{% endblock %}
+{% block flavor_2 %}
+"It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Cherry
+{% endblock %}
+{% block p_height %}
+1'04"
+{% endblock %}
+{% block p_weight %}
+7.3
+{% endblock %}
+{% block p_capture_rate %}
+190
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Fairy, Plant
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Pink
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Miracle Seed', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '0.5', '0.5', '0.5', '2', '1', '2', '0.5', '2', '1', '2', '1', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['National Park (Headbutt - Special Tree)', 'National Park (Headbutt - Special Tree)'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 45 %}
+{% set hp_width = 18 %}
+{% set hprange50 = "105 - 152" %}
+{% set hprange100 = "200 - 294" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 35 %}
+{% set att_width = 14 %}
+{% set attrange50 = "36 - 95" %}
+{% set attrange100 = "67 - 185" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 45 %}
+{% set def_width = 18 %}
+{% set defrange50 = "45 - 106" %}
+{% set defrange100 = "85 - 207" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 62 %}
+{% set spatt_width = 24 %}
+{% set spattrange50 = "60 - 125" %}
+{% set spattrange100 = "116 - 245" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 53 %}
+{% set spdef_width = 21 %}
+{% set spdefrange50 = "52 - 115" %}
+{% set spdefrange100 = "99 - 225" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 35 %}
+{% set spd_width = 14 %}
+{% set spdrange50 = "36 - 95" %}
+{% set spdrange100 = "67 - 185" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 275 %}
+{% set statsumwidth = 38 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '1', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Chlorophyll', 'If this Pokemon is active while Sunny Day is in effect, its speed is temporarily doubled.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['7', 'Growth', 'Normal', 'Status', '-', '-', '40', "The user's body is forced to grow all at once. It raises the Sp. Atk stat."], ['10', 'Leech Seed', 'Grass', 'Status', '-', '90%', '10', 'A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.'], ['13', 'Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['19', 'Magical Leaf', 'Grass', 'Special', '60', '-', '20', 'The user scatters curious leaves that chase the foe. This attack will not miss.'], ['22', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['28', 'Worry Seed', 'Grass', 'Status', '-', '100%', '10', 'A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.'], ['31', 'Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['37', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['40', 'Lucky Chant', 'Normal', 'Status', '-', '-', '30', 'The user chants an incantation toward the sky, preventing the foe from landing critical hits.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM09', 'Bullet Seed', 'Grass', 'Physical', '10', '100%', '30', 'The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM20', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM53', 'Energy Ball', 'Grass', 'Special', '80', '100%', '10', "The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM70', 'Flash', 'Normal', 'Status', '-', '70%', '20', "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves."], ['TM75', 'Swords Dance', 'Normal', 'Status', '-', '-', '30', "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM86', 'Grass Knot', 'Grass', 'Special', 'Varies', '100%', '20', 'The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Synthesis', 'Grass', 'Status', '-', '-', '5', 'The user restores its own HP. The amount of HP regained varies with the weather.'], ['Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Seed Bomb', 'Grass', 'Physical', '80', '100%', '15', 'The user slams a barrage of hard- shelled seeds down on the foe from above.'], ['Worry Seed', 'Grass', 'Status', '-', '100%', '10', 'A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Razor Leaf', 'Grass', 'Physical', '55', '95%', '25', 'Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.'], ['Sweet Scent', 'Normal', 'Status', '-', '100%', '20', "A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc."], ['Tickle', 'Normal', 'Status', '-', '100%', '20', 'The user tickles the foe into laughing, reducing its Attack and Defense stats.'], ['Nature Power', 'Normal', 'Status', '-', '95%', '20', "An attack that makes use of nature's power. Its effects vary depending on the user's environment."], ['Grasswhistle', 'Grass', 'Status', '-', '55%', '15', 'The user plays a pleasant melody that lulls the foe into a deep sleep.'], ['Aromatherapy', 'Grass', 'Status', '-', '-', '5', "The user releases a soothing scent that heals all status problems affecting the user's party."], ['Weather Ball', 'Normal', 'Special', '50', '100%', '10', 'An attack move that varies in power and type depending on the weather.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

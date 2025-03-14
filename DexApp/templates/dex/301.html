@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "300" %}
+{% set next = "302" %}
+{% set number = "301" %}
+{% set name = "Delcatty" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (エネコロロ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It dislikes dirty places. It often searches for a comfortable place in which to groom itself."
+{% endblock %}
+{% block flavor_2 %}
+"It dislikes dirty places. It often searches for a comfortable place in which to groom itself."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Prim
+{% endblock %}
+{% block p_height %}
+3'07"
+{% endblock %}
+{% block p_weight %}
+71.9
+{% endblock %}
+{% block p_capture_rate %}
+60
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Ground, Fairy
+{% endblock %}
+{% block exp_growth %}
+800,000 - Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Purple
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 25% &emsp; ♀: 75%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Leppa Berry', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '2', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Evolve Skitty', 'Evolve Skitty'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 70 %}
+{% set hp_width = 27 %}
+{% set hprange50 = "130 - 177" %}
+{% set hprange100 = "250 - 344" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 65 %}
+{% set att_width = 25 %}
+{% set attrange50 = "63 - 128" %}
+{% set attrange100 = "121 - 251" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 65 %}
+{% set def_width = 25 %}
+{% set defrange50 = "63 - 128" %}
+{% set defrange100 = "121 - 251" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 55 %}
+{% set spatt_width = 22 %}
+{% set spattrange50 = "54 - 117" %}
+{% set spattrange100 = "103 - 229" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 55 %}
+{% set spdef_width = 22 %}
+{% set spdefrange50 = "54 - 117" %}
+{% set spdefrange100 = "103 - 229" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 70 %}
+{% set spd_width = 27 %}
+{% set spdrange50 = "67 - 134" %}
+{% set spdrange100 = "130 - 262" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 380 %}
+{% set statsumwidth = 53 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['1', '0', '0', '0', '0', '1'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Cute Charm', 'If an opponent of the opposite gender directly attacks this Pokemon, there is a 30% chance that the opponent will become Attracted to this Pokemon.'], ['Normalize', "All of this Pokemon's moves are now Normal-type."]] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Fake Out', 'Normal', 'Physical', '40', '100%', '10', 'An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.'], ['0', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['0', 'Sing', 'Normal', 'Status', '-', '55%', '15', 'A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.'], ['0', 'Double Slap', 'Normal', 'Physical', '15', '85%', '10', 'The foe is slapped repeatedly, back and forth, two to five times in a row.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM04', 'Calm Mind', 'Psychic', 'Status', '-', '-', '20', 'The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM20', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM24', 'Thunderbolt', 'Electric', 'Special', '95', '100%', '15', 'A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.'], ['TM25', 'Thunder', 'Electric', 'Special', '120', '70%', '10', 'A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM30', 'Shadow Ball', 'Ghost', 'Special', '80', '100%', '15', "The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM34', 'Shock Wave', 'Electric', 'Special', '60', '-', '20', 'The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM57', 'Charge Beam', 'Electric', 'Special', '50', '90%', '10', "The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM66', 'Payback', 'Dark', 'Physical', '50', '100%', '10', 'If the user can use this attack after the foe attacks, its power is doubled.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM70', 'Flash', 'Normal', 'Status', '-', '70%', '20', "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves."], ['TM73', 'Thunder Wave', 'Electric', 'Status', '-', '100%', '20', 'A weak electric charge is launched at the foe. It causes paralysis if it hits.'], ['TM77', 'Psych Up', 'Normal', 'Status', '-', '-', '10', 'The user hypnotizes itself into copying any stat change made by the foe.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM85', 'Dream Eater', 'Psychic', 'Special', '100', '100%', '15', "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP."], ['TM86', 'Grass Knot', 'Grass', 'Special', 'Varies', '100%', '20', 'The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Zen Headbutt', 'Psychic', 'Physical', '80', '90%', '15', 'The user focuses its willpower to its head and rams the foe. It may also make the target flinch.'], ['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Last Resort', 'Normal', 'Physical', '130', '100%', '5', 'This move can be used only after the user has used all the other moves it knows in the battle.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Heal Bell', 'Normal', 'Status', '-', '-', '5', 'The user makes a soothing bell chime to heal the status problems of all the party Pokémon.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Psych Up', 'Normal', 'Status', '-', '-', '10', 'The user hypnotizes itself into copying any stat change made by the foe.'], ['Uproar', 'Normal', 'Special', '50', '100%', '10', 'The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.'], ['Fake Tears', 'Dark', 'Status', '-', '100%', '20', 'The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.'], ['Wish', 'Normal', 'Status', '-', '100%', '10', 'A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.'], ['Baton Pass', 'Normal', 'Status', '-', '-', '40', 'The user switches places with a party Pokémon in waiting, passing along any stat changes.'], ['Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['Tickle', 'Normal', 'Status', '-', '100%', '20', 'The user tickles the foe into laughing, reducing its Attack and Defense stats.'], ['Last Resort', 'Normal', 'Physical', '130', '100%', '5', 'This move can be used only after the user has used all the other moves it knows in the battle.'], ['Fake Out', 'Normal', 'Physical', '40', '100%', '10', 'An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.'], ['Zen Headbutt', 'Psychic', 'Physical', '80', '90%', '15', 'The user focuses its willpower to its head and rams the foe. It may also make the target flinch.'], ['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Mud Bomb', 'Ground', 'Special', '65', '85%', '10', "The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy."]] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

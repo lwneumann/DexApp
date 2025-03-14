@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "73" %}
+{% set next = "75" %}
+{% set number = "74" %}
+{% set name = "Geodude" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (イシツブテ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"Most people may not notice, but a closer look should reveal that there are many GEODUDE around."
+{% endblock %}
+{% block flavor_2 %}
+"It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Rock
+{% endblock %}
+{% block p_height %}
+1'04"
+{% endblock %}
+{% block p_weight %}
+44
+{% endblock %}
+{% block p_capture_rate %}
+255
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Mineral
+{% endblock %}
+{% block exp_growth %}
+1,059,860 - Medium Slow
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Brown
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Everstone', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['0.5', '0.5', '4', '0', '4', '2', '2', '0.25', '2', '0.5', '1', '1', '0.5', '1', '1', '1', '2'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Route 45, Route 46, Ruins of Alph, Union Cave, Mt. Mortar, Dark Cave, The Cliff Cave, Mt. Moon, Rock Tunnel, Victory Road, Safari Zone', 'Route 45, Route 46, Ruins of Alph, Union Cave, Mt. Mortar, Dark Cave, The Cliff Cave, Mt. Moon, Rock Tunnel, Victory Road, Safari Zone'] %}
+{% set has_pokewalker = True %}
+{% set has_items = False %}
+{% set pokewalker = [['Rugged Road', 'Volcano Path', "Night Sky's Edge"]] %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 40 %}
+{% set hp_width = 16 %}
+{% set hprange50 = "100 - 147" %}
+{% set hprange100 = "190 - 284" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 80 %}
+{% set att_width = 31 %}
+{% set attrange50 = "76 - 145" %}
+{% set attrange100 = "148 - 284" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 100 %}
+{% set def_width = 39 %}
+{% set defrange50 = "94 - 167" %}
+{% set defrange100 = "184 - 328" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 30 %}
+{% set spatt_width = 12 %}
+{% set spattrange50 = "31 - 90" %}
+{% set spattrange100 = "58 - 174" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 30 %}
+{% set spdef_width = 12 %}
+{% set spdefrange50 = "31 - 90" %}
+{% set spdefrange100 = "58 - 174" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 20 %}
+{% set spd_width = 8 %}
+{% set spdrange50 = "22 - 79" %}
+{% set spdrange100 = "40 - 152" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 300 %}
+{% set statsumwidth = 42 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '1', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Rock Head', 'This Pokemon does not receive recoil damage unless it uses Struggle, it misses with Jump Kick or Hi Jump Kick or it is holding Life Orb, Jaboca Berry or Rowap Berry.'], ['Sturdy', 'The one-hit KO moves Fissure, Guillotine, Horn Drill and Sheer Cold do not affect this Pokemon.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['0', 'Defense Curl', 'Normal', 'Status', '-', '-', '40', 'The user curls up to conceal weak spots and raise its Defense stat.'], ['4', 'Mud Sport', 'Ground', 'Status', '-', '100%', '15', 'The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.'], ['8', 'Rock Polish', 'Rock', 'Status', '-', '-', '20', 'The user polishes its body to reduce drag. It can sharply raise the Speed stat.'], ['11', 'Rock Throw', 'Rock', 'Physical', '50', '90%', '15', 'The user picks up and throws a small rock at the foe to attack.'], ['18', 'Selfdestruct', 'Normal', 'Physical', '200', '100%', '5', 'The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['22', 'Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['25', 'Rock Blast', 'Rock', 'Physical', '25', '80%', '10', 'The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.'], ['29', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['32', 'Explosion', 'Normal', 'Physical', '250', '100%', '5', 'The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['36', 'Double-Edge', 'Normal', 'Physical', '120', '100%', '15', 'A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.'], ['39', 'Stone Edge', 'Rock', 'Physical', '100', '80%', '5', 'The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM01', 'Focus Punch', 'Fighting', 'Physical', '150', '100%', '20', 'The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM31', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM35', 'Flamethrower', 'Fire', 'Special', '95', '100%', '15', 'The foe is scorched with an intense blast of fire. The target may also be left with a burn.'], ['TM37', 'Sandstorm', 'Rock', 'Status', '-', '-', '10', 'A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.'], ['TM38', 'Fire Blast', 'Fire', 'Special', '120', '85%', '5', 'The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM56', 'Fling', 'Dark', 'Physical', 'Varies', '100%', '10', 'The user flings its held item at the foe to attack. Its power and effects depend on the item.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM64', 'Explosion', 'Normal', 'Physical', '250', '100%', '5', 'The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.'], ['TM69', 'Rock Polish', 'Rock', 'Status', '-', '-', '20', 'The user polishes its body to reduce drag. It can sharply raise the Speed stat.'], ['TM71', 'Stone Edge', 'Rock', 'Physical', '100', '80%', '5', 'The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.'], ['TM74', 'Gyro Ball', 'Steel', 'Physical', 'Varies', '100%', '5', 'The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.'], ['TM76', 'Stealth Rock', 'Rock', 'Status', '-', '-', '20', 'The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."], ['HM08', 'Rock Climb', 'Normal', 'Physical', '90', '85%', '20', 'A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Fire Punch', 'Fire', 'Physical', '75', '100%', '15', 'The foe is punched with a fiery fist. It may leave the target with a burn.'], ['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Thunder Punch', 'Electric', 'Physical', '75', '100%', '15', 'The foe is punched with an electrified fist. It may leave the target with paralysis.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Ancientpower', 'Rock', 'Special', '60', '100%', '5', "The user attacks with a prehistoric power. It may also raise all the user's stats at once."], ['Earth Power', 'Ground', 'Special', '90', '100%', '10', "The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def."], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Superpower', 'Fighting', 'Physical', '120', '100%', '5', "The user attacks the foe with great power. However, it also lowers the user's Attack and Defense."], ['Block', 'Normal', 'Status', '-', '100%', '5', "The user blocks the foe's way with arms spread wide to prevent escape."], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Mega Punch', 'Normal', 'Physical', '80', '85%', '20', 'The foe is slugged by a punch thrown with muscle-packed power.'], ['Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['Block', 'Normal', 'Status', '-', '100%', '5', "The user blocks the foe's way with arms spread wide to prevent escape."], ['Hammer Arm', 'Fighting', 'Physical', '100', '90%', '10', "The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."], ['Flail', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.'], ['Curse', 'Unknown', 'Status', '-', '-', '10', 'A move that works differently for the Ghost type than for all the other types.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

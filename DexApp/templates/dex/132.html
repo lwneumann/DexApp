@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "131" %}
+{% set next = "133" %}
+{% set number = "132" %}
+{% set name = "Ditto" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (メタモン) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked."
+{% endblock %}
+{% block flavor_2 %}
+"Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Transform
+{% endblock %}
+{% block p_height %}
+1'00"
+{% endblock %}
+{% block p_weight %}
+8.8
+{% endblock %}
+{% block p_capture_rate %}
+35
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Purple
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: G% &emsp; ♀: e%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Quick Powder', '50'], ['Metal Powder', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '2', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Route 35, Route 47, Cerulean Cave, Safari Zone', 'Route 35, Route 47, Cerulean Cave, Safari Zone'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 48 %}
+{% set hp_width = 19 %}
+{% set hprange50 = "108 - 155" %}
+{% set hprange100 = "206 - 300" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 48 %}
+{% set att_width = 19 %}
+{% set attrange50 = "47 - 110" %}
+{% set attrange100 = "90 - 214" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 48 %}
+{% set def_width = 19 %}
+{% set defrange50 = "47 - 110" %}
+{% set defrange100 = "90 - 214" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 48 %}
+{% set spatt_width = 19 %}
+{% set spattrange50 = "47 - 110" %}
+{% set spattrange100 = "90 - 214" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 48 %}
+{% set spdef_width = 19 %}
+{% set spdefrange50 = "47 - 110" %}
+{% set spdefrange100 = "90 - 214" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 48 %}
+{% set spd_width = 19 %}
+{% set spdrange50 = "47 - 110" %}
+{% set spdrange100 = "90 - 214" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 288 %}
+{% set statsumwidth = 40 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['1', '0', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Limber', 'This Pokemon cannot become paralyzed.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Transform', 'Normal', 'Status', '-', '-', '10', 'The user transforms into a copy of the foe right down to having the same move set.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = None %}
+{% set has_TMHM = False %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = None %}
+{% set has_tutor_moves = False %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

@@ -1,0 +1,203 @@
+/* Main Body */
+html {
+    overscroll-behavior: none;
+}
+body {
+    display: flex;
+    font-size: 1rem;
+    margin: 0;
+    min-height: 100vh;
+    background-image: url('/static/img/nature/tree.jpg');
+    font-family:verdana;
+}
+img:not(.no-pixelate) {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+.sidebar {
+    width: 10%;
+    display: flex;
+}
+.content {
+    width: 80%;
+    flex-grow: 1;
+    background-color: hsla(122, 15%, 60%, 0.908);
+    box-shadow: 0 0 30px 15px rgba(0, 0, 0, 0.5);
+}
+.content-block {
+    padding: 20px;
+}
+.typeImg {
+    max-width: 2vw;
+}
+
+/* Dex Blocks */
+.dexblock {
+    width: 48%;
+}
+
+/* Pokemon images */
+.monImage {
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: hsl(122, 15%, 60%);
+}
+
+/* Arrows */
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+/* Table */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #29643c;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #447052;
+}
+tr:nth-child(odd) {
+    background-color: #789b83;
+}
+.plainTable {
+    border-collapse:separate;
+    border: none;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 100%; table-layout: fixed;
+}
+.plainTable th, .plainTable td {
+    text-align: center;
+}
+
+/* Stats Table */
+.stats-table {
+    background-color: #7e9a7e;
+}
+.stats-table .stat-header{
+    text-align: center;
+    width: 7%
+}
+.stats-table .stat-name {
+    text-align: right;
+}
+.stats-table .stat-range {
+    width: 20%;
+    text-align: center;
+}
+.stat-bar-container {
+    width: 100%;
+    border-radius: 2px;
+}
+.stat-bar {
+    height: 20px;
+    border: solid black 1px;
+    border-radius: 3px;
+    padding-left: 3px;
+}
+.stat-bar.hp { background-color: #4caf50; }
+.stat-bar.att { background-color: #c82a2a; }
+.stat-bar.def { background-color: #fbb730; }
+.stat-bar.spatt { background-color: #e436f4; }
+.stat-bar.spdef { background-color: #5bc6ff; }
+.stat-bar.spd { background-color: #f8ff3a; }
+.stat-bar.sum { background-color: #dfdfdf; }
+
+
+/* Text */
+h1 {
+    color: rgb(94, 35, 99);
+}
+h2 {
+    color: rgb(94, 35, 99);
+}
+h3 {
+    color: rgb(94, 35, 99);
+}
+
+p {
+    color: rgb(94, 35, 99);
+    font-size: 1em;
+}
+p img{
+    height: 1em;
+    width: auto;
+}
+
+a {
+    color: rgb(94, 35, 99);
+}
+
+
+/* Nav Buttons */
+.navButton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navButtonContainer {
+    position: fixed;
+    bottom: 10%;
+    background-image: url('/static/img/nature/bush.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #44e885;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    padding: 10px;
+    margin: -10px;
+    box-shadow: 0 0 8px 10px #44e885;
+}
+
+/* Phone */
+@media (max-width: 1080px) {
+    .plainTable {
+        width: 100%;
+        font-size: 16px;
+    }
+    img {
+        width: 60px;
+    }
+    .container {
+        padding: 20px;
+    }
+}
+
+/* Search Results */
+.searchPage {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+}
+.searchBox {
+    justify-items: left;
+    background-color: #6ea2757d;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    border: 1px solid #288933a8;
+}

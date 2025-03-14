@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "359" %}
+{% set next = "361" %}
+{% set number = "360" %}
+{% set name = "Wynaut" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ソーナノ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It tends to move in a pack. Individuals squash against one another to toughen their spirits."
+{% endblock %}
+{% block flavor_2 %}
+"It tends to move in a pack. Individuals squash against one another to toughen their spirits."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Bright
+{% endblock %}
+{% block p_height %}
+2'00"
+{% endblock %}
+{% block p_weight %}
+30.9
+{% endblock %}
+{% block p_capture_rate %}
+125
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Wynaut cannot breed
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '1', '1', '0.5', '1', '1', '1', '0.5', '2', '1', '2', '1', '2', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Breed Wobbuffet', 'Breed Wobbuffet'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 95 %}
+{% set hp_width = 37 %}
+{% set hprange50 = "155 - 202" %}
+{% set hprange100 = "300 - 394" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 23 %}
+{% set att_width = 9 %}
+{% set attrange50 = "25 - 82" %}
+{% set attrange100 = "45 - 159" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 48 %}
+{% set def_width = 19 %}
+{% set defrange50 = "47 - 110" %}
+{% set defrange100 = "90 - 214" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 23 %}
+{% set spatt_width = 9 %}
+{% set spattrange50 = "25 - 82" %}
+{% set spattrange100 = "45 - 159" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 48 %}
+{% set spdef_width = 19 %}
+{% set spdefrange50 = "47 - 110" %}
+{% set spdefrange100 = "90 - 214" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 23 %}
+{% set spd_width = 9 %}
+{% set spdrange50 = "25 - 82" %}
+{% set spdrange100 = "45 - 159" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 260 %}
+{% set statsumwidth = 36 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['1', '0', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Shadow Tag', 'When this Pokemon enters the field, its opponents cannot switch or flee the battle unless they have the same ability, are holding Shed Shell, or they use the moves Baton Pass or U-Turn.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Splash', 'Normal', 'Status', '-', '-', '40', 'The user just flops and splashes around to no effect at all...'], ['0', 'Charm', 'Normal', 'Status', '-', '100%', '20', "The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered."], ['0', 'Encore', 'Normal', 'Status', '-', '100%', '5', 'The user compels the foe to keep using only the move it last used for three to seven turns.'], ['15', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['15', 'Destiny Bond', 'Ghost', 'Status', '-', '-', '5', 'When this move is used, if the user faints, the foe that landed the knockout hit also faints.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = None %}
+{% set has_TMHM = False %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = None %}
+{% set has_tutor_moves = False %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

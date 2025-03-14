@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "328" %}
+{% set next = "330" %}
+{% set number = "329" %}
+{% set name = "Vibrava" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ビブラーバ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches."
+{% endblock %}
+{% block flavor_2 %}
+"It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Vibration
+{% endblock %}
+{% block p_height %}
+3'07"
+{% endblock %}
+{% block p_weight %}
+33.7
+{% endblock %}
+{% block p_capture_rate %}
+120
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,059,860 - Medium Slow
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Green
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '0.5', '1', '0', '1', '4', '1', '0.5', '1', '1', '1', '1', '0.5', '1', '2', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Safari Zone (With Blocks After Levelled Up)', 'Safari Zone (With Blocks After Levelled Up)'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 50 %}
+{% set hp_width = 20 %}
+{% set hprange50 = "110 - 157" %}
+{% set hprange100 = "210 - 304" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 70 %}
+{% set att_width = 27 %}
+{% set attrange50 = "67 - 134" %}
+{% set attrange100 = "130 - 262" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 50 %}
+{% set def_width = 20 %}
+{% set defrange50 = "49 - 112" %}
+{% set defrange100 = "94 - 218" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 50 %}
+{% set spatt_width = 20 %}
+{% set spattrange50 = "49 - 112" %}
+{% set spattrange100 = "94 - 218" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 50 %}
+{% set spdef_width = 20 %}
+{% set spdefrange50 = "49 - 112" %}
+{% set spdefrange100 = "94 - 218" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 70 %}
+{% set spd_width = 27 %}
+{% set spdrange50 = "67 - 134" %}
+{% set spdrange100 = "130 - 262" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 340 %}
+{% set statsumwidth = 47 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '1', '0', '0', '0', '1'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Levitate', 'This Pokemon is immune to Ground-type attacks, Spikes, Toxic Spikes and the Arena Trap ability; it loses these immunities while holding Iron Ball, after using Ingrain or if Gravity is in effect.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['20', 'SonicBoom', 'Normal', 'Special', 'Fixed', '90%', '20', 'The foe is hit with a destructive shock wave that always inflicts 20 HP damage.'], ['0', 'Sand-Attack', 'Ground', 'Status', '-', '100%', '15', "Sand is hurled in the foe's face, reducing its accuracy."], ['0', 'Faint Attack', 'Dark', 'Physical', '60', '-', '20', 'The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.'], ['0', 'Sand Tomb', 'Ground', 'Physical', '15', '70%', '15', 'The user traps the foe inside a harshly raging sandstorm for two to five turns.'], ['33', 'Supersonic', 'Normal', 'Status', '-', '55%', '20', 'The user generates odd sound waves from its body. It may confuse the target.'], ['35', 'Dragonbreath', 'Dragon', 'Special', '60', '100%', '20', 'The user exhales a mighty gust that inflicts damage. It may also paralyze the target.'], ['41', 'Screech', 'Normal', 'Status', '-', '85%', '40', "An earsplitting screech is emitted to sharply reduce the foe's Defense stat."], ['49', 'Sandstorm', 'Rock', 'Status', '-', '-', '10', 'A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.'], ['57', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM37', 'Sandstorm', 'Rock', 'Status', '-', '-', '10', 'A five-turn sand- storm is summoned to hurt all combatant types except Rock, Ground, and Steel.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM47', 'Steel Wing', 'Steel', 'Physical', '70', '90%', '25', "The foe is hit with wings of steel. It may also raise the user's Defense stat."], ['TM51', 'Roost', 'Flying', 'Status', '-', '-', '10', "The user lands and rests its body. It restores the user's HP by up to half of its max HP."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM59', 'Dragon Pulse', 'Dragon', 'Special', '90', '100%', '10', "The foe is attacked with a shock wave generated by the user's gaping mouth."], ['TM62', 'Silver Wind', 'Bug', 'Special', '60', '100%', '5', "The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats."], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM89', 'U-turn', 'Bug', 'Physical', '70', '100%', '20', 'After making its attack, the user rushes back to switch places with a party Pokémon in waiting.'], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM02', 'Fly', 'Flying', 'Physical', '70', '95%', '15', 'The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.'], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Air Cutter', 'Flying', 'Special', '55', '95%', '25', 'The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.'], ['Fury Cutter', 'Bug', 'Physical', '10', '95%', '20', 'The foe is slashed with scythes or claws. Its power increases if it hits in succession.'], ['Ominous Wind', 'Ghost', 'Special', '60', '100%', '5', "The user creates a gust of repulsive wind. It may also raise all the user's stats at once."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Earth Power', 'Ground', 'Special', '90', '100%', '10', "The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def."], ['Heat Wave', 'Fire', 'Special', '100', '90%', '10', 'The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Outrage', 'Dragon', 'Physical', '90', '100%', '15', 'The user rampages and attacks for two to three turns. However, it then becomes confused.'], ['Twister', 'Dragon', 'Special', '40', '100%', '20', 'The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.'], ['Tailwind', 'Flying', 'Status', '-', '-', '30', 'The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Focus Energy', 'Normal', 'Status', '-', '-', '30', 'The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.'], ['Quick Attack', 'Normal', 'Physical', '40', '100%', '30', 'The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.'], ['Gust', 'Flying', 'Special', '40', '100%', '35', 'A gust of wind is whipped up by wings and launched at the foe to inflict damage.'], ['Flail', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.'], ['Fury Cutter', 'Bug', 'Physical', '10', '95%', '20', 'The foe is slashed with scythes or claws. Its power increases if it hits in succession.'], ['Mud Shot', 'Ground', 'Special', '55', '95%', '15', "The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed."]] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "29" %}
+{% set next = "31" %}
+{% set number = "30" %}
+{% set name = "Nidorina" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ニドリーナ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"When feeding its young, it first chews the food into a paste, then spits it out for the offspring."
+{% endblock %}
+{% block flavor_2 %}
+"It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Poison
+{% endblock %}
+{% block p_height %}
+2'07"
+{% endblock %}
+{% block p_weight %}
+44.1
+{% endblock %}
+{% block p_capture_rate %}
+120
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Nidorina cannot breed
+{% endblock %}
+{% block exp_growth %}
+1,059,860 - Medium Slow
+{% endblock %}
+{% block safarizone %}
+60
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 0% &emsp; ♀: 100%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '1', '0.5', '1', '0.5', '0.5', '2', '1', '2', '0.5', '1', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Route 13, Route 14, Route 15, Safari Zone', 'Route 13, Route 14, Route 15, Safari Zone'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 70 %}
+{% set hp_width = 27 %}
+{% set hprange50 = "130 - 177" %}
+{% set hprange100 = "250 - 344" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 62 %}
+{% set att_width = 24 %}
+{% set attrange50 = "60 - 125" %}
+{% set attrange100 = "116 - 245" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 67 %}
+{% set def_width = 26 %}
+{% set defrange50 = "64 - 130" %}
+{% set defrange100 = "125 - 256" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 55 %}
+{% set spatt_width = 22 %}
+{% set spattrange50 = "54 - 117" %}
+{% set spattrange100 = "103 - 229" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 55 %}
+{% set spdef_width = 22 %}
+{% set spdefrange50 = "54 - 117" %}
+{% set spdefrange100 = "103 - 229" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 56 %}
+{% set spd_width = 22 %}
+{% set spdrange50 = "54 - 118" %}
+{% set spdrange100 = "105 - 232" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 365 %}
+{% set statsumwidth = 51 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['2', '0', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Poison Point', 'If an opponent directly attacks this Pokemon, there is a 30% chance that the opponent will become poisoned.'], ['Rivalry', "This Pokemon's attacks receive a 25% power boost if the target is the same gender as this Pokemon, but a 25% power reduction if the target is the opposite gender."]] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Growl', 'Normal', 'Status', '-', '100%', '40', "The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered."], ['0', 'Scratch', 'Normal', 'Physical', '40', '100%', '35', 'Hard, pointed, and sharp claws rake the foe to inflict damage.'], ['7', 'Tail Whip', 'Normal', 'Status', '-', '100%', '30', "The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered."], ['9', 'Double Kick', 'Fighting', 'Physical', '30', '100%', '30', 'The foe is quickly kicked twice in succession using both feet.'], ['13', 'Poison Sting', 'Poison', 'Physical', '15', '100%', '35', 'The foe is stabbed with a poisonous barb of some sort. It may also poison the target.'], ['20', 'Fury Swipes', 'Normal', 'Physical', '18', '80%', '15', 'The foe is raked with sharp claws or scythes for two to five times in quick succession.'], ['23', 'Bite', 'Dark', 'Physical', '60', '100%', '25', 'The foe is bitten with viciously sharp fangs. It may make the target flinch.'], ['28', 'Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['35', 'Toxic Spikes', 'Poison', 'Status', '-', '-', '20', "The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle."], ['38', 'Flatter', 'Dark', 'Status', '-', '100%', '15', "Flattery is used to confuse the foe. However, it also raises the target's Sp. Atk stat."], ['43', 'Crunch', 'Dark', 'Physical', '80', '100%', '15', "The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat."], ['50', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['58', 'Poison Fang', 'Poison', 'Physical', '50', '100%', '15', 'The user bites the foe with toxic fangs. It may also leave the foe badly poisoned.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM24', 'Thunderbolt', 'Electric', 'Special', '95', '100%', '15', 'A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.'], ['TM25', 'Thunder', 'Electric', 'Special', '120', '70%', '10', 'A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM34', 'Shock Wave', 'Electric', 'Special', '60', '-', '20', 'The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.'], ['TM36', 'Sludge Bomb', 'Poison', 'Special', '90', '100%', '10', 'The user attacks by hurling filthy sludge at the foe. It may also poison the target.'], ['TM40', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM65', 'Shadow Claw', 'Ghost', 'Physical', '70', '100%', '15', 'The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM84', 'Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM01', 'Cut', 'Normal', 'Physical', '50', '95%', '30', 'The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.'], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Super Fang', 'Normal', 'Physical', 'Varies', '90%', '10', "The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half."], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Supersonic', 'Normal', 'Status', '-', '55%', '20', 'The user generates odd sound waves from its body. It may confuse the target.'], ['Disable', 'Normal', 'Status', '-', '55%', '20', 'For several turns, this move prevents the foe from using the move it last used.'], ['Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['Focus Energy', 'Normal', 'Status', '-', '-', '30', 'The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.'], ['Charm', 'Normal', 'Status', '-', '100%', '20', "The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered."], ['Counter', 'Fighting', 'Physical', 'Varies', '100%', '20', 'A retaliation move that counters any physical attack, inflicting double the damage taken.'], ['Beat Up', 'Dark', 'Physical', '10', '100%', '10', 'The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.'], ['Pursuit', 'Dark', 'Physical', '40', '100%', '20', 'An attack move that inflicts double damage if used on a foe that is switching out of battle.'], ['Skull Bash', 'Normal', 'Physical', '100', '100%', '15', 'The user tucks in its head to raise its Defense in the first turn, then rams the foe on the next turn.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

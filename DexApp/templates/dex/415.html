@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "414" %}
+{% set next = "416" %}
+{% set number = "415" %}
+{% set name = "Combee" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ミツハニー) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = True %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump."
+{% endblock %}
+{% block flavor_2 %}
+"At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Tiny
+{% endblock %}
+{% block p_height %}
+1'00"
+{% endblock %}
+{% block p_weight %}
+12.1
+{% endblock %}
+{% block p_capture_rate %}
+120
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,059,860 - Medium Slow
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Yellow
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 87.5% &emsp; ♀: 12.5%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Honey', '100']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '2', '0.25', '2', '0.25', '1', '0', '2', '1', '0.5', '4', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Routes 5, 6, 7, 8, 11, 16 & 25, Cerulean City, Vermillion City, Celadon City (Headbutt), Bug Catching Contest', 'Routes 5, 6, 7, 8, 11, 16 & 25, Cerulean City, Vermillion City, Celadon City (Headbutt), Bug Catching Contest'] %}
+{% set has_pokewalker = True %}
+{% set has_items = False %}
+{% set pokewalker = [['Sinnoh Field']] %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 30 %}
+{% set hp_width = 12 %}
+{% set hprange50 = "90 - 137" %}
+{% set hprange100 = "170 - 264" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 30 %}
+{% set att_width = 12 %}
+{% set attrange50 = "31 - 90" %}
+{% set attrange100 = "58 - 174" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 42 %}
+{% set def_width = 16 %}
+{% set defrange50 = "42 - 103" %}
+{% set defrange100 = "80 - 201" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 30 %}
+{% set spatt_width = 12 %}
+{% set spattrange50 = "31 - 90" %}
+{% set spattrange100 = "58 - 174" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 42 %}
+{% set spdef_width = 16 %}
+{% set spdefrange50 = "42 - 103" %}
+{% set spdefrange100 = "80 - 201" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 70 %}
+{% set spd_width = 27 %}
+{% set spdrange50 = "67 - 134" %}
+{% set spdrange100 = "130 - 262" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 244 %}
+{% set statsumwidth = 34 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '0', '0', '0', '1'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Honey Gather', 'If it is not already holding an item, this Pokemon may collect Honey as its held item after a battle. The chance to collect Honey increases 5% for every ten levels, maxing at a 50% chance if this Pokemon is levels 91 to 100.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Sweet Scent', 'Normal', 'Status', '-', '100%', '20', "A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc."], ['0', 'Gust', 'Flying', 'Special', '40', '100%', '35', 'A gust of wind is whipped up by wings and launched at the foe to inflict damage.'], ['13', 'Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Tailwind', 'Flying', 'Status', '-', '-', '30', 'The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

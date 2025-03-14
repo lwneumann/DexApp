@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "400" %}
+{% set next = "402" %}
+{% set number = "401" %}
+{% set name = "Kricketot" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (コロボーシ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = True %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"When its antennae hit each other, it sounds like the music of a xylophone."
+{% endblock %}
+{% block flavor_2 %}
+"When its antennae hit each other, it sounds like the music of a xylophone."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Cricket
+{% endblock %}
+{% block p_height %}
+1'00"
+{% endblock %}
+{% block p_weight %}
+5.0
+{% endblock %}
+{% block p_capture_rate %}
+255
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,059,860 - Medium Slow
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Red
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Metronome', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '1', '0.5', '1', '0.5', '1', '0.5', '2', '1', '1', '2', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Viridian Forest, Bug Catching Contest', 'Viridian Forest, Bug Catching Contest'] %}
+{% set has_pokewalker = True %}
+{% set has_items = False %}
+{% set pokewalker = [['Sinnoh Field']] %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 37 %}
+{% set hp_width = 15 %}
+{% set hprange50 = "97 - 144" %}
+{% set hprange100 = "184 - 278" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 25 %}
+{% set att_width = 10 %}
+{% set attrange50 = "27 - 84" %}
+{% set attrange100 = "49 - 163" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 41 %}
+{% set def_width = 16 %}
+{% set defrange50 = "41 - 102" %}
+{% set defrange100 = "78 - 199" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 25 %}
+{% set spatt_width = 10 %}
+{% set spattrange50 = "27 - 84" %}
+{% set spattrange100 = "49 - 163" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 41 %}
+{% set spdef_width = 16 %}
+{% set spdefrange50 = "41 - 102" %}
+{% set spdefrange100 = "78 - 199" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 25 %}
+{% set spd_width = 10 %}
+{% set spdrange50 = "27 - 84" %}
+{% set spdrange100 = "49 - 163" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 194 %}
+{% set statsumwidth = 27 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '1', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Shed Skin', 'After each turn, this Pokemon has a 30% chance to heal itself from poison (including Toxic), paralysis, burn, freeze or sleep (including self-induced Rest).']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Growl', 'Normal', 'Status', '-', '100%', '40', "The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered."], ['16', 'Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = None %}
+{% set has_TMHM = False %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

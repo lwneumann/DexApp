@@ -1,0 +1,513 @@
+{% extends "base.html" %}
+
+{% block extra_things %}
+<!-- Other Entry Buttons -->
+    
+{% if prior != "0" %}
+<!-- Left -->
+<div class="navButtonContainer" style="left: 4vw;">
+    <a href="{{url_for('mon_page', mon=prior )}}" class="navButton">
+        <img src="{{ url_for('static', filename='img/sprites/animated/' + prior + '.gif') }}">
+    </a>
+</div>
+{% endif %}
+{% if next != "494" %}
+<!-- Right -->
+<div class="navButtonContainer" style="right: 4vw;">
+    <a href="{{url_for('mon_page', mon=next )}}" class="navButton">
+        <img src="{{ url_for('static', filename='img/sprites/animated/' + next + '.gif') }}">
+    </a>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="content-block">
+    <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+        <!-- Left Block -->
+        <div class="dexblock">
+            <h1> {% block name %}{% endblock %} </h1>
+            
+            {% block images %}
+                <div>
+                    {% if has_female_sprites %}
+                    <h4>Male Sprites</h4>
+                    {% endif %}
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/front/' + number + '.png') }}" alt="pokemon front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/shiny/' + number + '.png') }}" alt="pokemon shiny front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/' + number + '.png') }}" alt="pokemon back">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/shiny/' + number + '.png') }}" alt="pokemon shiny back">
+                </div>
+                
+                {% if has_female_sprites %}
+                <div>
+                    <h4>Female Sprites</h4>
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/female/' + number + '.png') }}" alt="pokemon female front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/shiny/female/' + number + '.png') }}" alt="pokemon shiny female front">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/female/' + number + '.png') }}" alt="pokemon female back">
+                    <img class="monImage" src="{{ url_for('static', filename='img/sprites/back/shiny/female/' + number + '.png') }}" alt="pokemon shiny female back">
+                </div>
+                {% endif %}
+            {% endblock %}    
+
+        <p><img src="{{ url_for('static', filename='img/hg.png') }}"/, alt="hg" class="no-pixelate">
+            {% block flavor_1 %}{% endblock %}
+        </p>
+        <p><img src="{{ url_for('static', filename='img/ss.png') }}"/, alt="ss" class="no-pixelate">
+            {% block flavor_2 %}{% endblock %}
+        </p>
+        </div>
+
+        <!-- Right Block -->
+        <div class="dexblock" style="right: calc(15% + 20px);">
+            <table>
+                <tr>
+                    <th>Classification</th>
+                    <td>{% block p_classification %}{% endblock %} Pok&eacute;mon</td>
+                </tr>
+                <tr>
+                    <th>Height</th>
+                    <td>{% block p_height %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Weight</th>
+                    <td>{% block p_weight %}{% endblock %} lbs</td>
+                </tr>
+                <tr>
+                    <th>Capture Rate</th>
+                    <td>{% block p_capture_rate %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Egg Steps</th>
+                    <td>{% block p_egg_steps %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Egg Groups</th>
+                    <td>{% block p_egg_groups %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Experience Growth</th>
+                    <td>{% block exp_growth %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Safari Zone Flee Rate</th>
+                    <td>{% block safarizone %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Color</th>
+                    <td>{% block color %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Base Happiness</th>
+                    <td>{% block base_happiness %}{% endblock %}</td>
+                </tr>
+                <tr>
+                    <th>Gender Ratio</th>
+                    <td>{% block gender_ratio %}{% endblock %}</td>
+                </tr>
+            </table>
+            {% block held_item %}
+            {% if has_held_item %}
+            <p></p>
+            <table>
+                <tr>
+                    <th>Held Item</th>
+                    <th>Chance</th>
+                </tr>
+                {% for item in held_items %}
+                    <tr>
+                        <td> {{item[0]}} </td>
+                        <td> {{item[1]}}% </td>
+                    </tr>
+                {% endfor %}
+            </table>
+            {% endif %}
+            {% endblock %}
+
+        </div>
+    </div>
+
+    <!-- Damage -->
+    <div style="display: flex; margin-top: 10px; margin-bottom: 10px; justify-content: center;">
+        <table class="plainTable">
+            <tr>
+                <th colspan="17">Damage Taken</th>
+            </tr>
+            <tr>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/normal.png') }}" alt="normal"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/fire.png') }}" alt="fire"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/water.png') }}" alt="water"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/electric.png') }}" alt="electric"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/grass.png') }}" alt="grass"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/ice.png') }}" alt="ice"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/fighting.png') }}" alt="fighting"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/poison.png') }}" alt="poison"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/ground.png') }}" alt="ground"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/flying.png') }}" alt="flying"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/psychic.png') }}" alt="psychic"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/bug.png') }}" alt="bug"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/rock.png') }}" alt="rock"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/ghost.png') }}" alt="ghost"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/dragon.png') }}" alt="dragon"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/dark.png') }}" alt="dark"/></th>
+                <th><img class="no-pixelate typeImg" src="{{ url_for('static', filename='img/types/steel.png') }}" alt="steel"/></th>
+            </tr>
+            {% block damages %}
+            <tr>
+            {% for item in damage %}
+                    <td> {{item}} </td>
+            {% endfor %}
+            </tr>
+            {% endblock %}
+        </table>
+    </div>
+
+    <!-- Below Split -->
+    <!-- Location and Pokewalker -->
+    <div style="display: flex;">
+        {% block location %}
+        <!-- Location -->
+        <div>
+            <h2>Locations</h2>
+            <p><img src="{{ url_for('static', filename='img/hg.png') }}" alt="hg" class="no-pixelate" />
+                {{location[0]}}
+            </p>
+            <p><img src="{{ url_for('static', filename='img/ss.png') }}" alt="ss" class="no-pixelate" />
+                {{location[1]}}
+            </p>
+        </div>
+
+        {% if has_pokewalker %}
+        <div style="margin-left: 10px;">
+        <!-- Pokewalker -->
+        <div style="display: flex; justify-items: center;">
+            <img src="{{ url_for('static', filename='img/pokewalker.png') }}"
+            style="width: 8vh; height: 8vh; margin-bottom: 15px; margin-right: 10px;
+            aspect-ratio: 1 / 1;" alt="pokewalker"
+            class="no-pixelate" />
+            <h2>Pok&eacute;walker</h2>
+        </div>
+        <!-- Courses Table -->
+        <div style="display: flex;">
+
+        <div>
+        <table style="width: auto;">
+            <tr>
+                <th>Courses</th>
+            </tr>
+            {% for course in pokewalker[0] %}
+            <tr>
+                <td>{{course}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        </div>
+
+        {% if has_items %}
+        <div>
+        <!-- Items Table (if present) -->
+        <table style="width: auto; margin-left: 10px;">
+            <tr>
+                <th>Items</th>
+            </tr>
+            {% for item in pokewalker[1] %}
+            <tr>
+                <td>{{item}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        </div>
+        {% endif %}
+        </div>
+        </div>
+        {% endif %}
+        {% endblock %}
+    </div>
+
+    <!-- Stats
+    Not sure why the bars throw errors but the code works anyway soo....
+    --> 
+    <div style="margin-top: 15px;">
+    <table class="stats-table">
+        <tr>
+            <th class="stat-header" rowspan="2">Stat</th>
+            <th rowspan="2">Base</th>
+            <th class="stat-range" colspan="2">Range</th>
+        </tr>
+        <tr>
+            <th>At Lv. 50</th>
+            <th>At Lv. 100</th>
+        </tr>
+        <tr>
+            <td class="stat-name">HP:</td>
+            {% block stat_hp %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar hp" style="width: {{hp_width}}%;">
+                    {{hp}}
+                    </div>
+                </div>
+            </td>
+            <td>{{hprange50}}</td>
+            <td>{{hprange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Attack:</td>
+            {% block stat_att %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar att" style="width: {{att_width}}%;">
+                    {{att}}
+                    </div>
+                </div>
+            </td>
+            <td>{{attrange50}}</td>
+            <td>{{attrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Defense:</td>
+            {% block stat_def %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar def" style="width: {{def_width}}%;">
+                    {{def}}
+                    </div>
+                </div>
+            </td>
+            <td>{{defrange50}}</td>
+            <td>{{defrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Special Attack:</td>
+            {% block stat_spatt %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar spatt" style="width: {{spatt_width}}%;">
+                    {{spatt}}
+                    </div>
+                </div>
+            </td>
+            <td>{{spattrange50}}</td>
+            <td>{{spattrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Special Defense:</td>
+            {% block stat_spdef %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar spdef" style="width: {{spdef_width}}%;">
+                    {{spdef}}
+                    </div>
+                </div>
+            </td>
+            <td>{{spdefrange50}}</td>
+            <td>{{spdefrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Speed:</td>
+            {% block stat_spd %}
+            <td>
+                <div class="stat-bar-container">
+                    <div class="stat-bar spd" style="width: {{spd_width}}%;">
+                    {{spd}}
+                    </div>
+                </div>
+            </td>
+            <td>{{spdrange50}}</td>
+            <td>{{spdrange100}}</td>
+            {% endblock %}
+        </tr>
+        <tr>
+            <td class="stat-name">Total:</td>
+            <td>
+                {% block stat_sum %}
+                <div class="stat-bar-container">
+                    <div class="stat-bar sum" style="width: {{statsumwidth}}%;">
+                    {{statsum}}
+                    </div>
+                </div>
+                {% endblock %}
+            </td>
+            <td colspan="2"></td>
+        </tr>
+    </table>
+    </div>
+
+    <!-- EVs -->
+    <table class="plainTable" style="max-width: 100%; table-layout: fixed;">
+        <tr>
+            <th colspan="6">EVs Gained</th>
+        </tr>
+        <tr>
+            <th>HP</th>
+            <th>Att.</th>
+            <th>Def.</th>
+            <th>Sp.Att.</th>
+            <th>Sp.Def.</th>
+            <th>Speed</th>
+        </tr>
+        {% block ev %}
+        <tr>
+        {% for item in ev_spread %}
+            <td> {{item[0]}} </td>
+        {% endfor %}
+        </tr>
+        {% endblock %}
+    </table>
+
+    <!-- Abilities -->
+    <div>
+        <h2>Abilities</h2>
+        <ul>
+            {% block abilities %}
+            {% for a in abilities %}
+                <li>
+                    <a href="{{url_for('ability_page', _anchor=a[0])}}" class="navButton">
+                        {{a[0]}}
+                    </a>
+                </li>
+                <p>{{a[1]}}</p>
+            {% endfor %}
+            {% endblock %}
+        </ul>
+    </div>
+
+    <!-- Learned Moves -->
+    <div>
+        <h2>Level Up Moves</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 6%;">Level Learned</th>
+                <th>Move</th>
+                <th style="width: 5%;">Type</th>
+                <th style="width: 4%;">Cat.</th>
+                <th style="width: 5%;">Power</th>
+                <th style="width: 5%;">Acc.</th>
+                <th style="width: 4%;">PP</th>
+            </tr>
+            {% block learned %}
+            {% for move in learned_moves %}
+                <tr>
+                    <td rowspan="2">{{move[0]}}</td>
+                    <td><a href="{{url_for('move_page', _anchor=move[1])}}">{{move[1]}}</a></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[3] + '.png') }}"/></td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                    <td>{{move[6]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="6">{{move[7]}}</td>
+                </tr>
+            {% endfor %}
+            {% endblock %}
+        </table>
+    </div>
+    
+    <!-- TMHM Moves -->
+    {% block TMHM %}
+    {% if has_egg_moves %}
+    <div>
+        <h2>Learnable TMs and HMs</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 6%;">TMHM</th>
+                <th>Move</th>
+                <th style="width: 5%;">Type</th>
+                <th style="width: 4%;">Cat.</th>
+                <th style="width: 5%;">Power</th>
+                <th style="width: 5%;">Acc.</th>
+                <th style="width: 4%;">PP</th>
+            </tr>
+            {% for move in tmhm_list %}
+                <tr>
+                    <td rowspan="2">{{move[0]}}</td>
+                    <td><a href="{{url_for('move_page', _anchor=move[1])}}">{{move[1]}}</a></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[3] + '.png') }}"/></td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                    <td>{{move[6]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="6">{{move[7]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+    {% endif %}
+    {% endblock %}
+
+
+    <!-- Tutors Moves -->
+    {% block tutor %}
+    {% if has_tutor_moves %}
+    <div>
+        <h2>Tutor Moves</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 10%;">Move</th>
+                <th>Type</th>
+                <th>Cat.</th>
+                <th>Power</th>
+                <th>Acc.</th>
+                <th>PP</th>
+            </tr>
+            {% for move in tutor_list %}
+                <tr>
+                    <td rowspan="2"><a href="{{url_for('move_page', _anchor=move[0])}}">{{move[0]}}</a></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[1] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td>{{move[3]}}</td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="5">{{move[6]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+    {% endif %}
+    {% endblock %}
+    
+    <!-- Egg Moves -->
+    {% block egg_moves %}
+    {% if has_egg_moves %}
+    <div>
+        <h2>Egg Moves</h2>
+        <table class="plainTable">
+            <tr>
+                <th style="width: 10%;">Move</th>
+                <th>Type</th>
+                <th>Cat.</th>
+                <th>Power</th>
+                <th>Acc.</th>
+                <th>PP</th>
+            </tr>
+            {% for move in egg_move_list %}
+                <tr>
+                    <td rowspan="2"><a href="{{url_for('move_page', _anchor=move[0])}}">{{move[0]}}</a></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[1] + '.png') }}"/></td>
+                    <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move[2] + '.png') }}"/></td>
+                    <td>{{move[3]}}</td>
+                    <td>{{move[4]}}</td>
+                    <td>{{move[5]}}</td>
+                </tr>
+                <tr>
+                    <td colspan="5">{{move[6]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+    {% endif %}
+    {% endblock %}
+
+     
+</div>
+{% endblock %}

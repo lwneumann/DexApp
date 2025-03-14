@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "59" %}
+{% set next = "61" %}
+{% set number = "60" %}
+{% set name = "Poliwag" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ニョロモ) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"Because it is inept at walking on its newly grown legs, it always  swims around in water."
+{% endblock %}
+{% block flavor_2 %}
+"The direction of its belly spiral differs by area. The equator is thought to have an effect on this."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Tadpole
+{% endblock %}
+{% block p_height %}
+2'00"
+{% endblock %}
+{% block p_weight %}
+27.3
+{% endblock %}
+{% block p_capture_rate %}
+255
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Water 1
+{% endblock %}
+{% block exp_growth %}
+1,059,860 - Medium Slow
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '0.5', '0.5', '2', '2', '0.5', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0.5'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ["Route 6, Route 22, Route 28, Route 30, Route 31, Route 35, Route 43, Route 44, Route 45, Violet City, Ecruteak City, Blackthorn City, Ruins of Alph, Ilex Forest, Mt. Silver, Cliff's Edge Gate, Viridian City, Cerulean Cave, Safari Zone", "Route 6, Route 22, Route 28, Route 30, Route 31, Route 35, Route 43, Route 44, Route 45, Violet City, Ecruteak City, Blackthorn City, Ruins of Alph, Ilex Forest, Mt. Silver, Cliff's Edge Gate, Viridian City, Cerulean Cave, Safari Zone"] %}
+{% set has_pokewalker = True %}
+{% set has_items = False %}
+{% set pokewalker = [['Beautiful Beach', 'Blue Lake']] %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 40 %}
+{% set hp_width = 16 %}
+{% set hprange50 = "100 - 147" %}
+{% set hprange100 = "190 - 284" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 50 %}
+{% set att_width = 20 %}
+{% set attrange50 = "49 - 112" %}
+{% set attrange100 = "94 - 218" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 40 %}
+{% set def_width = 16 %}
+{% set defrange50 = "40 - 101" %}
+{% set defrange100 = "76 - 196" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 40 %}
+{% set spatt_width = 16 %}
+{% set spattrange50 = "40 - 101" %}
+{% set spattrange100 = "76 - 196" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 40 %}
+{% set spdef_width = 16 %}
+{% set spdefrange50 = "40 - 101" %}
+{% set spdefrange100 = "76 - 196" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 90 %}
+{% set spd_width = 35 %}
+{% set spdrange50 = "85 - 156" %}
+{% set spdrange100 = "166 - 306" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 300 %}
+{% set statsumwidth = 42 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '0', '0', '0', '1'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Water Absorb', 'When a Water-type attack hits this Pokemon, it recovers health equal to the damage that it would have taken; this Pokemon can recover up to 25% of its max HP in this way.'], ['Damp', 'While this Pokemon is active, no Pokemon on the field can use Selfdestruct or Explosion.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Water Sport', 'Water', 'Status', '-', '100%', '15', 'The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.'], ['5', 'Bubble', 'Water', 'Special', '20', '100%', '30', "A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat."], ['8', 'Hypnosis', 'Psychic', 'Status', '-', '60%', '20', 'The user employs hypnotic suggestion to make the target fall into a deep sleep.'], ['11', 'Water Gun', 'Water', 'Special', '40', '100%', '25', 'The foe is blasted with a forceful shot of water.'], ['15', 'Double Slap', 'Normal', 'Physical', '15', '85%', '10', 'The foe is slapped repeatedly, back and forth, two to five times in a row.'], ['18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['21', 'Body Slam', 'Normal', 'Physical', '85', '100%', '15', 'The user drops onto the foe with its full body weight. It may leave the foe paralyzed.'], ['25', 'Bubblebeam', 'Water', 'Special', '65', '100%', '20', "A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat."], ['28', 'Mud Shot', 'Ground', 'Special', '55', '95%', '15', "The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed."], ['31', 'Belly Drum', 'Normal', 'Status', '-', '-', '10', 'The user maximizes its Attack stat in exchange for HP equal to half its max HP.'], ['35', 'Wake-up Slap', 'Fighting', 'Physical', '60', '100%', '10', 'This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.'], ['38', 'Hydro Pump', 'Water', 'Special', '120', '80%', '5', 'The foe is blasted by a huge volume of water launched under great pressure.'], ['41', 'Mud Bomb', 'Ground', 'Special', '65', '85%', '10', "The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy."]] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM07', 'Hail', 'Ice', 'Status', '-', '-', '10', 'The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM29', 'Psychic', 'Psychic', 'Special', '90', '100%', '10', "The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM03', 'Surf', 'Water', 'Special', '95', '100%', '15', 'It swamps the entire battlefield with a giant wave. It can also be used for crossing water.'], ['HM07', 'Waterfall', 'Water', 'Physical', '80', '100%', '15', 'The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Dive', 'Water', 'Physical', '60', '100%', '10', 'A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.'], ['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Mist', 'Ice', 'Status', '-', '-', '30', 'The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.'], ['Splash', 'Normal', 'Status', '-', '-', '40', 'The user just flops and splashes around to no effect at all...'], ['Bubblebeam', 'Water', 'Special', '65', '100%', '20', "A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat."], ['Haze', 'Ice', 'Status', '-', '-', '30', 'The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.'], ['Mind Reader', 'Normal', 'Status', '-', '100%', '5', "The user senses the foe's movements with its mind to ensure its next attack does not miss."], ['Water Sport', 'Water', 'Status', '-', '100%', '15', 'The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.'], ['Ice Ball', 'Ice', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Mud Shot', 'Ground', 'Special', '55', '95%', '15', "The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed."], ['Refresh', 'Normal', 'Status', '-', '100%', '20', 'The user rests to cure itself of a poisoning, burn, or paralysis.'], ['Endeavor', 'Normal', 'Physical', 'Varies', '100%', '5', "An attack move that cuts down the foe's HP to equal the user's HP."], ['Encore', 'Normal', 'Status', '-', '100%', '5', 'The user compels the foe to keep using only the move it last used for three to seven turns.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

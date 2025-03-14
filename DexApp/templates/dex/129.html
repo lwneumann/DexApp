@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "128" %}
+{% set next = "130" %}
+{% set number = "129" %}
+{% set name = "Magikarp" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (コイキング) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = True %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"An underpowered, pathetic Pokťmon. It may jump high on rare occasions, but usually not more than seven feet."
+{% endblock %}
+{% block flavor_2 %}
+"For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Fish
+{% endblock %}
+{% block p_height %}
+2'11"
+{% endblock %}
+{% block p_weight %}
+22.0
+{% endblock %}
+{% block p_capture_rate %}
+255
+{% endblock %}
+{% block p_egg_steps %}
+1,280
+{% endblock %}
+{% block p_egg_groups %}
+Water 2, Dragon
+{% endblock %}
+{% block exp_growth %}
+1,250,000 - Slow
+{% endblock %}
+{% block safarizone %}
+90
+{% endblock %}
+{% block color %}
+Red
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '0.5', '0.5', '2', '2', '0.5', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0.5'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ["Route 6, Route 9, Route 10, Route 12, Route 13, Route 19, Route 20, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 40, Route 41, Route 42, Route 43, Route 44, Route 45, Route 47, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Olivine City, Cianwood City, Blackthorn City, Ruins of Alph, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Mt. Silver, Dragon's Den, Lake of Rage, Cliff's Edge Gate, Pallet Town, Viridian City, Cerulean City, Vermillion City, Fuchsia City, Cinnabar Island, Cerulean Cave, Seafoam Islands, Tohjo Falls, Safari Zone", "Route 6, Route 9, Route 10, Route 12, Route 13, Route 19, Route 20, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 40, Route 41, Route 42, Route 43, Route 44, Route 45, Route 47, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Olivine City, Cianwood City, Blackthorn City, Ruins of Alph, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Mt. Silver, Dragon's Den, Lake of Rage, Cliff's Edge Gate, Pallet Town, Viridian City, Cerulean City, Vermillion City, Fuchsia City, Cinnabar Island, Cerulean Cave, Seafoam Islands, Tohjo Falls, Safari Zone"] %}
+{% set has_pokewalker = True %}
+{% set has_items = True %}
+{% set pokewalker = [['Warm Beach', 'Stormy Beach', "Winner's Path"], ['Wacan Berry']] %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 20 %}
+{% set hp_width = 8 %}
+{% set hprange50 = "80 - 127" %}
+{% set hprange100 = "150 - 244" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 10 %}
+{% set att_width = 4 %}
+{% set attrange50 = "13 - 68" %}
+{% set attrange100 = "22 - 130" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 55 %}
+{% set def_width = 22 %}
+{% set defrange50 = "54 - 117" %}
+{% set defrange100 = "103 - 229" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 15 %}
+{% set spatt_width = 6 %}
+{% set spattrange50 = "18 - 73" %}
+{% set spattrange100 = "31 - 141" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 20 %}
+{% set spdef_width = 8 %}
+{% set spdefrange50 = "22 - 79" %}
+{% set spdefrange100 = "40 - 152" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 80 %}
+{% set spd_width = 31 %}
+{% set spdrange50 = "76 - 145" %}
+{% set spdrange100 = "148 - 284" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 200 %}
+{% set statsumwidth = 28 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '0', '0', '0', '1'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Swift Swim', 'If this Pokemon is active while Rain Dance is in effect, its speed is temporarily doubled.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Splash', 'Normal', 'Status', '-', '-', '40', 'The user just flops and splashes around to no effect at all...'], ['15', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = None %}
+{% set has_TMHM = False %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = None %}
+{% set has_tutor_moves = False %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

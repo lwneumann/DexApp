@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "167" %}
+{% set next = "169" %}
+{% set number = "168" %}
+{% set name = "Ariados" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (アリアドス) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It spins string not only from its rear but also from its mouth. It's hard to tell which end is which."
+{% endblock %}
+{% block flavor_2 %}
+"A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Long
+{% endblock %}
+{% block p_height %}
+3'07"
+{% endblock %}
+{% block p_weight %}
+73.9
+{% endblock %}
+{% block p_capture_rate %}
+90
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+800,000 - Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Red
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '1', '0.25', '1', '0.25', '0.5', '1', '2', '2', '0.5', '2', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Route 2, Viridian Forest (Headbutt)', 'Trade from DPt, HG'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 70 %}
+{% set hp_width = 27 %}
+{% set hprange50 = "130 - 177" %}
+{% set hprange100 = "250 - 344" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 90 %}
+{% set att_width = 35 %}
+{% set attrange50 = "85 - 156" %}
+{% set attrange100 = "166 - 306" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 70 %}
+{% set def_width = 27 %}
+{% set defrange50 = "67 - 134" %}
+{% set defrange100 = "130 - 262" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 60 %}
+{% set spatt_width = 24 %}
+{% set spattrange50 = "58 - 123" %}
+{% set spattrange100 = "112 - 240" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 60 %}
+{% set spdef_width = 24 %}
+{% set spdefrange50 = "58 - 123" %}
+{% set spdefrange100 = "112 - 240" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 40 %}
+{% set spd_width = 16 %}
+{% set spdrange50 = "40 - 101" %}
+{% set spdrange100 = "76 - 196" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 390 %}
+{% set statsumwidth = 54 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '2', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Swarm', "When its health reaches one-third or less of its max HP, this Pokemon's Bug-type attacks receive a 50% boost in power."], ['Insomnia', 'This Pokemon cannot be put to sleep; this includes both opponent-induced sleep as well as user-induced sleep via Rest.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.'], ['0', 'Poison Sting', 'Poison', 'Physical', '15', '100%', '35', 'The foe is stabbed with a poisonous barb of some sort. It may also poison the target.'], ['0', 'String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['0', 'Scary Face', 'Normal', 'Status', '-', '90%', '10', 'The user frightens the foe with a scary face to sharply reduce its Speed stat.'], ['0', 'Constrict', 'Normal', 'Physical', '10', '100%', '35', "The foe is attacked with long, creeping tentacles or vines. It may also lower the target's Speed."], ['12', 'Leech Life', 'Bug', 'Physical', '20', '100%', '15', "A blood-draining attack. The user's HP is restored by half the damage taken by the target."], ['19', 'Shadow Sneak', 'Ghost', 'Physical', '40', '100%', '30', 'The user extends its shadow and attacks the foe from behind. This move always goes first.'], ['23', 'Fury Swipes', 'Normal', 'Physical', '18', '80%', '15', 'The foe is raked with sharp claws or scythes for two to five times in quick succession.'], ['28', 'Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['32', 'Spider Web', 'Bug', 'Status', '-', '100%', '10', "The user ensnares the foe with a thin, gooey silk so it can't flee from battle."], ['37', 'Agility', 'Psychic', 'Status', '-', '-', '30', 'The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.'], ['41', 'Pin Missile', 'Bug', 'Physical', '14', '85%', '20', 'Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.'], ['46', 'Psychic', 'Psychic', 'Special', '90', '100%', '10', "The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat."], ['50', 'Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM19', 'Giga Drain', 'Grass', 'Special', '60', '100%', '10', "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM29', 'Psychic', 'Psychic', 'Special', '90', '100%', '10', "The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM36', 'Sludge Bomb', 'Poison', 'Special', '90', '100%', '10', 'The user attacks by hurling filthy sludge at the foe. It may also poison the target.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM70', 'Flash', 'Normal', 'Status', '-', '70%', '20', "The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves."], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM84', 'Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Bounce', 'Flying', 'Physical', '85', '85%', '5', 'The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.'], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Psybeam', 'Psychic', 'Special', '65', '100%', '20', 'The foe is attacked with a peculiar ray. It may also leave the target confused.'], ['Disable', 'Normal', 'Status', '-', '55%', '20', 'For several turns, this move prevents the foe from using the move it last used.'], ['SonicBoom', 'Normal', 'Special', 'Fixed', '90%', '20', 'The foe is hit with a destructive shock wave that always inflicts 20 HP damage.'], ['Baton Pass', 'Normal', 'Status', '-', '-', '40', 'The user switches places with a party Pokémon in waiting, passing along any stat changes.'], ['Pursuit', 'Dark', 'Physical', '40', '100%', '20', 'An attack move that inflicts double damage if used on a foe that is switching out of battle.'], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['Toxic Spikes', 'Poison', 'Status', '-', '-', '20', "The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle."], ['Poison Jab', 'Poison', 'Physical', '80', '100%', '20', 'The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

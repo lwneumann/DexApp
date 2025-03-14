@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Daily Events{% endblock %}
+{% block content %}
+<div class="content-block">
+
+<ul id="navigation">
+    {% for item in navigation %}
+        <li><a href={{ item[0] }}>{{ item[1] }}</a></li>
+    {% endfor %}
+</ul>
+
+</div>
+{% endblock %}

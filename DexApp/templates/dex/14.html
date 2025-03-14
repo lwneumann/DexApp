@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "13" %}
+{% set next = "15" %}
+{% set number = "14" %}
+{% set name = "Kakuna" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (コクーン) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked."
+{% endblock %}
+{% block flavor_2 %}
+"From this form, it will grow into an adult. As its body becomes softer, the external shell hardens."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Cocoon
+{% endblock %}
+{% block p_height %}
+2'00"
+{% endblock %}
+{% block p_weight %}
+22.0
+{% endblock %}
+{% block p_capture_rate %}
+120
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Yellow
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '1', '0.25', '1', '0.25', '0.5', '1', '2', '2', '0.5', '2', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Bug Catching Contest', 'Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian Forest, Ilex Forest (Headbutt), Bug Catching Contest'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 45 %}
+{% set hp_width = 18 %}
+{% set hprange50 = "105 - 152" %}
+{% set hprange100 = "200 - 294" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 25 %}
+{% set att_width = 10 %}
+{% set attrange50 = "27 - 84" %}
+{% set attrange100 = "49 - 163" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 50 %}
+{% set def_width = 20 %}
+{% set defrange50 = "49 - 112" %}
+{% set defrange100 = "94 - 218" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 25 %}
+{% set spatt_width = 10 %}
+{% set spattrange50 = "27 - 84" %}
+{% set spattrange100 = "49 - 163" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 25 %}
+{% set spdef_width = 10 %}
+{% set spdefrange50 = "27 - 84" %}
+{% set spdefrange100 = "49 - 163" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 35 %}
+{% set spd_width = 14 %}
+{% set spdrange50 = "36 - 95" %}
+{% set spdrange100 = "67 - 185" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 205 %}
+{% set statsumwidth = 28 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '2', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Shed Skin', 'After each turn, this Pokemon has a 30% chance to heal itself from poison (including Toxic), paralysis, burn, freeze or sleep (including self-induced Rest).']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Harden', 'Normal', 'Status', '-', '-', '30', 'The user stiffens all the muscles in its body to raise its Defense stat.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Moves{% endblock %}
+{% block content %}
+<div class="content-block">
+    <h1>Move List</h1>
+    <p>Here are all the moves and the information of each move.</p>
+    <table class="plainTable">
+        <tr>
+            <th style="width: 6%;">Number</th>
+            <th style="width: 6%;">TMHM</th>
+            <th>Move</th>
+            <th style="width: 5%;">Type</th>
+            <th style="width: 4%;">Cat.</th>
+            <th style="width: 5%;">Power</th>
+            <th style="width: 5%;">Acc.</th>
+            <th style="width: 4%;">PP</th>
+            <th style="width: 4%;">Gen.</th>
+        </tr>
+        {% for move in move_list %}
+        <!-- ['number', 'type', 'category', 'power', 'accuracy', 'generation', 'PP', 'Effect', 'TMHM'] -->
+            <tr id="{{move}}">
+                <td rowspan="2">{{move_list[move]["number"]}}</td>
+                <td rowspan="2">{{move_list[move]["TMHM"]}}</td>
+                <td>{{move}}</td>
+                <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move_list[move]['type'] + '.png') }}"/></td>
+                <td><img class="no-pixelate" src="{{ url_for('static', filename='img/types/' + move_list[move]['category'] + '.png') }}"/></td>
+                <td>{{move_list[move]["power"]}}</td>
+                <td>{{move_list[move]["accuracy"]}}</td>
+                <td>{{move_list[move]["PP"]}}</td>
+                <td>{{move_list[move]["generation"]}}</td>
+            </tr>
+            <tr>
+                <td colspan="7">{{move_list[move]["Effect"]}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

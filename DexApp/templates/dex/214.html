@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "213" %}
+{% set next = "215" %}
+{% set number = "214" %}
+{% set name = "Heracross" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ヘラクロス) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = True %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them."
+{% endblock %}
+{% block flavor_2 %}
+"It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Singlehorn
+{% endblock %}
+{% block p_height %}
+4'11"
+{% endblock %}
+{% block p_weight %}
+120.0
+{% endblock %}
+{% block p_capture_rate %}
+45
+{% endblock %}
+{% block p_egg_steps %}
+6,400
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,250,000 - Slow
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '1', '0.5', '1', '0.5', '1', '0.5', '4', '2', '0.5', '1', '1', '1', '0.5', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Routes 7, 11, 16, 28, 33, 42, 44, 45, 46 & 47, Azalea Town Vermillion City, Celadon City, Mt. Silver (Headbutt)', 'Routes 7, 11, 16, 28, 33, 42, 44, 45, 46 & 47, Azalea Town Vermillion City, Celadon City, Mt. Silver (Headbutt)'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 80 %}
+{% set hp_width = 31 %}
+{% set hprange50 = "140 - 187" %}
+{% set hprange100 = "270 - 364" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 125 %}
+{% set att_width = 49 %}
+{% set attrange50 = "117 - 194" %}
+{% set attrange100 = "229 - 383" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 75 %}
+{% set def_width = 29 %}
+{% set defrange50 = "72 - 139" %}
+{% set defrange100 = "139 - 273" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 40 %}
+{% set spatt_width = 16 %}
+{% set spattrange50 = "40 - 101" %}
+{% set spattrange100 = "76 - 196" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 95 %}
+{% set spdef_width = 37 %}
+{% set spdefrange50 = "90 - 161" %}
+{% set spdefrange100 = "175 - 317" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 85 %}
+{% set spd_width = 33 %}
+{% set spdrange50 = "81 - 150" %}
+{% set spdrange100 = "157 - 295" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 500 %}
+{% set statsumwidth = 69 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '2', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Swarm', "When its health reaches one-third or less of its max HP, this Pokemon's Bug-type attacks receive a 50% boost in power."], ['Guts', "When this Pokemon is poisoned (including Toxic), burned, paralyzed or asleep (including self-induced Rest), its Attack stat receives a 50% boost; the burn status' Attack drop is also ignored."]] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Night Slash', 'Dark', 'Physical', '70', '100%', '15', 'The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.'], ['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['0', 'Leer', 'Normal', 'Status', '-', '100%', '30', "The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced."], ['0', 'Horn Attack', 'Normal', 'Physical', '65', '100%', '25', 'The foe is jabbed with a sharply pointed horn to inflict damage.'], ['0', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['7', 'Fury Attack', 'Normal', 'Physical', '15', '85%', '20', 'The foe is jabbed repeatedly with a horn or beak two to five times in a row.'], ['13', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['19', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['31', 'Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['37', 'Close Combat', 'Fighting', 'Physical', '120', '100%', '5', "The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def."], ['49', 'Feint', 'Normal', 'Physical', '50', '100%', '10', 'An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.'], ['55', 'Megahorn', 'Bug', 'Physical', '120', '85%', '10', 'Using its tough and impressive horn, the user rams into the foe with no letup.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM01', 'Focus Punch', 'Fighting', 'Physical', '150', '100%', '20', 'The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM08', 'Bulk Up', 'Fighting', 'Status', '-', '-', '20', 'The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM26', 'Earthquake', 'Ground', 'Physical', '100', '100%', '10', 'The user sets off an earthquake that hits all the Pokémon in the battle.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM31', 'Brick Break', 'Fighting', 'Physical', '75', '100%', '15', 'The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM39', 'Rock Tomb', 'Rock', 'Physical', '50', '80%', '10', "Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement."], ['TM40', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM52', 'Focus Blast', 'Fighting', 'Special', '120', '70%', '5', "The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def."], ['TM56', 'Fling', 'Dark', 'Physical', 'Varies', '100%', '10', 'The user flings its held item at the foe to attack. Its power and effects depend on the item.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM65', 'Shadow Claw', 'Ghost', 'Physical', '70', '100%', '15', 'The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM71', 'Stone Edge', 'Rock', 'Physical', '100', '80%', '5', 'The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.'], ['TM75', 'Swords Dance', 'Normal', 'Status', '-', '-', '30', "A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat."], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM80', 'Rock Slide', 'Rock', 'Physical', '75', '90%', '10', 'Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM01', 'Cut', 'Normal', 'Physical', '50', '95%', '30', 'The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.'], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Fury Cutter', 'Bug', 'Physical', '10', '95%', '20', 'The foe is slashed with scythes or claws. Its power increases if it hits in succession.'], ['Knock Off', 'Dark', 'Physical', '20', '100%', '20', "The user slaps down the foe's held item, preventing the item from being used during the battle."], ['Vacuum Wave', 'Fighting', 'Special', '40', '100%', '30', 'The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.'], ['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Iron Defense', 'Steel', 'Status', '-', '-', '15', "The user hardens its body's surface like iron, sharply raising its Defense stat."], ['Low Kick', 'Fighting', 'Physical', 'Varies', '100%', '20', 'A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Harden', 'Normal', 'Status', '-', '-', '30', 'The user stiffens all the muscles in its body to raise its Defense stat.'], ['Bide', 'Normal', 'Physical', 'Varies', '100%', '10', 'The user endures attacks for two turns, then strikes back to cause double the damage taken.'], ['Flail', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.'], ['False Swipe', 'Normal', 'Physical', '40', '100%', '40', 'A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.'], ['Revenge', 'Fighting', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['Pursuit', 'Dark', 'Physical', '40', '100%', '20', 'An attack move that inflicts double damage if used on a foe that is switching out of battle.'], ['Double-Edge', 'Normal', 'Physical', '120', '100%', '15', 'A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

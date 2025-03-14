@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "332" %}
+{% set next = "334" %}
+{% set number = "333" %}
+{% set name = "Swablu" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (チルット) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads."
+{% endblock %}
+{% block flavor_2 %}
+"Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Cotton
+{% endblock %}
+{% block p_height %}
+1'04"
+{% endblock %}
+{% block p_weight %}
+2.6
+{% endblock %}
+{% block p_capture_rate %}
+255
+{% endblock %}
+{% block p_egg_steps %}
+5,120
+{% endblock %}
+{% block p_egg_groups %}
+Flying, Dragon
+{% endblock %}
+{% block exp_growth %}
+600,000 - Erratic
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 50% &emsp; ♀: 50%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '1', '1', '2', '0.5', '2', '1', '1', '0', '1', '1', '0.5', '2', '0', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Route 45', 'Route 45'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 45 %}
+{% set hp_width = 18 %}
+{% set hprange50 = "105 - 152" %}
+{% set hprange100 = "200 - 294" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 40 %}
+{% set att_width = 16 %}
+{% set attrange50 = "40 - 101" %}
+{% set attrange100 = "76 - 196" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 60 %}
+{% set def_width = 24 %}
+{% set defrange50 = "58 - 123" %}
+{% set defrange100 = "112 - 240" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 40 %}
+{% set spatt_width = 16 %}
+{% set spattrange50 = "40 - 101" %}
+{% set spattrange100 = "76 - 196" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 75 %}
+{% set spdef_width = 29 %}
+{% set spdefrange50 = "72 - 139" %}
+{% set spdefrange100 = "139 - 273" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 50 %}
+{% set spd_width = 20 %}
+{% set spdrange50 = "49 - 112" %}
+{% set spdrange100 = "94 - 218" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 310 %}
+{% set statsumwidth = 43 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '1', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Natural Cure', 'When this Pokemon switches out of battle, it is cured of poison (including Toxic), paralysis, burn, freeze and sleep (including self-induced Rest).']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Peck', 'Flying', 'Physical', '35', '100%', '35', 'The foe is jabbed with a sharply pointed beak or horn.'], ['0', 'Growl', 'Normal', 'Status', '-', '100%', '40', "The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered."], ['5', 'Astonish', 'Ghost', 'Physical', '30', '100%', '15', 'The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.'], ['9', 'Sing', 'Normal', 'Status', '-', '55%', '15', 'A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.'], ['13', 'Fury Attack', 'Normal', 'Physical', '15', '85%', '20', 'The foe is jabbed repeatedly with a horn or beak two to five times in a row.'], ['18', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['23', 'Mist', 'Ice', 'Status', '-', '-', '30', 'The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.'], ['28', 'Take Down', 'Normal', 'Physical', '90', '85%', '20', 'A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.'], ['36', 'Mirror Move', 'Flying', 'Status', '-', '-', '20', 'The user counters the foe by mimicking the move last used by the foe.'], ['40', 'Refresh', 'Normal', 'Status', '-', '100%', '20', 'The user rests to cure itself of a poisoning, burn, or paralysis.'], ['45', 'Dragon Pulse', 'Dragon', 'Special', '90', '100%', '10', "The foe is attacked with a shock wave generated by the user's gaping mouth."], ['50', 'Perish Song', 'Normal', 'Status', '-', '-', '5', 'Any Pokémon that hears this song faints in three turns, unless it switches out of battle.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM20', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM22', 'Solarbeam', 'Grass', 'Special', '120', '100%', '10', 'A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.'], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM40', 'Aerial Ace', 'Flying', 'Physical', '60', '-', '20', 'The user confounds the foe with speed, then slashes. The attack lands without fail.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM46', 'Thief', 'Dark', 'Physical', '40', '100%', '10', "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item."], ['TM47', 'Steel Wing', 'Steel', 'Physical', '70', '90%', '25', "The foe is hit with wings of steel. It may also raise the user's Defense stat."], ['TM51', 'Roost', 'Flying', 'Status', '-', '-', '10', "The user lands and rests its body. It restores the user's HP by up to half of its max HP."], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM59', 'Dragon Pulse', 'Dragon', 'Special', '90', '100%', '10', "The foe is attacked with a shock wave generated by the user's gaping mouth."], ['TM77', 'Psych Up', 'Normal', 'Status', '-', '-', '10', 'The user hypnotizes itself into copying any stat change made by the foe.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM85', 'Dream Eater', 'Psychic', 'Special', '100', '100%', '15', "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP."], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM88', 'Pluck', 'Flying', 'Physical', '60', '100%', '20', 'The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.'], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM02', 'Fly', 'Flying', 'Physical', '70', '95%', '15', 'The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Air Cutter', 'Flying', 'Special', '55', '95%', '25', 'The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.'], ['Ominous Wind', 'Ghost', 'Special', '60', '100%', '5', "The user creates a gust of repulsive wind. It may also raise all the user's stats at once."], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Uproar', 'Normal', 'Special', '50', '100%', '10', 'The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.'], ['Heat Wave', 'Fire', 'Special', '100', '90%', '10', 'The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Outrage', 'Dragon', 'Physical', '90', '100%', '15', 'The user rampages and attacks for two to three turns. However, it then becomes confused.'], ['Twister', 'Dragon', 'Special', '40', '100%', '20', 'The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.'], ['Tailwind', 'Flying', 'Status', '-', '-', '30', 'The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.'], ['Heal Bell', 'Normal', 'Status', '-', '-', '5', 'The user makes a soothing bell chime to heal the status problems of all the party Pokémon.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Agility', 'Psychic', 'Status', '-', '-', '30', 'The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.'], ['Haze', 'Ice', 'Status', '-', '-', '30', 'The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.'], ['Pursuit', 'Dark', 'Physical', '40', '100%', '20', 'An attack move that inflicts double damage if used on a foe that is switching out of battle.'], ['Rage', 'Normal', 'Physical', '20', '100%', '20', 'While this move is in use, it gains attack power each time the user is hit in battle.'], ['Featherdance', 'Flying', 'Status', '-', '100%', '15', 'The user covers the foe with a mass of down that sharply lowers the Attack stat.'], ['Dragon Rush', 'Dragon', 'Physical', '100', '75%', '10', 'The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.'], ['Power Swap', 'Psychic', 'Status', '-', '-', '10', 'The user employs its psychic power to switch changes to its Attack and Sp. Atk with the foe.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

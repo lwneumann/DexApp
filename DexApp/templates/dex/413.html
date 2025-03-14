@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "412" %}
+{% set next = "414" %}
+{% set number = "413" %}
+{% set name = "Wormadam" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (ミノマダム) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It is said that a WORMADAM that evolves on a cold day will have a thicker cloak."
+{% endblock %}
+{% block flavor_2 %}
+"It is said that a WORMADAM that evolves on a cold day will have a thicker cloak."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Bagworm
+{% endblock %}
+{% block p_height %}
+1'08"
+{% endblock %}
+{% block p_weight %}
+14.3
+{% endblock %}
+{% block p_capture_rate %}
+45
+{% endblock %}
+{% block p_egg_steps %}
+3,840
+{% endblock %}
+{% block p_egg_groups %}
+Bug
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Gray
+{% endblock %}
+{% block base_happiness %}
+70
+{% endblock %}
+{% block gender_ratio %}
+♂: 0% &emsp; ♀: 100%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = True %}
+{% set held_items = [['Silver Powder', '5']] %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '4', '0.5', '0.5', '0.25', '2', '0.5', '2', '0.25', '4', '1', '2', '2', '1', '1', '1', '1'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Evolve Burmy', 'Evolve Burmy'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 60 %}
+{% set hp_width = 24 %}
+{% set hprange50 = "120 - 167" %}
+{% set hprange100 = "230 - 324" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 59 %}
+{% set att_width = 23 %}
+{% set attrange50 = "66 - 133" %}
+{% set attrange100 = "128 - 260" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 85 %}
+{% set def_width = 33 %}
+{% set defrange50 = "90 - 161" %}
+{% set defrange100 = "175 - 317" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 79 %}
+{% set spatt_width = 31 %}
+{% set spattrange50 = "66 - 133" %}
+{% set spattrange100 = "128 - 260" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 105 %}
+{% set spdef_width = 41 %}
+{% set spdefrange50 = "90 - 161" %}
+{% set spdefrange100 = "175 - 317" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 36 %}
+{% set spd_width = 14 %}
+{% set spdrange50 = "36 - 96" %}
+{% set spdrange100 = "69 - 188" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 424 %}
+{% set statsumwidth = 59 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '0', '2', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Anticipation', 'A warning is displayed if an opposing Pokemon has the moves Selfdestruct, Explosion, Fissure, Guillotine, Horn Drill, Sheer Cold or any move from a type that is considered Super Effective against this Pokemon. Hidden Power, Judgment, Natural Gift and Weather Ball are viewed as Normal-type moves; Counter, Mirror Coat and Metal Burst do not receive warnings.']] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['10', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['15', 'Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.'], ['23', 'Confusion', 'Psychic', 'Special', '50', '100%', '25', 'The foe is hit by a weak telekinetic force. It may also leave the foe confused.'], ['26', 'Razor Leaf', 'Grass', 'Physical', '55', '95%', '25', 'Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.'], ['26', 'Rock Blast', 'Rock', 'Physical', '25', '80%', '10', 'The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.'], ['26', 'Mirror Shot', 'Steel', 'Special', '65', '85%', '10', "The user looses a flash of energy from its polished body. It may also lower the target's accuracy."], ['29', 'Growth', 'Normal', 'Status', '-', '-', '40', "The user's body is forced to grow all at once. It raises the Sp. Atk stat."], ['29', 'Harden', 'Normal', 'Status', '-', '-', '30', 'The user stiffens all the muscles in its body to raise its Defense stat.'], ['29', 'Metal Sound', 'Steel', 'Status', '-', '85%', '40', "A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat."], ['32', 'Psybeam', 'Psychic', 'Special', '65', '100%', '20', 'The foe is attacked with a peculiar ray. It may also leave the target confused.'], ['35', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['41', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['44', 'Psychic', 'Psychic', 'Special', '90', '100%', '10', "The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat."], ['47', 'Leaf Storm', 'Grass', 'Special', '140', '90%', '5', "A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat."], ['47', 'Iron Head', 'Steel', 'Physical', '80', '100%', '15', 'The foe slams the target with its steel-hard head. It may also make the target flinch.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM20', 'Safeguard', 'Normal', 'Status', '-', '-', '25', 'The user creates a protective field that prevents status problems for five turns.'], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM48', 'Skill Swap', 'Psychic', 'Status', '-', '100%', '10', 'The user employs its psychic power to exchange abilities with the foe.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.']] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Sucker Punch', 'Dark', 'Physical', '80', '100%', '5', 'This move enables the user to attack first. It fails if the foe is not readying an attack, however.'], ['Magnet Rise', 'Electric', 'Status', '-', '-', '10', 'The user levitates using electrically generated magnetism for five turns.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Synthesis', 'Grass', 'Status', '-', '-', '5', 'The user restores its own HP. The amount of HP regained varies with the weather.'], ['Uproar', 'Normal', 'Special', '50', '100%', '10', 'The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.'], ['Earth Power', 'Ground', 'Special', '90', '100%', '10', "The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def."], ['Endeavor', 'Normal', 'Physical', 'Varies', '100%', '5', "An attack move that cuts down the foe's HP to equal the user's HP."], ['Gunk Shot', 'Poison', 'Physical', '120', '70%', '5', 'The user shoots filthy garbage at the foe to attack. It may also poison the target.'], ['Iron Defense', 'Steel', 'Status', '-', '-', '15', "The user hardens its body's surface like iron, sharply raising its Defense stat."], ['Iron Head', 'Steel', 'Physical', '80', '100%', '15', 'The foe slams the target with its steel-hard head. It may also make the target flinch.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Rollout', 'Rock', 'Physical', '30', '90%', '20', 'The user continually rolls into the foe over five turns. It becomes stronger each time it hits.'], ['Seed Bomb', 'Grass', 'Physical', '80', '100%', '15', 'The user slams a barrage of hard- shelled seeds down on the foe from above.'], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['String Shot', 'Bug', 'Status', '-', '95%', '40', "The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat."], ['Worry Seed', 'Grass', 'Status', '-', '100%', '10', 'A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.'], ['Bug Bite', 'Bug', 'Physical', '60', '100%', '20', 'The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = None %}
+{% set has_egg_moves = False %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}

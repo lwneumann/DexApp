@@ -1,0 +1,174 @@
+{% extends "dex/000.html" %}
+
+<!-- Name -->
+{% set prior = "470" %}
+{% set next = "472" %}
+{% set number = "471" %}
+{% set name = "Glaceon" %}
+{% block title %}{{number}} - {{name}}{% endblock %}
+{% block name %}{{number}} - {{name}} (グレイシア) {% endblock %}
+
+<!-- Images -->
+{% set has_female_sprites = False %}
+{% block images %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Flavor Text -->
+{% block flavor_1 %}
+"It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere."
+{% endblock %}
+{% block flavor_2 %}
+"It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere."
+{% endblock %}
+
+<!-- General Info -->
+{% block p_classification %}
+Fresh
+{% endblock %}
+{% block p_height %}
+2'07"
+{% endblock %}
+{% block p_weight %}
+57.1
+{% endblock %}
+{% block p_capture_rate %}
+45
+{% endblock %}
+{% block p_egg_steps %}
+8,960
+{% endblock %}
+{% block p_egg_groups %}
+Ground
+{% endblock %}
+{% block exp_growth %}
+1,000,000 - Medium Fast
+{% endblock %}
+{% block safarizone %}
+0
+{% endblock %}
+{% block color %}
+Blue
+{% endblock %}
+{% block base_happiness %}
+35
+{% endblock %}
+{% block gender_ratio %}
+♂: 87.5% &emsp; ♀: 12.5%
+{% endblock %}
+
+<!-- Held Item -->
+{% set has_held_item = False %}
+{% set held_items = None %}
+{% block held_item %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Damage -->
+{% set damage = ['1', '2', '1', '1', '1', '0.5', '2', '1', '1', '1', '1', '1', '2', '1', '1', '1', '2'] %}
+{% block damages %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Locations -->
+{% set location = ['Trade from DPt', 'Trade from DPt'] %}
+{% set has_pokewalker = False %}
+{% set has_items = False %}
+{% set pokewalker = None %}
+{% block location %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Stats -->
+{% set hp = 65 %}
+{% set hp_width = 25 %}
+{% set hprange50 = "125 - 172" %}
+{% set hprange100 = "240 - 334" %}
+{% block stat_hp %}
+    {{ super() }}
+{% endblock %}
+
+{% set att = 60 %}
+{% set att_width = 24 %}
+{% set attrange50 = "58 - 123" %}
+{% set attrange100 = "112 - 240" %}
+{% block stat_att %}
+    {{ super() }}
+{% endblock %}
+
+{% set def = 110 %}
+{% set def_width = 43 %}
+{% set defrange50 = "103 - 178" %}
+{% set defrange100 = "202 - 350" %}
+{% block stat_def %}
+    {{ super() }}
+{% endblock %}
+
+{% set spatt = 130 %}
+{% set spatt_width = 51 %}
+{% set spattrange50 = "121 - 200" %}
+{% set spattrange100 = "238 - 394" %}
+{% block stat_spatt %}
+    {{ super() }}
+{% endblock %}
+
+{% set spdef = 95 %}
+{% set spdef_width = 37 %}
+{% set spdefrange50 = "90 - 161" %}
+{% set spdefrange100 = "175 - 317" %}
+{% block stat_spdef %}
+    {{ super() }}
+{% endblock %}
+
+{% set spd = 65 %}
+{% set spd_width = 25 %}
+{% set spdrange50 = "63 - 128" %}
+{% set spdrange100 = "121 - 251" %}
+{% block stat_spd %}
+    {{ super() }}
+{% endblock %}
+
+{% set statsum = 525 %}
+{% set statsumwidth = 73 %}
+{% block stat_sum %}
+    {{ super() }}
+{% endblock %}
+
+<!-- EV -->
+{% set ev_spread = ['0', '2', '0', '0', '0', '0'] %}
+{% block ev %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Abilities -->
+{% set abilities = [['Snow Cloak', "This Pokemon's Evasion increases by 20% while Hail is in effect; if this Pokemon has a typing that would normally take damage from Hail, this Pokemon is also immune to Hail's damage."]] %}
+{% block abilities %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Learned Moves -->
+{% set learned_moves = [['0', 'Tail Whip', 'Normal', 'Status', '-', '100%', '30', "The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered."], ['0', 'Tackle', 'Normal', 'Physical', '35', '95%', '35', 'A physical attack in which the user charges and slams into the foe with its whole body.'], ['0', 'Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['8', 'Sand-Attack', 'Ground', 'Status', '-', '100%', '15', "Sand is hurled in the foe's face, reducing its accuracy."], ['15', 'Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['22', 'Quick Attack', 'Normal', 'Physical', '40', '100%', '30', 'The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.'], ['29', 'Bite', 'Dark', 'Physical', '60', '100%', '25', 'The foe is bitten with viciously sharp fangs. It may make the target flinch.'], ['36', 'Ice Shard', 'Ice', 'Physical', '40', '100%', '30', 'The user flash freezes chunks of ice and hurls them. This move always goes first.'], ['43', 'Ice Fang', 'Ice', 'Physical', '65', '95%', '15', 'The user bites with cold-infused fangs. It may also make the foe flinch or freeze.'], ['50', 'Last Resort', 'Normal', 'Physical', '130', '100%', '5', 'This move can be used only after the user has used all the other moves it knows in the battle.'], ['64', 'Hail', 'Ice', 'Status', '-', '-', '10', 'The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.'], ['71', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['78', 'Barrier', 'Psychic', 'Status', '-', '-', '30', 'The user throws up a sturdy wall that sharply raises its Defense stat.']] %}
+{% block learned %}
+    {{ super() }}
+{% endblock %}
+
+<!-- TMHM -->
+{% set tmhm_list = [['TM03', 'Water Pulse', 'Water', 'Special', '60', '100%', '20', 'The user attacks the foe with a pulsing blast of water. It may also confuse the foe.'], ['TM05', 'Roar', 'Normal', 'Status', '-', '100%', '20', 'The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.'], ['TM06', 'Toxic', 'Poison', 'Status', '-', '85%', '10', 'A move that leaves the target badly poisoned. Its poison damage worsens every turn.'], ['TM07', 'Hail', 'Ice', 'Status', '-', '-', '10', 'The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.'], ['TM10', 'Hidden Power', 'Normal', 'Special', 'Varies', '100%', '15', 'A unique attack that varies in type and intensity depending on the Pokémon using it.'], ['TM11', 'Sunny Day', 'Fire', 'Status', '-', '-', '5', 'The user intensifies the sun for five turns, powering up Fire-type moves.'], ['TM13', 'Ice Beam', 'Ice', 'Special', '95', '100%', '10', 'The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.'], ['TM14', 'Blizzard', 'Ice', 'Special', '120', '70%', '5', 'A howling blizzard is summoned to strike the foe. It may also freeze the target solid.'], ['TM15', 'Hyper Beam', 'Normal', 'Special', '150', '90%', '5', 'The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.'], ['TM17', 'Protect', 'Normal', 'Status', '-', '-', '10', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.'], ['TM18', 'Rain Dance', 'Water', 'Status', '-', '-', '5', 'The user summons a heavy rain that falls for five turns, powering up Water- type moves.'], ['TM21', 'Frustration', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the less the user likes its Trainer.'], ['TM23', 'Iron Tail', 'Steel', 'Physical', '100', '75%', '15', "The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat."], ['TM27', 'Return', 'Normal', 'Physical', 'Varies', '100%', '20', 'A full-power attack that grows more powerful the more the user likes its Trainer.'], ['TM28', 'Dig', 'Ground', 'Physical', '80', '100%', '10', 'The user burrows, then attacks on the second turn. It can also be used to exit dungeons.'], ['TM30', 'Shadow Ball', 'Ghost', 'Special', '80', '100%', '15', "The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat."], ['TM32', 'Double Team', 'Normal', 'Status', '-', '-', '15', 'By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.'], ['TM42', 'Facade', 'Normal', 'Physical', '70', '100%', '20', 'An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.'], ['TM43', 'Secret Power', 'Normal', 'Physical', '70', '100%', '20', "The user attacks with a secret power. Its added effects vary depending on the user's environment."], ['TM44', 'Rest', 'Psychic', 'Status', '-', '-', '10', "The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem."], ['TM45', 'Attract', 'Normal', 'Status', '-', '100%', '15', 'If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.'], ['TM58', 'Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['TM68', 'Giga Impact', 'Normal', 'Physical', '150', '90%', '5', 'The user charges at the foe using every bit of its power. The user must rest on the next turn.'], ['TM72', 'Avalanche', 'Ice', 'Physical', '60', '100%', '10', 'An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.'], ['TM78', 'Captivate', 'Normal', 'Status', '-', '100%', '20', 'If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.'], ['TM82', 'Sleep Talk', 'Normal', 'Status', '-', '-', '10', 'While it is asleep, the user randomly uses one of the moves it knows.'], ['TM83', 'Natural Gift', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user draws power to attack by using its held Berry. The Berry determines its type and power.'], ['TM87', 'Swagger', 'Normal', 'Status', '-', '90%', '15', "The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat."], ['TM90', 'Substitute', 'Normal', 'Status', '-', '-', '10', "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."], ['HM04', 'Strength', 'Normal', 'Physical', '80', '100%', '15', 'The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.'], ['HM06', 'Rock Smash', 'Fighting', 'Physical', '20', '100%', '15', "The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders."]] %}
+{% set has_TMHM = True %}
+{% block TMHM %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Tutor -->
+{% set tutor_list = [['Icy Wind', 'Ice', 'Special', '55', '95%', '15', "The user attacks with a gust of chilled air. It also lowers the target's Speed stat."], ['Helping Hand', 'Normal', 'Status', '-', '100%', '20', "A move that boosts the power of the ally's attack in a Double Battle."], ['Last Resort', 'Normal', 'Physical', '130', '100%', '5', 'This move can be used only after the user has used all the other moves it knows in the battle.'], ['Snore', 'Normal', 'Special', '40', '100%', '15', 'An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.'], ['Swift', 'Normal', 'Special', '60', '-', '20', 'Star-shaped rays are shot at the foe. This attack never misses.'], ['Aqua Tail', 'Water', 'Physical', '90', '90%', '10', 'The user attacks by swinging its tail as if it were a vicious wave in a raging storm.'], ['Mud-Slap', 'Ground', 'Special', '20', '100%', '10', "The user hurls mud in the foe's face to inflict damage and lower its accuracy."], ['Signal Beam', 'Bug', 'Special', '75', '100%', '15', 'The user attacks with a sinister beam of light. It may also confuse the target.'], ['Heal Bell', 'Normal', 'Status', '-', '-', '5', 'The user makes a soothing bell chime to heal the status problems of all the party Pokémon.'], ['Headbutt', 'Normal', 'Physical', '70', '100%', '15', 'The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.']] %}
+{% set has_tutor_moves = True %}
+{% block tutor %}
+    {{ super() }}
+{% endblock %}
+
+<!-- Egg Moves -->
+{% set egg_move_list = [['Charm', 'Normal', 'Status', '-', '100%', '20', "The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered."], ['Flail', 'Normal', 'Physical', 'Varies', '100%', '15', 'The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.'], ['Endure', 'Normal', 'Status', '-', '-', '10', 'The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.'], ['Curse', 'Unknown', 'Status', '-', '-', '10', 'A move that works differently for the Ghost type than for all the other types.'], ['Tickle', 'Normal', 'Status', '-', '100%', '20', 'The user tickles the foe into laughing, reducing its Attack and Defense stats.'], ['Wish', 'Normal', 'Status', '-', '100%', '10', 'A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.'], ['Yawn', 'Normal', 'Status', '-', '100%', '10', 'The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.'], ['Fake Tears', 'Dark', 'Status', '-', '100%', '20', 'The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.'], ['Covet', 'Normal', 'Physical', '40', '100%', '40', 'The user endearingly approaches the foe, then steals the item the foe is holding.'], ['Detect', 'Fighting', 'Status', '-', '-', '5', 'It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.']] %}
+{% set has_egg_moves = True %}
+{% block egg_moves %}
+    {{ super() }}
+{% endblock %}
