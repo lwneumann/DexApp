@@ -1,4 +1,8 @@
-Final Project for CS 529 - Cloud App Development
+Final Project for CS 529 - Cloud App Development -
+
+Webscraped all forth generation pokemon pages from [serebii](https://www.serebii.net/), process the data then generate HTML pages populated with ther respective information.
+
+
 
 [Final Website while Azure student credit lasts.](https://dexapp.azurewebsites.net/)
 
